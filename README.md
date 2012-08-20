@@ -13,8 +13,11 @@ The longer version
 It's still a bit of a moving target, specifically formatting and normalizing ket
 names in the `properties` hash. For example, all the NE property keys are
 prefixed with `ne:`. Most but not all the records have NE geometries associated
-with them. Those are the kinds of fiddly details that still need to be worked
-out.
+with them.
+
+Things like the ["Hong Kong Special Administrative Region"](https://github.com/straup/whereonearth-country/blob/master/data/248/656/98/24865698.json)
+which ... uh ... uh, well yeah. This is why we still have wars and stuff, isn't
+it? Those are the kinds of fiddly details that still need to be worked out.
 
 Suggestions and gentle cluebats are absolutely welcome.
 
