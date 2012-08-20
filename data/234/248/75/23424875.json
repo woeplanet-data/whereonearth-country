@@ -85,6 +85,7 @@
           ]
         ]
       }, 
+      "id": 23424875, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -93,24 +94,27 @@
         "alias_SWE_Q": [
           "Litauen"
         ], 
-        "alias_POL_Q": [
-          "Litwa"
+        "alias_ENG_P": [
+          "Lithuania"
         ], 
         "ne_latitude": 56.37252838807963, 
+        "ne:GU_A3": "LTU", 
         "alias_RUM_Q": [
           "Lituania"
         ], 
-        "ne:NAME_SORT": "Lithuania", 
+        "alias_UNK_V": [
+          "Litwa"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Litu\u00e2nia"
         ], 
-        "alias_ENG_A": [
-          "LT"
+        "alias_KOR_Q": [
+          "\ub9ac\ud22c\uc544\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Lithuania", 
+        "ne:ISO_N3": 440.0, 
         "ne:ADM0_A3": "LTU", 
-        "ne:SOVEREIGNT": "Lithuania", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7acb\u9676\u5b9b"
@@ -118,19 +122,16 @@
         "alias_ITA_Q": [
           "Lituania"
         ], 
-        "alias_GER_V": [
-          "Republik Litauen"
+        "alias_DAN_Q": [
+          "Litauen"
         ], 
         "ne:NAME": "Lithuania", 
         "ne:POSTAL": "LT", 
-        "alias_KOR_Q": [
-          "\ub9ac\ud22c\uc544\ub2c8\uc544"
-        ], 
         "alias_JPN_Q": [
           "\u30ea\u30c8\u30a2\u30cb\u30a2"
         ], 
-        "alias_ENG_P": [
-          "Lithuania"
+        "alias_POL_Q": [
+          "Litwa"
         ], 
         "alias_JPN_V": [
           "\u30ea\u30c8\u30a2\u30cb\u30a2\u5171\u548c\u56fd"
@@ -155,16 +156,16 @@
         "ne:ISO_A2": "LT", 
         "date_indexed": "2010-12-02T09:36:04Z", 
         "ne:NAME_FORMA": "Republic of Lithuania", 
-        "fullname": "Lietuva, Lithuania", 
-        "ne:GU_A3": "LTU", 
+        "alias_ENG_A": [
+          "LT"
+        ], 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Lithuania", 
         "ne:SU_A3": "LTU", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 63330.0, 
+        "wikipedia:id": "17675", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Litwa"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Litouwen"
@@ -177,13 +178,13 @@
         "alias_FIN_Q": [
           "Liettua"
         ], 
-        "alias_DAN_Q": [
-          "Litauen"
+        "alias_GER_V": [
+          "Republik Litauen"
         ], 
         "alias_GER_Q": [
           "Litauen"
         ], 
-        "ne:ISO_N3": 440.0, 
+        "fullname": "Lietuva, Lithuania", 
         "lang": "UNK", 
         "ne:GEOUNIT": "Lithuania", 
         "name": "Lietuva", 
@@ -200,17 +201,18 @@
         "alias_HUN_Q": [
           "Litv\u00e1nia"
         ], 
-        "ne_longitude": 26.58827924979039, 
+        "ne:NAME_SORT": "Lithuania", 
         "longitude": 23.894, 
         "ne:POP_EST": 3555179.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 26.58827924979039, 
         "iso": "LT", 
         "sw_latitude": 53.905702216194754, 
         "alias_HUN_S": [
           "Litvania"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 63330.0, 
+        "ne:SOVEREIGNT": "Lithuania", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Lituanie"
@@ -221,8 +223,7 @@
         53.905702216194754, 
         26.58827924979039, 
         56.37252838807963
-      ], 
-      "id": 23424875
+      ]
     }
   ]
 }

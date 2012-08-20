@@ -193,13 +193,11 @@
           ]
         ]
       }, 
+      "id": 20069818, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "RS"
-        ], 
-        "alias_HUN_Q": [
-          "Szerbia"
         ], 
         "alias_SWE_Q": [
           "Serbien"
@@ -207,7 +205,7 @@
         "ne:LEVEL": 2.0, 
         "ne_latitude": 46.17172984474456, 
         "ne:SUBUNIT": "Republic of Serbia", 
-        "ne_longitude": 22.986018507588483, 
+        "ne:NAME_SORT": "Serbia", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "S\u00e9rvia"
@@ -218,18 +216,18 @@
         "alias_POR_S": [
           "Servia"
         ], 
+        "ne:ISO_N3": 688.0, 
         "ne:ADM0_A3": "SRB", 
-        "ne:SOVEREIGNT": "Republic of Serbia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u585e\u723e\u7dad\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 80340.0, 
         "ne:NAME": "Serbia", 
         "ne:POSTAL": "RS", 
         "alias_JPN_Q": [
           "\u30bb\u30eb\u30d3\u30a2"
         ], 
-        "fullname": "Serbia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 18.82982, 
@@ -242,11 +240,15 @@
         "ne:ISO_A2": "RS", 
         "date_indexed": "2010-12-02T10:22:38Z", 
         "ne:NAME_FORMA": "Republic of Serbia", 
+        "alias_CHI_V": [
+          "\u585e\u5c14\u7ef4\u4e9a"
+        ], 
         "ne:GU_A3": "SRB", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Republic of Serbia", 
         "ne:GEOUNIT": "Republic of Serbia", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "29265", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -262,7 +264,7 @@
         "alias_GER_Q": [
           "Serbien"
         ], 
-        "ne:ISO_N3": 688.0, 
+        "ne:SOVEREIGNT": "Republic of Serbia", 
         "lang": "ENG", 
         "name": "Serbia", 
         "ne:TYPE": "Sovereign country", 
@@ -270,16 +272,16 @@
         "alias_UNK_Q": [
           "Srbija"
         ], 
-        "alias_CHI_V": [
-          "\u585e\u5c14\u7ef4\u4e9a"
+        "alias_HUN_Q": [
+          "Szerbia"
         ], 
-        "ne:NAME_SORT": "Serbia", 
+        "ne_longitude": 22.986018507588483, 
         "longitude": 20.911, 
         "ne:POP_EST": 7379339.0, 
         "iso": "RS", 
         "sw_latitude": 42.24522439706186, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 80340.0, 
+        "fullname": "Serbia", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Serbie"
@@ -290,8 +292,7 @@
         42.24522439706186, 
         22.986018507588483, 
         46.17172984474456
-      ], 
-      "id": 20069818
+      ]
     }
   ]
 }

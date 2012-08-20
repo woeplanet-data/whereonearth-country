@@ -265,13 +265,11 @@
           ]
         ]
       }, 
+      "id": 23424960, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Prathet Thai"
-        ], 
-        "alias_HUN_Q": [
-          "Thaif\u00f6ld"
         ], 
         "alias_KOR_Q": [
           "\ud0dc\uad6d"
@@ -283,13 +281,12 @@
         "alias_RUM_Q": [
           "Thailanda"
         ], 
-        "ne:NAME_SORT": "Thailand", 
+        "alias_UNK_V": [
+          "Muang Thai"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud0c0\uc774"
-        ], 
-        "alias_RUM_V": [
-          "Tailanda"
         ], 
         "alias_POR_Q": [
           "Tail\u00e2ndia"
@@ -298,8 +295,8 @@
           "TH"
         ], 
         "ne:SUBUNIT": "Thailand", 
+        "ne:ISO_N3": 764.0, 
         "ne:ADM0_A3": "THA", 
-        "ne:SOVEREIGNT": "Thailand", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6cf0\u570b"
@@ -328,33 +325,34 @@
         "alias_FIN_V": [
           "Thaimaasta"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "Tailanda"
+        ], 
         "latitude": 13.037, 
+        "alias_SPA_V": [
+          "Siam"
+        ], 
         "woe:id": 23424960, 
         "ne:ISO_A3": "THA", 
         "ne:ISO_A2": "TH", 
         "date_indexed": "2010-12-02T17:05:34Z", 
         "ne:NAME_FORMA": "Kingdom of Thailand", 
-        "fullname": "Thailand", 
+        "alias_CHI_V": [
+          "\u6cf0\u56fd"
+        ], 
         "ne:GU_A3": "THA", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Thailand", 
         "ne:SU_A3": "THA", 
         "ne:LabelRank": 1, 
-        "alias_SPA_V": [
-          "Siam"
-        ], 
+        "ne:GDP_MD_EST": 547400.0, 
+        "provider": "geoplanet 7.6.0", 
+        "wikipedia:id": "30128", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Muang Thai"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Thai.", 
         "alias_CZE_Q": [
           "Thajsko"
-        ], 
-        "alias_FRE_S": [
-          "Thailande"
         ], 
         "alias_FIN_Q": [
           "Thaimaa"
@@ -362,7 +360,7 @@
         "alias_GER_V": [
           "K\u00f6nigreich Thailand"
         ], 
-        "ne:ISO_N3": 764.0, 
+        "fullname": "Thailand", 
         "alias_GER_S": [
           "Konigreich Thailand"
         ], 
@@ -377,18 +375,22 @@
         "alias_UNK_Q": [
           "Ta\u00edland"
         ], 
-        "alias_CHI_V": [
-          "\u6cf0\u56fd"
+        "alias_HUN_Q": [
+          "Thaif\u00f6ld"
         ], 
-        "ne_longitude": 105.58903852745016, 
+        "ne:NAME_SORT": "Thailand", 
         "longitude": 101.493, 
         "ne:POP_EST": 65905410.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 105.58903852745016, 
         "iso": "TH", 
         "sw_latitude": 5.691384182147715, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 547400.0, 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Thailand", 
+        "alias_FRE_S": [
+          "Thailande"
+        ], 
         "alias_FRE_Q": [
           "Tha\u00eflande"
         ]
@@ -398,8 +400,7 @@
         5.691384182147715, 
         105.58903852745016, 
         20.417849636308187
-      ], 
-      "id": 23424960
+      ]
     }
   ]
 }

@@ -497,6 +497,7 @@
           ]
         ]
       }, 
+      "id": 23424780, 
       "type": "Feature", 
       "properties": {
         "alias_POL_V": [
@@ -516,10 +517,13 @@
         ], 
         "ne_latitude": 5.256087754737123, 
         "ne:SUBUNIT": "Democratic Republic of the Congo", 
+        "ne:GU_A3": "COD", 
         "alias_RUM_Q": [
           "Republica Democrat\u0103 Congo"
         ], 
-        "ne:NAME_SORT": "Congo (Kinshasa)", 
+        "alias_UNK_V": [
+          "Demokratiske Republikken Kongo"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucf69\uace0\ubbfc\uc8fc\uacf5\ud654\uad6d"
@@ -536,8 +540,8 @@
         "alias_POR_S": [
           "Republica Democratica do Congo"
         ], 
+        "ne:ISO_N3": 180.0, 
         "ne:ADM0_A3": "COD", 
-        "ne:SOVEREIGNT": "Democratic Republic of the Congo", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6c11\u4e3b\u525b\u679c"
@@ -545,18 +549,15 @@
         "alias_ITA_Q": [
           "Repubblica Democratica del Congo"
         ], 
-        "alias_GER_V": [
-          "Zaire"
+        "alias_DAN_Q": [
+          "Demokratiske Republik Congo"
         ], 
         "alias_ITA_V": [
           "Zaire"
         ], 
         "ne:POSTAL": "DRC", 
-        "alias_KOR_Q": [
-          "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
-        ], 
-        "alias_CZE_Q": [
-          "Demokratick\u00e1 Republika Kongo"
+        "alias_DAN_V": [
+          "Zaire"
         ], 
         "alias_JPN_Q": [
           "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd"
@@ -580,9 +581,6 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -4.035, 
-        "alias_GER_Q": [
-          "Demokratische Republik Kongo"
-        ], 
         "woe:id": 23424780, 
         "alias_NOR_Q": [
           "Den demokratiske republikken Kongo"
@@ -591,40 +589,43 @@
         "ne:ISO_A2": "CD", 
         "date_indexed": "2010-12-02T16:33:25Z", 
         "ne:NAME_FORMA": "Democratic Republic of the Congo", 
-        "fullname": "Democratic Republic of Congo", 
-        "alias_FRE_V": [
-          "Congo-Kinshasa"
+        "alias_KOR_Q": [
+          "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
         ], 
-        "ne:GU_A3": "COD", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Democratic Republic of the Congo", 
         "ne:SU_A3": "COD", 
+        "alias_DUT_V": [
+          "Congo, Democratische Republiek"
+        ], 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 20640.0, 
         "alias_SPA_V": [
           "Zaire"
         ], 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Demokratiske Republikken Kongo"
+        "alias_RUM_V": [
+          "Zair"
         ], 
+        "wikipedia:id": "76762", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Congo-Kinshasa"
         ], 
         "ne:ABBREV": "D.R.C.", 
-        "alias_DUT_V": [
-          "Congo, Democratische Republiek"
+        "alias_CZE_Q": [
+          "Demokratick\u00e1 Republika Kongo"
         ], 
         "alias_FIN_Q": [
           "Kongo-Kinshasa"
         ], 
-        "alias_DAN_Q": [
-          "Demokratiske Republik Congo"
-        ], 
-        "alias_DAN_V": [
+        "alias_GER_V": [
           "Zaire"
         ], 
-        "ne:ISO_N3": 180.0, 
+        "alias_GER_Q": [
+          "Demokratische Republik Kongo"
+        ], 
+        "fullname": "Democratic Republic of Congo", 
         "ne:NAME": "Congo (Kinshasa)", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Democratic Republic of the Congo", 
@@ -641,16 +642,17 @@
         "alias_HUN_V": [
           "Kong\u00f3 - Kinshasa"
         ], 
-        "ne_longitude": 31.174149204235817, 
+        "ne:NAME_SORT": "Congo (Kinshasa)", 
         "longitude": 21.756, 
         "ne:POP_EST": 68692542.0, 
         "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 31.174149204235817, 
         "iso": "CD", 
         "sw_latitude": -13.257226657771831, 
-        "alias_RUM_V": [
-          "Zair"
+        "alias_FRE_V": [
+          "Congo-Kinshasa"
         ], 
-        "ne:GDP_MD_EST": 20640.0, 
+        "ne:SOVEREIGNT": "Democratic Republic of the Congo", 
         "alias_FRE_S": [
           "Rep. Dem. du Congo"
         ], 
@@ -663,8 +665,7 @@
         -13.257226657771831, 
         31.174149204235817, 
         5.256087754737123
-      ], 
-      "id": 23424780
+      ]
     }
   ]
 }

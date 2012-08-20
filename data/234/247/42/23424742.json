@@ -97,13 +97,11 @@
           ]
         ]
       }, 
+      "id": 23424742, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. Albania"
-        ], 
-        "alias_HUN_Q": [
-          "Alb\u00e1nia"
         ], 
         "alias_SWE_Q": [
           "Albanien"
@@ -112,20 +110,23 @@
           "Albania"
         ], 
         "ne_latitude": 42.68824738216557, 
+        "ne:GU_A3": "ALB", 
         "alias_RUM_Q": [
           "Albania"
         ], 
-        "ne:NAME_SORT": "Albania", 
+        "alias_UNK_V": [
+          "Arubania"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Alb\u00e2nia"
         ], 
-        "alias_ENG_A": [
-          "ALB"
+        "alias_KOR_Q": [
+          "\uc54c\ubc14\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Albania", 
+        "ne:ISO_N3": 8.0, 
         "ne:ADM0_A3": "ALB", 
-        "ne:SOVEREIGNT": "Albania", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u5df4\u5c3c\u4e9e"
@@ -133,14 +134,11 @@
         "alias_ITA_Q": [
           "Albania"
         ], 
-        "alias_GER_V": [
-          "Republik Albanien"
+        "alias_DAN_Q": [
+          "Albanien"
         ], 
         "ne:NAME": "Albania", 
         "ne:POSTAL": "AL", 
-        "alias_KOR_Q": [
-          "\uc54c\ubc14\ub2c8\uc544"
-        ], 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0\u30cb\u30a2"
         ], 
@@ -168,16 +166,19 @@
         "ne:ISO_A2": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
         "ne:NAME_FORMA": "Republic of Albania", 
-        "fullname": "Shqip\u00ebri, Albania", 
-        "ne:GU_A3": "ALB", 
+        "alias_CHI_V": [
+          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+        ], 
+        "alias_ENG_A": [
+          "ALB"
+        ], 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Albania", 
         "ne:GEOUNIT": "Albania", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 21810.0, 
+        "wikipedia:id": "738", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Arubania"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Albani\u00eb"
@@ -190,13 +191,13 @@
         "alias_FIN_Q": [
           "Albania"
         ], 
-        "alias_DAN_Q": [
-          "Albanien"
+        "alias_GER_V": [
+          "Republik Albanien"
         ], 
         "alias_GER_Q": [
           "Albanien"
         ], 
-        "ne:ISO_N3": 8.0, 
+        "fullname": "Shqip\u00ebri, Albania", 
         "lang": "UNK", 
         "name": "Shqip\u00ebri", 
         "alias_UNK_S": [
@@ -206,17 +207,18 @@
         "alias_UNK_Q": [
           "Alban\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+        "alias_HUN_Q": [
+          "Alb\u00e1nia"
         ], 
-        "ne_longitude": 21.0200403174764, 
+        "ne:NAME_SORT": "Albania", 
         "longitude": 20.17, 
         "ne:POP_EST": 3639453.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 21.0200403174764, 
         "iso": "AL", 
         "sw_latitude": 39.62499766698397, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 21810.0, 
+        "ne:SOVEREIGNT": "Albania", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Albanie"
@@ -227,8 +229,7 @@
         39.62499766698397, 
         21.0200403174764, 
         42.68824738216557
-      ], 
-      "id": 23424742
+      ]
     }
   ]
 }

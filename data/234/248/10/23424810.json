@@ -149,142 +149,73 @@
           ]
         ]
       }, 
+      "id": 23424810, 
       "type": "Feature", 
       "properties": {
-        "alias_POL_V": [
-          "Republika Czeska"
-        ], 
-        "alias_ENG_V": [
-          "Czechia"
-        ], 
         "ne:ScaleRank": 1, 
-        "alias_ENG_P": [
-          "Czech Republic"
-        ], 
-        "alias_RUM_V": [
-          "Republica Ceh\u0103"
-        ], 
-        "ne:GU_A3": "CZE", 
-        "alias_RUM_Q": [
-          "Cehia"
-        ], 
-        "ne_longitude": 18.853144158613617, 
         "placetype": "Country", 
-        "alias_KOR_V": [
-          "\uccb4\ucf54\uacf5\ud654\uad6d"
-        ], 
-        "alias_POR_V": [
-          "Rep\u00fablica Tcheca"
-        ], 
-        "ne:MAP_COLOR": 6.0, 
-        "alias_POL_Q": [
-          "Czechy"
-        ], 
-        "alias_POR_Q": [
-          "Rep\u00fablica Checa"
-        ], 
-        "alias_KOR_Q": [
-          "\uccb4\ucf54"
-        ], 
-        "ne:SUBUNIT": "Czech Republic", 
-        "ne:ISO_N3": 203.0, 
-        "ne:ADM0_A3": "CZE", 
-        "ne:SOVEREIGNT": "Czech Republic", 
-        "parent_woeid": 1, 
-        "alias_SWE_Q": [
-          "Tjeckien"
-        ], 
-        "alias_CHI_Q": [
-          "\u6377\u514b"
-        ], 
         "alias_ITA_Q": [
           "Cechia"
-        ], 
-        "alias_GER_V": [
-          "Tschechische Republik"
         ], 
         "alias_ITA_V": [
           "Repubblica Ceca"
         ], 
-        "ne:TERR_": null, 
-        "ne:POSTAL": "CZ", 
-        "alias_GER_Q": [
-          "Tschechien"
-        ], 
-        "alias_JPN_Q": [
-          "\u30c1\u30a7\u30b3"
-        ], 
-        "ne:LEVEL": 2.0, 
-        "alias_JPN_V": [
-          "\u30c1\u30a7\u30b3\u5171\u548c\u56fd"
-        ], 
-        "ne:FIPS_10_": 0.0, 
-        "alias_SPA_Q": [
-          "Rep\u00fablica Checa"
-        ], 
         "alias_FIN_Q": [
           "T\u0161ekki"
         ], 
-        "alias_FIN_S": [
-          "Tsekki"
+        "alias_SPA_Q": [
+          "Rep\u00fablica Checa"
         ], 
-        "sw_longitude": 12.240111118222558, 
         "ne:NAME_FORMA": "Czech Republic", 
         "ne:SU_A3": "CZE", 
         "alias_SPA_V": [
           "Chequia"
         ], 
         "latitude": 49.804, 
-        "woe:id": 23424810, 
+        "sw_latitude": 48.55530528420721, 
+        "ne:LabelRank": 1, 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_CZE_V": [
+          "\u010cesk\u00e1 republika"
+        ], 
+        "alias_CZE_S": [
+          "Ceska Republika"
+        ], 
+        "name": "Cesk\u00e1 Republika", 
+        "ne:NAME_SORT": "Czech Republic", 
+        "ne:POP_EST": 10211904.0, 
+        "ne:GDP_MD_EST": 265200.0, 
+        "alias_ENG_A": [
+          "CZE"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica Tcheca"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica Checa"
+        ], 
+        "ne:POSTAL": "CZ", 
+        "alias_JPN_Q": [
+          "\u30c1\u30a7\u30b3"
+        ], 
+        "alias_JPN_V": [
+          "\u30c1\u30a7\u30b3\u5171\u548c\u56fd"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "provider": "geoplanet 7.6.0", 
         "alias_NOR_Q": [
           "Tsjekkia"
         ], 
         "alias_NOR_V": [
           "Den tsjekkiske republikk"
         ], 
-        "ne:ISO_A2": "CZ", 
-        "sw_latitude": 48.55530528420721, 
-        "ne:SOV_A3": "CZE", 
-        "ne_latitude": 51.117267767941414, 
-        "alias_ENG_A": [
-          "CZE"
-        ], 
-        "alias_UNK_V": [
-          "Tsjekkia"
-        ], 
-        "ne:ADMIN": "Czech Republic", 
-        "ne:GEOUNIT": "Czech Republic", 
-        "alias_FIN_V": [
-          "Tsekin tasavalta"
-        ], 
-        "ne:LabelRank": 1, 
-        "provider": "geoplanet 7.6.0", 
+        "date_indexed": "2010-12-02T08:56:52Z", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "ne:ADM0_DIF": 0.0, 
-        "alias_CZE_V": [
-          "\u010cesk\u00e1 republika"
+        "alias_FRE_V": [
+          "Republiquetcheque"
         ], 
-        "alias_DUT_S": [
-          "Tsjechie"
-        ], 
-        "alias_CZE_S": [
-          "Ceska Republika"
-        ], 
-        "ne:ABBREV": "Cz. Rep.", 
-        "alias_DAN_Q": [
-          "Den Tjekkiske Republik"
-        ], 
-        "alias_DAN_V": [
-          "Tjekkiet"
-        ], 
-        "fullname": "Cesk\u00e1 Republika, Czech Republic", 
+        "ne:SOVEREIGNT": "Czech Republic", 
         "ne:NAME": "Czech Rep.", 
-        "lang": "CZE", 
-        "ne:TYPE": "Sovereign country", 
-        "name": "Cesk\u00e1 Republika", 
-        "alias_DUT_Q": [
-          "Tsjechi\u00eb"
-        ], 
         "alias_UNK_S": [
           "Tsechia"
         ], 
@@ -300,32 +231,102 @@
         "alias_HUN_V": [
           "Csehorsz\u00e1g"
         ], 
-        "ne:NAME_SORT": "Czech Republic", 
-        "longitude": 15.475, 
-        "ne:POP_EST": 10211904.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "CZ", 
-        "date_indexed": "2010-12-02T08:56:52Z", 
-        "ne:ISO_A3": "CZE", 
-        "alias_FRE_V": [
-          "Republiquetcheque"
+        "alias_UNK_V": [
+          "Tsjekkia"
         ], 
+        "iso": "CZ", 
+        "alias_ENG_V": [
+          "Czechia"
+        ], 
+        "alias_ENG_P": [
+          "Czech Republic"
+        ], 
+        "alias_KOR_V": [
+          "\uccb4\ucf54\uacf5\ud654\uad6d"
+        ], 
+        "alias_KOR_Q": [
+          "\uccb4\ucf54"
+        ], 
+        "ne:SUBUNIT": "Czech Republic", 
+        "alias_CHI_Q": [
+          "\u6377\u514b"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "sw_longitude": 12.240111118222558, 
+        "ne:SOV_A3": "CZE", 
+        "ne_latitude": 51.117267767941414, 
+        "ne:ISO_A3": "CZE", 
+        "ne:ISO_A2": "CZ", 
+        "ne:GEOUNIT": "Czech Republic", 
+        "ne:ABBREV": "Cz. Rep.", 
+        "alias_DAN_Q": [
+          "Den Tjekkiske Republik"
+        ], 
+        "alias_DAN_V": [
+          "Tjekkiet"
+        ], 
+        "parent_woeid": 1, 
+        "longitude": 15.475, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 265200.0, 
+        "fullname": "Cesk\u00e1 Republika, Czech Republic", 
         "alias_FRE_S": [
           "Republique Tcheque"
         ], 
         "alias_FRE_Q": [
           "R\u00e9publique tch\u00e8que"
-        ]
+        ], 
+        "alias_POL_V": [
+          "Republika Czeska"
+        ], 
+        "alias_SWE_Q": [
+          "Tjeckien"
+        ], 
+        "alias_POL_Q": [
+          "Czechy"
+        ], 
+        "alias_RUM_V": [
+          "Republica Ceh\u0103"
+        ], 
+        "alias_RUM_Q": [
+          "Cehia"
+        ], 
+        "ne_longitude": 18.853144158613617, 
+        "ne:ADM0_A3": "CZE", 
+        "wikipedia:id": "5321", 
+        "ne:TERR_": null, 
+        "alias_FIN_S": [
+          "Tsekki"
+        ], 
+        "alias_FIN_V": [
+          "Tsekin tasavalta"
+        ], 
+        "woe:id": 23424810, 
+        "ne:GU_A3": "CZE", 
+        "ne:MAP_COLOR": 6.0, 
+        "ne:ADMIN": "Czech Republic", 
+        "alias_DUT_Q": [
+          "Tsjechi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Tsjechie"
+        ], 
+        "alias_GER_V": [
+          "Tschechische Republik"
+        ], 
+        "alias_GER_Q": [
+          "Tschechien"
+        ], 
+        "ne:ISO_N3": 203.0, 
+        "lang": "CZE", 
+        "ne:TYPE": "Sovereign country"
       }, 
       "bbox": [
         12.240111118222558, 
         48.55530528420721, 
         18.853144158613617, 
         51.117267767941414
-      ], 
-      "id": 23424810
+      ]
     }
   ]
 }

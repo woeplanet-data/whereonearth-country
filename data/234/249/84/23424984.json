@@ -185,6 +185,7 @@
           ]
         ]
       }, 
+      "id": 23424984, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -197,7 +198,7 @@
           "Wietnam"
         ], 
         "ne_latitude": 23.352063300056912, 
-        "ne_longitude": 109.33526981001722, 
+        "ne:NAME_SORT": "Vietnam", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Vietn\u00e3"
@@ -209,12 +210,13 @@
           "VN"
         ], 
         "ne:SUBUNIT": "Vietnam", 
+        "ne:ISO_N3": 704.0, 
         "ne:ADM0_A3": "VNM", 
-        "ne:SOVEREIGNT": "Vietnam", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8d8a\u5357"
         ], 
+        "ne:GDP_MD_EST": 241700.0, 
         "ne:NAME": "Vietnam", 
         "ne:POSTAL": "VN", 
         "alias_JPN_Q": [
@@ -236,22 +238,20 @@
         "ne:ISO_A2": "VN", 
         "date_indexed": "2010-12-02T08:52:49Z", 
         "ne:NAME_FORMA": "Socialist Republic of Vietnam", 
-        "fullname": "Vietnam", 
         "ne:GU_A3": "VNM", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Vietnam", 
         "ne:GEOUNIT": "Vietnam", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "202354", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "Viet Nam"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Viet.", 
         "alias_DUT_V": [
           "Viet-Nam"
         ], 
-        "ne:ISO_N3": 704.0, 
+        "fullname": "Vietnam", 
         "lang": "ENG", 
         "name": "Vietnam", 
         "ne:TYPE": "Sovereign country", 
@@ -259,13 +259,15 @@
         "alias_UNK_Q": [
           "V\u00edetnam"
         ], 
-        "ne:NAME_SORT": "Vietnam", 
+        "ne_longitude": 109.33526981001722, 
         "longitude": 107.868, 
         "ne:POP_EST": 86967524.0, 
         "iso": "VN", 
         "sw_latitude": 8.599759629750494, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 241700.0, 
+        "alias_FRE_V": [
+          "Viet Nam"
+        ], 
+        "ne:SOVEREIGNT": "Vietnam", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Vi\u00eat Nam"
@@ -276,8 +278,7 @@
         8.599759629750494, 
         109.33526981001722, 
         23.352063300056912
-      ], 
-      "id": 23424984
+      ]
     }
   ]
 }

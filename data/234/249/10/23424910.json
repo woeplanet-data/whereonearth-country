@@ -375,6 +375,7 @@
           ]
         ]
       }, 
+      "id": 23424910, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -390,7 +391,9 @@
         "alias_RUM_Q": [
           "Norvegia"
         ], 
-        "ne:NAME_SORT": "Norway", 
+        "alias_UNK_V": [
+          "Norje"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Noruega"
@@ -399,8 +402,8 @@
           "NO"
         ], 
         "ne:SUBUNIT": "Norway", 
+        "ne:ISO_N3": 578.0, 
         "ne:ADM0_A3": "NOR", 
-        "ne:SOVEREIGNT": "Norway", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u632a\u5a01"
@@ -438,16 +441,14 @@
         "ne:ISO_A2": "NO", 
         "date_indexed": "2010-12-02T10:20:58Z", 
         "ne:NAME_FORMA": "Kingdom of Norway", 
-        "fullname": "Norge, Norway", 
         "ne:GU_A3": "NOR", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Norway", 
         "ne:GEOUNIT": "Norway", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 276400.0, 
+        "wikipedia:id": "21241", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Norje"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Noorwegen"
@@ -456,9 +457,6 @@
         "ne:ABBREV": "Nor.", 
         "alias_CZE_Q": [
           "Norsko"
-        ], 
-        "alias_FRE_S": [
-          "Norvege"
         ], 
         "alias_FIN_Q": [
           "Norja"
@@ -469,7 +467,7 @@
         "alias_GER_Q": [
           "Norwegen"
         ], 
-        "ne:ISO_N3": 578.0, 
+        "fullname": "Norge, Norway", 
         "alias_GER_S": [
           "Konigreich Norwegen"
         ], 
@@ -486,16 +484,20 @@
         "alias_HUN_Q": [
           "Norv\u00e9gia"
         ], 
-        "ne_longitude": 31.293418409965483, 
+        "ne:NAME_SORT": "Norway", 
         "longitude": 12.665, 
         "ne:POP_EST": 4676305.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 31.293418409965483, 
         "iso": "NO", 
         "sw_latitude": 58.078884182357285, 
         "ne:ISO_A3": "NOR", 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 276400.0, 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Norway", 
+        "alias_FRE_S": [
+          "Norvege"
+        ], 
         "alias_FRE_Q": [
           "Norv\u00e8ge"
         ]
@@ -505,8 +507,7 @@
         58.078884182357285, 
         31.293418409965483, 
         80.6571442735935
-      ], 
-      "id": 23424910
+      ]
     }
   ]
 }

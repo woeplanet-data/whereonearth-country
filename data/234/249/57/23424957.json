@@ -105,6 +105,7 @@
           ]
         ]
       }, 
+      "id": 23424957, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -123,7 +124,9 @@
         "alias_RUM_Q": [
           "Elve\u0163ia"
         ], 
-        "ne:NAME_SORT": "Switzerland", 
+        "alias_UNK_V": [
+          "Suisu"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "Suweisu"
@@ -138,8 +141,8 @@
           "CHE"
         ], 
         "ne:SUBUNIT": "Switzerland", 
+        "ne:ISO_N3": 756.0, 
         "ne:ADM0_A3": "CHE", 
-        "ne:SOVEREIGNT": "Switzerland", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u745e\u58eb"
@@ -147,8 +150,8 @@
         "alias_ITA_Q": [
           "Svizzera"
         ], 
-        "alias_GER_V": [
-          "Schweizerische Eidgenossenschaft"
+        "alias_DAN_Q": [
+          "Schweiz"
         ], 
         "alias_ITA_V": [
           "Confederazione Svizzera"
@@ -188,20 +191,15 @@
         "ne:ISO_A2": "CH", 
         "date_indexed": "2010-12-02T18:20:52Z", 
         "ne:NAME_FORMA": "Swiss Confederation", 
-        "fullname": "Schweiz, Switzerland", 
-        "alias_FRE_V": [
-          "Conf\u00e9d\u00e9ration Suisse"
-        ], 
         "ne:GU_A3": "CHE", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Switzerland", 
         "ne:SU_A3": "CHE", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 316700.0, 
         "provider": "geoplanet 7.6.0", 
+        "wikipedia:id": "26748", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Suisu"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zwitserland"
@@ -214,10 +212,10 @@
         "alias_FIN_Q": [
           "Sveitsi"
         ], 
-        "alias_DAN_Q": [
-          "Schweiz"
+        "alias_GER_V": [
+          "Schweizerische Eidgenossenschaft"
         ], 
-        "ne:ISO_N3": 756.0, 
+        "fullname": "Schweiz, Switzerland", 
         "ne:NAME": "Switzerland", 
         "lang": "GER", 
         "ne:GEOUNIT": "Switzerland", 
@@ -230,16 +228,20 @@
         "alias_HUN_Q": [
           "Sv\u00e1jc"
         ], 
-        "ne_longitude": 10.44270145024663, 
+        "ne:NAME_SORT": "Switzerland", 
         "longitude": 8.224, 
         "ne:POP_EST": 7604467.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 10.44270145024663, 
         "iso": "CH", 
         "sw_latitude": 45.776947740250776, 
         "alias_HUN_S": [
           "Svajc"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 316700.0, 
+        "alias_FRE_V": [
+          "Conf\u00e9d\u00e9ration Suisse"
+        ], 
+        "ne:SOVEREIGNT": "Switzerland", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Suisse"
@@ -250,8 +252,7 @@
         45.776947740250776, 
         10.44270145024663, 
         47.83082754169129
-      ], 
-      "id": 23424957
+      ]
     }
   ]
 }

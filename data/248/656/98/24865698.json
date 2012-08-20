@@ -48,8 +48,8 @@
         "alias_POR_Q": [
           "Hong Kong"
         ], 
-        "alias_KOR_Q": [
-          "\ud64d\ucf69"
+        "alias_ENG_A": [
+          "HK"
         ], 
         "alias_ITA_Q": [
           "Hong Kong"
@@ -57,6 +57,7 @@
         "alias_CHI_V": [
           "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
         ], 
+        "wikipedia:id": "13404", 
         "alias_POL_Q": [
           "Hongkong"
         ], 
@@ -80,8 +81,8 @@
           "Hongkong"
         ], 
         "date_indexed": "2010-12-02T12:08:18Z", 
-        "alias_ENG_A": [
-          "HK"
+        "alias_KOR_Q": [
+          "\ud64d\ucf69"
         ], 
         "alias_DUT_Q": [
           "Hongkong"

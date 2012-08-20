@@ -69,13 +69,11 @@
           ]
         ]
       }, 
+      "id": 26812346, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Cyprus"
-        ], 
-        "alias_HUN_Q": [
-          "Ciprus"
         ], 
         "alias_SWE_Q": [
           "Cypern"
@@ -84,10 +82,13 @@
           "Cypr"
         ], 
         "ne_latitude": 35.17312470147138, 
+        "ne:GU_A3": "CYP", 
         "alias_RUM_Q": [
           "Cipru"
         ], 
-        "ne:NAME_SORT": "Cyprus", 
+        "alias_UNK_V": [
+          "Republika Ciper"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc0ac\uc774\ud504\ub7ec\uc2a4"
@@ -95,12 +96,12 @@
         "alias_POR_Q": [
           "Chipre"
         ], 
-        "alias_ENG_A": [
-          "CY"
+        "alias_KOR_Q": [
+          "\ud0a4\ud504\ub85c\uc2a4"
         ], 
         "ne:SUBUNIT": "Cyprus", 
+        "ne:ISO_N3": 196.0, 
         "ne:ADM0_A3": "CYP", 
-        "ne:SOVEREIGNT": "Cyprus", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cfd\u666e\u52d2\u65af"
@@ -108,14 +109,11 @@
         "alias_ITA_Q": [
           "Cipro"
         ], 
-        "alias_GER_V": [
-          "Republik Zypern"
+        "alias_DAN_Q": [
+          "Cypern"
         ], 
         "ne:NAME": "Cyprus", 
         "ne:POSTAL": "CY", 
-        "alias_KOR_Q": [
-          "\ud0a4\ud504\ub85c\uc2a4"
-        ], 
         "alias_JPN_Q": [
           "\u30ad\u30d7\u30ed\u30b9"
         ], 
@@ -143,16 +141,19 @@
         "ne:ISO_A2": "CY", 
         "date_indexed": "2010-12-02T09:35:25Z", 
         "ne:NAME_FORMA": "Republic of Cyprus", 
-        "fullname": "Cyprus", 
-        "ne:GU_A3": "CYP", 
+        "alias_CHI_V": [
+          "\u8cfd\u666e\u52d2\u65af"
+        ], 
+        "alias_ENG_A": [
+          "CY"
+        ], 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Cyprus", 
         "ne:SU_A3": "CYP", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 22700.0, 
+        "wikipedia:id": "5593", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Ciper"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Cyp.", 
         "alias_CZE_Q": [
@@ -161,13 +162,13 @@
         "alias_FIN_Q": [
           "Kyproksen Tasavalta"
         ], 
-        "alias_DAN_Q": [
-          "Cypern"
+        "alias_GER_V": [
+          "Republik Zypern"
         ], 
         "alias_GER_Q": [
           "Zypern"
         ], 
-        "ne:ISO_N3": 196.0, 
+        "fullname": "Cyprus", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Cyprus", 
         "name": "Cyprus", 
@@ -176,16 +177,17 @@
         "alias_UNK_Q": [
           "Ciper"
         ], 
-        "alias_CHI_V": [
-          "\u8cfd\u666e\u52d2\u65af"
+        "alias_HUN_Q": [
+          "Ciprus"
         ], 
-        "ne_longitude": 34.00488081232004, 
+        "ne:NAME_SORT": "Cyprus", 
         "longitude": 33.436, 
         "ne:POP_EST": 531640.0, 
+        "ne_longitude": 34.00488081232004, 
         "iso": "CY", 
         "sw_latitude": 34.57186941175544, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 22700.0, 
+        "ne:SOVEREIGNT": "Cyprus", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Chypre"
@@ -196,8 +198,7 @@
         34.57186941175544, 
         34.00488081232004, 
         35.17312470147138
-      ], 
-      "id": 26812346
+      ]
     }
   ]
 }

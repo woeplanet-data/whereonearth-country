@@ -45,6 +45,7 @@
           ]
         ]
       }, 
+      "id": 23424935, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -57,7 +58,9 @@
           "Portoryko"
         ], 
         "ne_latitude": 18.52060110114435, 
-        "ne:NAME_SORT": "Puerto Rico", 
+        "alias_UNK_V": [
+          "P\u00faerto-R\u00edco"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Porto Rico"
@@ -66,8 +69,8 @@
           "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
         ], 
         "ne:SUBUNIT": "Puerto Rico", 
+        "ne:ISO_N3": 630.0, 
         "ne:ADM0_A3": "PRI", 
-        "ne:SOVEREIGNT": "United States of America", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u591a\u9ece\u5404\u81ea\u7531\u90a6"
@@ -83,7 +86,6 @@
           "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
         ], 
         "ne:LEVEL": 2.0, 
-        "fullname": "Puerto Rico", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": "Commonwealth of U.S.A.", 
         "sw_longitude": -67.24242753769435, 
@@ -101,16 +103,15 @@
         "ne:ADMIN": "Puerto Rico", 
         "ne:GEOUNIT": "Puerto Rico", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 70230.0, 
+        "wikipedia:id": "23041", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "P\u00faerto-R\u00edco"
-        ], 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "P.R.", 
         "alias_CZE_Q": [
           "Portoriko"
         ], 
-        "ne:ISO_N3": 630.0, 
+        "fullname": "Puerto Rico", 
         "ne:NAME": "Puerto Rico", 
         "lang": "ENG", 
         "name": "Puerto Rico", 
@@ -121,14 +122,15 @@
         "alias_UNK_Q": [
           "Portoriko"
         ], 
-        "ne_longitude": -65.59100379094295, 
+        "ne:NAME_SORT": "Puerto Rico", 
         "longitude": -66.429, 
         "ne:POP_EST": 3971020.0, 
         "ne:TYPE": "Dependency", 
+        "ne_longitude": -65.59100379094295, 
         "iso": "PR", 
         "sw_latitude": 17.946553453030077, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 70230.0, 
+        "ne:SOVEREIGNT": "United States of America", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Porto Rico"
@@ -139,8 +141,7 @@
         17.946553453030077, 
         -65.59100379094295, 
         18.52060110114435
-      ], 
-      "id": 23424935
+      ]
     }
   ]
 }

@@ -245,13 +245,11 @@
           ]
         ]
       }, 
+      "id": 23424808, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Ethiopian"
-        ], 
-        "alias_HUN_Q": [
-          "Eti\u00f3pia"
         ], 
         "alias_SWE_Q": [
           "Etiopien"
@@ -260,10 +258,13 @@
           "Etiopia"
         ], 
         "ne_latitude": 14.959430000000168, 
+        "ne:GU_A3": "ETH", 
         "alias_RUM_Q": [
           "Etiopia"
         ], 
-        "ne:NAME_SORT": "Ethiopia", 
+        "alias_UNK_V": [
+          "Ityopiya"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc774\ub514\uc624\ud53c\uc544"
@@ -271,12 +272,12 @@
         "alias_POR_Q": [
           "Eti\u00f3pia"
         ], 
-        "alias_ENG_A": [
-          "ET"
+        "alias_KOR_Q": [
+          "\uc5d0\ud2f0\uc624\ud53c\uc544"
         ], 
         "ne:SUBUNIT": "Ethiopia", 
+        "ne:ISO_N3": 231.0, 
         "ne:ADM0_A3": "ETH", 
-        "ne:SOVEREIGNT": "Ethiopia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8863\u7d22\u6bd4\u4e9e"
@@ -284,14 +285,11 @@
         "alias_ITA_Q": [
           "Etiopia"
         ], 
-        "alias_GER_V": [
-          "Demokratische Bundesrepublik \u00c4thiopien"
+        "alias_DAN_Q": [
+          "Etiopien"
         ], 
         "ne:NAME": "Ethiopia", 
         "ne:POSTAL": "ET", 
-        "alias_KOR_Q": [
-          "\uc5d0\ud2f0\uc624\ud53c\uc544"
-        ], 
         "alias_JPN_Q": [
           "\u30a8\u30c1\u30aa\u30d4\u30a2"
         ], 
@@ -319,16 +317,19 @@
         "ne:ISO_A2": "ET", 
         "date_indexed": "2010-12-02T08:52:18Z", 
         "ne:NAME_FORMA": "Federal Democratic Republic of Ethiopia", 
-        "fullname": "Ethiopia", 
-        "ne:GU_A3": "ETH", 
+        "alias_CHI_V": [
+          "\u8863\u7d22\u6bd4\u4e9e"
+        ], 
+        "alias_ENG_A": [
+          "ET"
+        ], 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Ethiopia", 
         "ne:SU_A3": "ETH", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 68770.0, 
+        "wikipedia:id": "187749", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Ityopiya"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Ethiopi\u00eb"
@@ -343,13 +344,13 @@
         "alias_FIN_Q": [
           "Etiopiaan"
         ], 
-        "alias_DAN_Q": [
-          "Etiopien"
+        "alias_GER_V": [
+          "Demokratische Bundesrepublik \u00c4thiopien"
         ], 
         "alias_GER_Q": [
           "\u00c4thiopien"
         ], 
-        "ne:ISO_N3": 231.0, 
+        "fullname": "Ethiopia", 
         "alias_GER_S": [
           "Demokratische Bundesrepublik Athiopien"
         ], 
@@ -361,16 +362,17 @@
         "alias_UNK_Q": [
           "E\u00fe\u00ed\u00f3p\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u8863\u7d22\u6bd4\u4e9e"
+        "alias_HUN_Q": [
+          "Eti\u00f3pia"
         ], 
-        "ne_longitude": 47.78942, 
+        "ne:NAME_SORT": "Ethiopia", 
         "longitude": 40.493, 
         "ne:POP_EST": 85237338.0, 
+        "ne_longitude": 47.78942, 
         "iso": "ET", 
         "sw_latitude": 3.422060000000215, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 68770.0, 
+        "ne:SOVEREIGNT": "Ethiopia", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "\u00c9thiopie"
@@ -381,8 +383,7 @@
         3.422060000000215, 
         47.78942, 
         14.959430000000168
-      ], 
-      "id": 23424808
+      ]
     }
   ]
 }

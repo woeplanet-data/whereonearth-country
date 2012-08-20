@@ -149,6 +149,7 @@
           ]
         ]
       }, 
+      "id": 23424834, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -161,18 +162,21 @@
           "Gwatemala"
         ], 
         "ne_latitude": 17.819326076727478, 
-        "ne:NAME_SORT": "Guatemala", 
+        "alias_UNK_V": [
+          "Republika Gvatemala"
+        ], 
         "placetype": "Country", 
         "alias_ENG_A": [
           "GT"
         ], 
         "ne:SUBUNIT": "Guatemala", 
+        "ne:ISO_N3": 320.0, 
         "ne:ADM0_A3": "GTM", 
-        "ne:SOVEREIGNT": "Guatemala", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u74dc\u5730\u99ac\u62c9"
         ], 
+        "ne:GDP_MD_EST": 68580.0, 
         "ne:NAME": "Guatemala", 
         "alias_CHI_V": [
           "\u5371\u5730\u9a6c\u62c9"
@@ -196,25 +200,20 @@
         "ne:ISO_A2": "GT", 
         "date_indexed": "2010-12-02T16:55:27Z", 
         "ne:NAME_FORMA": "Republic of Guatemala", 
-        "fullname": "Guatemala", 
         "ne:GU_A3": "GTM", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Guatemala", 
         "ne:GEOUNIT": "Guatemala", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "17238567", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Gvatemala"
-        ], 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "Guat\u00e9mala"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Guat.", 
         "alias_GER_V": [
           "Republik Guatemala"
         ], 
-        "ne:ISO_N3": 320.0, 
+        "fullname": "Guatemala", 
         "lang": "ENG", 
         "name": "Guatemala", 
         "ne:TYPE": "Sovereign country", 
@@ -223,13 +222,16 @@
           "Gvatemala"
         ], 
         "ne:POSTAL": "GT", 
-        "ne_longitude": -88.22502275262202, 
+        "ne:NAME_SORT": "Guatemala", 
         "longitude": -90.232, 
         "ne:POP_EST": 13276517.0, 
+        "ne_longitude": -88.22502275262202, 
         "iso": "GT", 
         "sw_latitude": 13.735337632700734, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 68580.0, 
+        "alias_FRE_V": [
+          "Guat\u00e9mala"
+        ], 
+        "ne:SOVEREIGNT": "Guatemala", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -237,8 +239,7 @@
         13.735337632700734, 
         -88.22502275262202, 
         17.819326076727478
-      ], 
-      "id": 23424834
+      ]
     }
   ]
 }

@@ -141,6 +141,7 @@
           ]
         ]
       }, 
+      "id": 23424925, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -156,7 +157,9 @@
         "alias_RUM_Q": [
           "Portugalia"
         ], 
-        "ne:NAME_SORT": "Portugal", 
+        "alias_UNK_V": [
+          "Portogal\u00eda"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud3ec\ub974\ud2b8\uce7c"
@@ -168,8 +171,8 @@
           "\ud3ec\ub974\ud22c\uac08"
         ], 
         "ne:SUBUNIT": "Portugal", 
+        "ne:ISO_N3": 620.0, 
         "ne:ADM0_A3": "PRT", 
-        "ne:SOVEREIGNT": "Portugal", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8461\u8404\u7259"
@@ -200,16 +203,14 @@
         "ne:ISO_A2": "PT", 
         "date_indexed": "2010-12-02T10:00:50Z", 
         "ne:NAME_FORMA": "Portuguese Republic", 
-        "fullname": "Portugal", 
         "ne:GU_A3": "PRT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Portugal", 
         "ne:GEOUNIT": "Portugal", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 236500.0, 
+        "wikipedia:id": "23033", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Portogal\u00eda"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Port.", 
         "alias_CZE_Q": [
@@ -221,7 +222,7 @@
         "alias_GER_V": [
           "Portugiesische Republik"
         ], 
-        "ne:ISO_N3": 620.0, 
+        "fullname": "Portugal", 
         "ne:NAME": "Portugal", 
         "lang": "POR", 
         "name": "Portugal", 
@@ -235,14 +236,15 @@
         "alias_HUN_Q": [
           "Portug\u00e1lia"
         ], 
-        "ne_longitude": -6.389087693700915, 
+        "ne:NAME_SORT": "Portugal", 
         "longitude": -7.845, 
         "ne:POP_EST": 10707924.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": -6.389087693700915, 
         "iso": "PT", 
         "sw_latitude": 36.83826854099627, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 236500.0, 
+        "ne:SOVEREIGNT": "Portugal", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -250,8 +252,7 @@
         36.83826854099627, 
         -6.389087693700915, 
         42.28046865495034
-      ], 
-      "id": 23424925
+      ]
     }
   ]
 }

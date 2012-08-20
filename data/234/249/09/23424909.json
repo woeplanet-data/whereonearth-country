@@ -65,6 +65,7 @@
           ]
         ]
       }, 
+      "id": 23424909, 
       "type": "Feature", 
       "properties": {
         "alias_POL_V": [
@@ -76,24 +77,24 @@
         "alias_SWE_V": [
           "Holland"
         ], 
-        "alias_HUN_Q": [
-          "Hollandia"
-        ], 
         "alias_SWE_Q": [
           "Nederl\u00e4nderna"
+        ], 
+        "alias_ENG_P": [
+          "Netherlands"
         ], 
         "alias_POL_Q": [
           "Niderlandy"
         ], 
         "ne_latitude": 53.510403347378144, 
         "ne:SUBUNIT": "Netherlands", 
-        "alias_UNK_Q": [
-          "Pa\u00efsos Baixos"
-        ], 
+        "ne:GU_A3": "NLD", 
         "alias_RUM_Q": [
           "Olanda"
         ], 
-        "ne:NAME_SORT": "Netherlands", 
+        "alias_UNK_V": [
+          "Holanda"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub124\ub4e4\ub780\ub4dc"
@@ -110,8 +111,8 @@
         "alias_POR_S": [
           "Paises Baixos"
         ], 
+        "ne:ISO_N3": 528.0, 
         "ne:ADM0_A3": "NLD", 
-        "ne:SOVEREIGNT": "Netherlands", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8377\u862d"
@@ -119,18 +120,15 @@
         "alias_ITA_Q": [
           "Paesi Bassi"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich der Niederlande"
+        "alias_DAN_Q": [
+          "Nederlandene"
         ], 
         "alias_ITA_V": [
           "Olanda"
         ], 
         "ne:POSTAL": "NL", 
-        "alias_KOR_Q": [
-          "\ub124\ub35c\ub780\ub4dc"
-        ], 
-        "alias_CZE_Q": [
-          "Nizozemsko"
+        "alias_GER_Q": [
+          "Niederlande"
         ], 
         "alias_JPN_Q": [
           "\u30aa\u30e9\u30f3\u30c0"
@@ -138,7 +136,6 @@
         "alias_SWE_S": [
           "Nederlanderna"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30aa\u30e9\u30f3\u30c0\u738b\u56fd"
         ], 
@@ -162,71 +159,76 @@
         "ne:ISO_A2": "NL", 
         "date_indexed": "2010-12-02T18:17:47Z", 
         "ne:NAME_FORMA": "Kingdom of the Netherlands", 
-        "fullname": "Nederland, Netherlands", 
-        "alias_FRE_V": [
-          "Hollande"
+        "alias_CHI_V": [
+          "\u8377\u5170"
         ], 
-        "ne:GU_A3": "NLD", 
+        "alias_KOR_Q": [
+          "\ub124\ub35c\ub780\ub4dc"
+        ], 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Netherlands", 
         "ne:GEOUNIT": "Netherlands", 
+        "alias_DUT_V": [
+          "Koninkrijk der Nederlanden"
+        ], 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 672000.0, 
         "alias_SPA_V": [
           "Holanda"
         ], 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Holanda"
+        "alias_RUM_V": [
+          "\u0162\u0103rile de Jos"
         ], 
+        "wikipedia:id": "21148", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_CZE_V": [
-          "Holandsko"
+        "alias_FRE_V": [
+          "Hollande"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Neth.", 
-        "alias_DUT_V": [
-          "Koninkrijk der Nederlanden"
+        "alias_CZE_Q": [
+          "Nizozemsko"
         ], 
         "alias_FIN_Q": [
           "Alankomaat"
         ], 
-        "alias_DAN_Q": [
-          "Nederlandene"
+        "alias_GER_V": [
+          "K\u00f6nigreich der Niederlande"
         ], 
         "alias_DAN_V": [
           "Holland"
         ], 
-        "ne:ISO_N3": 528.0, 
+        "fullname": "Nederland, Netherlands", 
         "alias_GER_S": [
           "Konigreich der Niederlande"
         ], 
         "ne:NAME": "Netherlands", 
         "lang": "DUT", 
         "name": "Nederland", 
+        "alias_CZE_V": [
+          "Holandsko"
+        ], 
         "ne:TYPE": "Country", 
         "parent_woeid": 1, 
-        "alias_ENG_P": [
-          "Netherlands"
+        "alias_UNK_Q": [
+          "Pa\u00efsos Baixos"
         ], 
-        "alias_CHI_V": [
-          "\u8377\u5170"
+        "alias_HUN_Q": [
+          "Hollandia"
         ], 
-        "alias_GER_Q": [
-          "Niederlande"
-        ], 
-        "ne_longitude": 7.092053256873896, 
+        "ne:NAME_SORT": "Netherlands", 
         "longitude": 5.33, 
         "ne:POP_EST": 16715999.0, 
         "alias_UNK_S": [
           "Kato Chores"
         ], 
+        "ne_longitude": 7.092053256873896, 
         "iso": "NL", 
         "sw_latitude": 50.80372101501058, 
         "ne:ISO_A3": "NLD", 
-        "alias_RUM_V": [
-          "\u0162\u0103rile de Jos"
-        ], 
-        "ne:GDP_MD_EST": 672000.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Netherlands", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Pays-Bas"
@@ -237,8 +239,7 @@
         50.80372101501058, 
         7.092053256873896, 
         53.510403347378144
-      ], 
-      "id": 23424909
+      ]
     }
   ]
 }

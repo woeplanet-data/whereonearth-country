@@ -141,6 +141,7 @@
           ]
         ]
       }, 
+      "id": 23424917, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -153,7 +154,9 @@
           "Paragwaj"
         ], 
         "ne_latitude": -19.342746677327426, 
-        "ne:NAME_SORT": "Paraguay", 
+        "alias_UNK_V": [
+          "Republika Paragvaj"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Paraguai"
@@ -162,12 +165,13 @@
           "PY"
         ], 
         "ne:SUBUNIT": "Paraguay", 
+        "ne:ISO_N3": 600.0, 
         "ne:ADM0_A3": "PRY", 
-        "ne:SOVEREIGNT": "Paraguay", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u62c9\u572d"
         ], 
+        "ne:GDP_MD_EST": 28890.0, 
         "ne:NAME": "Paraguay", 
         "ne:POSTAL": "PY", 
         "alias_JPN_Q": [
@@ -189,22 +193,19 @@
         "ne:ISO_A2": "PY", 
         "date_indexed": "2010-12-02T12:08:38Z", 
         "ne:NAME_FORMA": "Republic of Paraguay", 
-        "fullname": "Paraguay", 
         "ne:GU_A3": "PRY", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Paraguay", 
         "ne:GEOUNIT": "Paraguay", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "23420", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Paragvaj"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Para.", 
         "alias_GER_V": [
           "Republik Paraguay"
         ], 
-        "ne:ISO_N3": 600.0, 
+        "fullname": "Paraguay", 
         "lang": "ENG", 
         "name": "Paraguay", 
         "ne:TYPE": "Sovereign country", 
@@ -212,13 +213,14 @@
         "alias_UNK_Q": [
           "Paragvaj"
         ], 
-        "ne_longitude": -54.29295956075452, 
+        "ne:NAME_SORT": "Paraguay", 
         "longitude": -58.453, 
         "ne:POP_EST": 6995655.0, 
+        "ne_longitude": -54.29295956075452, 
         "iso": "PY", 
         "sw_latitude": -27.548499037386293, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 28890.0, 
+        "ne:SOVEREIGNT": "Paraguay", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -226,8 +228,7 @@
         -27.548499037386293, 
         -54.29295956075452, 
         -19.342746677327426
-      ], 
-      "id": 23424917
+      ]
     }
   ]
 }

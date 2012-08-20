@@ -34,14 +34,14 @@
         "alias_ENG_V": [
           "Malta Island"
         ], 
-        "alias_ENG_A": [
-          "MLT"
+        "alias_KOR_Q": [
+          "\ubab0\ud0c0"
         ], 
         "ne_latitude": 36.082, 
         "ne_longitude": 14.577, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ubab0\ud0c0"
+        "alias_ENG_A": [
+          "MLT"
         ], 
         "alias_CHI_Q": [
           "\u99ac\u723e\u4ed6"
@@ -79,6 +79,7 @@
         "iso": "MT", 
         "sw_latitude": 35.786, 
         "fullname": "Malta", 
+        "wikipedia:id": "19137", 
         "alias_FRE_Q": [
           "Malte"
         ]

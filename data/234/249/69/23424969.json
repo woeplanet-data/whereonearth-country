@@ -283,6 +283,7 @@
           ]
         ]
       }, 
+      "id": 23424969, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -295,20 +296,23 @@
           "Turcja"
         ], 
         "ne_latitude": 42.141484890301314, 
+        "ne:GU_A3": "TUR", 
         "alias_RUM_Q": [
           "Turcia"
         ], 
-        "ne:NAME_SORT": "Turkey", 
+        "alias_UNK_V": [
+          "Turkki"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Turquia"
         ], 
-        "alias_ENG_A": [
-          "TUR"
+        "alias_KOR_Q": [
+          "\ud130\ud0a4"
         ], 
         "ne:SUBUNIT": "Turkey", 
+        "ne:ISO_N3": 792.0, 
         "ne:ADM0_A3": "TUR", 
-        "ne:SOVEREIGNT": "Turkey", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u571f\u8033\u5176"
@@ -316,14 +320,11 @@
         "alias_ITA_Q": [
           "Turchia"
         ], 
-        "alias_GER_V": [
-          "Republik T\u00fcrkei"
+        "alias_DAN_Q": [
+          "Tyrkiet"
         ], 
         "ne:NAME": "Turkey", 
         "ne:POSTAL": "TR", 
-        "alias_KOR_Q": [
-          "\ud130\ud0a4"
-        ], 
         "alias_JPN_Q": [
           "\u30c8\u30eb\u30b3"
         ], 
@@ -351,16 +352,16 @@
         "ne:ISO_A2": "TR", 
         "date_indexed": "2010-12-02T16:23:11Z", 
         "ne:NAME_FORMA": "Republic of Turkey", 
-        "fullname": "Turkey", 
-        "ne:GU_A3": "TUR", 
+        "alias_ENG_A": [
+          "TUR"
+        ], 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Turkey", 
         "ne:SU_A3": "TUR", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 902700.0, 
+        "wikipedia:id": "11125639", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Turkki"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Turkije"
@@ -372,13 +373,13 @@
         "alias_FIN_Q": [
           "Turkin"
         ], 
-        "alias_DAN_Q": [
-          "Tyrkiet"
+        "alias_GER_V": [
+          "Republik T\u00fcrkei"
         ], 
         "alias_GER_Q": [
           "T\u00fcrkei"
         ], 
-        "ne:ISO_N3": 792.0, 
+        "fullname": "Turkey", 
         "alias_GER_S": [
           "Republik Turkei"
         ], 
@@ -395,14 +396,15 @@
         "alias_HUN_Q": [
           "T\u00f6r\u00f6korsz\u00e1g"
         ], 
-        "ne_longitude": 44.793989699082005, 
+        "ne:NAME_SORT": "Turkey", 
         "longitude": 35.432, 
         "ne:POP_EST": 76805524.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 44.793989699082005, 
         "iso": "TR", 
         "sw_latitude": 35.82153473565367, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 902700.0, 
+        "ne:SOVEREIGNT": "Turkey", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Turquie"
@@ -413,8 +415,7 @@
         35.82153473565367, 
         44.793989699082005, 
         42.141484890301314
-      ], 
-      "id": 23424969
+      ]
     }
   ]
 }

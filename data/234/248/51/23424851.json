@@ -309,6 +309,7 @@
           ]
         ]
       }, 
+      "id": 23424851, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -320,7 +321,9 @@
         "ne:LEVEL": 2.0, 
         "ne_latitude": 39.71300263117705, 
         "ne:SUBUNIT": "Iran", 
-        "ne:NAME_SORT": "Iran", 
+        "alias_UNK_V": [
+          "Islamska republika Iran"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "Ir\u00e3"
@@ -334,12 +337,13 @@
         "alias_POR_S": [
           "Irao"
         ], 
+        "ne:ISO_N3": 364.0, 
         "ne:ADM0_A3": "IRN", 
-        "ne:SOVEREIGNT": "Iran", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4f0a\u6717"
         ], 
+        "ne:GDP_MD_EST": 841700.0, 
         "ne:NAME": "Iran", 
         "ne:POSTAL": "IRN", 
         "alias_JPN_Q": [
@@ -366,7 +370,6 @@
         "ne:ISO_A2": "IR", 
         "date_indexed": "2010-12-02T08:53:52Z", 
         "ne:NAME_FORMA": "Islamic Republic of Iran", 
-        "fullname": "Iran", 
         "ne:GU_A3": "IRN", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Iran", 
@@ -375,10 +378,8 @@
         "alias_SPA_V": [
           "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)"
         ], 
+        "wikipedia:id": "14653", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Islamska republika Iran"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Iran", 
         "alias_CZE_Q": [
@@ -387,7 +388,7 @@
         "alias_GER_V": [
           "Islamische Republik Iran"
         ], 
-        "ne:ISO_N3": 364.0, 
+        "fullname": "Iran", 
         "lang": "ENG", 
         "name": "Iran", 
         "ne:TYPE": "Sovereign country", 
@@ -398,13 +399,14 @@
         "alias_HUN_Q": [
           "Ir\u00e1n"
         ], 
-        "ne_longitude": 63.31663170761959, 
+        "ne:NAME_SORT": "Iran", 
         "longitude": 53.682, 
         "ne:POP_EST": 66429284.0, 
+        "ne_longitude": 63.31663170761959, 
         "iso": "IR", 
         "sw_latitude": 25.0782370061185, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 841700.0, 
+        "ne:SOVEREIGNT": "Iran", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -412,8 +414,7 @@
         25.0782370061185, 
         63.31663170761959, 
         39.71300263117705
-      ], 
-      "id": 23424851
+      ]
     }
   ]
 }

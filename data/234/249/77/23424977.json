@@ -1823,6 +1823,7 @@
           ]
         ]
       }, 
+      "id": 23424977, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -1831,9 +1832,6 @@
         "alias_SWE_V": [
           "F\u00f6renta Staterna"
         ], 
-        "alias_HUN_Q": [
-          "Amerikai Egyes\u00fclt \u00c1llamok"
-        ], 
         "alias_KOR_Q": [
           "\ubbf8\uad6d"
         ], 
@@ -1841,13 +1839,13 @@
           "Amerikas Forenta Stater"
         ], 
         "ne_latitude": 71.35776357694175, 
-        "alias_POR_S": [
-          "Estados Unidos da America"
-        ], 
+        "ne:SUBUNIT": "United States of America", 
         "alias_RUM_Q": [
           "Statele Unite Ale Americii"
         ], 
-        "ne:NAME_SORT": "United States of America", 
+        "alias_UNK_V": [
+          "Beikoku"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "EUA"
@@ -1858,9 +1856,11 @@
         "alias_ENG_A": [
           "USA"
         ], 
-        "ne:SUBUNIT": "United States of America", 
+        "alias_POR_S": [
+          "Estados Unidos da America"
+        ], 
+        "ne:ISO_N3": 840.0, 
         "ne:ADM0_A3": "USA", 
-        "ne:SOVEREIGNT": "United States of America", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7f8e\u570b"
@@ -1872,8 +1872,9 @@
           "Stati Uniti"
         ], 
         "ne:POSTAL": "US", 
-        "alias_CZE_Q": [
-          "Spojen\u00e9 St\u00e1ty Americk\u00e9"
+        "provider": "geoplanet 7.6.0", 
+        "alias_DAN_V": [
+          "Amerikas Forenede Stater"
         ], 
         "alias_JPN_Q": [
           "\u30a2\u30e1\u30ea\u30ab"
@@ -1881,6 +1882,7 @@
         "alias_POL_Q": [
           "Stany Zjednoczone"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"
         ], 
@@ -1901,9 +1903,6 @@
           "Statele Unite"
         ], 
         "latitude": 37.168, 
-        "alias_SPA_V": [
-          "Estadosunidos"
-        ], 
         "woe:id": 23424977, 
         "alias_NOR_Q": [
           "Amerikas Forente Stater"
@@ -1912,34 +1911,31 @@
         "ne:ISO_A2": "US", 
         "date_indexed": "2010-12-02T18:39:52Z", 
         "ne:NAME_FORMA": "United States of America", 
-        "fullname": "United States", 
-        "alias_FRE_V": [
-          "Am\u00e9rique"
+        "alias_CHI_V": [
+          "\u7f8e\u5229\u5805\u5408\u8846\u56fd"
         ], 
         "ne:GU_A3": "USA", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "United States of America", 
         "ne:SU_A3": "USA", 
+        "alias_DUT_V": [
+          "VS"
+        ], 
         "ne:LabelRank": 1, 
-        "alias_GER_Q": [
-          "Vereinigte Staaten"
+        "ne:GDP_MD_EST": 14260000.0, 
+        "alias_SPA_V": [
+          "Estadosunidos"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "wikipedia:id": "3434750", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Beikoku"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Verenigde Staten"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "U.S.A.", 
-        "alias_DUT_V": [
-          "VS"
-        ], 
-        "alias_FRE_S": [
-          "Amerique"
+        "alias_CZE_Q": [
+          "Spojen\u00e9 St\u00e1ty Americk\u00e9"
         ], 
         "alias_FIN_Q": [
           "Yhdysvallat"
@@ -1947,10 +1943,10 @@
         "alias_GER_V": [
           "Amerika"
         ], 
-        "alias_DAN_V": [
-          "Amerikas Forenede Stater"
+        "alias_GER_Q": [
+          "Vereinigte Staaten"
         ], 
-        "ne:ISO_N3": 840.0, 
+        "fullname": "United States", 
         "ne:NAME": "United States", 
         "lang": "ENG", 
         "ne:GEOUNIT": "United States of America", 
@@ -1963,23 +1959,29 @@
         "alias_UNK_Q": [
           "Bandar\u00edkin"
         ], 
-        "alias_CHI_V": [
-          "\u7f8e\u5229\u5805\u5408\u8846\u56fd"
+        "alias_HUN_Q": [
+          "Amerikai Egyes\u00fclt \u00c1llamok"
         ], 
         "alias_HUN_V": [
           "Egyes\u00fclt \u00c1llamok"
         ], 
-        "ne_longitude": -66.96466, 
+        "ne:NAME_SORT": "United States of America", 
         "longitude": -95.845, 
         "ne:POP_EST": 307212123.0, 
         "alias_UNK_S": [
           "Bandarikin"
         ], 
+        "ne_longitude": -66.96466, 
         "iso": "US", 
         "sw_latitude": 18.91619, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 14260000.0, 
+        "alias_FRE_V": [
+          "Am\u00e9rique"
+        ], 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "United States of America", 
+        "alias_FRE_S": [
+          "Amerique"
+        ], 
         "alias_FRE_Q": [
           "\u00c9tats-Unis"
         ]
@@ -1989,8 +1991,7 @@
         18.91619, 
         -66.96466, 
         71.35776357694175
-      ], 
-      "id": 23424977
+      ]
     }
   ]
 }

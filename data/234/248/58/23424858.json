@@ -53,6 +53,7 @@
           ]
         ]
       }, 
+      "id": 23424858, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -65,14 +66,14 @@
           "Jamajka"
         ], 
         "ne_latitude": 18.524218451404778, 
-        "ne_longitude": -76.19965857614164, 
+        "ne:NAME_SORT": "Jamaica", 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc790\uba54\uc774\uce74"
         ], 
         "ne:SUBUNIT": "Jamaica", 
+        "ne:ISO_N3": 388.0, 
         "ne:ADM0_A3": "JAM", 
-        "ne:SOVEREIGNT": "Jamaica", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7259\u8cb7\u52a0"
@@ -84,11 +85,13 @@
         "alias_CHI_V": [
           "\u7259\u4e70\u52a0"
         ], 
+        "alias_CZE_Q": [
+          "Jamajka"
+        ], 
         "alias_JPN_Q": [
           "\u30b8\u30e3\u30de\u30a4\u30ab"
         ], 
         "ne:LEVEL": 2.0, 
-        "fullname": "Jamaica", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": -78.33771928578561, 
@@ -107,18 +110,14 @@
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Jamaica", 
         "ne:SU_A3": "JAM", 
-        "alias_DUT_V": [
-          "Jama\u00efca"
-        ], 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 20910.0, 
+        "wikipedia:id": "15660", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Jam.", 
-        "alias_CZE_Q": [
-          "Jamajka"
-        ], 
-        "alias_FRE_S": [
-          "Jamaique"
+        "alias_DUT_V": [
+          "Jama\u00efca"
         ], 
         "alias_FIN_Q": [
           "Jamaika"
@@ -127,7 +126,7 @@
         "alias_GER_Q": [
           "Jamaika"
         ], 
-        "ne:ISO_N3": 388.0, 
+        "ne:SOVEREIGNT": "Jamaica", 
         "lang": "ENG", 
         "name": "Jamaica", 
         "ne:TYPE": "Sovereign country", 
@@ -136,14 +135,17 @@
           "Jama\u00edka"
         ], 
         "ne:POSTAL": "J", 
-        "ne:NAME_SORT": "Jamaica", 
+        "ne_longitude": -76.19965857614164, 
         "longitude": -77.273, 
         "ne:POP_EST": 2825928.0, 
         "iso": "JM", 
         "sw_latitude": 17.70111623785982, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 20910.0, 
         "ne:SU_DIF": 0.0, 
+        "fullname": "Jamaica", 
+        "alias_FRE_S": [
+          "Jamaique"
+        ], 
         "alias_FRE_Q": [
           "Jama\u00efque"
         ]
@@ -153,8 +155,7 @@
         17.70111623785982, 
         -76.19965857614164, 
         18.524218451404778
-      ], 
-      "id": 23424858
+      ]
     }
   ]
 }

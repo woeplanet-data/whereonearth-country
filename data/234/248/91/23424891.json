@@ -313,6 +313,7 @@
           ]
         ]
       }, 
+      "id": 23424891, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -323,18 +324,21 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne_latitude": 24.974574082941, 
-        "ne:NAME_SORT": "Mali", 
+        "alias_UNK_V": [
+          "Republika Mali"
+        ], 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\ub9d0\ub9ac"
         ], 
         "ne:SUBUNIT": "Mali", 
+        "ne:ISO_N3": 466.0, 
         "ne:ADM0_A3": "MLI", 
-        "ne:SOVEREIGNT": "Mali", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u5229"
         ], 
+        "ne:GDP_MD_EST": 14590.0, 
         "ne:NAME": "Mali", 
         "alias_CHI_V": [
           "\u99ac\u5229"
@@ -360,43 +364,40 @@
         "ne:ISO_A2": "ML", 
         "date_indexed": "2010-12-02T08:58:41Z", 
         "ne:NAME_FORMA": "Republic of Mali", 
-        "fullname": "Mali", 
         "ne:GU_A3": "MLI", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Mali", 
         "ne:GEOUNIT": "Mali", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Mali"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Mali", 
         "alias_GER_V": [
           "Republik Mali"
         ], 
-        "ne:ISO_N3": 466.0, 
+        "fullname": "Mali", 
         "lang": "ENG", 
         "name": "Mali", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "ML", 
-        "ne_longitude": 4.270209995143802, 
+        "ne:NAME_SORT": "Mali", 
         "longitude": -3.999, 
         "ne:POP_EST": 12666987.0, 
+        "ne_longitude": 4.270209995143802, 
         "iso": "ML", 
         "sw_latitude": 10.096360785355444, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 14590.0
+        "ne:SOVEREIGNT": "Mali", 
+        "wikipedia:id": "19127"
       }, 
       "bbox": [
         -12.170750291380301, 
         10.096360785355444, 
         4.270209995143802, 
         24.974574082941
-      ], 
-      "id": 23424891
+      ]
     }
   ]
 }

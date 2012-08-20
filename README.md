@@ -18,9 +18,9 @@ out.
 
 Suggestions and gentle cluebats are absolutely welcome.
 
-Also I'd really like to include Geonames IDs since that would be both easy and
-useful. Please for to be sending me a pull request if you've already got that
-data at hand.
+Where possible corresponding Wikipedia page IDs have been added. I'd also really
+like to include Geonames IDs since that would be both easy and useful. Please
+for to be sending me a pull request if you've already got that data at hand.
 
 The long version
 --
@@ -35,3 +35,5 @@ See also
 * [Natural Earth 1:110m Cultural Vectors](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
 
 * [Geonames](http://www.geonames.org/)
+
+* [Wikipedia](http://www.wikipedia.org/)

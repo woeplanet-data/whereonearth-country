@@ -2451,6 +2451,7 @@
           ]
         ]
       }, 
+      "id": 23424936, 
       "type": "Feature", 
       "properties": {
         "alias_POL_V": [
@@ -2459,9 +2460,6 @@
         "alias_ENG_V": [
           "Russian Soviet Federative Socialist Republic"
         ], 
-        "alias_HUN_Q": [
-          "Oroszorsz\u00e1g"
-        ], 
         "alias_SWE_Q": [
           "Ryssland"
         ], 
@@ -2469,20 +2467,23 @@
           "Russia"
         ], 
         "ne_latitude": 81.2504, 
+        "ne:GU_A3": "RUS", 
         "alias_RUM_Q": [
           "Rusia"
         ], 
-        "ne:NAME_SORT": "Russia", 
+        "alias_UNK_V": [
+          "Rossiya"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "R\u00fassia"
         ], 
-        "alias_ENG_A": [
-          "RU"
+        "alias_KOR_Q": [
+          "\ub7ec\uc2dc\uc544"
         ], 
         "ne:SUBUNIT": "Russia", 
+        "ne:ISO_N3": 643.0, 
         "ne:ADM0_A3": "RUS", 
-        "ne:SOVEREIGNT": "Russia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4fc4\u7f85\u65af"
@@ -2490,25 +2491,21 @@
         "alias_ITA_Q": [
           "Russia"
         ], 
-        "alias_GER_V": [
-          "Ru\u00dfland"
+        "alias_DAN_Q": [
+          "Rusland"
         ], 
         "alias_ITA_V": [
           "Federazione Russa"
         ], 
         "ne:POSTAL": "RUS", 
-        "alias_KOR_Q": [
-          "\ub7ec\uc2dc\uc544"
-        ], 
-        "alias_CZE_Q": [
-          "Rusko"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_JPN_Q": [
           "\u30ed\u30b7\u30a2"
         ], 
         "alias_POL_Q": [
           "Rosja"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30ed\u30b7\u30a2\u9023\u90a6"
         ], 
@@ -2532,9 +2529,6 @@
           "Federa\u021bia Rus\u0103"
         ], 
         "latitude": 59.461, 
-        "alias_SPA_V": [
-          "Rusia, Federaci\u00f3n de"
-        ], 
         "woe:id": 23424936, 
         "alias_NOR_Q": [
           "Russland"
@@ -2543,42 +2537,44 @@
         "ne:ISO_A2": "RU", 
         "date_indexed": "2010-12-02T16:11:04Z", 
         "ne:NAME_FORMA": "Russian Federation", 
-        "fullname": "Rossija, Russia", 
-        "alias_FRE_V": [
-          "F\u00e9d\u00e9ration de Russie"
+        "alias_CHI_V": [
+          "\u4fc4\u7f57\u65af"
         ], 
-        "ne:GU_A3": "RUS", 
+        "alias_ENG_A": [
+          "RU"
+        ], 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Russia", 
         "ne:SU_A3": "RUS", 
-        "ne:LabelRank": 1, 
-        "provider": "geoplanet 7.6.0", 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Rossiya"
+        "alias_DUT_V": [
+          "Russische Federatie"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 2266000.0, 
+        "alias_SPA_V": [
+          "Rusia, Federaci\u00f3n de"
+        ], 
+        "wikipedia:id": "25391", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Rusland"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Rus.", 
-        "alias_DUT_V": [
-          "Russische Federatie"
-        ], 
-        "alias_FRE_S": [
-          "Federation de Russie"
+        "alias_CZE_Q": [
+          "Rusko"
         ], 
         "alias_FIN_Q": [
           "Ven\u00e4j\u00e4"
         ], 
-        "alias_DAN_Q": [
-          "Rusland"
+        "alias_GER_V": [
+          "Ru\u00dfland"
         ], 
         "alias_GER_Q": [
           "Russland"
         ], 
-        "ne:ISO_N3": 643.0, 
+        "fullname": "Rossija, Russia", 
         "alias_GER_S": [
           "Russische Foederation"
         ], 
@@ -2591,26 +2587,32 @@
         "alias_UNK_Q": [
           "R\u00fassland"
         ], 
-        "alias_CHI_V": [
-          "\u4fc4\u7f57\u65af"
+        "alias_HUN_Q": [
+          "Oroszorsz\u00e1g"
         ], 
         "alias_HUN_V": [
           "Orosz K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne_longitude": 180.00000000000014, 
+        "ne:NAME_SORT": "Russia", 
         "longitude": 108.832, 
         "ne:POP_EST": 140041247.0, 
         "alias_UNK_S": [
           "Rosia"
         ], 
+        "ne_longitude": 180.00000000000014, 
         "iso": "RU", 
         "sw_latitude": 41.15141612402135, 
         "alias_HUN_S": [
           "Oroszorszag"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 2266000.0, 
+        "alias_FRE_V": [
+          "F\u00e9d\u00e9ration de Russie"
+        ], 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Russia", 
+        "alias_FRE_S": [
+          "Federation de Russie"
+        ], 
         "alias_FRE_Q": [
           "Russie"
         ]
@@ -2620,8 +2622,7 @@
         41.15141612402135, 
         180.00000000000014, 
         81.2504
-      ], 
-      "id": 23424936
+      ]
     }
   ]
 }

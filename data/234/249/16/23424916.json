@@ -279,13 +279,11 @@
           ]
         ]
       }, 
+      "id": 23424916, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Aotearoa"
-        ], 
-        "alias_HUN_Q": [
-          "\u00daj-Z\u00e9land"
         ], 
         "alias_SWE_Q": [
           "Nya Zeeland"
@@ -298,7 +296,7 @@
         "alias_RUM_Q": [
           "Noua Zeeland\u0103"
         ], 
-        "ne_longitude": 178.51709354076283, 
+        "ne:NAME_SORT": "New Zealand", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub274\uc9c8\ub780\ub4dc"
@@ -312,8 +310,8 @@
         "alias_POR_S": [
           "Nova Zelandia"
         ], 
+        "ne:ISO_N3": 554.0, 
         "ne:ADM0_A3": "NZL", 
-        "ne:SOVEREIGNT": "New Zealand", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d10\u897f\u862d"
@@ -327,7 +325,6 @@
           "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9"
         ], 
         "ne:LEVEL": 2.0, 
-        "fullname": "New Zealand", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Nueva Zelanda"
@@ -343,14 +340,19 @@
         "ne:ISO_A2": "NZ", 
         "date_indexed": "2010-12-02T17:02:39Z", 
         "ne:NAME_FORMA": null, 
+        "alias_CHI_V": [
+          "\u65b0\u897f\u5170"
+        ], 
         "ne:GU_A3": "NZL", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "New Zealand", 
         "ne:GEOUNIT": "New Zealand", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 116700.0, 
         "alias_SPA_V": [
           "Nueva Zelandia"
         ], 
+        "wikipedia:id": "4913064", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -360,16 +362,16 @@
         "alias_CZE_Q": [
           "Nov\u00fd Z\u00e9land"
         ], 
-        "alias_FRE_S": [
-          "Nouvelle-Zelande"
-        ], 
         "alias_FIN_Q": [
           "Uusi-Seelanti"
+        ], 
+        "alias_ENG_A": [
+          "NZ"
         ], 
         "alias_GER_Q": [
           "Neuseeland"
         ], 
-        "ne:ISO_N3": 554.0, 
+        "fullname": "New Zealand", 
         "lang": "ENG", 
         "name": "New Zealand", 
         "ne:TYPE": "Country", 
@@ -377,20 +379,20 @@
         "alias_UNK_Q": [
           "Nova Zelandija"
         ], 
-        "alias_CHI_V": [
-          "\u65b0\u897f\u5170"
+        "alias_HUN_Q": [
+          "\u00daj-Z\u00e9land"
         ], 
-        "ne:NAME_SORT": "New Zealand", 
+        "ne_longitude": 178.51709354076283, 
         "longitude": 170.367, 
         "ne:POP_EST": 4213418.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "NZ", 
         "sw_latitude": -46.641235446967855, 
-        "alias_ENG_A": [
-          "NZ"
-        ], 
-        "ne:GDP_MD_EST": 116700.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "New Zealand", 
+        "alias_FRE_S": [
+          "Nouvelle-Zelande"
+        ], 
         "alias_FRE_Q": [
           "Nouvelle-Z\u00e9lande"
         ]
@@ -400,8 +402,7 @@
         -46.641235446967855, 
         178.51709354076283, 
         -34.45066171645034
-      ], 
-      "id": 23424916
+      ]
     }
   ]
 }

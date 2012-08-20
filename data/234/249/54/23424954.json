@@ -169,6 +169,7 @@
           ]
         ]
       }, 
+      "id": 23424954, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -187,7 +188,9 @@
         "alias_RUM_Q": [
           "Suedia"
         ], 
-        "ne:NAME_SORT": "Sweden", 
+        "alias_UNK_V": [
+          "Souid\u00eda"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc2a4\uc6e8\ub358"
@@ -199,8 +202,8 @@
           "SWE"
         ], 
         "ne:SUBUNIT": "Sweden", 
+        "ne:ISO_N3": 752.0, 
         "ne:ADM0_A3": "SWE", 
-        "ne:SOVEREIGNT": "Sweden", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u745e\u5178"
@@ -234,16 +237,14 @@
         "ne:ISO_A2": "SE", 
         "date_indexed": "2010-12-02T16:45:55Z", 
         "ne:NAME_FORMA": "Kingdom of Sweden", 
-        "fullname": "Sverige, Sweden", 
         "ne:GU_A3": "SWE", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Sweden", 
         "ne:GEOUNIT": "Sweden", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 344300.0, 
+        "wikipedia:id": "5058739", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Souid\u00eda"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zweden"
@@ -252,9 +253,6 @@
         "ne:ABBREV": "Swe.", 
         "alias_CZE_Q": [
           "\u0160v\u00e9dsko"
-        ], 
-        "alias_FRE_S": [
-          "Suede"
         ], 
         "alias_FIN_Q": [
           "Ruotsi"
@@ -265,7 +263,7 @@
         "alias_GER_Q": [
           "Schweden"
         ], 
-        "ne:ISO_N3": 752.0, 
+        "fullname": "Sverige, Sweden", 
         "alias_GER_S": [
           "Koenigreich Schweden"
         ], 
@@ -281,18 +279,22 @@
         "alias_HUN_Q": [
           "Sv\u00e9dorsz\u00e1g"
         ], 
-        "ne_longitude": 23.903378533633802, 
+        "ne:NAME_SORT": "Sweden", 
         "longitude": 17.551, 
         "ne:POP_EST": 9059651.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 23.903378533633802, 
         "iso": "SE", 
         "sw_latitude": 55.36173737245058, 
         "alias_HUN_S": [
           "Svedorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 344300.0, 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Sweden", 
+        "alias_FRE_S": [
+          "Suede"
+        ], 
         "alias_FRE_Q": [
           "Su\u00e8de"
         ]
@@ -302,8 +304,7 @@
         55.36173737245058, 
         23.903378533633802, 
         69.10624726020087
-      ], 
-      "id": 23424954
+      ]
     }
   ]
 }

@@ -157,6 +157,7 @@
           ]
         ]
       }, 
+      "id": 23425004, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -168,7 +169,9 @@
         "ne:LEVEL": 2.0, 
         "ne_latitude": -15.507786960515213, 
         "ne:SUBUNIT": "Zimbabwe", 
-        "ne:NAME_SORT": "Zimbabwe", 
+        "alias_UNK_V": [
+          "Republika Zimbabve"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "Zimb\u00e1bwe"
@@ -179,12 +182,13 @@
         "alias_POR_S": [
           "Zimbabue"
         ], 
+        "ne:ISO_N3": 716.0, 
         "ne:ADM0_A3": "ZWE", 
-        "ne:SOVEREIGNT": "Zimbabwe", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8f9b\u5df4\u5a01"
         ], 
+        "ne:GDP_MD_EST": 1925.0, 
         "ne:NAME": "Zimbabwe", 
         "alias_CHI_V": [
           "\u8f9b\u5df4\u5a01"
@@ -210,7 +214,6 @@
         "ne:ISO_A2": "ZW", 
         "date_indexed": "2010-12-02T16:52:36Z", 
         "ne:NAME_FORMA": "Republic of Zimbabwe", 
-        "fullname": "Zimbabwe", 
         "ne:GU_A3": "ZWE", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Zimbabwe", 
@@ -219,10 +222,8 @@
         "alias_SPA_V": [
           "Zimbawe"
         ], 
+        "wikipedia:id": "34399", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Zimbabve"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Zimb.", 
         "alias_GER_V": [
@@ -231,7 +232,7 @@
         "alias_GER_Q": [
           "Simbabwe"
         ], 
-        "ne:ISO_N3": 716.0, 
+        "fullname": "Zimbabwe", 
         "lang": "ENG", 
         "name": "Zimbabwe", 
         "ne:TYPE": "Sovereign country", 
@@ -240,13 +241,14 @@
           "Simbabve"
         ], 
         "ne:POSTAL": "ZW", 
-        "ne_longitude": 32.84986087416439, 
+        "ne:NAME_SORT": "Zimbabwe", 
         "longitude": 29.147, 
         "ne:POP_EST": 11392629.0, 
+        "ne_longitude": 32.84986087416439, 
         "iso": "ZW", 
         "sw_latitude": -22.271611830333935, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 1925.0, 
+        "ne:SOVEREIGNT": "Zimbabwe", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -254,8 +256,7 @@
         -22.271611830333935, 
         32.84986087416439, 
         -15.507786960515213
-      ], 
-      "id": 23425004
+      ]
     }
   ]
 }

@@ -387,6 +387,7 @@
           ]
         ]
       }, 
+      "id": 23424942, 
       "type": "Feature", 
       "properties": {
         "alias_POL_V": [
@@ -402,10 +403,13 @@
           "Republika Po\u0142udniowej Afryki"
         ], 
         "ne_latitude": -22.091312758067588, 
+        "ne:GU_A3": "ZAF", 
         "alias_RUM_Q": [
           "Africa de Sud"
         ], 
-        "ne:NAME_SORT": "South Africa", 
+        "alias_UNK_V": [
+          "Etel\u00e4-Afrikka"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub0a8\uc544\uacf5"
@@ -413,12 +417,12 @@
         "alias_POR_Q": [
           "\u00c1frica do sul"
         ], 
-        "alias_ENG_A": [
-          "ZA"
+        "alias_KOR_Q": [
+          "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
         ], 
         "ne:SUBUNIT": "South Africa", 
+        "ne:ISO_N3": 710.0, 
         "ne:ADM0_A3": "ZAF", 
-        "ne:SOVEREIGNT": "South Africa", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5357\u975e"
@@ -426,19 +430,13 @@
         "alias_ITA_Q": [
           "Sud Africa"
         ], 
-        "alias_GER_V": [
-          "Rep. S\u00fcdafrika"
+        "alias_DAN_Q": [
+          "Sydafrika"
         ], 
         "alias_ITA_V": [
           "Sudafrica"
         ], 
         "ne:POSTAL": "ZA", 
-        "alias_KOR_Q": [
-          "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
-        ], 
-        "alias_CZE_Q": [
-          "Jihoafrick\u00e1 Republika"
-        ], 
         "alias_JPN_Q": [
           "\u5357\u30a2\u30d5\u30ea\u30ab"
         ], 
@@ -470,34 +468,37 @@
         "ne:ISO_A2": "ZA", 
         "date_indexed": "2010-12-02T08:57:52Z", 
         "ne:NAME_FORMA": "Republic of South Africa", 
-        "fullname": "South Africa", 
-        "ne:GU_A3": "ZAF", 
+        "alias_ENG_A": [
+          "ZA"
+        ], 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "South Africa", 
         "ne:GEOUNIT": "South Africa", 
-        "ne:LabelRank": 1, 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Etel\u00e4-Afrikka"
+        "alias_DUT_V": [
+          "Zuidafrika"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 491000.0, 
+        "wikipedia:id": "17416221", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zuid-Afrika"
         ], 
         "ne:ABBREV": "S.Af.", 
-        "alias_DUT_V": [
-          "Zuidafrika"
+        "alias_CZE_Q": [
+          "Jihoafrick\u00e1 Republika"
         ], 
         "alias_FIN_Q": [
           "Etel\u00e4-Afrikka"
         ], 
-        "alias_DAN_Q": [
-          "Sydafrika"
+        "alias_GER_V": [
+          "Rep. S\u00fcdafrika"
         ], 
         "alias_GER_Q": [
           "S\u00fcdafrika"
         ], 
-        "ne:ISO_N3": 710.0, 
+        "fullname": "South Africa", 
         "alias_GER_S": [
           "Republik Sudafrika"
         ], 
@@ -520,14 +521,15 @@
         "alias_HUN_V": [
           "D\u00e9l-Afrika"
         ], 
-        "ne_longitude": 32.830120477028885, 
+        "ne:NAME_SORT": "South Africa", 
         "longitude": 24.677, 
         "ne:POP_EST": 49052489.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 32.830120477028885, 
         "iso": "ZA", 
         "sw_latitude": -34.81916635512371, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 491000.0, 
+        "ne:SOVEREIGNT": "South Africa", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Afrique du Sud"
@@ -538,8 +540,7 @@
         -34.81916635512371, 
         32.830120477028885, 
         -22.091312758067588
-      ], 
-      "id": 23424942
+      ]
     }
   ]
 }

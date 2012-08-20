@@ -475,13 +475,11 @@
           ]
         ]
       }, 
+      "id": 23424934, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. the Philippines"
-        ], 
-        "alias_HUN_Q": [
-          "F\u00fcl\u00f6p-Szigetek"
         ], 
         "alias_SWE_Q": [
           "Filippinerna"
@@ -490,20 +488,23 @@
           "Filipiny"
         ], 
         "ne_latitude": 18.50522736253754, 
+        "ne:GU_A3": "PHL", 
         "alias_RUM_Q": [
           "Filipine"
         ], 
-        "ne:NAME_SORT": "Philippines", 
+        "alias_UNK_V": [
+          "Filippinene"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Filipinas"
         ], 
-        "alias_ENG_A": [
-          "PH"
+        "alias_KOR_Q": [
+          "\ud544\ub9ac\ud540"
         ], 
         "ne:SUBUNIT": "Philippines", 
+        "ne:ISO_N3": 608.0, 
         "ne:ADM0_A3": "PHL", 
-        "ne:SOVEREIGNT": "Philippines", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u83f2\u5f8b\u8cd3"
@@ -511,16 +512,13 @@
         "alias_ITA_Q": [
           "Filippine"
         ], 
-        "alias_GER_V": [
-          "Republik der Philippinen"
+        "alias_DAN_Q": [
+          "Philippinerne"
         ], 
         "ne:NAME": "Philippines", 
         "ne:POSTAL": "PH", 
-        "alias_KOR_Q": [
-          "\ud544\ub9ac\ud540"
-        ], 
-        "alias_CZE_Q": [
-          "Filip\u00edny"
+        "alias_GER_Q": [
+          "Philippinen"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a3\u30ea\u30d4\u30f3"
@@ -552,40 +550,40 @@
         "ne:ISO_A2": "PH", 
         "date_indexed": "2010-12-02T09:56:58Z", 
         "ne:NAME_FORMA": "Republic of the Philippines", 
-        "fullname": "Philippines", 
-        "alias_FRE_V": [
-          "\u00celes Philippines"
+        "alias_CHI_V": [
+          "\u83f2\u5f8b\u5bbe"
         ], 
-        "ne:GU_A3": "PHL", 
+        "alias_ENG_A": [
+          "PH"
+        ], 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Philippines", 
         "ne:SU_A3": "PHL", 
-        "ne:LabelRank": 1, 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Filippinene"
+        "alias_DUT_V": [
+          "Filippijnen"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 317500.0, 
+        "wikipedia:id": "23440", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Filipijnen"
         ], 
         "ne:ABBREV": "Phil.", 
-        "alias_DUT_V": [
-          "Filippijnen"
-        ], 
-        "alias_FRE_S": [
-          "Iles Philippines"
+        "alias_CZE_Q": [
+          "Filip\u00edny"
         ], 
         "alias_FIN_Q": [
           "Filippiineill\u00e4"
         ], 
-        "alias_DAN_Q": [
-          "Philippinerne"
+        "alias_GER_V": [
+          "Republik der Philippinen"
         ], 
         "alias_DAN_V": [
           "Filippinerne"
         ], 
-        "ne:ISO_N3": 608.0, 
+        "fullname": "Philippines", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Philippines", 
         "name": "Philippines", 
@@ -594,28 +592,31 @@
         "alias_UNK_Q": [
           "Filipini"
         ], 
-        "alias_CHI_V": [
-          "\u83f2\u5f8b\u5bbe"
+        "alias_HUN_Q": [
+          "F\u00fcl\u00f6p-Szigetek"
         ], 
-        "alias_GER_Q": [
-          "Philippinen"
-        ], 
-        "ne_longitude": 126.53742394420064, 
+        "ne:NAME_SORT": "Philippines", 
         "longitude": 120.739, 
         "ne:POP_EST": 97976603.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 126.53742394420064, 
         "iso": "PH", 
         "sw_latitude": 5.58100332277229, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 317500.0, 
-        "ne:SU_DIF": 0.0
+        "alias_FRE_V": [
+          "\u00celes Philippines"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Philippines", 
+        "alias_FRE_S": [
+          "Iles Philippines"
+        ]
       }, 
       "bbox": [
         117.17427453010069, 
         5.58100332277229, 
         126.53742394420064, 
         18.50522736253754
-      ], 
-      "id": 23424934
+      ]
     }
   ]
 }

@@ -177,6 +177,7 @@
           ]
         ]
       }, 
+      "id": 23424793, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -187,8 +188,9 @@
           "Kuba"
         ], 
         "ne_latitude": 23.188610744717707, 
-        "ne:GU_A3": "CUB", 
-        "ne:NAME_SORT": "Cuba", 
+        "alias_UNK_V": [
+          "Republika Kuba"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud050\ubc14"
@@ -197,14 +199,15 @@
           "\ucfe0\ubc14"
         ], 
         "ne:SUBUNIT": "Cuba", 
+        "ne:ISO_N3": 192.0, 
         "ne:ADM0_A3": "CUB", 
-        "ne:SOVEREIGNT": "Cuba", 
         "alias_SWE_Q": [
           "Kuba"
         ], 
         "alias_CHI_Q": [
           "\u53e4\u5df4"
         ], 
+        "ne:GDP_MD_EST": 108200.0, 
         "ne:NAME": "Cuba", 
         "ne:POSTAL": "CU", 
         "alias_JPN_Q": [
@@ -228,19 +231,15 @@
         "ne:ISO_A2": "CU", 
         "date_indexed": "2010-12-02T08:58:58Z", 
         "ne:NAME_FORMA": "Republic of Cuba", 
-        "fullname": "Cuba", 
-        "alias_ENG_A": [
-          "CU"
-        ], 
+        "ne:GU_A3": "CUB", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Cuba", 
         "ne:SU_A3": "CUB", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "5042481", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Kuba"
-        ], 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Cuba", 
         "alias_CZE_Q": [
           "Kuba"
@@ -254,7 +253,7 @@
         "alias_GER_Q": [
           "Kuba"
         ], 
-        "ne:ISO_N3": 192.0, 
+        "fullname": "Cuba", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Cuba", 
         "name": "Cuba", 
@@ -266,13 +265,16 @@
         "alias_HUN_Q": [
           "Kuba"
         ], 
-        "ne_longitude": -74.17802486845126, 
+        "ne:NAME_SORT": "Cuba", 
         "longitude": -77.807, 
         "ne:POP_EST": 11451652.0, 
+        "ne_longitude": -74.17802486845126, 
         "iso": "CU", 
         "sw_latitude": 19.855480861891877, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 108200.0, 
+        "alias_ENG_A": [
+          "CU"
+        ], 
+        "ne:SOVEREIGNT": "Cuba", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -280,8 +282,7 @@
         19.855480861891877, 
         -74.17802486845126, 
         23.188610744717707
-      ], 
-      "id": 23424793
+      ]
     }
   ]
 }

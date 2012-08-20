@@ -77,6 +77,7 @@
           ]
         ]
       }, 
+      "id": 23424776, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -89,20 +90,23 @@
           "Kambod\u017ca"
         ], 
         "ne_latitude": 14.570583807834282, 
+        "ne:GU_A3": "KHM", 
         "alias_RUM_Q": [
           "Cambodgia"
         ], 
-        "ne:NAME_SORT": "Cambodia", 
+        "alias_UNK_V": [
+          "K\u00e2mpuch\u00e9a"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Camboja"
         ], 
-        "alias_ENG_A": [
-          "KH"
+        "alias_KOR_Q": [
+          "\uce84\ubcf4\ub514\uc544"
         ], 
         "ne:SUBUNIT": "Cambodia", 
+        "ne:ISO_N3": 116.0, 
         "ne:ADM0_A3": "KHM", 
-        "ne:SOVEREIGNT": "Cambodia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u67ec\u57d4\u5be8"
@@ -110,18 +114,16 @@
         "alias_ITA_Q": [
           "Cambogia"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Kambodscha"
+        "alias_DAN_Q": [
+          "Cambodja"
         ], 
         "ne:NAME": "Cambodia", 
         "ne:POSTAL": "KH", 
-        "alias_KOR_Q": [
-          "\uce84\ubcf4\ub514\uc544"
-        ], 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30dc\u30b8\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30ab\u30f3\u30dc\u30b8\u30a2\u56fd"
         ], 
@@ -146,22 +148,19 @@
         "ne:ISO_A2": "KH", 
         "date_indexed": "2010-12-02T16:11:23Z", 
         "ne:NAME_FORMA": "Kingdom of Cambodia", 
-        "fullname": "Cambodia", 
-        "alias_FRE_V": [
-          "Kampuchea D\u00e9mocratique"
+        "alias_ENG_A": [
+          "KH"
         ], 
-        "ne:GU_A3": "KHM", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Cambodia", 
         "ne:GEOUNIT": "Cambodia", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 27940.0, 
         "alias_SPA_V": [
           "Reino de Camboya"
         ], 
+        "wikipedia:id": "334751", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "K\u00e2mpuch\u00e9a"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Cambodja"
@@ -173,13 +172,13 @@
         "alias_FIN_Q": [
           "Kambod\u017ea"
         ], 
-        "alias_DAN_Q": [
-          "Cambodja"
+        "alias_GER_V": [
+          "K\u00f6nigreich Kambodscha"
         ], 
         "alias_GER_Q": [
           "Kambodscha"
         ], 
-        "ne:ISO_N3": 116.0, 
+        "fullname": "Cambodia", 
         "alias_GER_S": [
           "Konigreich Kambodscha"
         ], 
@@ -193,16 +192,19 @@
         "alias_HUN_Q": [
           "Kambodzsa"
         ], 
-        "ne_longitude": 107.61454796756243, 
+        "ne:NAME_SORT": "Cambodia", 
         "longitude": 104.984, 
         "ne:POP_EST": 14494293.0, 
         "alias_UNK_S": [
           "Kampuchea"
         ], 
+        "ne_longitude": 107.61454796756243, 
         "iso": "KH", 
         "sw_latitude": 10.48654368737523, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 27940.0, 
+        "alias_FRE_V": [
+          "Kampuchea D\u00e9mocratique"
+        ], 
+        "ne:SOVEREIGNT": "Cambodia", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Cambodge"
@@ -213,8 +215,7 @@
         10.48654368737523, 
         107.61454796756243, 
         14.570583807834282
-      ], 
-      "id": 23424776
+      ]
     }
   ]
 }

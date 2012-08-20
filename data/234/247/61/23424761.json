@@ -97,6 +97,7 @@
           ]
         ]
       }, 
+      "id": 23424761, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -105,9 +106,6 @@
         "alias_SWE_V": [
           "Bosnien-Hercegovina"
         ], 
-        "alias_HUN_Q": [
-          "Bosznia-Hercegovina"
-        ], 
         "alias_SWE_Q": [
           "Bosnien och Hercegovina"
         ], 
@@ -115,10 +113,13 @@
           "Bosnia and Herzegovina"
         ], 
         "ne_latitude": 45.23377676043094, 
+        "ne:GU_A3": "BIH", 
         "alias_RUM_Q": [
           "Bosnia \u015ei Her\u0163egovina"
         ], 
-        "ne:NAME_SORT": "Bosnia and Herzegovina", 
+        "alias_UNK_V": [
+          "Bosnia-Herzegovina"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
@@ -133,8 +134,8 @@
           "BIH"
         ], 
         "ne:SUBUNIT": "Bosnia and Herzegovina", 
+        "ne:ISO_N3": 70.0, 
         "ne:ADM0_A3": "BIH", 
-        "ne:SOVEREIGNT": "Bosnia and Herzegovina", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u58eb\u5c3c\u4e9e\u548c\u8d6b\u585e\u54e5\u7dad\u7d0d"
@@ -142,18 +143,16 @@
         "alias_ITA_Q": [
           "Bosnia-Erzegovina"
         ], 
-        "alias_GER_V": [
-          "Bosnien-Herzegowina"
+        "alias_DAN_Q": [
+          "Bosnien-Hercegovina"
         ], 
         "alias_ITA_V": [
           "Bosnia Erzegovina"
         ], 
         "ne:POSTAL": "BiH", 
-        "alias_KOR_Q": [
-          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
-        ], 
-        "alias_CZE_Q": [
-          "Bosna a Hercegovina"
+        "provider": "geoplanet 7.6.0", 
+        "alias_DAN_V": [
+          "Bosnien og Hercegovina"
         ], 
         "alias_JPN_Q": [
           "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
@@ -161,6 +160,7 @@
         "alias_POL_Q": [
           "Bo\u015bnia I Hercegowina"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca\u5171\u548c\u56fd"
         ], 
@@ -178,9 +178,6 @@
           "Bosnia \u015fi Herzegovina"
         ], 
         "latitude": 43.92, 
-        "alias_SPA_V": [
-          "Bosnia-Herzegovina"
-        ], 
         "woe:id": 23424761, 
         "alias_NOR_Q": [
           "Bosnia-Hercegovina"
@@ -189,23 +186,25 @@
         "ne:ISO_A2": "BA", 
         "date_indexed": "2010-12-02T12:15:52Z", 
         "ne:NAME_FORMA": null, 
-        "fullname": "Bosna i Hercegovina, Bosnia and Herzegovina", 
-        "alias_FRE_V": [
-          "Bosnie-Herz\u00e9govine"
+        "alias_CHI_V": [
+          "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
         ], 
-        "ne:GU_A3": "BIH", 
+        "alias_KOR_Q": [
+          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+        ], 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Bosnia and Herzegovina", 
         "ne:SU_A3": "BIH", 
-        "ne:LabelRank": 1, 
-        "alias_GER_Q": [
-          "Bosnien und Herzegowina"
+        "alias_DUT_V": [
+          "Bosni\u00eb-Herzegovina"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 29700.0, 
+        "alias_SPA_V": [
           "Bosnia-Herzegovina"
         ], 
+        "wikipedia:id": "3463", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Bosni\u00eb en Herzegovina"
@@ -215,22 +214,19 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "B.H.", 
-        "alias_DUT_V": [
-          "Bosni\u00eb-Herzegovina"
-        ], 
-        "alias_FRE_S": [
-          "Bosnie et Herzegovine"
+        "alias_CZE_Q": [
+          "Bosna a Hercegovina"
         ], 
         "alias_FIN_Q": [
           "Bosnia ja Hertsegovina"
         ], 
-        "alias_DAN_Q": [
-          "Bosnien-Hercegovina"
+        "alias_GER_V": [
+          "Bosnien-Herzegowina"
         ], 
-        "alias_DAN_V": [
-          "Bosnien og Hercegovina"
+        "alias_GER_Q": [
+          "Bosnien und Herzegowina"
         ], 
-        "ne:ISO_N3": 70.0, 
+        "fullname": "Bosna i Hercegovina, Bosnia and Herzegovina", 
         "ne:NAME": "Bosnia and Herz.", 
         "lang": "UNK", 
         "ne:GEOUNIT": "Bosnia and Herzegovina", 
@@ -240,23 +236,29 @@
         "alias_UNK_Q": [
           "Bosna in Hercegovina"
         ], 
-        "alias_CHI_V": [
-          "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
+        "alias_HUN_Q": [
+          "Bosznia-Hercegovina"
         ], 
         "alias_HUN_V": [
           "Bosznia \u00e9s Hercegovina"
         ], 
-        "ne_longitude": 19.59976, 
+        "ne:NAME_SORT": "Bosnia and Herzegovina", 
         "longitude": 17.677, 
         "ne:POP_EST": 4613414.0, 
         "alias_UNK_S": [
           "Bosnia-Hersegovina"
         ], 
+        "ne_longitude": 19.59976, 
         "iso": "BA", 
         "sw_latitude": 42.65, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 29700.0, 
+        "alias_FRE_V": [
+          "Bosnie-Herz\u00e9govine"
+        ], 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Bosnia and Herzegovina", 
+        "alias_FRE_S": [
+          "Bosnie et Herzegovine"
+        ], 
         "alias_FRE_Q": [
           "Bosnie et Herz\u00e9govine"
         ]
@@ -266,8 +268,7 @@
         42.65, 
         19.59976, 
         45.23377676043094
-      ], 
-      "id": 23424761
+      ]
     }
   ]
 }

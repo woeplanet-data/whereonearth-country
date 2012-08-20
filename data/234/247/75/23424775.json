@@ -3307,6 +3307,7 @@
           ]
         ]
       }, 
+      "id": 23424775, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -3317,8 +3318,7 @@
           "Kanada"
         ], 
         "ne_latitude": 83.23324, 
-        "ne:GU_A3": "CAN", 
-        "ne_longitude": -52.64809872090419, 
+        "ne:NAME_SORT": "Canada", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Canad\u00e1"
@@ -3327,21 +3327,21 @@
           "\uce90\ub098\ub2e4"
         ], 
         "ne:SUBUNIT": "Canada", 
+        "ne:ISO_N3": 124.0, 
         "ne:ADM0_A3": "CAN", 
-        "ne:SOVEREIGNT": "Canada", 
         "alias_SWE_Q": [
           "Kanada"
         ], 
         "alias_CHI_Q": [
           "\u52a0\u62ff\u5927"
         ], 
+        "ne:GDP_MD_EST": 1300000.0, 
         "ne:NAME": "Canada", 
         "ne:POSTAL": "CA", 
         "alias_JPN_Q": [
           "\u30ab\u30ca\u30c0"
         ], 
         "ne:LEVEL": 2.0, 
-        "fullname": "Canada", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Canad\u00e1"
@@ -3359,15 +3359,15 @@
         "ne:ISO_A2": "CA", 
         "date_indexed": "2010-12-02T10:24:00Z", 
         "ne:NAME_FORMA": null, 
-        "alias_ENG_A": [
-          "CAN"
-        ], 
+        "ne:GU_A3": "CAN", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Canada", 
         "ne:SU_A3": "CAN", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "5042916", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Can.", 
         "alias_CZE_Q": [
           "Kanada"
@@ -3379,7 +3379,7 @@
         "alias_GER_Q": [
           "Kanada"
         ], 
-        "ne:ISO_N3": 124.0, 
+        "ne:SOVEREIGNT": "Canada", 
         "lang": "ENG", 
         "name": "Canada", 
         "ne:TYPE": "Sovereign country", 
@@ -3390,13 +3390,15 @@
         "alias_HUN_Q": [
           "Kanada"
         ], 
-        "ne:NAME_SORT": "Canada", 
+        "ne_longitude": -52.64809872090419, 
         "longitude": -98.309, 
         "ne:POP_EST": 33487208.0, 
         "iso": "CA", 
         "sw_latitude": 41.675105088867156, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 1300000.0, 
+        "alias_ENG_A": [
+          "CAN"
+        ], 
+        "fullname": "Canada", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -3404,8 +3406,7 @@
         41.675105088867156, 
         -52.64809872090419, 
         83.23324
-      ], 
-      "id": 23424775
+      ]
     }
   ]
 }

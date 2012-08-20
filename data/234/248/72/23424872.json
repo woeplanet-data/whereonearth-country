@@ -157,31 +157,30 @@
           ]
         ]
       }, 
+      "id": 23424872, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Laos"
-        ], 
-        "alias_HUN_Q": [
-          "Laosz"
         ], 
         "alias_ENG_A": [
           "LA"
         ], 
         "ne:LEVEL": 2.0, 
         "ne_latitude": 22.464753119389304, 
-        "ne_longitude": 107.5645251811039, 
+        "ne:NAME_SORT": "Laos", 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\ub77c\uc624\uc2a4"
         ], 
         "ne:SUBUNIT": "Laos", 
+        "ne:ISO_N3": 418.0, 
         "ne:ADM0_A3": "LAO", 
-        "ne:SOVEREIGNT": "Laos", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5bee\u570b"
         ], 
+        "ne:GDP_MD_EST": 13980.0, 
         "ne:NAME": "Laos", 
         "ne:POSTAL": "LA", 
         "alias_JPN_Q": [
@@ -204,20 +203,23 @@
         "ne:ISO_A2": "LA", 
         "date_indexed": "2010-12-02T16:42:51Z", 
         "ne:NAME_FORMA": "Lao People's Democratic Republic", 
-        "fullname": "Laos", 
+        "alias_CHI_V": [
+          "\u5bee\u570b"
+        ], 
         "ne:GU_A3": "LAO", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Laos", 
         "ne:GEOUNIT": "Laos", 
         "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
+        "wikipedia:id": "17752", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Laos", 
         "alias_GER_V": [
           "Volksrepublik Lao"
         ], 
-        "ne:ISO_N3": 418.0, 
+        "fullname": "Laos", 
         "lang": "ENG", 
         "name": "Laos", 
         "ne:TYPE": "Sovereign country", 
@@ -225,19 +227,19 @@
         "alias_UNK_Q": [
           "Sathalanalat Paxathipatai Paxaxon Lao"
         ], 
-        "alias_CHI_V": [
-          "\u5bee\u570b"
+        "alias_HUN_Q": [
+          "Laosz"
         ], 
         "alias_HUN_V": [
           "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne:NAME_SORT": "Laos", 
+        "ne_longitude": 107.5645251811039, 
         "longitude": 105.451, 
         "ne:POP_EST": 6834942.0, 
         "iso": "LA", 
         "sw_latitude": 13.881091009979956, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 13980.0, 
+        "ne:SOVEREIGNT": "Laos", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -245,8 +247,7 @@
         13.881091009979956, 
         107.5645251811039, 
         22.464753119389304
-      ], 
-      "id": 23424872
+      ]
     }
   ]
 }

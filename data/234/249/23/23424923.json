@@ -189,6 +189,7 @@
           ]
         ]
       }, 
+      "id": 23424923, 
       "type": "Feature", 
       "properties": {
         "alias_POL_V": [
@@ -197,9 +198,6 @@
         "alias_ENG_V": [
           "Rep. Poland"
         ], 
-        "alias_HUN_Q": [
-          "Lengyelorsz\u00e1g"
-        ], 
         "alias_SWE_Q": [
           "Polen"
         ], 
@@ -207,10 +205,13 @@
           "Poland"
         ], 
         "ne_latitude": 54.85153595643291, 
+        "ne:GU_A3": "POL", 
         "alias_RUM_Q": [
           "Polonia"
         ], 
-        "ne:NAME_SORT": "Poland", 
+        "alias_UNK_V": [
+          "Polsko"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "Pol\u00f4nia"
@@ -218,12 +219,12 @@
         "alias_POR_Q": [
           "Pol\u00f3nia"
         ], 
-        "alias_ENG_A": [
-          "POL"
+        "alias_KOR_Q": [
+          "\ud3f4\ub780\ub4dc"
         ], 
         "ne:SUBUNIT": "Poland", 
+        "ne:ISO_N3": 616.0, 
         "ne:ADM0_A3": "POL", 
-        "ne:SOVEREIGNT": "Poland", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u862d"
@@ -231,14 +232,11 @@
         "alias_ITA_Q": [
           "Polonia"
         ], 
-        "alias_GER_V": [
-          "Republik Polen"
+        "alias_DAN_Q": [
+          "Polen"
         ], 
         "ne:NAME": "Poland", 
         "ne:POSTAL": "PL", 
-        "alias_KOR_Q": [
-          "\ud3f4\ub780\ub4dc"
-        ], 
         "alias_JPN_Q": [
           "\u30dd\u30fc\u30e9\u30f3\u30c9"
         ], 
@@ -266,19 +264,22 @@
         "ne:ISO_A2": "PL", 
         "date_indexed": "2010-12-02T12:12:45Z", 
         "ne:NAME_FORMA": "Republic of Poland", 
-        "fullname": "Polska, Poland", 
-        "ne:GU_A3": "POL", 
+        "alias_CHI_V": [
+          "\u6ce2\u5170"
+        ], 
+        "alias_ENG_A": [
+          "POL"
+        ], 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Poland", 
         "ne:SU_A3": "POL", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 667900.0, 
         "alias_SPA_V": [
           "Republica de Polonia"
         ], 
+        "wikipedia:id": "22936", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Polsko"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Polen"
@@ -290,13 +291,13 @@
         "alias_FIN_Q": [
           "Puola"
         ], 
-        "alias_DAN_Q": [
-          "Polen"
+        "alias_GER_V": [
+          "Republik Polen"
         ], 
         "alias_GER_Q": [
           "Polen"
         ], 
-        "ne:ISO_N3": 616.0, 
+        "fullname": "Polska, Poland", 
         "lang": "POL", 
         "ne:GEOUNIT": "Poland", 
         "name": "Polska", 
@@ -307,20 +308,21 @@
         "alias_UNK_Q": [
           "P\u00f3lland"
         ], 
-        "alias_CHI_V": [
-          "\u6ce2\u5170"
+        "alias_HUN_Q": [
+          "Lengyelorsz\u00e1g"
         ], 
-        "ne_longitude": 24.029985792748903, 
+        "ne:NAME_SORT": "Poland", 
         "longitude": 19.134, 
         "ne:POP_EST": 38482919.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 24.029985792748903, 
         "iso": "PL", 
         "sw_latitude": 49.02739533140962, 
         "alias_HUN_S": [
           "Lengyelorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 667900.0, 
+        "ne:SOVEREIGNT": "Poland", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Pologne"
@@ -331,8 +333,7 @@
         49.02739533140962, 
         24.029985792748903, 
         54.85153595643291
-      ], 
-      "id": 23424923
+      ]
     }
   ]
 }

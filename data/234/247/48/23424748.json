@@ -979,6 +979,7 @@
           ]
         ]
       }, 
+      "id": 23424748, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -992,7 +993,7 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne_latitude": -10.668185723516643, 
-        "ne_longitude": 153.5694690289442, 
+        "ne:NAME_SORT": "Australia", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud638\uc8fc"
@@ -1004,19 +1005,18 @@
           "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Australia", 
+        "ne:ISO_N3": 36.0, 
         "ne:ADM0_A3": "AUS", 
-        "ne:SOVEREIGNT": "Australia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6fb3\u5927\u5229\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 800200.0, 
         "ne:NAME": "Australia", 
         "ne:POSTAL": "AU", 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "Australia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 113.3389530782625, 
@@ -1036,6 +1036,10 @@
         "ne:ADMIN": "Australia", 
         "ne:SU_A3": "AUS", 
         "ne:LabelRank": 1, 
+        "alias_ENG_A": [
+          "AU"
+        ], 
+        "wikipedia:id": "4689264", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1054,7 +1058,7 @@
         "alias_GER_Q": [
           "Australien"
         ], 
-        "ne:ISO_N3": 36.0, 
+        "ne:SOVEREIGNT": "Australia", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Australia", 
         "name": "Australia", 
@@ -1068,16 +1072,14 @@
         "alias_HUN_Q": [
           "Ausztr\u00e1lia"
         ], 
-        "ne:NAME_SORT": "Australia", 
+        "ne_longitude": 153.5694690289442, 
         "longitude": 133.393, 
         "ne:POP_EST": 21262641.0, 
         "ne:TYPE": "Country", 
         "iso": "AU", 
         "sw_latitude": -43.634597263362096, 
-        "alias_ENG_A": [
-          "AU"
-        ], 
-        "ne:GDP_MD_EST": 800200.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Australia", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Australie"
@@ -1088,8 +1090,7 @@
         -43.634597263362096, 
         153.5694690289442, 
         -10.668185723516643
-      ], 
-      "id": 23424748
+      ]
     }
   ]
 }

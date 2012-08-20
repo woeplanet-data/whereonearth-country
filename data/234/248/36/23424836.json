@@ -169,6 +169,7 @@
           ]
         ]
       }, 
+      "id": 23424836, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -181,7 +182,9 @@
           "Gujana"
         ], 
         "ne_latitude": 8.367034816924047, 
-        "ne:NAME_SORT": "Guyana", 
+        "alias_UNK_V": [
+          "Republika Gvajana"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uad6c\uc544\ub098"
@@ -193,12 +196,13 @@
           "\uac00\uc774\uc544\ub098"
         ], 
         "ne:SUBUNIT": "Guyana", 
+        "ne:ISO_N3": 328.0, 
         "ne:ADM0_A3": "GUY", 
-        "ne:SOVEREIGNT": "Guyana", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u84cb\u4e9e\u90a3"
         ], 
+        "ne:GDP_MD_EST": 2966.0, 
         "alias_ITA_V": [
           "Guiana"
         ], 
@@ -224,22 +228,19 @@
         "ne:ISO_A2": "GY", 
         "date_indexed": "2010-12-02T16:33:25Z", 
         "ne:NAME_FORMA": "Cooperative Republic of Guyana", 
-        "fullname": "Guyana", 
         "ne:GU_A3": "GUY", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Guyana", 
         "ne:GEOUNIT": "Guyana", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "17238691", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Gvajana"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Guy.", 
         "alias_GER_V": [
           "Kooperative Republik Guyana"
         ], 
-        "ne:ISO_N3": 328.0, 
+        "fullname": "Guyana", 
         "ne:NAME": "Guyana", 
         "lang": "ENG", 
         "name": "Guyana", 
@@ -249,13 +250,14 @@
           "Gvajana"
         ], 
         "ne:POSTAL": "GY", 
-        "ne_longitude": -56.539385748914555, 
+        "ne:NAME_SORT": "Guyana", 
         "longitude": -58.938, 
         "ne:POP_EST": 772298.0, 
+        "ne_longitude": -56.539385748914555, 
         "iso": "GY", 
         "sw_latitude": 1.268088283692521, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 2966.0, 
+        "ne:SOVEREIGNT": "Guyana", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -263,8 +265,7 @@
         1.268088283692521, 
         -56.539385748914555, 
         8.367034816924047
-      ], 
-      "id": 23424836
+      ]
     }
   ]
 }

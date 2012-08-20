@@ -471,6 +471,7 @@
           ]
         ]
       }, 
+      "id": 23424782, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -481,14 +482,14 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne_latitude": -17.58001189541929, 
-        "ne_longitude": -66.95992, 
+        "ne:NAME_SORT": "Chile", 
         "placetype": "Country", 
         "alias_ENG_A": [
           "CL"
         ], 
         "ne:SUBUNIT": "Chile", 
+        "ne:ISO_N3": 152.0, 
         "ne:ADM0_A3": "CHL", 
-        "ne:SOVEREIGNT": "Chile", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u667a\u5229"
@@ -516,12 +517,13 @@
         "ne:ISO_A2": "CL", 
         "date_indexed": "2010-12-02T12:15:39Z", 
         "ne:NAME_FORMA": "Republic of Chile", 
-        "fullname": "Chile", 
         "ne:GU_A3": "CHL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Chile", 
         "ne:GEOUNIT": "Chile", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 244500.0, 
+        "wikipedia:id": "5489", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -531,7 +533,7 @@
         "alias_GER_V": [
           "Republik Chile"
         ], 
-        "ne:ISO_N3": 152.0, 
+        "fullname": "Chile", 
         "lang": "ENG", 
         "name": "Chile", 
         "ne:TYPE": "Sovereign country", 
@@ -539,13 +541,13 @@
         "alias_UNK_Q": [
           "Chiri"
         ], 
-        "ne:NAME_SORT": "Chile", 
+        "ne_longitude": -66.95992, 
         "longitude": -71.341, 
         "ne:POP_EST": 16601707.0, 
         "iso": "CL", 
         "sw_latitude": -55.61183, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 244500.0, 
+        "ne:SOVEREIGNT": "Chile", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Chili"
@@ -556,8 +558,7 @@
         -55.61183, 
         -66.95992, 
         -17.58001189541929
-      ], 
-      "id": 23424782
+      ]
     }
   ]
 }

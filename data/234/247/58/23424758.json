@@ -103,13 +103,11 @@
           ]
         ]
       }, 
+      "id": 23424758, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Bahamas"
-        ], 
-        "alias_HUN_Q": [
-          "Bahama-Szigetek"
         ], 
         "alias_SWE_Q": [
           "Bahamas"
@@ -118,10 +116,13 @@
           "Bahamy"
         ], 
         "ne_latitude": 27.04, 
+        "ne:GU_A3": "BHS", 
         "alias_RUM_Q": [
           "Bahamas"
         ], 
-        "ne:NAME_SORT": "Bahamas, The", 
+        "alias_UNK_V": [
+          "Zveza Bahami"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "Baamas"
@@ -129,12 +130,12 @@
         "alias_POR_Q": [
           "Bahamas"
         ], 
-        "alias_ENG_A": [
-          "BS"
+        "alias_KOR_Q": [
+          "\ubc14\ud558\ub9c8"
         ], 
         "ne:SUBUNIT": "The Bahamas", 
+        "ne:ISO_N3": 44.0, 
         "ne:ADM0_A3": "BHS", 
-        "ne:SOVEREIGNT": "The Bahamas", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u54c8\u99ac"
@@ -142,19 +143,13 @@
         "alias_ITA_Q": [
           "Bahamas"
         ], 
-        "alias_GER_V": [
-          "Commonwealth der Bahamas"
+        "alias_DAN_Q": [
+          "Bahamas"
         ], 
         "alias_ITA_V": [
           "Bahama"
         ], 
         "ne:POSTAL": "BS", 
-        "alias_KOR_Q": [
-          "\ubc14\ud558\ub9c8"
-        ], 
-        "alias_CZE_Q": [
-          "Bahamy"
-        ], 
         "alias_JPN_Q": [
           "\u30d0\u30cf\u30de"
         ], 
@@ -182,40 +177,40 @@
         "ne:ISO_A2": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
         "ne:NAME_FORMA": "Commonwealth of the Bahamas", 
-        "fullname": "The Bahamas", 
-        "alias_FRE_V": [
-          "Bahamas, \u00celes"
+        "alias_CHI_V": [
+          "\u5df4\u54c8\u9a6c"
         ], 
-        "ne:GU_A3": "BHS", 
+        "alias_ENG_A": [
+          "BS"
+        ], 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "The Bahamas", 
         "ne:SU_A3": "BHS", 
-        "ne:LabelRank": 1, 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Zveza Bahami"
+        "alias_DUT_V": [
+          "Bahama\u2019s"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 9093.0, 
+        "wikipedia:id": "3451", 
+        "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Bahama's"
         ], 
         "ne:ABBREV": "Bhs.", 
-        "alias_DUT_V": [
-          "Bahama\u2019s"
-        ], 
-        "alias_FRE_S": [
-          "Bahamas, Iles"
+        "alias_CZE_Q": [
+          "Bahamy"
         ], 
         "alias_FIN_Q": [
           "Bahama"
         ], 
-        "alias_DAN_Q": [
-          "Bahamas"
+        "alias_GER_V": [
+          "Commonwealth der Bahamas"
         ], 
         "alias_GER_Q": [
           "Bahamas"
         ], 
-        "ne:ISO_N3": 44.0, 
+        "fullname": "The Bahamas", 
         "ne:NAME": "Bahamas", 
         "lang": "ENG", 
         "ne:GEOUNIT": "The Bahamas", 
@@ -225,20 +220,27 @@
         "alias_UNK_Q": [
           "Bahami"
         ], 
-        "alias_CHI_V": [
-          "\u5df4\u54c8\u9a6c"
+        "alias_HUN_Q": [
+          "Bahama-Szigetek"
         ], 
         "alias_HUN_V": [
           "Baham\u00e1k"
         ], 
-        "ne_longitude": -77.0, 
+        "ne:NAME_SORT": "Bahamas, The", 
         "longitude": -78.08, 
         "ne:POP_EST": 309156.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": -77.0, 
         "iso": "BS", 
         "sw_latitude": 23.71, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 9093.0, 
+        "alias_FRE_V": [
+          "Bahamas, \u00celes"
+        ], 
         "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "The Bahamas", 
+        "alias_FRE_S": [
+          "Bahamas, Iles"
+        ], 
         "alias_FRE_Q": [
           "Bahamas"
         ]
@@ -248,8 +250,7 @@
         23.71, 
         -77.0, 
         27.04
-      ], 
-      "id": 23424758
+      ]
     }
   ]
 }

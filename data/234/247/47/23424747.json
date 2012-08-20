@@ -499,6 +499,7 @@
           ]
         ]
       }, 
+      "id": 23424747, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -511,18 +512,21 @@
           "Argentyna"
         ], 
         "ne_latitude": -21.832310479420684, 
-        "ne:NAME_SORT": "Argentina", 
+        "alias_UNK_V": [
+          "Argentinska Republika"
+        ], 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc544\ub974\ud5e8\ud2f0\ub098"
         ], 
         "ne:SUBUNIT": "Argentina", 
+        "ne:ISO_N3": 32.0, 
         "ne:ADM0_A3": "ARG", 
-        "ne:SOVEREIGNT": "Argentina", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u6839\u5ef7"
         ], 
+        "ne:GDP_MD_EST": 573900.0, 
         "ne:NAME": "Argentina", 
         "ne:POSTAL": "AR", 
         "alias_JPN_Q": [
@@ -544,16 +548,13 @@
         "ne:ISO_A2": "AR", 
         "date_indexed": "2010-12-02T17:41:29Z", 
         "ne:NAME_FORMA": "Argentine Republic", 
-        "fullname": "Argentina", 
         "ne:GU_A3": "ARG", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Argentina", 
         "ne:GEOUNIT": "Argentina", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "18951905", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Argentinska Republika"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Argentini\u00eb"
@@ -571,7 +572,7 @@
         "alias_GER_Q": [
           "Argentinien"
         ], 
-        "ne:ISO_N3": 32.0, 
+        "fullname": "Argentina", 
         "lang": "ENG", 
         "name": "Argentina", 
         "ne:TYPE": "Sovereign country", 
@@ -582,13 +583,14 @@
         "alias_HUN_Q": [
           "Argent\u00edna"
         ], 
-        "ne_longitude": -53.62834896504873, 
+        "ne:NAME_SORT": "Argentina", 
         "longitude": -63.585, 
         "ne:POP_EST": 40913584.0, 
+        "ne_longitude": -53.62834896504873, 
         "iso": "AR", 
         "sw_latitude": -55.25, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 573900.0, 
+        "ne:SOVEREIGNT": "Argentina", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Argentine"
@@ -599,8 +601,7 @@
         -55.25, 
         -53.62834896504873, 
         -21.832310479420684
-      ], 
-      "id": 23424747
+      ]
     }
   ]
 }

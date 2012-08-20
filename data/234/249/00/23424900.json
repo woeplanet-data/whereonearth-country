@@ -689,6 +689,7 @@
           ]
         ]
       }, 
+      "id": 23424900, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -697,21 +698,23 @@
         "alias_SWE_Q": [
           "Mexiko"
         ], 
-        "alias_POL_Q": [
-          "Meksyk"
+        "alias_ENG_P": [
+          "Mexico"
         ], 
         "ne_latitude": 32.72083, 
         "alias_RUM_Q": [
           "Mexic"
         ], 
-        "ne:NAME_SORT": "Mexico", 
+        "alias_UNK_V": [
+          "United Mexican States"
+        ], 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uba55\uc2dc\ucf54"
         ], 
         "ne:SUBUNIT": "Mexico", 
+        "ne:ISO_N3": 484.0, 
         "ne:ADM0_A3": "MEX", 
-        "ne:SOVEREIGNT": "Mexico", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u58a8\u897f\u54e5"
@@ -719,16 +722,16 @@
         "alias_ITA_Q": [
           "Messico"
         ], 
-        "alias_GER_V": [
-          "Vereinigte Mexikanische Staaten"
+        "alias_DAN_Q": [
+          "Mexico"
         ], 
         "ne:NAME": "Mexico", 
         "ne:POSTAL": "MX", 
         "alias_JPN_Q": [
           "\u30e1\u30ad\u30b7\u30b3"
         ], 
-        "alias_ENG_P": [
-          "Mexico"
+        "alias_POL_Q": [
+          "Meksyk"
         ], 
         "alias_JPN_V": [
           "\u30e1\u30ad\u30b7\u30b3\u5408\u8846\u56fd"
@@ -748,19 +751,17 @@
         "ne:ISO_A2": "MX", 
         "date_indexed": "2010-12-02T16:57:55Z", 
         "ne:NAME_FORMA": "United Mexican States", 
-        "fullname": "M\u00e9xico, Mexico", 
         "ne:GU_A3": "MEX", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Mexico", 
         "ne:GEOUNIT": "Mexico", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 1563000.0, 
         "alias_SPA_V": [
           "Nueva Espa\u00f1a"
         ], 
+        "wikipedia:id": "3966054", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "United Mexican States"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Mexico"
@@ -773,13 +774,13 @@
         "alias_FIN_Q": [
           "Meksiko"
         ], 
-        "alias_DAN_Q": [
-          "Mexico"
+        "alias_GER_V": [
+          "Vereinigte Mexikanische Staaten"
         ], 
         "alias_GER_Q": [
           "Mexiko"
         ], 
-        "ne:ISO_N3": 484.0, 
+        "fullname": "M\u00e9xico, Mexico", 
         "lang": "SPA", 
         "name": "M\u00e9xico", 
         "ne:TYPE": "Sovereign country", 
@@ -790,16 +791,17 @@
         "alias_HUN_Q": [
           "Mexik\u00f3"
         ], 
-        "ne_longitude": -86.81198238803296, 
+        "ne:NAME_SORT": "Mexico", 
         "longitude": -101.956, 
         "ne:POP_EST": 111211789.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": -86.81198238803296, 
         "iso": "MX", 
         "sw_latitude": 14.538828640190957, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Mexico", 
         "alias_ENG_A": [
           "MX"
         ], 
-        "ne:GDP_MD_EST": 1563000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Mexique"
@@ -810,8 +812,7 @@
         14.538828640190957, 
         -86.81198238803296, 
         32.72083
-      ], 
-      "id": 23424900
+      ]
     }
   ]
 }

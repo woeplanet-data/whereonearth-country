@@ -279,6 +279,7 @@
           ]
         ]
       }, 
+      "id": 23424856, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -294,7 +295,7 @@
         "alias_RUM_Q": [
           "Japonia"
         ], 
-        "ne_longitude": 145.54313724180278, 
+        "ne:NAME_SORT": "Japan", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Jap\u00e3o"
@@ -303,8 +304,8 @@
           "\uc77c\ubcf8"
         ], 
         "ne:SUBUNIT": "Japan", 
+        "ne:ISO_N3": 392.0, 
         "ne:ADM0_A3": "JPN", 
-        "ne:SOVEREIGNT": "Japan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65e5\u672c"
@@ -314,6 +315,7 @@
         ], 
         "ne:NAME": "Japan", 
         "ne:POSTAL": "J", 
+        "wikipedia:id": "15573", 
         "alias_ENG_P": [
           "Japan"
         ], 
@@ -340,12 +342,15 @@
         "ne:ISO_A2": "JP", 
         "date_indexed": "2010-12-02T08:09:09Z", 
         "ne:NAME_FORMA": null, 
-        "fullname": "\u65e5\u672c, Japan", 
         "ne:GU_A3": "JPN", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Japan", 
         "ne:SU_A3": "JPN", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 4329000.0, 
+        "alias_ENG_A": [
+          "JPN"
+        ], 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -365,7 +370,7 @@
         "alias_GER_Q": [
           "Japan"
         ], 
-        "ne:ISO_N3": 392.0, 
+        "fullname": "\u65e5\u672c, Japan", 
         "lang": "JPN", 
         "ne:GEOUNIT": "Japan", 
         "name": "\u65e5\u672c", 
@@ -377,16 +382,13 @@
         "alias_HUN_Q": [
           "Jap\u00e1n"
         ], 
-        "ne:NAME_SORT": "Japan", 
+        "ne_longitude": 145.54313724180278, 
         "longitude": 139.838, 
         "ne:POP_EST": 127078679.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "JP", 
         "sw_latitude": 31.029579169228242, 
-        "alias_ENG_A": [
-          "JPN"
-        ], 
-        "ne:GDP_MD_EST": 4329000.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Japan", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Japon"
@@ -397,8 +399,7 @@
         31.029579169228242, 
         145.54313724180278, 
         45.55148346616136
-      ], 
-      "id": 23424856
+      ]
     }
   ]
 }

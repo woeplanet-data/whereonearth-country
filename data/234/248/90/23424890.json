@@ -77,6 +77,7 @@
           ]
         ]
       }, 
+      "id": 23424890, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -93,10 +94,13 @@
         "alias_POR_S": [
           "Antiga Republica jugoslava da Macedonia"
         ], 
+        "ne:GU_A3": "MKD", 
         "alias_RUM_Q": [
           "Republica Macedonia"
         ], 
-        "ne:NAME_SORT": "Macedonia, The former Yugoslav Republic of", 
+        "alias_UNK_V": [
+          "Republika Makedonija"
+        ], 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544"
@@ -111,8 +115,8 @@
           "MK"
         ], 
         "ne:SUBUNIT": "Macedonia", 
+        "ne:ISO_N3": 807.0, 
         "ne:ADM0_A3": "MKD", 
-        "ne:SOVEREIGNT": "Macedonia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u5176\u9813"
@@ -120,22 +124,21 @@
         "alias_ITA_Q": [
           "Repubblica di Macedonia"
         ], 
-        "alias_GER_V": [
-          "Ehemalige Jugoslawische Republik Mazedonien"
+        "alias_DAN_Q": [
+          "Makedonien"
         ], 
         "alias_ITA_V": [
           "Macedonia, Ex Repubblica Jugoslava"
         ], 
         "ne:POSTAL": "MK", 
-        "alias_KOR_Q": [
-          "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
-        ], 
-        "alias_CZE_Q": [
-          "Makedonie"
+        "provider": "geoplanet 7.6.0", 
+        "alias_DAN_V": [
+          "Republikken Makedonien"
         ], 
         "alias_JPN_Q": [
           "\u30de\u30b1\u30c9\u30cb\u30a2"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -156,9 +159,6 @@
           "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
         ], 
         "latitude": 41.603, 
-        "alias_SPA_V": [
-          "Macedonia, Antigua Rep\u00fablica Yugoslava"
-        ], 
         "woe:id": 23424890, 
         "alias_NOR_Q": [
           "Republikken Makedonia"
@@ -169,23 +169,22 @@
         "ne:ISO_A2": "MK", 
         "date_indexed": "2010-12-02T09:34:55Z", 
         "ne:NAME_FORMA": "Republic of Macedonia", 
-        "fullname": "Macedonia", 
-        "alias_FRE_V": [
-          "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
+        "alias_KOR_Q": [
+          "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
         ], 
-        "ne:GU_A3": "MKD", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Macedonia", 
         "ne:SU_A3": "MKD", 
+        "alias_DUT_V": [
+          "Voormalige Joegoslavische Republiek Macedoni\u00eb"
+        ], 
         "ne:LabelRank": 1, 
-        "alias_GER_Q": [
-          "Mazedonien"
+        "ne:GDP_MD_EST": 18780.0, 
+        "alias_SPA_V": [
+          "Macedonia, Antigua Rep\u00fablica Yugoslava"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "wikipedia:id": "841673", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Makedonija"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Macedoni\u00eb"
@@ -194,19 +193,19 @@
           "Macedonie"
         ], 
         "ne:ABBREV": "Mkd.", 
-        "alias_DUT_V": [
-          "Voormalige Joegoslavische Republiek Macedoni\u00eb"
+        "alias_CZE_Q": [
+          "Makedonie"
         ], 
         "alias_FIN_Q": [
           "Makedonia"
         ], 
-        "alias_DAN_Q": [
-          "Makedonien"
+        "alias_GER_V": [
+          "Ehemalige Jugoslawische Republik Mazedonien"
         ], 
-        "alias_DAN_V": [
-          "Republikken Makedonien"
+        "alias_GER_Q": [
+          "Mazedonien"
         ], 
-        "ne:ISO_N3": 807.0, 
+        "fullname": "Macedonia", 
         "ne:NAME": "Macedonia", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Macedonia", 
@@ -223,17 +222,20 @@
         "alias_HUN_V": [
           "Maced\u00f3nia, K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne_longitude": 22.952377150166512, 
+        "ne:NAME_SORT": "Macedonia, The former Yugoslav Republic of", 
         "longitude": 21.751, 
         "ne:POP_EST": 2066718.0, 
         "alias_UNK_S": [
           "Proin Giougkoslaviki Dimokratia tis Makedonias"
         ], 
+        "ne_longitude": 22.952377150166512, 
         "iso": "MK", 
         "sw_latitude": 40.84272695572588, 
         "ne:ISO_A3": "MKD", 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 18780.0, 
+        "alias_FRE_V": [
+          "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
+        ], 
+        "ne:SOVEREIGNT": "Macedonia", 
         "alias_FRE_S": [
           "Macedoine"
         ], 
@@ -246,8 +248,7 @@
         40.84272695572588, 
         22.952377150166512, 
         42.32025950781508
-      ], 
-      "id": 23424890
+      ]
     }
   ]
 }

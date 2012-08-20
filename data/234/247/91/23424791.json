@@ -153,6 +153,7 @@
           ]
         ]
       }, 
+      "id": 23424791, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -165,18 +166,21 @@
           "Kostaryka"
         ], 
         "ne_latitude": 11.217119248901597, 
-        "ne:NAME_SORT": "Costa Rica", 
+        "alias_UNK_V": [
+          "Republika Kostarika"
+        ], 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
         ], 
         "ne:SUBUNIT": "Costa Rica", 
+        "ne:ISO_N3": 188.0, 
         "ne:ADM0_A3": "CRI", 
-        "ne:SOVEREIGNT": "Costa Rica", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u54e5\u65af\u5927\u9ece\u52a0"
         ], 
+        "ne:GDP_MD_EST": 48320.0, 
         "ne:NAME": "Costa Rica", 
         "alias_CHI_V": [
           "\u54e5\u65af\u5927\u9ece\u52a0"
@@ -200,16 +204,13 @@
         "ne:ISO_A2": "CR", 
         "date_indexed": "2010-12-02T12:16:27Z", 
         "ne:NAME_FORMA": "Republic of Costa Rica", 
-        "fullname": "Costa Rica", 
         "ne:GU_A3": "CRI", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Costa Rica", 
         "ne:GEOUNIT": "Costa Rica", 
         "ne:LabelRank": 1, 
+        "wikipedia:id": "5551", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Republika Kostarika"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "C.R.", 
         "alias_CZE_Q": [
@@ -218,7 +219,7 @@
         "alias_GER_V": [
           "Republik Costa Rica"
         ], 
-        "ne:ISO_N3": 188.0, 
+        "fullname": "Costa Rica", 
         "lang": "ENG", 
         "name": "Costa Rica", 
         "alias_UNK_S": [
@@ -229,14 +230,15 @@
           "Kostarika"
         ], 
         "ne:POSTAL": "CR", 
-        "ne_longitude": -82.54619625520348, 
+        "ne:NAME_SORT": "Costa Rica", 
         "longitude": -84.253, 
         "ne:POP_EST": 4253877.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": -82.54619625520348, 
         "iso": "CR", 
         "sw_latitude": 8.225027980985985, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 48320.0, 
+        "ne:SOVEREIGNT": "Costa Rica", 
         "ne:SU_DIF": 0.0
       }, 
       "bbox": [
@@ -244,8 +246,7 @@
         8.225027980985985, 
         -82.54619625520348, 
         11.217119248901597
-      ], 
-      "id": 23424791
+      ]
     }
   ]
 }

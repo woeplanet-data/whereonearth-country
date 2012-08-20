@@ -53,13 +53,11 @@
           ]
         ]
       }, 
+      "id": 23424873, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Lebanese"
-        ], 
-        "alias_HUN_Q": [
-          "Libanon"
         ], 
         "alias_SWE_Q": [
           "Libanon"
@@ -68,23 +66,26 @@
           "Liban"
         ], 
         "ne_latitude": 34.644914048800004, 
+        "ne:GU_A3": "LBN", 
         "alias_RUM_Q": [
           "Liban"
         ], 
-        "ne:NAME_SORT": "Lebanon", 
+        "alias_UNK_V": [
+          "Libanonska republika"
+        ], 
         "placetype": "Country", 
         "alias_POR_Q": [
           "L\u00edbano"
         ], 
-        "alias_ENG_A": [
-          "LB"
+        "alias_KOR_Q": [
+          "\ub808\ubc14\ub17c"
         ], 
         "ne:SUBUNIT": "Lebanon", 
+        "ne:ISO_N3": 422.0, 
         "alias_ARA_V": [
           "Al Lubn"
         ], 
         "ne:ADM0_A3": "LBN", 
-        "ne:SOVEREIGNT": "Lebanon", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u9ece\u5df4\u5ae9"
@@ -92,14 +93,11 @@
         "alias_ITA_Q": [
           "Libano"
         ], 
-        "alias_GER_V": [
-          "Libanesische Republik"
+        "alias_DAN_Q": [
+          "Libanon"
         ], 
         "ne:NAME": "Lebanon", 
         "ne:POSTAL": "LB", 
-        "alias_KOR_Q": [
-          "\ub808\ubc14\ub17c"
-        ], 
         "alias_JPN_Q": [
           "\u30ec\u30d0\u30ce\u30f3"
         ], 
@@ -127,22 +125,22 @@
         "ne:ISO_A2": "LB", 
         "date_indexed": "2010-12-02T16:50:08Z", 
         "ne:NAME_FORMA": "Lebanese Republic", 
-        "fullname": "Lebanon", 
-        "alias_FRE_V": [
-          "R\u00e9publique Libanaise"
+        "alias_CHI_V": [
+          "\u9ece\u5df4\u5ae9"
         ], 
-        "ne:GU_A3": "LBN", 
+        "alias_ENG_A": [
+          "LB"
+        ], 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Lebanon", 
         "ne:SU_A3": "LBN", 
         "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 44060.0, 
         "alias_SPA_V": [
           "el pa\u00eds del cedro"
         ], 
+        "wikipedia:id": "17771", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Libanonska republika"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Libanon"
@@ -154,13 +152,13 @@
         "alias_FIN_Q": [
           "Libanonista"
         ], 
-        "alias_DAN_Q": [
-          "Libanon"
+        "alias_GER_V": [
+          "Libanesische Republik"
         ], 
         "alias_GER_Q": [
           "Libanon"
         ], 
-        "ne:ISO_N3": 422.0, 
+        "fullname": "Lebanon", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Lebanon", 
         "name": "Lebanon", 
@@ -169,16 +167,20 @@
         "alias_UNK_Q": [
           "Lubnan"
         ], 
-        "alias_CHI_V": [
-          "\u9ece\u5df4\u5ae9"
+        "alias_HUN_Q": [
+          "Libanon"
         ], 
-        "ne_longitude": 36.61175011571589, 
+        "ne:NAME_SORT": "Lebanon", 
         "longitude": 35.877, 
         "ne:POP_EST": 4017095.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 36.61175011571589, 
         "iso": "LB", 
         "sw_latitude": 33.08904002535628, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 44060.0, 
+        "alias_FRE_V": [
+          "R\u00e9publique Libanaise"
+        ], 
+        "ne:SOVEREIGNT": "Lebanon", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Liban"
@@ -189,8 +191,7 @@
         33.08904002535628, 
         36.61175011571589, 
         34.644914048800004
-      ], 
-      "id": 23424873
+      ]
     }
   ]
 }

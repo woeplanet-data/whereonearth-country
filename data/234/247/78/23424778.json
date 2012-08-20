@@ -49,20 +49,20 @@
           ]
         ]
       }, 
+      "id": 23424778, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Ceylon"
-        ], 
-        "alias_HUN_Q": [
-          "Sr\u00ed Lanka"
         ], 
         "alias_ENG_A": [
           "LK"
         ], 
         "ne:LEVEL": 2.0, 
         "ne_latitude": 9.824077663609557, 
-        "ne:NAME_SORT": "Sri Lanka", 
+        "alias_UNK_V": [
+          "Sr\u00ed-Lanka"
+        ], 
         "placetype": "Country", 
         "alias_POR_V": [
           "Sri Lanca"
@@ -71,12 +71,13 @@
           "\uc2a4\ub9ac\ub791\uce74"
         ], 
         "ne:SUBUNIT": "Sri Lanka", 
+        "ne:ISO_N3": 144.0, 
         "ne:ADM0_A3": "LKA", 
-        "ne:SOVEREIGNT": "Sri Lanka", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u91cc\u862d\u5361"
         ], 
+        "ne:GDP_MD_EST": 91870.0, 
         "ne:NAME": "Sri Lanka", 
         "ne:POSTAL": "LK", 
         "alias_JPN_Q": [
@@ -102,7 +103,9 @@
         "ne:ISO_A2": "LK", 
         "date_indexed": "2010-12-02T17:56:32Z", 
         "ne:NAME_FORMA": "Democratic Socialist Republic of Sri Lanka", 
-        "fullname": "Sri Lanka", 
+        "alias_CHI_V": [
+          "\u65af\u91cc\u5170\u5361"
+        ], 
         "ne:GU_A3": "LKA", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Sri Lanka", 
@@ -110,9 +113,6 @@
         "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
-        "alias_UNK_V": [
-          "Sr\u00ed-Lanka"
-        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
           "Sr\u00ed Lanka"
@@ -124,7 +124,7 @@
         "alias_GER_V": [
           "Demokratische Sozialistische Republik Sri Lanka"
         ], 
-        "ne:ISO_N3": 144.0, 
+        "fullname": "Sri Lanka", 
         "lang": "ENG", 
         "name": "Sri Lanka", 
         "alias_UNK_S": [
@@ -132,25 +132,26 @@
         ], 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u65af\u91cc\u5170\u5361"
+        "alias_HUN_Q": [
+          "Sr\u00ed Lanka"
         ], 
-        "ne_longitude": 81.7879590188914, 
+        "ne:NAME_SORT": "Sri Lanka", 
         "longitude": 80.79, 
         "ne:POP_EST": 21324791.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 81.7879590188914, 
         "iso": "LK", 
         "sw_latitude": 5.968369859232155, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 91870.0
+        "ne:SOVEREIGNT": "Sri Lanka", 
+        "wikipedia:id": "26750"
       }, 
       "bbox": [
         79.69516686393513, 
         5.968369859232155, 
         81.7879590188914, 
         9.824077663609557
-      ], 
-      "id": 23424778
+      ]
     }
   ]
 }
