@@ -1,7 +1,7 @@
 whereonearth-country
 ==
 
-tl;dr
+The short version
 --
 
 Where On Earth (WOE) data for countries smushed up with Natural Earth data for
