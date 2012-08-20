@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              73.558, 
+              15.775
+            ], 
+            [
+              73.558, 
+              53.561
+            ], 
+            [
+              134.774, 
+              53.561
+            ], 
+            [
+              134.774, 
+              15.775
+            ], 
+            [
+              73.558, 
+              15.775
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Chi\u0144ska Republika Ludowa"
+        ], 
+        "alias_ENG_V": [
+          "China Peoples Rep"
+        ], 
+        "alias_SWE_V": [
+          "Folkrepubliken Kina"
+        ], 
+        "alias_SWE_Q": [
+          "Kina"
+        ], 
+        "alias_POL_Q": [
+          "Chiny"
+        ], 
+        "ne_latitude": 53.561, 
+        "alias_RUM_Q": [
+          "China"
+        ], 
+        "alias_UNK_V": [
+          "Aomen"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica Popular da China"
+        ], 
+        "alias_POR_Q": [
+          "China"
+        ], 
+        "alias_ENG_A": [
+          "CHN"
+        ], 
+        "alias_CZE_Q": [
+          "\u010c\u00edna"
+        ], 
+        "alias_ITA_Q": [
+          "Cina"
+        ], 
+        "alias_GER_V": [
+          "China - Volksrepublik"
+        ], 
+        "alias_ITA_V": [
+          "Repubblica Popolare Cinese"
+        ], 
+        "alias_CHI_V": [
+          "\u4e2d\u56fd"
+        ], 
+        "woeid": 23424781, 
+        "alias_JPN_Q": [
+          "\u4e2d\u56fd"
+        ], 
+        "alias_ENG_P": [
+          "China"
+        ], 
+        "alias_JPN_V": [
+          "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "China"
+        ], 
+        "alias_FIN_Q": [
+          "Kiina"
+        ], 
+        "sw_longitude": 73.558, 
+        "alias_FIN_V": [
+          "Kiinan kansantasavalta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.894, 
+        "alias_NOR_Q": [
+          "Kina"
+        ], 
+        "alias_NOR_V": [
+          "Folkerepublikken Kina"
+        ], 
+        "date_indexed": "2010-12-02T08:51:54Z", 
+        "alias_FRE_V": [
+          "R\u00e9publique Populaire de Chine"
+        ], 
+        "alias_KOR_Q": [
+          "\uc911\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Folkerepublikken Kina"
+        ], 
+        "alias_SPA_V": [
+          "Rep\u00fablica Popular China"
+        ], 
+        "alias_DUT_Q": [
+          "China"
+        ], 
+        "alias_DUT_V": [
+          "Volksrepubliek China"
+        ], 
+        "alias_DAN_Q": [
+          "Kina"
+        ], 
+        "alias_GER_Q": [
+          "China"
+        ], 
+        "lang": "CHI", 
+        "name": "\u4e2d\u570b", 
+        "alias_CZE_V": [
+          "\u010c\u00ednsk\u00e1 lidov\u00e1 republika"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kitajska"
+        ], 
+        "ne_longitude": 134.774, 
+        "longitude": 104.166, 
+        "iso": "CN", 
+        "sw_latitude": 15.775, 
+        "alias_RUM_V": [
+          "Republica Popular\u0103 Chinez\u0103"
+        ], 
+        "fullname": "\u4e2d\u570b, China", 
+        "alias_FRE_S": [
+          "Republique Populaire de Chine"
+        ], 
+        "alias_FRE_Q": [
+          "Chine"
+        ]
+      }, 
+      "id": 23424781
+    }
+  ]
+}

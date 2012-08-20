@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.736, 
+              49.448
+            ], 
+            [
+              5.736, 
+              50.183
+            ], 
+            [
+              6.531, 
+              50.183
+            ], 
+            [
+              6.531, 
+              49.448
+            ], 
+            [
+              5.736, 
+              49.448
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Luxembourgois"
+        ], 
+        "alias_SWE_Q": [
+          "Luxemburg"
+        ], 
+        "alias_POL_Q": [
+          "Luksemburg"
+        ], 
+        "ne_latitude": 50.183, 
+        "alias_RUM_Q": [
+          "Luxemburg"
+        ], 
+        "alias_UNK_V": [
+          "Veliko vojvodstvo Luksemburg"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Luxemburgo"
+        ], 
+        "alias_ENG_A": [
+          "LUX"
+        ], 
+        "alias_CHI_Q": [
+          "\u76e7\u68ee\u5821"
+        ], 
+        "alias_ITA_Q": [
+          "Lussemburgo"
+        ], 
+        "alias_CHI_V": [
+          "\u5362\u68ee\u5821"
+        ], 
+        "woeid": 23424881, 
+        "alias_JPN_Q": [
+          "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af"
+        ], 
+        "alias_JPN_V": [
+          "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30b0"
+        ], 
+        "alias_SPA_Q": [
+          "Luxemburgo"
+        ], 
+        "alias_FIN_Q": [
+          "Luxemburgin"
+        ], 
+        "sw_longitude": 5.736, 
+        "alias_FIN_V": [
+          "Luxemburgista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.815, 
+        "date_indexed": "2010-12-02T08:54:20Z", 
+        "alias_KOR_Q": [
+          "\ub8e9\uc148\ubd80\ub974\ud06c"
+        ], 
+        "alias_DUT_Q": [
+          "Luxemburg"
+        ], 
+        "alias_CZE_Q": [
+          "Lucemburk"
+        ], 
+        "alias_DAN_S": [
+          "Storhertugdommet Luxemburg"
+        ], 
+        "alias_GER_V": [
+          "Gro\u00dfherzogtum Luxemburg"
+        ], 
+        "alias_DAN_V": [
+          "Storhertugd\u00f8mmet Luxemburg"
+        ], 
+        "alias_GER_S": [
+          "Grossherzogtum Luxemburg"
+        ], 
+        "lang": "FRE", 
+        "name": "Luxembourg", 
+        "alias_CZE_V": [
+          "Lucembursko"
+        ], 
+        "alias_UNK_S": [
+          "Louxemvourgo"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Luksemburg"
+        ], 
+        "alias_HUN_Q": [
+          "Luxemburg"
+        ], 
+        "alias_GER_Q": [
+          "Luxemburg"
+        ], 
+        "ne_longitude": 6.531, 
+        "longitude": 6.133, 
+        "iso": "LU", 
+        "sw_latitude": 49.448, 
+        "alias_FRE_V": [
+          "Grand-Duch\u00e9 de Luxembourg"
+        ], 
+        "fullname": "Luxembourg"
+      }, 
+      "id": 23424881
+    }
+  ]
+}

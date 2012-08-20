@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.263, 
+              59.777
+            ], 
+            [
+              -73.263, 
+              83.627
+            ], 
+            [
+              -11.312, 
+              83.627
+            ], 
+            [
+              -11.312, 
+              59.777
+            ], 
+            [
+              -73.263, 
+              59.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Greenlander"
+        ], 
+        "alias_SWE_Q": [
+          "Gr\u00f6nland"
+        ], 
+        "alias_POL_Q": [
+          "Grenlandia"
+        ], 
+        "ne_latitude": 83.627, 
+        "alias_RUM_Q": [
+          "Groenlanda"
+        ], 
+        "alias_UNK_V": [
+          "Gr\u00f6nlanti"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uadf8\ub9b0\ub79c\ub4dc"
+        ], 
+        "alias_POR_V": [
+          "Gro\u00eanlandia"
+        ], 
+        "alias_POR_Q": [
+          "Gronel\u00e2ndia"
+        ], 
+        "alias_ENG_A": [
+          "GL"
+        ], 
+        "alias_POR_S": [
+          "Gronelandia"
+        ], 
+        "alias_CHI_Q": [
+          "\u683c\u9675\u862d"
+        ], 
+        "alias_ITA_Q": [
+          "Groenlandia"
+        ], 
+        "alias_CHI_V": [
+          "\u683c\u9675\u5170"
+        ], 
+        "woeid": 23424828, 
+        "alias_JPN_Q": [
+          "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9"
+        ], 
+        "alias_SWE_S": [
+          "Gronland"
+        ], 
+        "alias_SPA_Q": [
+          "Groenlandia"
+        ], 
+        "alias_FIN_S": [
+          "Gronlannista"
+        ], 
+        "sw_longitude": -73.263, 
+        "alias_FIN_V": [
+          "Gr\u00f6nlannista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 71.802, 
+        "alias_NOR_S": [
+          "Gronland"
+        ], 
+        "alias_NOR_Q": [
+          "Gr\u00f8nland"
+        ], 
+        "date_indexed": "2010-12-02T17:40:29Z", 
+        "alias_KOR_Q": [
+          "\uadf8\ub9b0\ub780\ub4dc"
+        ], 
+        "alias_DAN_V": [
+          "Kalaalit Nunnat"
+        ], 
+        "alias_DUT_Q": [
+          "Groenland"
+        ], 
+        "alias_CZE_S": [
+          "Gronsko"
+        ], 
+        "alias_CZE_Q": [
+          "Gr\u00f3nsko"
+        ], 
+        "alias_DAN_S": [
+          "Gronland"
+        ], 
+        "alias_DAN_Q": [
+          "Gr\u00f8nland"
+        ], 
+        "alias_GER_Q": [
+          "Gr\u00f6nland"
+        ], 
+        "alias_GER_S": [
+          "Gronland"
+        ], 
+        "lang": "ENG", 
+        "name": "Greenland", 
+        "alias_UNK_S": [
+          "Groenlanti"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gr\u00e6nland"
+        ], 
+        "alias_HUN_Q": [
+          "Gr\u00f6nland"
+        ], 
+        "ne_longitude": -11.312, 
+        "longitude": -42.177, 
+        "iso": "GL", 
+        "sw_latitude": 59.777, 
+        "fullname": "Greenland", 
+        "alias_FRE_Q": [
+          "Groenland"
+        ]
+      }, 
+      "id": 23424828
+    }
+  ]
+}

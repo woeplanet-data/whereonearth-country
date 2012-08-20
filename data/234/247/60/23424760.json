@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.225, 
+              15.889
+            ], 
+            [
+              -89.225, 
+              18.497
+            ], 
+            [
+              -87.468, 
+              18.497
+            ], 
+            [
+              -87.468, 
+              15.889
+            ], 
+            [
+              -89.225, 
+              15.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Belizean"
+        ], 
+        "alias_ENG_A": [
+          "BZ"
+        ], 
+        "ne_latitude": 18.497, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubca8\ub9ac\uc988"
+        ], 
+        "alias_CHI_Q": [
+          "\u8c9d\u91cc\u65af"
+        ], 
+        "alias_CHI_V": [
+          "\u8c9d\u91cc\u65af"
+        ], 
+        "woeid": 23424760, 
+        "alias_JPN_Q": [
+          "\u30d9\u30ea\u30fc\u30ba"
+        ], 
+        "alias_SPA_Q": [
+          "Belice"
+        ], 
+        "sw_longitude": -89.225, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.193, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "lang": "ENG", 
+        "name": "Belize", 
+        "alias_UNK_S": [
+          "Belis"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Bel\u00eds"
+        ], 
+        "ne_longitude": -87.468, 
+        "longitude": -88.653, 
+        "iso": "BZ", 
+        "sw_latitude": 15.889, 
+        "fullname": "Belize"
+      }, 
+      "id": 23424760
+    }
+  ]
+}

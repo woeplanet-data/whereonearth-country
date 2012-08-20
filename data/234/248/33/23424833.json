@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.374, 
+              34.810
+            ], 
+            [
+              19.374, 
+              41.757
+            ], 
+            [
+              29.701, 
+              41.757
+            ], 
+            [
+              29.701, 
+              34.810
+            ], 
+            [
+              19.374, 
+              34.810
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Hellenic Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Grekland"
+        ], 
+        "alias_POL_Q": [
+          "Grecja"
+        ], 
+        "ne_latitude": 41.757, 
+        "alias_RUM_Q": [
+          "Grecia"
+        ], 
+        "alias_UNK_V": [
+          "Helenska republika"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Gr\u00e9cia"
+        ], 
+        "alias_ENG_A": [
+          "GR"
+        ], 
+        "alias_CHI_Q": [
+          "\u5e0c\u81d8"
+        ], 
+        "alias_ITA_Q": [
+          "Grecia"
+        ], 
+        "alias_GER_V": [
+          "Hellenische Republik"
+        ], 
+        "alias_CHI_V": [
+          "\u5e0c\u814a"
+        ], 
+        "woeid": 23424833, 
+        "alias_JPN_Q": [
+          "\u30ae\u30ea\u30b7\u30e3"
+        ], 
+        "alias_ENG_P": [
+          "Greece"
+        ], 
+        "alias_JPN_V": [
+          "\u30ae\u30ea\u30b7\u30e3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Grecia"
+        ], 
+        "alias_FIN_Q": [
+          "Creece"
+        ], 
+        "sw_longitude": 19.374, 
+        "alias_FIN_V": [
+          "Kreikka"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.072, 
+        "alias_NOR_Q": [
+          "Hellas"
+        ], 
+        "date_indexed": "2010-12-02T16:52:21Z", 
+        "alias_KOR_Q": [
+          "\uadf8\ub9ac\uc2a4"
+        ], 
+        "alias_SPA_V": [
+          "Gr\u00e8cia"
+        ], 
+        "alias_DUT_Q": [
+          "Griekenland"
+        ], 
+        "alias_CZE_Q": [
+          "\u0158ecko"
+        ], 
+        "alias_DAN_S": [
+          "Graekenland"
+        ], 
+        "alias_DAN_Q": [
+          "Gr\u00e6kenland"
+        ], 
+        "alias_GER_Q": [
+          "Griechenland"
+        ], 
+        "lang": "UNK", 
+        "name": "Ell\u00e1s", 
+        "alias_UNK_S": [
+          "Ellas"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Grikkland"
+        ], 
+        "alias_HUN_Q": [
+          "G\u00f6r\u00f6gorsz\u00e1g"
+        ], 
+        "ne_longitude": 29.701, 
+        "longitude": 21.846, 
+        "iso": "GR", 
+        "sw_latitude": 34.810, 
+        "alias_HUN_S": [
+          "Gorogorszag"
+        ], 
+        "fullname": "Ell\u00e1s, Greece", 
+        "alias_FRE_S": [
+          "Grece"
+        ], 
+        "alias_FRE_Q": [
+          "Gr\u00e8ce"
+        ]
+      }, 
+      "id": 23424833
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.525, 
+              -20.250
+            ], 
+            [
+              166.525, 
+              -13.073
+            ], 
+            [
+              170.235, 
+              -13.073
+            ], 
+            [
+              170.235, 
+              -20.250
+            ], 
+            [
+              166.525, 
+              -20.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Ni-Vanuatu"
+        ], 
+        "alias_ENG_A": [
+          "VU"
+        ], 
+        "ne_latitude": -13.073, 
+        "ne_longitude": 170.235, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubc14\ub204\uc544\ud22c"
+        ], 
+        "alias_CHI_Q": [
+          "\u842c\u90a3\u675c"
+        ], 
+        "alias_CHI_V": [
+          "\u842c\u90a3\u675c"
+        ], 
+        "woeid": 23424907, 
+        "alias_JPN_Q": [
+          "\u30d0\u30cc\u30a2\u30c4"
+        ], 
+        "alias_JPN_V": [
+          "\u30f4\u30a1\u30cc\u30a2\u30c4"
+        ], 
+        "sw_longitude": 166.525, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -15.147, 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "lang": "ENG", 
+        "name": "Vanuatu", 
+        "parent_woeid": 1, 
+        "alias_UNK_V": [
+          "Republika Vanuatu"
+        ], 
+        "longitude": 167.038, 
+        "iso": "VU", 
+        "sw_latitude": -20.250, 
+        "alias_FRE_V": [
+          "R\u00e9publique de Vanuatu"
+        ], 
+        "fullname": "Vanuatu", 
+        "alias_FRE_S": [
+          "Iles Vanuatu"
+        ]
+      }, 
+      "id": 23424907
+    }
+  ]
+}

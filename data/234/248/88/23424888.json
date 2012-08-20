@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.243, 
+              16.671
+            ], 
+            [
+              -62.243, 
+              16.817
+            ], 
+            [
+              -62.146, 
+              16.817
+            ], 
+            [
+              -62.146, 
+              16.671
+            ], 
+            [
+              -62.243, 
+              16.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Montserratian"
+        ], 
+        "alias_ENG_A": [
+          "MS"
+        ], 
+        "ne_latitude": 16.817, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubaac\ud2b8\uc138\ub77c\ud2b8"
+        ], 
+        "alias_POR_V": [
+          "Monserrate"
+        ], 
+        "alias_KOR_Q": [
+          "\ubaac\ud2b8\uc138\ub7ab"
+        ], 
+        "alias_CHI_Q": [
+          "\u8499\u7279\u585e\u62c9\u7279"
+        ], 
+        "alias_ITA_V": [
+          "Monserrat"
+        ], 
+        "woeid": 23424888, 
+        "alias_JPN_Q": [
+          "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8\u5cf6"
+        ], 
+        "sw_longitude": -62.243, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.744, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "lang": "ENG", 
+        "name": "Montserrat", 
+        "parent_woeid": 1, 
+        "ne_longitude": -62.146, 
+        "longitude": -62.194, 
+        "iso": "MS", 
+        "sw_latitude": 16.671, 
+        "fullname": "Montserrat"
+      }, 
+      "id": 23424888
+    }
+  ]
+}

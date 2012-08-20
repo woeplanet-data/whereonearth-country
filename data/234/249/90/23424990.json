@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.103, 
+              20.774
+            ], 
+            [
+              -17.103, 
+              27.703
+            ], 
+            [
+              -8.669, 
+              27.703
+            ], 
+            [
+              -8.669, 
+              20.774
+            ], 
+            [
+              -17.103, 
+              20.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Sahraouian"
+        ], 
+        "alias_SWE_V": [
+          "V\u00e4stsahara"
+        ], 
+        "alias_SWE_Q": [
+          "Spanska Sahara"
+        ], 
+        "alias_POL_Q": [
+          "Sahara Zachodnia"
+        ], 
+        "ne_latitude": 27.703, 
+        "alias_RUM_Q": [
+          "Sahara Occidental\u0103"
+        ], 
+        "alias_UNK_V": [
+          "Vestsahara"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Sara Ocidental"
+        ], 
+        "alias_POR_Q": [
+          "Saara Ocidental"
+        ], 
+        "alias_ENG_A": [
+          "EH"
+        ], 
+        "alias_CZE_Q": [
+          "Z\u00e1padn\u00ed Sahara"
+        ], 
+        "alias_CHI_Q": [
+          "\u897f\u6492\u54c8\u62c9"
+        ], 
+        "alias_ITA_Q": [
+          "Sahara Occidentale"
+        ], 
+        "alias_CHI_V": [
+          "\u897f\u6492\u54c8\u62c9"
+        ], 
+        "woeid": 23424990, 
+        "alias_JPN_Q": [
+          "\u897f\u30b5\u30cf\u30e9"
+        ], 
+        "alias_SWE_S": [
+          "Vaestsahara"
+        ], 
+        "alias_SPA_Q": [
+          "Sahara Occidental"
+        ], 
+        "alias_FIN_Q": [
+          "L\u00e4nsi-Sahara"
+        ], 
+        "alias_FIN_S": [
+          "Lansi-Sahara"
+        ], 
+        "sw_longitude": -17.103, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.238, 
+        "alias_NOR_Q": [
+          "Vest-Sahara"
+        ], 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "alias_KOR_Q": [
+          "\uc11c\uc0ac\ud558\ub77c"
+        ], 
+        "alias_DUT_Q": [
+          "Westelijke Sahara"
+        ], 
+        "alias_DUT_V": [
+          "Sahara Westelijke"
+        ], 
+        "alias_DAN_Q": [
+          "Vestsahara"
+        ], 
+        "alias_GER_Q": [
+          "Westsahara"
+        ], 
+        "lang": "ENG", 
+        "name": "Western Sahara", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Zahodna Sahara"
+        ], 
+        "alias_HUN_Q": [
+          "Nyugat-Szahara"
+        ], 
+        "ne_longitude": -8.669, 
+        "longitude": -12.886, 
+        "iso": "EH", 
+        "sw_latitude": 20.774, 
+        "fullname": "Western Sahara", 
+        "alias_FRE_Q": [
+          "Sahara Occidental"
+        ]
+      }, 
+      "id": 23424990
+    }
+  ]
+}

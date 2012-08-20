@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              112.911, 
+              -54.617
+            ], 
+            [
+              112.911, 
+              -9.133
+            ], 
+            [
+              159.251, 
+              -9.133
+            ], 
+            [
+              159.251, 
+              -54.617
+            ], 
+            [
+              112.911, 
+              -54.617
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Osutoraria"
+        ], 
+        "alias_ENG_S": [
+          "Land down Under"
+        ], 
+        "alias_SWE_Q": [
+          "Australien"
+        ], 
+        "ne_latitude": -9.133, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud638\uc8fc"
+        ], 
+        "alias_POR_Q": [
+          "Austr\u00e1lia"
+        ], 
+        "alias_ENG_A": [
+          "AU"
+        ], 
+        "alias_CHI_Q": [
+          "\u6fb3\u5927\u5229\u4e9e"
+        ], 
+        "woeid": 23424748, 
+        "alias_JPN_Q": [
+          "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
+        ], 
+        "alias_FIN_Q": [
+          "Austraalia"
+        ], 
+        "sw_longitude": 112.911, 
+        "alias_FIN_V": [
+          "Australi"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -24.916, 
+        "date_indexed": "2010-12-02T17:46:05Z", 
+        "alias_KOR_Q": [
+          "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Australi\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Austr\u00e1lie"
+        ], 
+        "alias_DAN_Q": [
+          "Australien"
+        ], 
+        "alias_GER_Q": [
+          "Australien"
+        ], 
+        "lang": "ENG", 
+        "name": "Australia", 
+        "alias_UNK_S": [
+          "Astralia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "\u00c1stral\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Ausztr\u00e1lia"
+        ], 
+        "ne_longitude": 159.251, 
+        "longitude": 133.393, 
+        "iso": "AU", 
+        "sw_latitude": -54.617, 
+        "fullname": "Australia", 
+        "alias_FRE_Q": [
+          "Australie"
+        ]
+      }, 
+      "id": 23424748
+    }
+  ]
+}

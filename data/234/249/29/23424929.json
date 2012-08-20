@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.718, 
+              10.860
+            ], 
+            [
+              -16.718, 
+              12.681
+            ], 
+            [
+              -13.637, 
+              12.681
+            ], 
+            [
+              -13.637, 
+              10.860
+            ], 
+            [
+              -16.718, 
+              10.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Guinea-Bissau"
+        ], 
+        "alias_KOR_Q": [
+          "\uae30\ub2c8\ube44\uc0ac\uc6b0"
+        ], 
+        "alias_POL_Q": [
+          "Gwinea Bissau"
+        ], 
+        "ne_latitude": 12.681, 
+        "alias_RUM_Q": [
+          "Guineea-Bissau"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uae30\ub124\ube44\uc18c"
+        ], 
+        "alias_POR_V": [
+          "Guin\u00e9 Bissau"
+        ], 
+        "alias_POR_Q": [
+          "Guin\u00e9-Bissau"
+        ], 
+        "alias_ENG_A": [
+          "GW"
+        ], 
+        "alias_POR_S": [
+          "Guine-Bissau"
+        ], 
+        "alias_CHI_Q": [
+          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
+        ], 
+        "alias_CHI_V": [
+          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
+        ], 
+        "woeid": 23424929, 
+        "alias_JPN_Q": [
+          "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6"
+        ], 
+        "alias_JPN_V": [
+          "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -16.718, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.803, 
+        "date_indexed": "2010-12-02T09:57:34Z", 
+        "alias_DUT_Q": [
+          "Guinee-Bissau"
+        ], 
+        "alias_GER_V": [
+          "Republik Guinea-Bissau"
+        ], 
+        "lang": "ENG", 
+        "name": "Guinea-Bissau", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gvineja Bissau"
+        ], 
+        "alias_HUN_Q": [
+          "Bissau-Guinea"
+        ], 
+        "ne_longitude": -13.637, 
+        "longitude": -15.177, 
+        "iso": "GW", 
+        "sw_latitude": 10.860, 
+        "fullname": "Guinea-Bissau", 
+        "alias_FRE_Q": [
+          "Guin\u00e9e-Bissau"
+        ]
+      }, 
+      "id": 23424929
+    }
+  ]
+}

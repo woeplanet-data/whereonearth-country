@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              102.148, 
+              8.408
+            ], 
+            [
+              102.148, 
+              23.389
+            ], 
+            [
+              109.467, 
+              23.389
+            ], 
+            [
+              109.467, 
+              8.408
+            ], 
+            [
+              102.148, 
+              8.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Socialist Republic of Vietnam"
+        ], 
+        "alias_KOR_Q": [
+          "\ubca0\ud2b8\ub0a8"
+        ], 
+        "alias_POL_Q": [
+          "Wietnam"
+        ], 
+        "ne_latitude": 23.389, 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Vietn\u00e3"
+        ], 
+        "alias_POR_Q": [
+          "Vietname"
+        ], 
+        "alias_ENG_A": [
+          "VN"
+        ], 
+        "alias_CHI_Q": [
+          "\u8d8a\u5357"
+        ], 
+        "woeid": 23424984, 
+        "alias_JPN_Q": [
+          "\u30d9\u30c8\u30ca\u30e0"
+        ], 
+        "alias_JPN_V": [
+          "\u30d9\u30c8\u30ca\u30e0\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 102.148, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.974, 
+        "date_indexed": "2010-12-02T08:52:49Z", 
+        "alias_DUT_V": [
+          "Viet-Nam"
+        ], 
+        "lang": "ENG", 
+        "name": "Vietnam", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "V\u00edetnam"
+        ], 
+        "ne_longitude": 109.467, 
+        "longitude": 107.868, 
+        "iso": "VN", 
+        "sw_latitude": 8.408, 
+        "alias_FRE_V": [
+          "Viet Nam"
+        ], 
+        "fullname": "Vietnam", 
+        "alias_FRE_Q": [
+          "Vi\u00eat Nam"
+        ]
+      }, 
+      "id": 23424984
+    }
+  ]
+}

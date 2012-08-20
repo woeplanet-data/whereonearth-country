@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.237, 
+              -22.418
+            ], 
+            [
+              25.237, 
+              -15.609
+            ], 
+            [
+              33.056, 
+              -15.609
+            ], 
+            [
+              33.056, 
+              -22.418
+            ], 
+            [
+              25.237, 
+              -22.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Southern Rhodesia"
+        ], 
+        "alias_ENG_A": [
+          "ZW"
+        ], 
+        "ne_latitude": -15.609, 
+        "alias_UNK_V": [
+          "Republika Zimbabve"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Zimb\u00e1bwe"
+        ], 
+        "alias_KOR_Q": [
+          "\uc9d0\ubc14\ube0c\uc6e8"
+        ], 
+        "alias_POR_S": [
+          "Zimbabue"
+        ], 
+        "alias_CHI_Q": [
+          "\u8f9b\u5df4\u5a01"
+        ], 
+        "alias_CHI_V": [
+          "\u8f9b\u5df4\u5a01"
+        ], 
+        "woeid": 23425004, 
+        "alias_JPN_Q": [
+          "\u30b8\u30f3\u30d0\u30d6\u30a8"
+        ], 
+        "alias_JPN_V": [
+          "\u30b8\u30f3\u30d0\u30d6\u30a8\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Zimbabue"
+        ], 
+        "sw_longitude": 25.237, 
+        "alias_SPA_V": [
+          "Zimbawe"
+        ], 
+        "latitude": -19.013, 
+        "date_indexed": "2010-12-02T16:52:36Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_GER_V": [
+          "S\u00fcdrhodesien"
+        ], 
+        "alias_GER_Q": [
+          "Simbabwe"
+        ], 
+        "lang": "ENG", 
+        "name": "Zimbabwe", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Simbabve"
+        ], 
+        "ne_longitude": 33.056, 
+        "longitude": 29.147, 
+        "iso": "ZW", 
+        "sw_latitude": -22.418, 
+        "fullname": "Zimbabwe"
+      }, 
+      "id": 23425004
+    }
+  ]
+}

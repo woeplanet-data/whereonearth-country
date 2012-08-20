@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -18.159, 
+              27.636
+            ], 
+            [
+              -18.159, 
+              43.790
+            ], 
+            [
+              4.328, 
+              43.790
+            ], 
+            [
+              4.328, 
+              27.636
+            ], 
+            [
+              -18.159, 
+              27.636
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Spanish State"
+        ], 
+        "alias_SWE_Q": [
+          "Spanien"
+        ], 
+        "alias_POL_Q": [
+          "Hiszpania"
+        ], 
+        "ne_latitude": 43.790, 
+        "alias_RUM_Q": [
+          "Spania"
+        ], 
+        "alias_UNK_V": [
+          "Ispan\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc5d0\uc2a4\ud30c\ub0d0"
+        ], 
+        "alias_POR_Q": [
+          "Espanha"
+        ], 
+        "alias_ENG_A": [
+          "ES"
+        ], 
+        "alias_CHI_Q": [
+          "\u897f\u73ed\u7259"
+        ], 
+        "alias_ITA_Q": [
+          "Spagna"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Spanien"
+        ], 
+        "woeid": 23424950, 
+        "alias_JPN_Q": [
+          "\u30b9\u30da\u30a4\u30f3"
+        ], 
+        "alias_ENG_P": [
+          "Spain"
+        ], 
+        "alias_FIN_Q": [
+          "Espanja"
+        ], 
+        "alias_SPA_S": [
+          "Espana"
+        ], 
+        "sw_longitude": -18.159, 
+        "alias_FIN_V": [
+          "Espanjan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.895, 
+        "alias_NOR_Q": [
+          "Spania"
+        ], 
+        "date_indexed": "2010-12-02T17:38:37Z", 
+        "alias_KOR_Q": [
+          "\uc2a4\ud398\uc778"
+        ], 
+        "alias_SPA_V": [
+          "la Madre Patria"
+        ], 
+        "alias_DUT_Q": [
+          "Spanje"
+        ], 
+        "alias_CZE_Q": [
+          "\u0160pan\u011blsko"
+        ], 
+        "alias_DAN_Q": [
+          "Spanien"
+        ], 
+        "alias_GER_Q": [
+          "Spanien"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Spanien"
+        ], 
+        "lang": "SPA", 
+        "name": "Espa\u00f1a", 
+        "alias_UNK_S": [
+          "Ispania"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Espanya"
+        ], 
+        "alias_HUN_Q": [
+          "Spanyolorsz\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "Spanjolorsz\u00e1g"
+        ], 
+        "ne_longitude": 4.328, 
+        "longitude": -2.989, 
+        "iso": "ES", 
+        "sw_latitude": 27.636, 
+        "alias_HUN_S": [
+          "Spanjolorszag"
+        ], 
+        "fullname": "Espa\u00f1a, Spain", 
+        "alias_FRE_Q": [
+          "Espagne"
+        ]
+      }, 
+      "id": 23424950
+    }
+  ]
+}

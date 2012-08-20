@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              80.056, 
+              26.357
+            ], 
+            [
+              80.056, 
+              30.433
+            ], 
+            [
+              88.199, 
+              30.433
+            ], 
+            [
+              88.199, 
+              26.357
+            ], 
+            [
+              80.056, 
+              26.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Nepal"
+        ], 
+        "alias_ENG_A": [
+          "NP"
+        ], 
+        "ne_latitude": 30.433, 
+        "alias_UNK_V": [
+          "Kraljevina Nepal"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ub124\ud314"
+        ], 
+        "alias_CHI_Q": [
+          "\u5c3c\u6cca\u723e"
+        ], 
+        "alias_CHI_V": [
+          "\u5c3c\u6cca\u723e"
+        ], 
+        "woeid": 23424911, 
+        "alias_JPN_Q": [
+          "\u30cd\u30d1\u30fc\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30cd\u30d1\u30fc\u30eb\u738b\u56fd"
+        ], 
+        "sw_longitude": 80.056, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.395, 
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "alias_CZE_Q": [
+          "Nep\u00e1l"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Nepal"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Nepal"
+        ], 
+        "lang": "ENG", 
+        "name": "Nepal", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Nep\u00e1l"
+        ], 
+        "ne_longitude": 88.199, 
+        "longitude": 84.128, 
+        "iso": "NP", 
+        "sw_latitude": 26.357, 
+        "fullname": "Nepal", 
+        "alias_FRE_Q": [
+          "N\u00e9pal"
+        ]
+      }, 
+      "id": 23424911
+    }
+  ]
+}

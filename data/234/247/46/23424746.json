@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -171.092, 
+              -14.382
+            ], 
+            [
+              -171.092, 
+              -11.050
+            ], 
+            [
+              -169.416, 
+              -11.050
+            ], 
+            [
+              -169.416, 
+              -14.382
+            ], 
+            [
+              -171.092, 
+              -14.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Samoa American"
+        ], 
+        "alias_SWE_Q": [
+          "Amerikanska Samoa"
+        ], 
+        "alias_POL_Q": [
+          "Samoa Ameryka\u0144skie"
+        ], 
+        "ne_latitude": -11.050, 
+        "alias_RUM_Q": [
+          "Samoa American\u0103"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc544\uba54\ub9ac\uce78 \uc0ac\ubaa8\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Samoa Americana"
+        ], 
+        "alias_ENG_A": [
+          "AS"
+        ], 
+        "alias_CZE_Q": [
+          "Americk\u00e1 Samoa"
+        ], 
+        "alias_CHI_Q": [
+          "\u7f8e\u5c6c\u85a9\u6469\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Samoa Americane"
+        ], 
+        "alias_GER_V": [
+          "Amerikanisch Samoa"
+        ], 
+        "alias_CHI_V": [
+          "\u7f8e\u5c5e\u8428\u6469\u4e9a"
+        ], 
+        "woeid": 23424746, 
+        "alias_JPN_Q": [
+          "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2"
+        ], 
+        "alias_SWE_S": [
+          "Amerikanska Jungfruoarna"
+        ], 
+        "alias_JPN_V": [
+          "\u7c73\u30b5\u30e2\u30a2"
+        ], 
+        "alias_SPA_Q": [
+          "Samoa Americana"
+        ], 
+        "alias_FIN_Q": [
+          "Amerikan Samoa"
+        ], 
+        "sw_longitude": -171.092, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -14.310, 
+        "alias_NOR_S": [
+          "Amerikanske Jomfruoyene"
+        ], 
+        "alias_NOR_Q": [
+          "Amerikansk Samoa"
+        ], 
+        "alias_NOR_V": [
+          "Amerikanske Jomfru\u00f8yene"
+        ], 
+        "date_indexed": "2010-12-02T17:40:22Z", 
+        "alias_KOR_Q": [
+          "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
+        ], 
+        "alias_DAN_V": [
+          "Amerikanske Jomfruoeer"
+        ], 
+        "alias_DUT_Q": [
+          "Amerikaans-Samoa"
+        ], 
+        "alias_DUT_V": [
+          "Amerikaans Samoa"
+        ], 
+        "alias_DAN_Q": [
+          "Amerikansk Samoa"
+        ], 
+        "alias_GER_Q": [
+          "Amerikanisch-Samoa"
+        ], 
+        "lang": "ENG", 
+        "name": "American Samoa", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Amerika Samoa"
+        ], 
+        "alias_HUN_Q": [
+          "Amerikai Szamoa"
+        ], 
+        "ne_longitude": -169.416, 
+        "longitude": -170.702, 
+        "iso": "AS", 
+        "sw_latitude": -14.382, 
+        "alias_FRE_V": [
+          "Samoa Am\u00e9ricain"
+        ], 
+        "fullname": "American Samoa", 
+        "alias_FRE_S": [
+          "Samoa Americaines"
+        ], 
+        "alias_FRE_Q": [
+          "Samoa Am\u00e9ricaines"
+        ]
+      }, 
+      "id": 23424746
+    }
+  ]
+}

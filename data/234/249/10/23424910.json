@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.430, 
+              57.959
+            ], 
+            [
+              4.430, 
+              71.186
+            ], 
+            [
+              31.170, 
+              71.186
+            ], 
+            [
+              31.170, 
+              57.959
+            ], 
+            [
+              4.430, 
+              57.959
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Norwegian"
+        ], 
+        "alias_KOR_Q": [
+          "\ub178\ub974\uc6e8\uc774"
+        ], 
+        "alias_POL_Q": [
+          "Norwegia"
+        ], 
+        "ne_latitude": 71.186, 
+        "alias_RUM_Q": [
+          "Norvegia"
+        ], 
+        "alias_UNK_V": [
+          "Norje"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Noruega"
+        ], 
+        "alias_ENG_A": [
+          "NO"
+        ], 
+        "alias_CHI_Q": [
+          "\u632a\u5a01"
+        ], 
+        "alias_ITA_Q": [
+          "Norveggie"
+        ], 
+        "alias_ITA_V": [
+          "Norvegia"
+        ], 
+        "woeid": 23424910, 
+        "alias_JPN_Q": [
+          "\u30ce\u30eb\u30a6\u30a7\u30fc"
+        ], 
+        "alias_ENG_P": [
+          "Norway"
+        ], 
+        "alias_JPN_V": [
+          "\u30ce\u30eb\u30a6\u30a7\u30fc\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Noruega"
+        ], 
+        "alias_FIN_Q": [
+          "Norja"
+        ], 
+        "sw_longitude": 4.430, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 64.557, 
+        "alias_NOR_V": [
+          "Kongeriket Norge"
+        ], 
+        "date_indexed": "2010-12-02T10:20:58Z", 
+        "alias_DUT_Q": [
+          "Noorwegen"
+        ], 
+        "alias_CZE_Q": [
+          "Norsko"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Norwegen"
+        ], 
+        "alias_GER_Q": [
+          "Norwegen"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Norwegen"
+        ], 
+        "lang": "NOR", 
+        "name": "Norge", 
+        "alias_UNK_S": [
+          "Norvigia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Noregur"
+        ], 
+        "alias_HUN_Q": [
+          "Norv\u00e9gia"
+        ], 
+        "ne_longitude": 31.170, 
+        "longitude": 12.665, 
+        "iso": "NO", 
+        "sw_latitude": 57.959, 
+        "fullname": "Norge, Norway", 
+        "alias_FRE_S": [
+          "Norvege"
+        ], 
+        "alias_FRE_Q": [
+          "Norv\u00e8ge"
+        ]
+      }, 
+      "id": 23424910
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.490, 
+              42.392
+            ], 
+            [
+              13.490, 
+              46.555
+            ], 
+            [
+              19.447, 
+              46.555
+            ], 
+            [
+              19.447, 
+              42.392
+            ], 
+            [
+              13.490, 
+              42.392
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Croatia"
+        ], 
+        "alias_SWE_Q": [
+          "Kroatien"
+        ], 
+        "alias_POL_Q": [
+          "Chorwacja"
+        ], 
+        "ne_latitude": 46.555, 
+        "alias_RUM_Q": [
+          "Croa\u0163ia"
+        ], 
+        "alias_UNK_V": [
+          "Chorv\u00e1tsko"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Cro\u00e1cia"
+        ], 
+        "alias_ENG_A": [
+          "HRV"
+        ], 
+        "alias_CHI_Q": [
+          "\u514b\u7f85\u57c3\u897f\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Croazia"
+        ], 
+        "alias_GER_V": [
+          "Republik Kroatien"
+        ], 
+        "alias_CHI_V": [
+          "\u514b\u7f85\u57c3\u897f\u4e9e"
+        ], 
+        "woeid": 23424843, 
+        "alias_JPN_Q": [
+          "\u30af\u30ed\u30a2\u30c1\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Croatia"
+        ], 
+        "alias_JPN_V": [
+          "\u30af\u30ed\u30a2\u30c1\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Croacia"
+        ], 
+        "alias_FIN_Q": [
+          "Kroatia"
+        ], 
+        "sw_longitude": 13.490, 
+        "alias_FIN_V": [
+          "Kroatiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.747, 
+        "alias_NOR_Q": [
+          "Kroatia"
+        ], 
+        "date_indexed": "2010-12-02T17:07:03Z", 
+        "alias_KOR_Q": [
+          "\ud06c\ub85c\uc544\ud2f0\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Kroati\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Kroatie"
+        ], 
+        "alias_CZE_Q": [
+          "Chorvatsko"
+        ], 
+        "alias_DAN_Q": [
+          "Kroatien"
+        ], 
+        "alias_GER_Q": [
+          "Kroatien"
+        ], 
+        "lang": "UNK", 
+        "name": "Hrvatska", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kr\u00f3at\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Horv\u00e1torsz\u00e1g"
+        ], 
+        "ne_longitude": 19.447, 
+        "longitude": 15.341, 
+        "iso": "HR", 
+        "sw_latitude": 42.392, 
+        "alias_HUN_S": [
+          "Horvatorszag"
+        ], 
+        "fullname": "Hrvatska, Croatia", 
+        "alias_FRE_Q": [
+          "Croatie"
+        ]
+      }, 
+      "id": 23424843
+    }
+  ]
+}

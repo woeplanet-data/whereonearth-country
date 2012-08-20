@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              28.993, 
+              -4.466
+            ], 
+            [
+              28.993, 
+              -2.310
+            ], 
+            [
+              30.848, 
+              -2.310
+            ], 
+            [
+              30.848, 
+              -4.466
+            ], 
+            [
+              28.993, 
+              -4.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Burundian"
+        ], 
+        "alias_ENG_A": [
+          "BI"
+        ], 
+        "ne_latitude": -2.310, 
+        "ne_longitude": 30.848, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubd80\ub8ec\ub514"
+        ], 
+        "alias_CHI_Q": [
+          "\u84b2\u9686\u5730"
+        ], 
+        "alias_CHI_V": [
+          "\u84b2\u9686\u5730"
+        ], 
+        "woeid": 23424774, 
+        "alias_JPN_Q": [
+          "\u30d6\u30eb\u30f3\u30b8"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30eb\u30f3\u30b8\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 28.993, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -3.388, 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "alias_GER_V": [
+          "Republik Burundi"
+        ], 
+        "lang": "ENG", 
+        "name": "Burundi", 
+        "parent_woeid": 1, 
+        "alias_UNK_V": [
+          "B\u00farund\u00ed"
+        ], 
+        "longitude": 29.920, 
+        "iso": "BI", 
+        "sw_latitude": -4.466, 
+        "fullname": "Burundi"
+      }, 
+      "id": 23424774
+    }
+  ]
+}

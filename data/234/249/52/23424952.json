@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.839, 
+              3.486
+            ], 
+            [
+              21.839, 
+              23.147
+            ], 
+            [
+              38.834, 
+              23.147
+            ], 
+            [
+              38.834, 
+              3.486
+            ], 
+            [
+              21.839, 
+              3.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of the Sudan"
+        ], 
+        "alias_ENG_A": [
+          "SD"
+        ], 
+        "ne_latitude": 23.147, 
+        "alias_UNK_V": [
+          "Republika Sudan"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Sud\u00e3o"
+        ], 
+        "alias_KOR_Q": [
+          "\uc218\ub2e8"
+        ], 
+        "alias_POR_S": [
+          "Sudao"
+        ], 
+        "alias_ARA_V": [
+          "As-Sudan"
+        ], 
+        "alias_CHI_Q": [
+          "\u8607\u4e39"
+        ], 
+        "alias_CHI_V": [
+          "\u82cf\u4e39"
+        ], 
+        "woeid": 23424952, 
+        "alias_JPN_Q": [
+          "\u30b9\u30fc\u30c0\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30fc\u30c0\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Sud\u00e1n"
+        ], 
+        "sw_longitude": 21.839, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.317, 
+        "date_indexed": "2010-12-02T08:50:55Z", 
+        "alias_DUT_Q": [
+          "Soedan"
+        ], 
+        "alias_CZE_Q": [
+          "S\u00fad\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Republik Sudan"
+        ], 
+        "lang": "ENG", 
+        "name": "Sudan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Szud\u00e1n"
+        ], 
+        "ne_longitude": 38.834, 
+        "longitude": 30.209, 
+        "iso": "SD", 
+        "sw_latitude": 3.486, 
+        "fullname": "Sudan", 
+        "alias_FRE_Q": [
+          "Soudan"
+        ]
+      }, 
+      "id": 23424952
+    }
+  ]
+}

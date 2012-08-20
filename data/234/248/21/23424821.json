@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.825, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.827
+            ], 
+            [
+              -13.798, 
+              13.827
+            ], 
+            [
+              -13.798, 
+              13.064
+            ], 
+            [
+              -16.825, 
+              13.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Gambia, The"
+        ], 
+        "alias_SWE_Q": [
+          "Gambia"
+        ], 
+        "alias_POL_Q": [
+          "Gambia"
+        ], 
+        "ne_latitude": 13.827, 
+        "alias_RUM_Q": [
+          "Gambia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Gambija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "G\u00e2mbia"
+        ], 
+        "alias_ENG_A": [
+          "GM"
+        ], 
+        "alias_CHI_Q": [
+          "\u7518\u6bd4\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Gambia"
+        ], 
+        "alias_GER_V": [
+          "Republik Gambia"
+        ], 
+        "alias_CHI_V": [
+          "\u5188\u6bd4\u4e9a"
+        ], 
+        "woeid": 23424821, 
+        "alias_JPN_Q": [
+          "\u30ac\u30f3\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30ac\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Gambia"
+        ], 
+        "alias_FIN_Q": [
+          "Gambia"
+        ], 
+        "sw_longitude": -16.825, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.445, 
+        "alias_NOR_Q": [
+          "Gambia"
+        ], 
+        "date_indexed": "2010-12-02T08:51:00Z", 
+        "alias_KOR_Q": [
+          "\uac10\ube44\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Gambia"
+        ], 
+        "alias_CZE_Q": [
+          "Gambie"
+        ], 
+        "alias_DAN_Q": [
+          "Gambia"
+        ], 
+        "alias_GER_Q": [
+          "Gambia"
+        ], 
+        "lang": "ENG", 
+        "name": "The Gambia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gambija"
+        ], 
+        "alias_HUN_Q": [
+          "Gambia"
+        ], 
+        "ne_longitude": -13.798, 
+        "longitude": -15.311, 
+        "iso": "GM", 
+        "sw_latitude": 13.064, 
+        "fullname": "The Gambia", 
+        "alias_FRE_Q": [
+          "Gambie"
+        ]
+      }, 
+      "id": 23424821
+    }
+  ]
+}

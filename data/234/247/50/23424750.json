@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.531, 
+              46.372
+            ], 
+            [
+              9.531, 
+              49.021
+            ], 
+            [
+              17.161, 
+              49.021
+            ], 
+            [
+              17.161, 
+              46.372
+            ], 
+            [
+              9.531, 
+              46.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_P": [
+          "Austria"
+        ], 
+        "alias_ENG_V": [
+          "Osutoria"
+        ], 
+        "alias_SWE_Q": [
+          "\u00d6sterrike"
+        ], 
+        "alias_POL_Q": [
+          "Austria"
+        ], 
+        "ne_latitude": 49.021, 
+        "alias_RUM_Q": [
+          "Austria"
+        ], 
+        "alias_UNK_V": [
+          "Austr\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "\u00c1ustria"
+        ], 
+        "alias_ENG_A": [
+          "AT"
+        ], 
+        "alias_CHI_Q": [
+          "\u5967\u5730\u5229"
+        ], 
+        "alias_ITA_Q": [
+          "Austria"
+        ], 
+        "alias_GER_V": [
+          "Republik \u00d6sterreich"
+        ], 
+        "alias_CHI_V": [
+          "\u5965\u5730\u5229"
+        ], 
+        "woeid": 23424750, 
+        "alias_JPN_Q": [
+          "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2"
+        ], 
+        "alias_SWE_S": [
+          "Oesterrike"
+        ], 
+        "alias_JPN_V": [
+          "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Austria"
+        ], 
+        "alias_FIN_Q": [
+          "It\u00e4valta"
+        ], 
+        "alias_FIN_S": [
+          "Itavalta"
+        ], 
+        "sw_longitude": 9.531, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.697, 
+        "alias_NOR_S": [
+          "Oesterrike"
+        ], 
+        "alias_NOR_Q": [
+          "Austerrike"
+        ], 
+        "alias_NOR_V": [
+          "\u00d8sterrike"
+        ], 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "alias_KOR_Q": [
+          "\uc624\uc2a4\ud2b8\ub9ac\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Oostenrijk"
+        ], 
+        "alias_CZE_Q": [
+          "Rakousko"
+        ], 
+        "alias_DAN_S": [
+          "Osterig"
+        ], 
+        "alias_DAN_Q": [
+          "\u00d8strig"
+        ], 
+        "alias_GER_S": [
+          "Republik Oesterreich"
+        ], 
+        "lang": "GER", 
+        "name": "\u00d6sterreich", 
+        "alias_UNK_S": [
+          "Austurriki"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Austurr\u00edki"
+        ], 
+        "alias_HUN_Q": [
+          "Ausztria"
+        ], 
+        "ne_longitude": 17.161, 
+        "longitude": 13.346, 
+        "iso": "AT", 
+        "sw_latitude": 46.372, 
+        "fullname": "\u00d6sterreich, Austria", 
+        "alias_FRE_Q": [
+          "Autriche"
+        ]
+      }, 
+      "id": 23424750
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -118.867, 
+              14.533
+            ], 
+            [
+              -118.867, 
+              32.719
+            ], 
+            [
+              -86.703, 
+              32.719
+            ], 
+            [
+              -86.703, 
+              14.533
+            ], 
+            [
+              -118.867, 
+              14.533
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "United Mexican States"
+        ], 
+        "alias_SWE_Q": [
+          "Mexiko"
+        ], 
+        "alias_POL_Q": [
+          "Meksyk"
+        ], 
+        "ne_latitude": 32.719, 
+        "alias_RUM_Q": [
+          "Mexic"
+        ], 
+        "alias_UNK_V": [
+          "United Mexican States"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uba55\uc2dc\ucf54"
+        ], 
+        "alias_CHI_Q": [
+          "\u58a8\u897f\u54e5"
+        ], 
+        "alias_ITA_Q": [
+          "Messico"
+        ], 
+        "alias_GER_V": [
+          "Vereinigte Mexikanische Staaten"
+        ], 
+        "woeid": 23424900, 
+        "alias_JPN_Q": [
+          "\u30e1\u30ad\u30b7\u30b3"
+        ], 
+        "alias_ENG_P": [
+          "Mexico"
+        ], 
+        "alias_JPN_V": [
+          "\u30e1\u30ad\u30b7\u30b3\u5408\u8846\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Meksiko"
+        ], 
+        "sw_longitude": -118.867, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.626, 
+        "alias_NOR_Q": [
+          "Mexico"
+        ], 
+        "date_indexed": "2010-12-02T16:57:55Z", 
+        "alias_ENG_A": [
+          "MX"
+        ], 
+        "alias_SPA_V": [
+          "Nueva Espa\u00f1a"
+        ], 
+        "alias_DUT_Q": [
+          "Mexico"
+        ], 
+        "alias_CZE_Q": [
+          "Mexiko"
+        ], 
+        "alias_DAN_Q": [
+          "Mexico"
+        ], 
+        "alias_GER_Q": [
+          "Mexiko"
+        ], 
+        "lang": "SPA", 
+        "name": "M\u00e9xico", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Mehika"
+        ], 
+        "alias_HUN_Q": [
+          "Mexik\u00f3"
+        ], 
+        "ne_longitude": -86.703, 
+        "longitude": -101.956, 
+        "iso": "MX", 
+        "sw_latitude": 14.533, 
+        "fullname": "M\u00e9xico, Mexico", 
+        "alias_FRE_Q": [
+          "Mexique"
+        ]
+      }, 
+      "id": 23424900
+    }
+  ]
+}

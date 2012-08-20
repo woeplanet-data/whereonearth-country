@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.558, 
+              28.524
+            ], 
+            [
+              46.558, 
+              30.096
+            ], 
+            [
+              48.784, 
+              30.096
+            ], 
+            [
+              48.784, 
+              28.524
+            ], 
+            [
+              46.558, 
+              28.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "State of Kuwait"
+        ], 
+        "alias_ENG_A": [
+          "KW"
+        ], 
+        "alias_POL_Q": [
+          "Kuwejt"
+        ], 
+        "ne_latitude": 30.096, 
+        "alias_RUM_Q": [
+          "Kuweit"
+        ], 
+        "alias_UNK_V": [
+          "K\u00fava\u00edt"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ucfe0\uc6e8\uc774\ud2b8"
+        ], 
+        "alias_ARA_V": [
+          "Al-Kuwayt"
+        ], 
+        "alias_CHI_Q": [
+          "\u79d1\u5a01\u7279"
+        ], 
+        "woeid": 23424870, 
+        "alias_JPN_Q": [
+          "\u30af\u30a6\u30a7\u30fc\u30c8"
+        ], 
+        "alias_JPN_V": [
+          "\u30af\u30a6\u30a7\u30a4\u30c8"
+        ], 
+        "sw_longitude": 46.558, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.310, 
+        "date_indexed": "2010-12-02T08:53:01Z", 
+        "alias_DUT_Q": [
+          "Koeweit"
+        ], 
+        "alias_CZE_Q": [
+          "Kuvajt"
+        ], 
+        "alias_GER_V": [
+          "Staat Kuwait"
+        ], 
+        "lang": "ENG", 
+        "name": "Kuwait", 
+        "alias_UNK_S": [
+          "Kuvait"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kowe\u00eft"
+        ], 
+        "alias_HUN_Q": [
+          "Kuvait"
+        ], 
+        "ne_longitude": 48.784, 
+        "longitude": 47.494, 
+        "iso": "KW", 
+        "sw_latitude": 28.524, 
+        "alias_FRE_V": [
+          "Koweit"
+        ], 
+        "fullname": "Kuwait", 
+        "alias_FRE_Q": [
+          "Kowe\u00eft"
+        ]
+      }, 
+      "id": 23424870
+    }
+  ]
+}

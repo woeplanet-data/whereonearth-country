@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.217, 
+              -26.869
+            ], 
+            [
+              30.217, 
+              -10.472
+            ], 
+            [
+              40.844, 
+              -10.472
+            ], 
+            [
+              40.844, 
+              -26.869
+            ], 
+            [
+              30.217, 
+              -26.869
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Mozambique"
+        ], 
+        "alias_SWE_Q": [
+          "Mo\u00e7ambique"
+        ], 
+        "alias_SWE_S": [
+          "Mocambique"
+        ], 
+        "ne_latitude": -10.472, 
+        "alias_RUM_Q": [
+          "Mozambic"
+        ], 
+        "alias_UNK_V": [
+          "Republika Mozambik"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Rep\u00fablica de Mo\u00e7ambique"
+        ], 
+        "alias_POR_Q": [
+          "Mo\u00e7ambique"
+        ], 
+        "alias_ENG_A": [
+          "MZ"
+        ], 
+        "alias_POR_S": [
+          "Mocambique"
+        ], 
+        "alias_CHI_Q": [
+          "\u83ab\u4e09\u6bd4\u514b"
+        ], 
+        "alias_ITA_Q": [
+          "Mozambico"
+        ], 
+        "alias_CHI_V": [
+          "\u83ab\u4e09\u6bd4\u514b"
+        ], 
+        "woeid": 23424902, 
+        "alias_JPN_Q": [
+          "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af"
+        ], 
+        "alias_POL_Q": [
+          "Mozambik"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Mosambik"
+        ], 
+        "sw_longitude": 30.217, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -18.670, 
+        "alias_NOR_Q": [
+          "Mosambik"
+        ], 
+        "date_indexed": "2010-12-02T07:50:33Z", 
+        "alias_KOR_Q": [
+          "\ubaa8\uc7a0\ube44\ud06c"
+        ], 
+        "alias_CZE_V": [
+          "Mozambik"
+        ], 
+        "alias_CZE_Q": [
+          "Mosambik"
+        ], 
+        "alias_GER_V": [
+          "Republik Mosambik"
+        ], 
+        "alias_GER_Q": [
+          "Mosambik"
+        ], 
+        "lang": "ENG", 
+        "name": "Mozambique", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Mozambik"
+        ], 
+        "alias_HUN_Q": [
+          "Mozambik"
+        ], 
+        "ne_longitude": 40.844, 
+        "longitude": 35.530, 
+        "iso": "MZ", 
+        "sw_latitude": -26.869, 
+        "fullname": "Mozambique"
+      }, 
+      "id": 23424902
+    }
+  ]
+}

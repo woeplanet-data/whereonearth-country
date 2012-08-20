@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              26.619, 
+              45.468
+            ], 
+            [
+              26.619, 
+              48.490
+            ], 
+            [
+              30.164, 
+              48.490
+            ], 
+            [
+              30.164, 
+              45.468
+            ], 
+            [
+              26.619, 
+              45.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Mo\u0142dawia, Republika"
+        ], 
+        "alias_ENG_V": [
+          "Moldova, Republic Of"
+        ], 
+        "alias_SWE_Q": [
+          "Moldavien"
+        ], 
+        "alias_POL_Q": [
+          "Mo\u0142dawia"
+        ], 
+        "ne_latitude": 48.490, 
+        "alias_RUM_Q": [
+          "Republica Moldova"
+        ], 
+        "alias_UNK_V": [
+          "Moldavsko"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Moldova, Rep\u00fablica de"
+        ], 
+        "alias_POR_Q": [
+          "Mold\u00e1via"
+        ], 
+        "alias_ENG_A": [
+          "MD"
+        ], 
+        "alias_CZE_Q": [
+          "Moldavsko"
+        ], 
+        "alias_CHI_Q": [
+          "\u6469\u723e\u591a\u74e6"
+        ], 
+        "alias_ITA_Q": [
+          "Moldavia"
+        ], 
+        "alias_CHI_V": [
+          "\u6469\u723e\u591a\u74e6"
+        ], 
+        "woeid": 23424885, 
+        "alias_JPN_Q": [
+          "\u30e2\u30eb\u30c9\u30d0"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Moldavia"
+        ], 
+        "sw_longitude": 26.619, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.979, 
+        "date_indexed": "2010-12-02T17:58:04Z", 
+        "alias_FRE_V": [
+          "Moldovie"
+        ], 
+        "alias_KOR_Q": [
+          "\ubab0\ub3c4\ubc14"
+        ], 
+        "alias_DUT_Q": [
+          "Moldavi\u00eb"
+        ], 
+        "alias_DUT_V": [
+          "Republiek Moldavi\u00eb"
+        ], 
+        "alias_GER_V": [
+          "Moldau, Republik"
+        ], 
+        "alias_GER_Q": [
+          "Moldawien"
+        ], 
+        "lang": "ENG", 
+        "name": "Moldova", 
+        "alias_CZE_V": [
+          "Moldavsk\u00e1 republika"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Moldavija"
+        ], 
+        "ne_longitude": 30.164, 
+        "longitude": 28.391, 
+        "iso": "MD", 
+        "sw_latitude": 45.468, 
+        "alias_RUM_V": [
+          "Moldova, Republica"
+        ], 
+        "fullname": "Moldova", 
+        "alias_FRE_Q": [
+          "Moldavie"
+        ]
+      }, 
+      "id": 23424885
+    }
+  ]
+}

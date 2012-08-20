@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.896, 
+              32.231
+            ], 
+            [
+              -64.896, 
+              32.394
+            ], 
+            [
+              -64.643, 
+              32.394
+            ], 
+            [
+              -64.643, 
+              32.231
+            ], 
+            [
+              -64.896, 
+              32.231
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Bermudian"
+        ], 
+        "alias_ENG_A": [
+          "BM"
+        ], 
+        "alias_POL_Q": [
+          "Bermudy"
+        ], 
+        "ne_latitude": 32.394, 
+        "alias_RUM_Q": [
+          "Insulele Bermude"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubc84\ubba4\ub2e4\uc81c\ub3c4"
+        ], 
+        "alias_POR_Q": [
+          "Bermudas"
+        ], 
+        "alias_KOR_Q": [
+          "\ubc84\ubba4\ub2e4"
+        ], 
+        "alias_CHI_Q": [
+          "\u767e\u6155\u9054"
+        ], 
+        "alias_ITA_V": [
+          "Bermude"
+        ], 
+        "alias_CHI_V": [
+          "\u767e\u6155\u9054"
+        ], 
+        "woeid": 23424756, 
+        "alias_JPN_Q": [
+          "\u30d0\u30df\u30e5\u30fc\u30c0\u8af8\u5cf6"
+        ], 
+        "alias_JPN_V": [
+          "\u30d0\u30df\u30e5\u30fc\u30c0"
+        ], 
+        "alias_SPA_Q": [
+          "Bermudas"
+        ], 
+        "sw_longitude": -64.896, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 32.303, 
+        "date_indexed": "2010-12-02T17:42:05Z", 
+        "alias_CZE_Q": [
+          "Bermudy"
+        ], 
+        "lang": "ENG", 
+        "name": "Bermuda", 
+        "parent_woeid": 1, 
+        "ne_longitude": -64.643, 
+        "longitude": -64.785, 
+        "iso": "BM", 
+        "sw_latitude": 32.231, 
+        "fullname": "Bermuda", 
+        "alias_FRE_Q": [
+          "Bermudes"
+        ]
+      }, 
+      "id": 23424756
+    }
+  ]
+}

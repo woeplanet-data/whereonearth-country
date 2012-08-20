@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.207, 
+              -13.456
+            ], 
+            [
+              12.207, 
+              5.386
+            ], 
+            [
+              31.306, 
+              5.386
+            ], 
+            [
+              31.306, 
+              -13.456
+            ], 
+            [
+              12.207, 
+              -13.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Kongo, Republika Demokratyczna"
+        ], 
+        "alias_ENG_V": [
+          "Congo (DRC)"
+        ], 
+        "alias_SWE_V": [
+          "Zaire"
+        ], 
+        "alias_SWE_Q": [
+          "Kongo-Kinshasa"
+        ], 
+        "alias_POL_Q": [
+          "Demokratyczna Republika Konga"
+        ], 
+        "ne_latitude": 5.386, 
+        "alias_RUM_Q": [
+          "Republica Democrat\u0103 Congo"
+        ], 
+        "alias_UNK_V": [
+          "Demokratiske Republikken Kongo"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucf69\uace0\ubbfc\uc8fc\uacf5\ud654\uad6d"
+        ], 
+        "alias_POR_V": [
+          "Congo, Rep\u00fablica Democr\u00e1tica do"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica Democr\u00e1tica do Congo"
+        ], 
+        "alias_ENG_A": [
+          "CD"
+        ], 
+        "alias_POR_S": [
+          "Republica Democratica do Congo"
+        ], 
+        "alias_CZE_Q": [
+          "Demokratick\u00e1 Republika Kongo"
+        ], 
+        "alias_CHI_Q": [
+          "\u6c11\u4e3b\u525b\u679c"
+        ], 
+        "alias_ITA_Q": [
+          "Repubblica Democratica del Congo"
+        ], 
+        "alias_GER_V": [
+          "Zaire"
+        ], 
+        "alias_ITA_V": [
+          "Zaire"
+        ], 
+        "woeid": 23424780, 
+        "alias_JPN_Q": [
+          "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd"
+        ], 
+        "alias_JPN_V": [
+          "\u30b6\u30a4\u30fc\u30eb"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica Democr\u00e1tica del Congo"
+        ], 
+        "alias_FIN_Q": [
+          "Kongo-Kinshasa"
+        ], 
+        "alias_SPA_S": [
+          "Republica Democratica del Congo"
+        ], 
+        "sw_longitude": 12.207, 
+        "alias_FIN_V": [
+          "Zaire"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -4.035, 
+        "alias_NOR_Q": [
+          "Den demokratiske republikken Kongo"
+        ], 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "alias_FRE_V": [
+          "Congo-Kinshasa"
+        ], 
+        "alias_KOR_Q": [
+          "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Zaire"
+        ], 
+        "alias_SPA_V": [
+          "Zaire"
+        ], 
+        "alias_DUT_Q": [
+          "Congo-Kinshasa"
+        ], 
+        "alias_DUT_V": [
+          "Congo, Democratische Republiek"
+        ], 
+        "alias_DAN_Q": [
+          "Demokratiske Republik Congo"
+        ], 
+        "alias_GER_Q": [
+          "Demokratische Republik Kongo"
+        ], 
+        "lang": "ENG", 
+        "name": "Democratic Republic of Congo", 
+        "alias_CZE_V": [
+          "Kongo, demokratick\u00e1 republika"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Kong\u00f3i Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "Kong\u00f3 - Kinshasa"
+        ], 
+        "ne_longitude": 31.306, 
+        "longitude": 21.756, 
+        "iso": "CD", 
+        "sw_latitude": -13.456, 
+        "alias_RUM_V": [
+          "Zair"
+        ], 
+        "fullname": "Democratic Republic of Congo", 
+        "alias_FRE_S": [
+          "Rep. Dem. du Congo"
+        ], 
+        "alias_FRE_Q": [
+          "R\u00e9publique D\u00e9mocratique du Congo"
+        ]
+      }, 
+      "id": 23424780
+    }
+  ]
+}

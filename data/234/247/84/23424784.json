@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              96.821, 
+              -12.200
+            ], 
+            [
+              96.821, 
+              -11.804
+            ], 
+            [
+              96.936, 
+              -11.804
+            ], 
+            [
+              96.936, 
+              -12.200
+            ], 
+            [
+              96.821, 
+              -12.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspy Kokosowe (Keelinga)"
+        ], 
+        "alias_ENG_V": [
+          "Cocos Islands"
+        ], 
+        "alias_SWE_Q": [
+          "Kokos\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy Kokosowe"
+        ], 
+        "ne_latitude": -11.804, 
+        "alias_RUM_Q": [
+          "Insulele Cocos"
+        ], 
+        "alias_UNK_V": [
+          "Cocos\u00f8erne (Keeling\u00f8erne)"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucf54\ucf54\uc2a4 \uad70\ub3c4"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Coco"
+        ], 
+        "alias_POR_Q": [
+          "Ilhas Cocos (keeling)"
+        ], 
+        "alias_ENG_A": [
+          "CC"
+        ], 
+        "alias_CZE_Q": [
+          "Kokosov\u00e9 Ostrovy"
+        ], 
+        "alias_CHI_Q": [
+          "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Isole Cocos E Keeling"
+        ], 
+        "alias_ITA_V": [
+          "Isole Cocos (Keeling)"
+        ], 
+        "alias_CHI_V": [
+          "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5c9b"
+        ], 
+        "woeid": 23424784, 
+        "alias_JPN_Q": [
+          "\u30b3\u30b3\u30b9 (\u30ad\u30fc\u30ea\u30f3\u30b0) \u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Kokosoearna"
+        ], 
+        "alias_JPN_V": [
+          "\u30ad\u30fc\u30ea\u30f3\u30b0\u8af8\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Islas Cocos"
+        ], 
+        "alias_FIN_Q": [
+          "Keeling-saaret"
+        ], 
+        "sw_longitude": 96.821, 
+        "alias_FIN_V": [
+          "Kookossaaret"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -12.149, 
+        "alias_NOR_S": [
+          "Keelingoyene"
+        ], 
+        "alias_NOR_Q": [
+          "Keeling\u00f8yene"
+        ], 
+        "alias_NOR_V": [
+          "Kokos\u00f8yene"
+        ], 
+        "date_indexed": "2010-12-02T12:15:51Z", 
+        "alias_FRE_V": [
+          "\u00celes des Cocos"
+        ], 
+        "alias_KOR_Q": [
+          "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"
+        ], 
+        "alias_DAN_V": [
+          "Cocos Islands"
+        ], 
+        "alias_SPA_V": [
+          "Islas Cocos (Keeling)"
+        ], 
+        "alias_DUT_Q": [
+          "Cocoseilanden"
+        ], 
+        "alias_DUT_V": [
+          "Cocos-Keeling-eilanden"
+        ], 
+        "alias_DAN_S": [
+          "Keelingoerne"
+        ], 
+        "alias_DAN_Q": [
+          "Cocos\u00f8erne"
+        ], 
+        "alias_GER_Q": [
+          "Kokosinseln"
+        ], 
+        "lang": "ENG", 
+        "name": "Cocos (Keeling) Islands", 
+        "alias_UNK_S": [
+          "Cocosoerne (Keelingoerne)"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "K\u00f3kusz (keeling)-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "K\u00f3kusz-szigetek"
+        ], 
+        "ne_longitude": 96.936, 
+        "longitude": 96.835, 
+        "iso": "CC", 
+        "sw_latitude": -12.200, 
+        "alias_RUM_V": [
+          "Insulele Cocos (Keeling)"
+        ], 
+        "fullname": "Cocos (Keeling) Islands", 
+        "alias_FRE_S": [
+          "Iles Coco"
+        ]
+      }, 
+      "id": 23424784
+    }
+  ]
+}

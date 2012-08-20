@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              72.424, 
+              -53.192
+            ], 
+            [
+              72.424, 
+              -53.008
+            ], 
+            [
+              72.609, 
+              -53.008
+            ], 
+            [
+              72.609, 
+              -53.192
+            ], 
+            [
+              72.424, 
+              -53.192
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspy Heard i McDonald"
+        ], 
+        "alias_SWE_V": [
+          "Heard\u00f6n och McDonald\u00f6arna"
+        ], 
+        "alias_SWE_Q": [
+          "Heard- och McDonalds\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy Heard I Mcdonalda"
+        ], 
+        "ne_latitude": -53.008, 
+        "alias_RUM_Q": [
+          "Insula Heard \u015ei Insulele Mcdonald"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud5c8\ub4dc \uc564 \ub9e5\ub3c4\ub0a0\ub4dc \uad70\ub3c4"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Heard e McDonald"
+        ], 
+        "alias_POR_Q": [
+          "Ilha Heard E Ilhas Mcdonald"
+        ], 
+        "alias_ENG_A": [
+          "HM"
+        ], 
+        "alias_CZE_Q": [
+          "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
+        ], 
+        "alias_ITA_Q": [
+          "Isole Heard E Mcdonald"
+        ], 
+        "woeid": 28289411, 
+        "alias_JPN_Q": [
+          "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Heard- och McDonaldsoarna"
+        ], 
+        "alias_JPN_V": [
+          "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Islas Heard Y Mcdonald"
+        ], 
+        "alias_FIN_Q": [
+          "Heard ja McDonaldinsaaret"
+        ], 
+        "sw_longitude": 72.424, 
+        "alias_FIN_V": [
+          "Heard ja McDonaldsaaret"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -53.100, 
+        "alias_NOR_S": [
+          "Heard Oya og Macdonald Oya"
+        ], 
+        "alias_NOR_Q": [
+          "Heard- Og Mcdonald\u00f8yene"
+        ], 
+        "alias_NOR_V": [
+          "Heard \u00d8ya og Macdonald \u00d8ya"
+        ], 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "alias_FRE_V": [
+          "Iles Heard et McDonald"
+        ], 
+        "alias_KOR_Q": [
+          "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
+        ], 
+        "alias_DAN_V": [
+          "Heard- og McDonald\u00f8erne"
+        ], 
+        "alias_DUT_Q": [
+          "Heardeiland en Mcdonaldeilanden"
+        ], 
+        "alias_DUT_V": [
+          "Heard- en McDonaldeilanden"
+        ], 
+        "alias_DAN_Q": [
+          "Heard Island og Mcdonald Islands"
+        ], 
+        "alias_GER_Q": [
+          "Heard Und Mcdonaldinseln"
+        ], 
+        "lang": "ENG", 
+        "name": "Heard Island and McDonald Islands", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Heard-Sziget \u00c9s Mcdonald-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "Heard Sziget \u00e9s McDonald-szigetek"
+        ], 
+        "ne_longitude": 72.609, 
+        "longitude": 72.517, 
+        "iso": "HM", 
+        "sw_latitude": -53.192, 
+        "alias_RUM_V": [
+          "Insulele Heard \u015fi Mc Donald"
+        ], 
+        "fullname": "Heard Island and McDonald Islands", 
+        "alias_FRE_Q": [
+          "\u00cele Heard Et \u00celes Mcdonald"
+        ]
+      }, 
+      "id": 28289411
+    }
+  ]
+}

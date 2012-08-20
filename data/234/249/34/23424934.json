@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              116.813, 
+              4.468
+            ], 
+            [
+              116.813, 
+              21.234
+            ], 
+            [
+              126.857, 
+              21.234
+            ], 
+            [
+              126.857, 
+              4.468
+            ], 
+            [
+              116.813, 
+              4.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. the Philippines"
+        ], 
+        "alias_SWE_Q": [
+          "Filippinerna"
+        ], 
+        "alias_POL_Q": [
+          "Filipiny"
+        ], 
+        "ne_latitude": 21.234, 
+        "alias_RUM_Q": [
+          "Filipine"
+        ], 
+        "alias_UNK_V": [
+          "Filippinene"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Filipinas"
+        ], 
+        "alias_ENG_A": [
+          "PH"
+        ], 
+        "alias_CZE_Q": [
+          "Filip\u00edny"
+        ], 
+        "alias_CHI_Q": [
+          "\u83f2\u5f8b\u8cd3"
+        ], 
+        "alias_ITA_Q": [
+          "Filippine"
+        ], 
+        "alias_GER_V": [
+          "Republik der Philippinen"
+        ], 
+        "alias_CHI_V": [
+          "\u83f2\u5f8b\u5bbe"
+        ], 
+        "woeid": 23424934, 
+        "alias_JPN_Q": [
+          "\u30d5\u30a3\u30ea\u30d4\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30d5\u30a3\u30ea\u30d4\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Filipinas"
+        ], 
+        "alias_FIN_Q": [
+          "Filippiineill\u00e4"
+        ], 
+        "alias_FIN_S": [
+          "Filippiineilta"
+        ], 
+        "sw_longitude": 116.813, 
+        "alias_FIN_V": [
+          "Filippiineilt\u00e4"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.593, 
+        "alias_NOR_Q": [
+          "Filippinene"
+        ], 
+        "date_indexed": "2010-12-02T09:56:58Z", 
+        "alias_KOR_Q": [
+          "\ud544\ub9ac\ud540"
+        ], 
+        "alias_DAN_V": [
+          "Filippinerne"
+        ], 
+        "alias_DUT_Q": [
+          "Filipijnen"
+        ], 
+        "alias_DUT_V": [
+          "Filippijnen"
+        ], 
+        "alias_DAN_Q": [
+          "Philippinerne"
+        ], 
+        "alias_GER_Q": [
+          "Philippinen"
+        ], 
+        "lang": "ENG", 
+        "name": "Philippines", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Filipini"
+        ], 
+        "alias_HUN_Q": [
+          "F\u00fcl\u00f6p-Szigetek"
+        ], 
+        "ne_longitude": 126.857, 
+        "longitude": 120.739, 
+        "iso": "PH", 
+        "sw_latitude": 4.468, 
+        "alias_FRE_V": [
+          "\u00celes Philippines"
+        ], 
+        "fullname": "Philippines", 
+        "alias_FRE_S": [
+          "Iles Philippines"
+        ]
+      }, 
+      "id": 23424934
+    }
+  ]
+}

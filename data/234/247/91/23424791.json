@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.084, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              11.217
+            ], 
+            [
+              -82.556, 
+              11.217
+            ], 
+            [
+              -82.556, 
+              5.500
+            ], 
+            [
+              -87.084, 
+              5.500
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Costa Rica"
+        ], 
+        "alias_ENG_A": [
+          "CR"
+        ], 
+        "alias_POL_Q": [
+          "Kostaryka"
+        ], 
+        "ne_latitude": 11.217, 
+        "alias_UNK_V": [
+          "Republika Kostarika"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
+        ], 
+        "alias_CHI_Q": [
+          "\u54e5\u65af\u5927\u9ece\u52a0"
+        ], 
+        "alias_CHI_V": [
+          "\u54e5\u65af\u5927\u9ece\u52a0"
+        ], 
+        "woeid": 23424791, 
+        "alias_JPN_Q": [
+          "\u30b3\u30b9\u30bf\u30ea\u30ab"
+        ], 
+        "alias_JPN_V": [
+          "\u30b3\u30b9\u30bf\u30ea\u30ab\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -87.084, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.625, 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "alias_CZE_Q": [
+          "Kostarika"
+        ], 
+        "alias_GER_V": [
+          "Republik Costa Rica"
+        ], 
+        "lang": "ENG", 
+        "name": "Costa Rica", 
+        "alias_UNK_S": [
+          "Costa-Rica"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kostarika"
+        ], 
+        "ne_longitude": -82.556, 
+        "longitude": -84.253, 
+        "iso": "CR", 
+        "sw_latitude": 5.500, 
+        "fullname": "Costa Rica"
+      }, 
+      "id": 23424791
+    }
+  ]
+}

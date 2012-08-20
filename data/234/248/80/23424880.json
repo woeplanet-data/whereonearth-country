@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              27.029, 
+              -30.669
+            ], 
+            [
+              27.029, 
+              -28.572
+            ], 
+            [
+              29.466, 
+              -28.572
+            ], 
+            [
+              29.466, 
+              -30.669
+            ], 
+            [
+              27.029, 
+              -30.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Lesotho"
+        ], 
+        "alias_ENG_A": [
+          "LS"
+        ], 
+        "ne_latitude": -28.572, 
+        "alias_UNK_V": [
+          "Kraljevina Lesoto"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Lesoto"
+        ], 
+        "alias_KOR_Q": [
+          "\ub808\uc18c\ud1a0"
+        ], 
+        "alias_CHI_Q": [
+          "\u8cf4\u7d22\u6258"
+        ], 
+        "alias_CHI_V": [
+          "\u8cf4\u7d22\u6258"
+        ], 
+        "woeid": 23424880, 
+        "alias_JPN_Q": [
+          "\u30ec\u30bd\u30c8"
+        ], 
+        "alias_JPN_V": [
+          "\u30ec\u30bd\u30c8\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Lesoto"
+        ], 
+        "sw_longitude": 27.029, 
+        "alias_SPA_V": [
+          "Lesoto o Lesotho"
+        ], 
+        "latitude": -29.621, 
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_GER_V": [
+          "K\u00f6nigreich Lesotho"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Lesotho"
+        ], 
+        "lang": "ENG", 
+        "name": "Lesotho", 
+        "parent_woeid": 1, 
+        "ne_longitude": 29.466, 
+        "longitude": 28.247, 
+        "iso": "LS", 
+        "sw_latitude": -30.669, 
+        "fullname": "Lesotho"
+      }, 
+      "id": 23424880
+    }
+  ]
+}

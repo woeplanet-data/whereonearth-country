@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              72.616, 
+              -2.900
+            ], 
+            [
+              72.616, 
+              7.117
+            ], 
+            [
+              73.767, 
+              7.117
+            ], 
+            [
+              73.767, 
+              -2.900
+            ], 
+            [
+              72.616, 
+              -2.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Maldives"
+        ], 
+        "alias_ENG_A": [
+          "MV"
+        ], 
+        "alias_POL_Q": [
+          "Malediwy"
+        ], 
+        "ne_latitude": 7.117, 
+        "alias_RUM_Q": [
+          "Maldive"
+        ], 
+        "alias_UNK_V": [
+          "Maldiverne"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Maldivas"
+        ], 
+        "alias_KOR_Q": [
+          "\ubab0\ub514\ube0c"
+        ], 
+        "alias_SWE_Q": [
+          "Maldiverna"
+        ], 
+        "alias_CHI_Q": [
+          "\u99ac\u723e\u5730\u592b"
+        ], 
+        "alias_ITA_Q": [
+          "Maldive"
+        ], 
+        "alias_GER_V": [
+          "Republik Malediven"
+        ], 
+        "alias_CHI_V": [
+          "\u99ac\u723e\u5730\u592b"
+        ], 
+        "woeid": 23424899, 
+        "alias_JPN_Q": [
+          "\u30e2\u30eb\u30c7\u30a3\u30d6"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30eb\u30c7\u30a3\u30d6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Maldivas"
+        ], 
+        "alias_FIN_Q": [
+          "Malediivit"
+        ], 
+        "sw_longitude": 72.616, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.758, 
+        "alias_NOR_Q": [
+          "Maldivene"
+        ], 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "alias_DUT_Q": [
+          "Maldiven"
+        ], 
+        "alias_CZE_Q": [
+          "Maledivy"
+        ], 
+        "alias_DAN_Q": [
+          "Maldiverne"
+        ], 
+        "alias_GER_Q": [
+          "Malediven"
+        ], 
+        "lang": "ENG", 
+        "name": "Maldives", 
+        "alias_CZE_V": [
+          "Maladivy"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Maldivi"
+        ], 
+        "alias_HUN_Q": [
+          "Mald\u00edv-Szigetek"
+        ], 
+        "ne_longitude": 73.767, 
+        "longitude": 73.155, 
+        "iso": "MV", 
+        "sw_latitude": -2.900, 
+        "fullname": "Maldives"
+      }, 
+      "id": 23424899
+    }
+  ]
+}

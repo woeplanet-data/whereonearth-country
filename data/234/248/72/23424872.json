@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              100.093, 
+              13.910
+            ], 
+            [
+              100.093, 
+              22.500
+            ], 
+            [
+              107.697, 
+              22.500
+            ], 
+            [
+              107.697, 
+              13.910
+            ], 
+            [
+              100.093, 
+              13.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Laos"
+        ], 
+        "alias_KOR_Q": [
+          "\ub77c\uc624\uc2a4"
+        ], 
+        "ne_latitude": 22.500, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "LA"
+        ], 
+        "alias_CHI_Q": [
+          "\u5bee\u570b"
+        ], 
+        "alias_CHI_V": [
+          "\u5bee\u570b"
+        ], 
+        "woeid": 23424872, 
+        "alias_JPN_Q": [
+          "\u30e9\u30aa\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 100.093, 
+        "alias_SPA_V": [
+          "Republica Democratica Popular de Lao"
+        ], 
+        "latitude": 18.205, 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_GER_V": [
+          "Volksrepublik Lao"
+        ], 
+        "lang": "ENG", 
+        "name": "Laos", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sathalanalat Paxathipatai Paxaxon Lao"
+        ], 
+        "alias_HUN_Q": [
+          "Laosz"
+        ], 
+        "alias_HUN_V": [
+          "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": 107.697, 
+        "longitude": 105.451, 
+        "iso": "LA", 
+        "sw_latitude": 13.910, 
+        "fullname": "Laos"
+      }, 
+      "id": 23424872
+    }
+  ]
+}

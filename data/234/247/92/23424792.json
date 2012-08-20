@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.420, 
+              2.221
+            ], 
+            [
+              14.420, 
+              11.008
+            ], 
+            [
+              27.463, 
+              11.008
+            ], 
+            [
+              27.463, 
+              2.221
+            ], 
+            [
+              14.420, 
+              2.221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Republika \u015arodkowej Afryki"
+        ], 
+        "alias_ENG_V": [
+          "Central African Rep"
+        ], 
+        "alias_SWE_Q": [
+          "Centralafrikanska Republiken"
+        ], 
+        "alias_POL_Q": [
+          "Republika \u015arodkowoafryka\u0144ska"
+        ], 
+        "ne_latitude": 11.008, 
+        "alias_RUM_Q": [
+          "Republica Centrafrican\u0103"
+        ], 
+        "alias_UNK_V": [
+          "Keski-Afrikka"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc911\uc559 \uc544\ud504\ub9ac\uce74"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica Centro-Africana"
+        ], 
+        "alias_ENG_A": [
+          "CF"
+        ], 
+        "alias_POR_S": [
+          "Republica Centro-Africana"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e2d\u975e"
+        ], 
+        "alias_ITA_Q": [
+          "Centrafrica"
+        ], 
+        "alias_ITA_V": [
+          "Repubblica Centrafricana"
+        ], 
+        "woeid": 23424792, 
+        "alias_JPN_Q": [
+          "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab"
+        ], 
+        "alias_JPN_V": [
+          "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica Centroafricana"
+        ], 
+        "alias_FIN_Q": [
+          "Keski-Afrikan tasavalta"
+        ], 
+        "alias_SPA_S": [
+          "Republica Centroafricana"
+        ], 
+        "sw_longitude": 14.420, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.614, 
+        "alias_NOR_Q": [
+          "Den sentralafrikanske republikk"
+        ], 
+        "date_indexed": "2010-12-02T17:43:32Z", 
+        "alias_FRE_V": [
+          "Centrafricaine, r\u00e9publique"
+        ], 
+        "alias_KOR_Q": [
+          "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Den Centralafrikanske Republik"
+        ], 
+        "alias_DUT_Q": [
+          "Centraal-Afrikaanse Republiek"
+        ], 
+        "alias_CZE_Q": [
+          "St\u0159edoafrick\u00e1 Republika"
+        ], 
+        "alias_DAN_Q": [
+          "Centralafrikanske Republik"
+        ], 
+        "alias_GER_Q": [
+          "Zentralafrikanische Republik"
+        ], 
+        "lang": "ENG", 
+        "name": "Central African Republic", 
+        "alias_UNK_S": [
+          "Midafrikulydveldid"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "K\u00f6z\u00e9p-Afrikai K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": 27.463, 
+        "longitude": 20.942, 
+        "iso": "CF", 
+        "sw_latitude": 2.221, 
+        "alias_RUM_V": [
+          "Republica Central African\u0103"
+        ], 
+        "fullname": "Central African Republic", 
+        "alias_FRE_S": [
+          "Republique Centrafricaine"
+        ], 
+        "alias_FRE_Q": [
+          "R\u00e9publique Centrafricaine"
+        ]
+      }, 
+      "id": 23424792
+    }
+  ]
+}

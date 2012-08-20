@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -38.241, 
+              -59.450
+            ], 
+            [
+              -38.241, 
+              -53.970
+            ], 
+            [
+              -26.332, 
+              -53.970
+            ], 
+            [
+              -26.332, 
+              -59.450
+            ], 
+            [
+              -38.241, 
+              -59.450
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspy Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy"
+        ], 
+        "alias_ENG_V": [
+          "South Georgia & South Sandwich Islands"
+        ], 
+        "alias_SWE_Q": [
+          "Sydgeorgien och Sydsandwich\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Georgia Po\u0142udniowa I Sandwich Po\u0142udniowy"
+        ], 
+        "ne_latitude": -53.970, 
+        "alias_RUM_Q": [
+          "Georgia de Sud \u015ei Insulele Sandwich de Sud"
+        ], 
+        "alias_UNK_V": [
+          "South Georgia og De Sydlige Sandwich\u00f8er"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub0a8\uc870\uc9c0\uc544 & \ub0a8\uc0cc\ub4dc\uc704\uce58 \uad70\ub3c4"
+        ], 
+        "alias_POR_Q": [
+          "Ilhas Ge\u00f3rgia do Sul e Sandwich do Sul"
+        ], 
+        "alias_ENG_A": [
+          "GS"
+        ], 
+        "alias_POR_S": [
+          "Ilhas Georgia do Sul e Sandwich do Sul"
+        ], 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy Ostrovy"
+        ], 
+        "alias_ITA_Q": [
+          "Georgia del Sud E Isole Sandwich Meridionali"
+        ], 
+        "alias_GER_V": [
+          "S\u00fcd-Georgien und S\u00fcdliche Sandwich-Inseln"
+        ], 
+        "alias_ITA_V": [
+          "Georgia Meridionale e isole Sandwich del Sud"
+        ], 
+        "woeid": 23424955, 
+        "alias_JPN_Q": [
+          "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u3068\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Sydgeorgien och Sydsandwichoearna"
+        ], 
+        "alias_JPN_V": [
+          "\u5357\u30b8\u30e7\u30fc\u30b8\u30a2\u5cf6\u3068\u5357\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u8af8\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Territorio Brit\u00e1nico de Ultramar de Las Islas Georgias del sur Y Sandwich del sur"
+        ], 
+        "alias_FIN_Q": [
+          "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret"
+        ], 
+        "alias_FIN_S": [
+          "Etela-Georgia ja Etelaiset Sandwichsaaret"
+        ], 
+        "sw_longitude": -38.241, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -54.428, 
+        "alias_NOR_S": [
+          "Sor-Georgia og Sor-Sandwichoyene"
+        ], 
+        "alias_NOR_Q": [
+          "S\u00f8r-Georgia og S\u00f8r-Sandwich\u00f8yene"
+        ], 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "alias_FRE_V": [
+          "G\u00e9orgie du Sud et \u00eeles Sandwich du Sud"
+        ], 
+        "alias_KOR_Q": [
+          "\uc0ac\uc6b0\uc2a4\uc870\uc9c0\uc544 \uc0ac\uc6b0\uc2a4\uc0cc\ub4dc\uc704\uce58 \uc81c\ub3c4"
+        ], 
+        "alias_DAN_V": [
+          "South Georgia og De Sydlige Sandwich\u00f8er"
+        ], 
+        "alias_SPA_V": [
+          "Islas Georgia del Sur y Sandwich del Sur"
+        ], 
+        "alias_DUT_Q": [
+          "Zuid-Georgi\u00eb en de Zuidelijke Sandwicheilanden"
+        ], 
+        "alias_DUT_S": [
+          "Zuid-Georgie en zuidelijke Sandwich eilanden"
+        ], 
+        "alias_DUT_V": [
+          "Zuid-Georgi\u00eb en de Zuid-Sandwicheilanden"
+        ], 
+        "alias_DAN_S": [
+          "Sydgeorgien og Sydsandwich Oerne"
+        ], 
+        "alias_DAN_Q": [
+          "South Georgia Og South Sandwich Islands"
+        ], 
+        "alias_GER_Q": [
+          "S\u00fcdgeorgien Und Die S\u00fcdlichen Sandwichinseln"
+        ], 
+        "lang": "ENG", 
+        "name": "South Georgia and the South Sandwich Islands", 
+        "alias_UNK_S": [
+          "South Georgia og De Sydlige Sandwichoeer"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "D\u00e9li-Georgia \u00c9s D\u00e9li-Sandwich-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "D\u00e9l-Georgia \u00e9s D\u00e9l-Sandwich Szigetek"
+        ], 
+        "ne_longitude": -26.332, 
+        "longitude": -36.498, 
+        "iso": "GS", 
+        "sw_latitude": -59.450, 
+        "alias_RUM_V": [
+          "Georgia de Sud \u0219i Insulele Sandwich de Sud"
+        ], 
+        "fullname": "South Georgia and the South Sandwich Islands", 
+        "alias_FRE_S": [
+          "Georgie du Sud et Sandwich du Sud"
+        ], 
+        "alias_FRE_Q": [
+          "G\u00e9orgie du Sud-Et-Les \u00celes Sandwich du Sud"
+        ]
+      }, 
+      "id": 23424955
+    }
+  ]
+}

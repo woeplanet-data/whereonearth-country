@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -83.051, 
+              7.198
+            ], 
+            [
+              -83.051, 
+              9.650
+            ], 
+            [
+              -77.174, 
+              9.650
+            ], 
+            [
+              -77.174, 
+              7.198
+            ], 
+            [
+              -83.051, 
+              7.198
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Panama"
+        ], 
+        "alias_ENG_A": [
+          "PA"
+        ], 
+        "alias_POL_Q": [
+          "Panama"
+        ], 
+        "ne_latitude": 9.650, 
+        "alias_RUM_Q": [
+          "Panama"
+        ], 
+        "alias_UNK_V": [
+          "Republika Panama"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ud30c\ub098\ub9c8"
+        ], 
+        "alias_SWE_Q": [
+          "Panama"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u62ff\u99ac"
+        ], 
+        "alias_GER_V": [
+          "Republik Panama"
+        ], 
+        "alias_CHI_V": [
+          "\u5df4\u62ff\u9a6c"
+        ], 
+        "woeid": 23424924, 
+        "alias_JPN_Q": [
+          "\u30d1\u30ca\u30de"
+        ], 
+        "alias_ENG_P": [
+          "Panama"
+        ], 
+        "alias_JPN_V": [
+          "\u30d1\u30ca\u30de\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Panama"
+        ], 
+        "alias_SPA_S": [
+          "Republica de Panama"
+        ], 
+        "sw_longitude": -83.051, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.418, 
+        "alias_NOR_Q": [
+          "Panama"
+        ], 
+        "date_indexed": "2010-12-02T17:52:32Z", 
+        "alias_SPA_V": [
+          "Rep\u00fablica de Panam\u00e1"
+        ], 
+        "alias_DUT_Q": [
+          "Panama"
+        ], 
+        "alias_CZE_Q": [
+          "Panama"
+        ], 
+        "alias_DAN_Q": [
+          "Panama"
+        ], 
+        "alias_GER_Q": [
+          "Panama"
+        ], 
+        "lang": "SPA", 
+        "name": "Panam\u00e1", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Panama"
+        ], 
+        "alias_HUN_Q": [
+          "Panamai K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": -77.174, 
+        "longitude": -80.113, 
+        "iso": "PA", 
+        "sw_latitude": 7.198, 
+        "fullname": "Panam\u00e1, Panama"
+      }, 
+      "id": 23424924
+    }
+  ]
+}

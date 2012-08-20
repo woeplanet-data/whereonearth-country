@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              118.214, 
+              21.902
+            ], 
+            [
+              118.214, 
+              26.392
+            ], 
+            [
+              122.101, 
+              26.392
+            ], 
+            [
+              122.101, 
+              21.902
+            ], 
+            [
+              118.214, 
+              21.902
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Formoza"
+        ], 
+        "alias_ENG_V": [
+          "Formosa"
+        ], 
+        "alias_SWE_Q": [
+          "Taiwan"
+        ], 
+        "alias_POL_Q": [
+          "Tajwan"
+        ], 
+        "ne_latitude": 26.392, 
+        "alias_RUM_Q": [
+          "Taiwan"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub300\ub9cc"
+        ], 
+        "alias_POR_Q": [
+          "Ilha de Formosa"
+        ], 
+        "alias_ENG_A": [
+          "ROC"
+        ], 
+        "alias_CHI_V": [
+          "\u53f0\u7063"
+        ], 
+        "woeid": 23424971, 
+        "alias_JPN_Q": [
+          "\u53f0\u6e7e"
+        ], 
+        "alias_ENG_P": [
+          "Taiwan"
+        ], 
+        "alias_SPA_Q": [
+          "Isla de Taiw\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Taiwan"
+        ], 
+        "sw_longitude": 118.214, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.600, 
+        "alias_NOR_Q": [
+          "Taiwan"
+        ], 
+        "date_indexed": "2010-12-02T16:16:00Z", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc774\uc644 \uc12c"
+        ], 
+        "alias_SPA_V": [
+          "Taiw\u00e1n"
+        ], 
+        "alias_DUT_Q": [
+          "Taiwan"
+        ], 
+        "alias_CZE_Q": [
+          "Tchaj-wan"
+        ], 
+        "alias_DAN_Q": [
+          "Taiwan"
+        ], 
+        "alias_GER_Q": [
+          "Taiwan"
+        ], 
+        "lang": "CHI", 
+        "name": "\u81fa\u7063", 
+        "alias_CZE_V": [
+          "Tajwan"
+        ], 
+        "alias_UNK_S": [
+          "Taivan"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ta\u00edvan"
+        ], 
+        "ne_longitude": 122.101, 
+        "longitude": 121.024, 
+        "iso": "TW", 
+        "sw_latitude": 21.902, 
+        "fullname": "\u81fa\u7063, Taiwan", 
+        "alias_FRE_Q": [
+          "Ta\u00efwan"
+        ]
+      }, 
+      "id": 23424971
+    }
+  ]
+}

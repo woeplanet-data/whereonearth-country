@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.443, 
+              -35.048
+            ], 
+            [
+              -58.443, 
+              -30.082
+            ], 
+            [
+              -53.074, 
+              -30.082
+            ], 
+            [
+              -53.074, 
+              -35.048
+            ], 
+            [
+              -58.443, 
+              -35.048
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Oriental Republic of Uruguay"
+        ], 
+        "alias_ENG_A": [
+          "UY"
+        ], 
+        "alias_POL_Q": [
+          "Urugwaj"
+        ], 
+        "ne_latitude": -30.082, 
+        "alias_UNK_V": [
+          "Vzhodna republika Urugvaj"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Uruguai"
+        ], 
+        "alias_KOR_Q": [
+          "\uc6b0\ub8e8\uacfc\uc774"
+        ], 
+        "alias_CHI_Q": [
+          "\u70cf\u62c9\u572d"
+        ], 
+        "alias_CHI_V": [
+          "\u4e4c\u62c9\u572d"
+        ], 
+        "woeid": 23424979, 
+        "alias_JPN_Q": [
+          "\u30a6\u30eb\u30b0\u30a2\u30a4"
+        ], 
+        "alias_JPN_V": [
+          "\u30a6\u30eb\u30b0\u30a2\u30a4\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -58.443, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.532, 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "alias_GER_V": [
+          "Republik \u00d6stlich des Uruguay"
+        ], 
+        "alias_GER_S": [
+          "Republik Ostlich des Uruguay"
+        ], 
+        "lang": "ENG", 
+        "name": "Uruguay", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Urugvaj"
+        ], 
+        "ne_longitude": -53.074, 
+        "longitude": -55.758, 
+        "iso": "UY", 
+        "sw_latitude": -35.048, 
+        "fullname": "Uruguay"
+      }, 
+      "id": 23424979
+    }
+  ]
+}

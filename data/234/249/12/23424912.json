@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              166.899, 
+              -0.552
+            ], 
+            [
+              166.899, 
+              -0.504
+            ], 
+            [
+              166.945, 
+              -0.504
+            ], 
+            [
+              166.945, 
+              -0.552
+            ], 
+            [
+              166.899, 
+              -0.552
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Nauru"
+        ], 
+        "alias_ENG_A": [
+          "NR"
+        ], 
+        "ne_latitude": -0.504, 
+        "alias_UNK_V": [
+          "Republika Nauru"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub098\uc6b0\ub8e8\uacf5\ud654\uad6d"
+        ], 
+        "alias_KOR_Q": [
+          "\ub098\uc6b0\ub8e8"
+        ], 
+        "alias_CHI_Q": [
+          "\u8afe\u9b6f"
+        ], 
+        "alias_CHI_V": [
+          "\u7459\u9c81"
+        ], 
+        "woeid": 23424912, 
+        "alias_JPN_Q": [
+          "\u30ca\u30a6\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30ca\u30a6\u30eb\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 166.899, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.528, 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "alias_GER_V": [
+          "Republik Nauru"
+        ], 
+        "lang": "ENG", 
+        "name": "Nauru", 
+        "parent_woeid": 1, 
+        "ne_longitude": 166.945, 
+        "longitude": 166.922, 
+        "iso": "NR", 
+        "sw_latitude": -0.552, 
+        "alias_FRE_V": [
+          "\u00cele Nauru"
+        ], 
+        "fullname": "Nauru", 
+        "alias_FRE_S": [
+          "Ile Nauru"
+        ], 
+        "alias_FRE_Q": [
+          "Nauru"
+        ]
+      }, 
+      "id": 23424912
+    }
+  ]
+}

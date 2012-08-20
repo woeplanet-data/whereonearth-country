@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.499, 
+              20.916
+            ], 
+            [
+              -80.499, 
+              27.934
+            ], 
+            [
+              -72.650, 
+              27.934
+            ], 
+            [
+              -72.650, 
+              20.916
+            ], 
+            [
+              -80.499, 
+              20.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Bahamas"
+        ], 
+        "alias_SWE_Q": [
+          "Bahamas"
+        ], 
+        "alias_POL_Q": [
+          "Bahamy"
+        ], 
+        "ne_latitude": 27.934, 
+        "alias_RUM_Q": [
+          "Bahamas"
+        ], 
+        "alias_UNK_V": [
+          "Zveza Bahami"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Baamas"
+        ], 
+        "alias_POR_Q": [
+          "Bahamas"
+        ], 
+        "alias_ENG_A": [
+          "BS"
+        ], 
+        "alias_CZE_Q": [
+          "Bahamy"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u54c8\u99ac"
+        ], 
+        "alias_ITA_Q": [
+          "Bahamas"
+        ], 
+        "alias_GER_V": [
+          "Commonwealth der Bahamas"
+        ], 
+        "alias_ITA_V": [
+          "Bahama"
+        ], 
+        "alias_CHI_V": [
+          "\u5df4\u54c8\u9a6c"
+        ], 
+        "woeid": 23424758, 
+        "alias_JPN_Q": [
+          "\u30d0\u30cf\u30de"
+        ], 
+        "alias_JPN_V": [
+          "\u30d0\u30cf\u30de\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Bahamas"
+        ], 
+        "alias_FIN_Q": [
+          "Bahama"
+        ], 
+        "sw_longitude": -80.499, 
+        "alias_FIN_V": [
+          "Bahamasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.741, 
+        "alias_NOR_Q": [
+          "Bahamas"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "alias_KOR_Q": [
+          "\ubc14\ud558\ub9c8"
+        ], 
+        "alias_DUT_Q": [
+          "Bahama's"
+        ], 
+        "alias_DUT_V": [
+          "Bahama\u2019s"
+        ], 
+        "alias_DAN_Q": [
+          "Bahamas"
+        ], 
+        "alias_GER_Q": [
+          "Bahamas"
+        ], 
+        "lang": "ENG", 
+        "name": "The Bahamas", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Bahami"
+        ], 
+        "alias_HUN_Q": [
+          "Bahama-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "Baham\u00e1k"
+        ], 
+        "ne_longitude": -72.650, 
+        "longitude": -78.080, 
+        "iso": "BS", 
+        "sw_latitude": 20.916, 
+        "alias_FRE_V": [
+          "Bahamas, \u00celes"
+        ], 
+        "fullname": "The Bahamas", 
+        "alias_FRE_S": [
+          "Bahamas, Iles"
+        ], 
+        "alias_FRE_Q": [
+          "Bahamas"
+        ]
+      }, 
+      "id": 23424758
+    }
+  ]
+}

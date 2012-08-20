@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              98.935, 
+              0.664
+            ], 
+            [
+              98.935, 
+              7.584
+            ], 
+            [
+              119.448, 
+              7.584
+            ], 
+            [
+              119.448, 
+              0.664
+            ], 
+            [
+              98.935, 
+              0.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Malaysian"
+        ], 
+        "alias_KOR_Q": [
+          "\ub9d0\ub808\uc774\uc2dc\uc544"
+        ], 
+        "alias_POL_Q": [
+          "Malezja"
+        ], 
+        "ne_latitude": 7.584, 
+        "alias_RUM_Q": [
+          "Malaezia"
+        ], 
+        "alias_UNK_V": [
+          "Mallae-i jia"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub9d0\ub808\uc774\uc9c0\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Mal\u00e1sia"
+        ], 
+        "alias_ENG_A": [
+          "MY"
+        ], 
+        "alias_CHI_Q": [
+          "\u99ac\u4f86\u897f\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Malesia"
+        ], 
+        "alias_ITA_V": [
+          "Malaisia"
+        ], 
+        "alias_CHI_V": [
+          "\u9a6c\u6765\u897f\u4e9a"
+        ], 
+        "woeid": 23424901, 
+        "alias_JPN_Q": [
+          "\u30de\u30ec\u30fc\u30b7\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30de\u30ec\u30a4\u30b7\u30a2"
+        ], 
+        "alias_SPA_Q": [
+          "Malasia"
+        ], 
+        "alias_FIN_Q": [
+          "Malesiasta"
+        ], 
+        "sw_longitude": 98.935, 
+        "alias_FIN_V": [
+          "Malesiaan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 3.945, 
+        "date_indexed": "2010-12-02T18:04:56Z", 
+        "alias_DUT_Q": [
+          "Maleisi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Maleisie"
+        ], 
+        "alias_CZE_Q": [
+          "Malajsie"
+        ], 
+        "lang": "ENG", 
+        "name": "Malaysia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Malas\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Malajzia"
+        ], 
+        "alias_HUN_V": [
+          "Mal\u00e1jf\u00f6ld"
+        ], 
+        "ne_longitude": 119.448, 
+        "longitude": 114.402, 
+        "iso": "MY", 
+        "sw_latitude": 0.664, 
+        "alias_RUM_V": [
+          "Malaiezia"
+        ], 
+        "fullname": "Malaysia", 
+        "alias_FRE_Q": [
+          "Malaisie"
+        ]
+      }, 
+      "id": 23424901
+    }
+  ]
+}

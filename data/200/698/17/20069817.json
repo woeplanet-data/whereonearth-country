@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              18.437, 
+              41.848
+            ], 
+            [
+              18.437, 
+              43.543
+            ], 
+            [
+              20.416, 
+              43.543
+            ], 
+            [
+              20.416, 
+              41.848
+            ], 
+            [
+              18.437, 
+              41.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Socialist Republic of Montenegro"
+        ], 
+        "alias_POL_Q": [
+          "Czarnog\u00f3ra"
+        ], 
+        "ne_latitude": 43.543, 
+        "alias_RUM_Q": [
+          "Muntenegru"
+        ], 
+        "alias_UNK_V": [
+          "Republika Crna Gora"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubaac\ud14c\ub124\uadf8\ub85c"
+        ], 
+        "alias_CHI_Q": [
+          "\u8499\u7279\u5167\u54e5\u7f85"
+        ], 
+        "alias_CHI_V": [
+          "\u8499\u7279\u5167\u54e5\u7f85"
+        ], 
+        "woeid": 20069817, 
+        "alias_JPN_Q": [
+          "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
+        ], 
+        "sw_longitude": 18.437, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.698, 
+        "date_indexed": "2010-12-02T07:50:42Z", 
+        "alias_CZE_Q": [
+          "\u010cern\u00e1 Hora"
+        ], 
+        "lang": "ENG", 
+        "name": "Montenegro", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Crna Gora"
+        ], 
+        "alias_HUN_Q": [
+          "Montenegr\u00f3"
+        ], 
+        "ne_longitude": 20.416, 
+        "longitude": 19.432, 
+        "iso": "ME", 
+        "sw_latitude": 41.848, 
+        "alias_FRE_V": [
+          "R\u00e9publique du Mont\u00e9n\u00e9gro"
+        ], 
+        "fullname": "Montenegro", 
+        "alias_FRE_Q": [
+          "Mont\u00e9n\u00e9gro"
+        ]
+      }, 
+      "id": 20069817
+    }
+  ]
+}

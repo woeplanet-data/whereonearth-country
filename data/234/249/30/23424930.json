@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              50.757, 
+              24.483
+            ], 
+            [
+              50.757, 
+              26.178
+            ], 
+            [
+              52.428, 
+              26.178
+            ], 
+            [
+              52.428, 
+              24.483
+            ], 
+            [
+              50.757, 
+              24.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "State of Qatar"
+        ], 
+        "alias_KOR_Q": [
+          "\uce74\ud0c0\ub974"
+        ], 
+        "alias_POL_Q": [
+          "Katar"
+        ], 
+        "ne_latitude": 26.178, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Catar"
+        ], 
+        "alias_ENG_A": [
+          "QA"
+        ], 
+        "alias_CZE_Q": [
+          "Katar"
+        ], 
+        "alias_CHI_Q": [
+          "\u5361\u9054"
+        ], 
+        "alias_CHI_V": [
+          "\u5361\u9054"
+        ], 
+        "woeid": 23424930, 
+        "alias_JPN_Q": [
+          "\u30ab\u30bf\u30fc\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30ab\u30bf\u30fc\u30eb\u56fd"
+        ], 
+        "sw_longitude": 50.757, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.319, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "alias_DUT_V": [
+          "Quatar"
+        ], 
+        "alias_GER_V": [
+          "Staat Katar"
+        ], 
+        "alias_GER_Q": [
+          "Katar"
+        ], 
+        "lang": "ENG", 
+        "name": "Qatar", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Katar"
+        ], 
+        "ne_longitude": 52.428, 
+        "longitude": 51.197, 
+        "iso": "QA", 
+        "sw_latitude": 24.483, 
+        "fullname": "Qatar"
+      }, 
+      "id": 23424930
+    }
+  ]
+}

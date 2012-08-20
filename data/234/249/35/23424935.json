@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.943, 
+              17.883
+            ], 
+            [
+              -67.943, 
+              18.520
+            ], 
+            [
+              -65.220, 
+              18.520
+            ], 
+            [
+              -65.220, 
+              17.883
+            ], 
+            [
+              -67.943, 
+              17.883
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Puerto Rican"
+        ], 
+        "alias_ENG_A": [
+          "PR"
+        ], 
+        "alias_POL_Q": [
+          "Portoryko"
+        ], 
+        "ne_latitude": 18.520, 
+        "alias_UNK_V": [
+          "P\u00faerto-R\u00edco"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Porto Rico"
+        ], 
+        "alias_KOR_Q": [
+          "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
+        ], 
+        "alias_CHI_Q": [
+          "\u6ce2\u591a\u9ece\u5404\u81ea\u7531\u90a6"
+        ], 
+        "alias_ITA_Q": [
+          "Porto Rico"
+        ], 
+        "alias_ITA_V": [
+          "Portorico"
+        ], 
+        "woeid": 23424935, 
+        "alias_JPN_Q": [
+          "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
+        ], 
+        "sw_longitude": -67.943, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.223, 
+        "date_indexed": "2010-12-02T17:42:25Z", 
+        "alias_CZE_Q": [
+          "Portoriko"
+        ], 
+        "lang": "ENG", 
+        "name": "Puerto Rico", 
+        "alias_UNK_S": [
+          "Puerto-Rico"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Portoriko"
+        ], 
+        "ne_longitude": -65.220, 
+        "longitude": -66.429, 
+        "iso": "PR", 
+        "sw_latitude": 17.883, 
+        "fullname": "Puerto Rico", 
+        "alias_FRE_Q": [
+          "Porto Rico"
+        ]
+      }, 
+      "id": 23424935
+    }
+  ]
+}

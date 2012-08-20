@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.075, 
+              54.559
+            ], 
+            [
+              8.075, 
+              57.752
+            ], 
+            [
+              15.193, 
+              57.752
+            ], 
+            [
+              15.193, 
+              54.559
+            ], 
+            [
+              8.075, 
+              54.559
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Denmark"
+        ], 
+        "alias_KOR_Q": [
+          "\ub374\ub9c8\ud06c"
+        ], 
+        "alias_POL_Q": [
+          "Dania"
+        ], 
+        "ne_latitude": 57.752, 
+        "alias_RUM_Q": [
+          "Danemarca"
+        ], 
+        "alias_UNK_V": [
+          "Dhan\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Dinamarca"
+        ], 
+        "alias_ENG_A": [
+          "DNK"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e39\u9ea5"
+        ], 
+        "alias_ITA_Q": [
+          "Danimarca"
+        ], 
+        "alias_CHI_V": [
+          "\u4e39\u9ea6"
+        ], 
+        "woeid": 23424796, 
+        "alias_JPN_Q": [
+          "\u30c7\u30f3\u30de\u30fc\u30af"
+        ], 
+        "alias_ENG_P": [
+          "Denmark"
+        ], 
+        "alias_JPN_V": [
+          "\u30c7\u30f3\u30de\u30fc\u30af\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Dinamarca"
+        ], 
+        "alias_FIN_Q": [
+          "Tanska"
+        ], 
+        "sw_longitude": 8.075, 
+        "alias_FIN_V": [
+          "Tanskan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 56.276, 
+        "date_indexed": "2010-12-02T16:13:18Z", 
+        "alias_DUT_Q": [
+          "Denemarken"
+        ], 
+        "alias_CZE_S": [
+          "Dansko"
+        ], 
+        "alias_CZE_Q": [
+          "D\u00e1nsko"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich D\u00e4nemark"
+        ], 
+        "alias_DAN_V": [
+          "Kongeriget Danmark"
+        ], 
+        "alias_GER_S": [
+          "Daenemark"
+        ], 
+        "lang": "DAN", 
+        "name": "Danmark", 
+        "alias_UNK_S": [
+          "Danmork"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Danska"
+        ], 
+        "alias_HUN_Q": [
+          "D\u00e1nia"
+        ], 
+        "alias_GER_Q": [
+          "D\u00e4nemark"
+        ], 
+        "ne_longitude": 15.193, 
+        "longitude": 9.517, 
+        "iso": "DK", 
+        "sw_latitude": 54.559, 
+        "fullname": "Danmark, Denmark", 
+        "alias_FRE_Q": [
+          "Danemark"
+        ]
+      }, 
+      "id": 23424796
+    }
+  ]
+}

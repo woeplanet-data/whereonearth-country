@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              158.418, 
+              -11.437
+            ], 
+            [
+              158.418, 
+              4.720
+            ], 
+            [
+              -150.208, 
+              4.720
+            ], 
+            [
+              -150.208, 
+              -11.437
+            ], 
+            [
+              158.418, 
+              -11.437
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Kiribati"
+        ], 
+        "alias_KOR_Q": [
+          "\ud0a4\ub9ac\ubc14\uc2dc"
+        ], 
+        "ne_latitude": 4.720, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud0a4\ub9ac\ubc14\ud2f0"
+        ], 
+        "alias_POR_V": [
+          "Quiribati"
+        ], 
+        "alias_ENG_A": [
+          "KI"
+        ], 
+        "alias_CHI_Q": [
+          "\u5409\u91cc\u5df4\u65af"
+        ], 
+        "alias_CHI_V": [
+          "\u5409\u91cc\u5df4\u65af"
+        ], 
+        "woeid": 23424867, 
+        "alias_JPN_Q": [
+          "\u30ad\u30ea\u30d0\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30ad\u30ea\u30d0\u30b9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 158.418, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -8.046, 
+        "date_indexed": "2010-12-02T17:42:25Z", 
+        "alias_GER_V": [
+          "Republik Kiribati"
+        ], 
+        "lang": "ENG", 
+        "name": "Kiribati", 
+        "parent_woeid": 1, 
+        "ne_longitude": -150.208, 
+        "longitude": 159.161, 
+        "iso": "KI", 
+        "sw_latitude": -11.437, 
+        "fullname": "Kiribati"
+      }, 
+      "id": 23424867
+    }
+  ]
+}

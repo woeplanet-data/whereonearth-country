@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.166, 
+              11.697
+            ], 
+            [
+              0.166, 
+              23.525
+            ], 
+            [
+              15.996, 
+              23.525
+            ], 
+            [
+              15.996, 
+              11.697
+            ], 
+            [
+              0.166, 
+              11.697
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Nigerien"
+        ], 
+        "alias_KOR_Q": [
+          "\ub2c8\uc81c\ub974"
+        ], 
+        "ne_latitude": 23.525, 
+        "ne_longitude": 15.996, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "N\u00edger"
+        ], 
+        "alias_ENG_A": [
+          "NE"
+        ], 
+        "alias_CHI_Q": [
+          "\u5c3c\u65e5"
+        ], 
+        "alias_CHI_V": [
+          "\u5c3c\u65e5"
+        ], 
+        "woeid": 23424906, 
+        "alias_JPN_Q": [
+          "\u30cb\u30b8\u30a7\u30fc\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30cb\u30b8\u30a7\u30fc\u30eb\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "N\u00edger"
+        ], 
+        "sw_longitude": 0.166, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.611, 
+        "date_indexed": "2010-12-02T17:43:23Z", 
+        "alias_GER_V": [
+          "Republik Niger"
+        ], 
+        "lang": "ENG", 
+        "name": "Niger", 
+        "parent_woeid": 1, 
+        "alias_UNK_V": [
+          "Republika Niger"
+        ], 
+        "longitude": 8.081, 
+        "iso": "NE", 
+        "sw_latitude": 11.697, 
+        "fullname": "Niger"
+      }, 
+      "id": 23424906
+    }
+  ]
+}

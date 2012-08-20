@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.647, 
+              -27.609
+            ], 
+            [
+              -62.647, 
+              -19.294
+            ], 
+            [
+              -54.259, 
+              -19.294
+            ], 
+            [
+              -54.259, 
+              -27.609
+            ], 
+            [
+              -62.647, 
+              -27.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Paraguay"
+        ], 
+        "alias_KOR_Q": [
+          "\ud30c\ub77c\uacfc\uc774"
+        ], 
+        "alias_POL_Q": [
+          "Paragwaj"
+        ], 
+        "ne_latitude": -19.294, 
+        "ne_longitude": -54.259, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Paraguai"
+        ], 
+        "alias_ENG_A": [
+          "PY"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u62c9\u572d"
+        ], 
+        "woeid": 23424917, 
+        "alias_JPN_Q": [
+          "\u30d1\u30e9\u30b0\u30a2\u30a4"
+        ], 
+        "alias_JPN_V": [
+          "\u30d1\u30e9\u30b0\u30a2\u30a4\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -62.647, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -23.451, 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "alias_GER_V": [
+          "Republik Paraguay"
+        ], 
+        "lang": "ENG", 
+        "name": "Paraguay", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Paragvaj"
+        ], 
+        "alias_UNK_V": [
+          "Republika Paragvaj"
+        ], 
+        "longitude": -58.453, 
+        "iso": "PY", 
+        "sw_latitude": -27.609, 
+        "fullname": "Paraguay"
+      }, 
+      "id": 23424917
+    }
+  ]
+}

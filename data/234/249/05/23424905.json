@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              167.949, 
+              -29.119
+            ], 
+            [
+              167.949, 
+              -28.995
+            ], 
+            [
+              168.092, 
+              -28.995
+            ], 
+            [
+              168.092, 
+              -29.119
+            ], 
+            [
+              167.949, 
+              -29.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspa Norfolk"
+        ], 
+        "alias_ENG_V": [
+          "Norfolk Islander"
+        ], 
+        "alias_SWE_Q": [
+          "Norfolk\u00f6n"
+        ], 
+        "alias_POL_Q": [
+          "Norfolk"
+        ], 
+        "ne_latitude": -28.995, 
+        "alias_RUM_Q": [
+          "Insula Norfolk"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub178\ud3ec\ud06c \uc12c"
+        ], 
+        "alias_POR_Q": [
+          "Ilha Norfolk"
+        ], 
+        "alias_ENG_A": [
+          "NF"
+        ], 
+        "alias_CZE_Q": [
+          "Norfolk"
+        ], 
+        "alias_CHI_Q": [
+          "\u8afe\u798f\u514b\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Isola Norfolk"
+        ], 
+        "alias_ITA_V": [
+          "Norfolk, isola"
+        ], 
+        "alias_CHI_V": [
+          "\u8bfa\u798f\u514b\u5c9b"
+        ], 
+        "woeid": 23424905, 
+        "alias_JPN_Q": [
+          "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Norfolkon"
+        ], 
+        "alias_SPA_Q": [
+          "Isla Norfolk"
+        ], 
+        "alias_FIN_Q": [
+          "Norfolkinsaari"
+        ], 
+        "sw_longitude": 167.949, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -29.025, 
+        "alias_NOR_S": [
+          "Norfolkoya"
+        ], 
+        "alias_NOR_Q": [
+          "Norfolk\u00f8ya"
+        ], 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "alias_KOR_Q": [
+          "\ub178\ud37d \uc12c"
+        ], 
+        "alias_DUT_Q": [
+          "Norfolk"
+        ], 
+        "alias_DUT_V": [
+          "Norfolk eiland"
+        ], 
+        "alias_GER_V": [
+          "Norfolk-Insel"
+        ], 
+        "alias_GER_Q": [
+          "Norfolkinsel"
+        ], 
+        "lang": "ENG", 
+        "name": "Norfolk Island", 
+        "alias_CZE_V": [
+          "Ostrov Norfolk"
+        ], 
+        "alias_UNK_S": [
+          "Norfolkoeya"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Norfolk\u00f8ya"
+        ], 
+        "alias_HUN_Q": [
+          "Norfolk-Sziget"
+        ], 
+        "ne_longitude": 168.092, 
+        "longitude": 168.050, 
+        "iso": "NF", 
+        "sw_latitude": -29.119, 
+        "alias_FRE_V": [
+          "Norfolk, \u00eele"
+        ], 
+        "fullname": "Norfolk Island", 
+        "alias_FRE_S": [
+          "Ile Norfolk"
+        ], 
+        "alias_FRE_Q": [
+          "\u00cele Norfolk"
+        ]
+      }, 
+      "id": 23424905
+    }
+  ]
+}

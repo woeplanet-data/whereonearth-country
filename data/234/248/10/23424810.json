@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.090, 
+              48.552
+            ], 
+            [
+              12.090, 
+              51.056
+            ], 
+            [
+              18.860, 
+              51.056
+            ], 
+            [
+              18.860, 
+              48.552
+            ], 
+            [
+              12.090, 
+              48.552
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Republika Czeska"
+        ], 
+        "alias_ENG_V": [
+          "Czechia"
+        ], 
+        "alias_SWE_Q": [
+          "Tjeckien"
+        ], 
+        "alias_POL_Q": [
+          "Czechy"
+        ], 
+        "ne_latitude": 51.056, 
+        "alias_RUM_Q": [
+          "Cehia"
+        ], 
+        "alias_UNK_V": [
+          "Tsjekkia"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uccb4\ucf54\uacf5\ud654\uad6d"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica Tcheca"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica Checa"
+        ], 
+        "alias_ENG_A": [
+          "CZE"
+        ], 
+        "alias_CHI_Q": [
+          "\u6377\u514b"
+        ], 
+        "alias_ITA_Q": [
+          "Cechia"
+        ], 
+        "alias_GER_V": [
+          "Tschechische Republik"
+        ], 
+        "alias_ITA_V": [
+          "Repubblica Ceca"
+        ], 
+        "woeid": 23424810, 
+        "alias_JPN_Q": [
+          "\u30c1\u30a7\u30b3"
+        ], 
+        "alias_ENG_P": [
+          "Czech Republic"
+        ], 
+        "alias_JPN_V": [
+          "\u30c1\u30a7\u30b3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica Checa"
+        ], 
+        "alias_FIN_Q": [
+          "T\u0161ekki"
+        ], 
+        "alias_FIN_S": [
+          "Tsekki"
+        ], 
+        "sw_longitude": 12.090, 
+        "alias_FIN_V": [
+          "Tsekin tasavalta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.804, 
+        "alias_NOR_Q": [
+          "Tsjekkia"
+        ], 
+        "alias_NOR_V": [
+          "Den tsjekkiske republikk"
+        ], 
+        "date_indexed": "2010-12-02T08:56:52Z", 
+        "alias_FRE_V": [
+          "Republiquetcheque"
+        ], 
+        "alias_KOR_Q": [
+          "\uccb4\ucf54"
+        ], 
+        "alias_DAN_V": [
+          "Tjekkiet"
+        ], 
+        "alias_SPA_V": [
+          "Chequia"
+        ], 
+        "alias_DUT_Q": [
+          "Tsjechi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Tsjechie"
+        ], 
+        "alias_CZE_S": [
+          "Ceska Republika"
+        ], 
+        "alias_DAN_Q": [
+          "Den Tjekkiske Republik"
+        ], 
+        "alias_GER_Q": [
+          "Tschechien"
+        ], 
+        "lang": "CZE", 
+        "name": "Cesk\u00e1 Republika", 
+        "alias_CZE_V": [
+          "\u010cesk\u00e1 republika"
+        ], 
+        "alias_UNK_S": [
+          "Tsechia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "T\u00e9kkland"
+        ], 
+        "alias_HUN_Q": [
+          "Cseh K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "Csehorsz\u00e1g"
+        ], 
+        "ne_longitude": 18.860, 
+        "longitude": 15.475, 
+        "iso": "CZ", 
+        "sw_latitude": 48.552, 
+        "alias_HUN_S": [
+          "Csehorszag"
+        ], 
+        "alias_RUM_V": [
+          "Republica Ceh\u0103"
+        ], 
+        "fullname": "Cesk\u00e1 Republika, Czech Republic", 
+        "alias_FRE_S": [
+          "Republique Tcheque"
+        ], 
+        "alias_FRE_Q": [
+          "R\u00e9publique tch\u00e8que"
+        ]
+      }, 
+      "id": 23424810
+    }
+  ]
+}

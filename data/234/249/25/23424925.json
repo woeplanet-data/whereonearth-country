@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -31.266, 
+              30.028
+            ], 
+            [
+              -31.266, 
+              42.154
+            ], 
+            [
+              -6.189, 
+              42.154
+            ], 
+            [
+              -6.189, 
+              30.028
+            ], 
+            [
+              -31.266, 
+              30.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Portuguese Republic"
+        ], 
+        "alias_ENG_A": [
+          "PT"
+        ], 
+        "alias_POL_Q": [
+          "Portugalia"
+        ], 
+        "ne_latitude": 42.154, 
+        "alias_RUM_Q": [
+          "Portugalia"
+        ], 
+        "alias_UNK_V": [
+          "Portogal\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud3ec\ub974\ud2b8\uce7c"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica Portuguesa"
+        ], 
+        "alias_KOR_Q": [
+          "\ud3ec\ub974\ud22c\uac08"
+        ], 
+        "alias_CHI_Q": [
+          "\u8461\u8404\u7259"
+        ], 
+        "alias_ITA_Q": [
+          "Purtugalle"
+        ], 
+        "alias_ITA_V": [
+          "Portogallo"
+        ], 
+        "woeid": 23424925, 
+        "alias_JPN_Q": [
+          "\u30dd\u30eb\u30c8\u30ac\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30dd\u30eb\u30c8\u30ac\u30eb\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Portugali"
+        ], 
+        "sw_longitude": -31.266, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.558, 
+        "date_indexed": "2010-12-02T10:00:50Z", 
+        "alias_CZE_Q": [
+          "Portugalsko"
+        ], 
+        "alias_GER_V": [
+          "Portugiesische Republik"
+        ], 
+        "lang": "POR", 
+        "name": "Portugal", 
+        "alias_UNK_S": [
+          "Portogalia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Port\u00fagal"
+        ], 
+        "alias_HUN_Q": [
+          "Portug\u00e1lia"
+        ], 
+        "ne_longitude": -6.189, 
+        "longitude": -7.845, 
+        "iso": "PT", 
+        "sw_latitude": 30.028, 
+        "fullname": "Portugal"
+      }, 
+      "id": 23424925
+    }
+  ]
+}

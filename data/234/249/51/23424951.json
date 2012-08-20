@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.074, 
+              13.705
+            ], 
+            [
+              -61.074, 
+              14.103
+            ], 
+            [
+              -60.866, 
+              14.103
+            ], 
+            [
+              -60.866, 
+              13.705
+            ], 
+            [
+              -61.074, 
+              13.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Saint Lucian"
+        ], 
+        "alias_SWE_V": [
+          "St Lucia"
+        ], 
+        "alias_SWE_Q": [
+          "Saint Lucia"
+        ], 
+        "alias_POL_Q": [
+          "Saint Lucia"
+        ], 
+        "ne_latitude": 14.103, 
+        "alias_RUM_Q": [
+          "Sf\u00e2nta Lucia"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc138\uc778\ud2b8 \ub8e8\uc2dc\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Santa L\u00facia"
+        ], 
+        "alias_ENG_A": [
+          "LC"
+        ], 
+        "alias_CZE_Q": [
+          "Svat\u00e1 Lucie"
+        ], 
+        "alias_CHI_Q": [
+          "\u8056\u9732\u897f\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Saint Lucia"
+        ], 
+        "alias_GER_V": [
+          "Sankt Lucia"
+        ], 
+        "alias_ITA_V": [
+          "Santa Lucia"
+        ], 
+        "alias_CHI_V": [
+          "\u5723\u5362\u897f\u4e9a"
+        ], 
+        "woeid": 23424951, 
+        "alias_JPN_Q": [
+          "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"
+        ], 
+        "alias_SPA_Q": [
+          "Santa Luc\u00eda"
+        ], 
+        "alias_FIN_Q": [
+          "Saint Lucia"
+        ], 
+        "sw_longitude": -61.074, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.904, 
+        "alias_NOR_Q": [
+          "Saint Lucia"
+        ], 
+        "date_indexed": "2010-12-02T18:18:47Z", 
+        "alias_KOR_Q": [
+          "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"
+        ], 
+        "alias_SPA_V": [
+          "Saint Lucia"
+        ], 
+        "alias_DUT_Q": [
+          "Saint Lucia"
+        ], 
+        "alias_DUT_V": [
+          "Sint-Lucia"
+        ], 
+        "alias_DAN_Q": [
+          "Saint Lucia"
+        ], 
+        "lang": "ENG", 
+        "name": "St. Lucia", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Saint Lucia"
+        ], 
+        "ne_longitude": -60.866, 
+        "longitude": -60.974, 
+        "iso": "LC", 
+        "sw_latitude": 13.705, 
+        "alias_RUM_V": [
+          "Saint Lucia"
+        ], 
+        "fullname": "St. Lucia", 
+        "alias_FRE_Q": [
+          "Sainte-Lucie"
+        ]
+      }, 
+      "id": 23424951
+    }
+  ]
+}

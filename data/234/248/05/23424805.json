@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.772, 
+              57.509
+            ], 
+            [
+              21.772, 
+              59.686
+            ], 
+            [
+              28.210, 
+              59.686
+            ], 
+            [
+              28.210, 
+              57.509
+            ], 
+            [
+              21.772, 
+              57.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Estonia"
+        ], 
+        "alias_SWE_Q": [
+          "Estland"
+        ], 
+        "alias_POL_Q": [
+          "Estonia"
+        ], 
+        "ne_latitude": 59.686, 
+        "alias_RUM_Q": [
+          "Estonia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Estonija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Est\u00f4nia"
+        ], 
+        "alias_POR_Q": [
+          "Est\u00f3nia"
+        ], 
+        "alias_ENG_A": [
+          "EE"
+        ], 
+        "alias_CHI_Q": [
+          "\u611b\u6c99\u5c3c\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Estonia"
+        ], 
+        "alias_GER_V": [
+          "Republik Estland"
+        ], 
+        "alias_CHI_V": [
+          "\u7231\u6c99\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424805, 
+        "alias_JPN_Q": [
+          "\u30a8\u30b9\u30c8\u30cb\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Estonia"
+        ], 
+        "alias_JPN_V": [
+          "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Estonia"
+        ], 
+        "alias_FIN_Q": [
+          "Viro"
+        ], 
+        "sw_longitude": 21.772, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 58.592, 
+        "alias_NOR_Q": [
+          "Estland"
+        ], 
+        "date_indexed": "2010-12-02T16:43:34Z", 
+        "alias_KOR_Q": [
+          "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Estland"
+        ], 
+        "alias_CZE_Q": [
+          "Estonsko"
+        ], 
+        "alias_DAN_Q": [
+          "Estland"
+        ], 
+        "alias_GER_Q": [
+          "Estland"
+        ], 
+        "lang": "UNK", 
+        "name": "Eesti", 
+        "alias_UNK_S": [
+          "Esthonia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Eistland"
+        ], 
+        "alias_HUN_Q": [
+          "\u00c9sztorsz\u00e1g"
+        ], 
+        "ne_longitude": 28.210, 
+        "longitude": 25.807, 
+        "iso": "EE", 
+        "sw_latitude": 57.509, 
+        "alias_HUN_S": [
+          "Esztorszag"
+        ], 
+        "fullname": "Eesti, Estonia", 
+        "alias_FRE_Q": [
+          "Estonie"
+        ]
+      }, 
+      "id": 23424805
+    }
+  ]
+}

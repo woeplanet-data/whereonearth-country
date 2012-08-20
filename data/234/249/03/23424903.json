@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              158.333, 
+              -22.900
+            ], 
+            [
+              158.333, 
+              -18.016
+            ], 
+            [
+              172.061, 
+              -18.016
+            ], 
+            [
+              172.061, 
+              -22.900
+            ], 
+            [
+              158.333, 
+              -22.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "New Caledonian"
+        ], 
+        "alias_SWE_Q": [
+          "Nya Kaledonien"
+        ], 
+        "alias_POL_Q": [
+          "Nowa Kaledonia"
+        ], 
+        "ne_latitude": -18.016, 
+        "alias_RUM_Q": [
+          "Noua Caledonie"
+        ], 
+        "alias_UNK_V": [
+          "Ny-Caledonia"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub274 \uce7c\ub808\ub3c4\ub2c8\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Nova Caled\u00f3nia"
+        ], 
+        "alias_ENG_A": [
+          "NC"
+        ], 
+        "alias_POR_S": [
+          "Nova Caledonia"
+        ], 
+        "alias_CHI_Q": [
+          "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Nuova Caledonia"
+        ], 
+        "alias_CHI_V": [
+          "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424903, 
+        "alias_JPN_Q": [
+          "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2"
+        ], 
+        "alias_SPA_Q": [
+          "Nueva Caledonia"
+        ], 
+        "alias_FIN_Q": [
+          "Uusi-Kaledonia"
+        ], 
+        "sw_longitude": 158.333, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.242, 
+        "alias_NOR_Q": [
+          "Ny-Caledonia"
+        ], 
+        "date_indexed": "2010-12-02T17:02:10Z", 
+        "alias_KOR_Q": [
+          "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
+        ], 
+        "alias_DUT_Q": [
+          "Nieuw-Caledoni\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Nieuw-Caledonie"
+        ], 
+        "alias_CZE_Q": [
+          "Nov\u00e1 Kaledonie"
+        ], 
+        "alias_DAN_Q": [
+          "Ny Kaledonien"
+        ], 
+        "alias_GER_Q": [
+          "Neukaledonien"
+        ], 
+        "lang": "ENG", 
+        "name": "New Caledonia", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "\u00daj-Kaled\u00f3nia"
+        ], 
+        "ne_longitude": 172.061, 
+        "longitude": 165.507, 
+        "iso": "NC", 
+        "sw_latitude": -22.900, 
+        "alias_FRE_V": [
+          "Territoire des Nouvelle-Cal\u00e9donie et D\u00e9pendances"
+        ], 
+        "fullname": "New Caledonia", 
+        "alias_FRE_S": [
+          "Nouvelle-Caledonie"
+        ], 
+        "alias_FRE_Q": [
+          "Nouvelle-Cal\u00e9donie"
+        ]
+      }, 
+      "id": 23424903
+    }
+  ]
+}

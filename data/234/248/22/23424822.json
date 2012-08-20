@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.695, 
+              -3.979
+            ], 
+            [
+              8.695, 
+              2.323
+            ], 
+            [
+              14.502, 
+              2.323
+            ], 
+            [
+              14.502, 
+              -3.979
+            ], 
+            [
+              8.695, 
+              -3.979
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Gabonese Republic"
+        ], 
+        "alias_ENG_A": [
+          "GA"
+        ], 
+        "ne_latitude": 2.323, 
+        "alias_UNK_V": [
+          "Gabonska republika"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Gab\u00e3o"
+        ], 
+        "alias_KOR_Q": [
+          "\uac00\ubd09"
+        ], 
+        "alias_POR_S": [
+          "Gabao"
+        ], 
+        "alias_CHI_Q": [
+          "\u52a0\u5f6d"
+        ], 
+        "alias_CHI_V": [
+          "\u52a0\u5f6d"
+        ], 
+        "woeid": 23424822, 
+        "alias_JPN_Q": [
+          "\u30ac\u30dc\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30ac\u30dc\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Gab\u00f3n"
+        ], 
+        "sw_longitude": 8.695, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.828, 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "alias_GER_V": [
+          "Gabunische Republik"
+        ], 
+        "alias_GER_Q": [
+          "Gabun"
+        ], 
+        "lang": "ENG", 
+        "name": "Gabon", 
+        "parent_woeid": 1, 
+        "ne_longitude": 14.502, 
+        "longitude": 11.599, 
+        "iso": "GA", 
+        "sw_latitude": -3.979, 
+        "fullname": "Gabon"
+      }, 
+      "id": 23424822
+    }
+  ]
+}

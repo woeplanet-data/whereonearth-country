@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.352, 
+              16.927
+            ], 
+            [
+              -62.352, 
+              17.729
+            ], 
+            [
+              -61.659, 
+              17.729
+            ], 
+            [
+              -61.659, 
+              16.927
+            ], 
+            [
+              -62.352, 
+              16.927
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Antiguan"
+        ], 
+        "alias_SWE_Q": [
+          "Antigua och Barbuda"
+        ], 
+        "alias_POL_Q": [
+          "Antigua I Barbuda"
+        ], 
+        "ne_latitude": 17.729, 
+        "alias_RUM_Q": [
+          "Antigua \u015ei Barbuda"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc548\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+        ], 
+        "alias_POR_Q": [
+          "Ant\u00edgua e Barbuda"
+        ], 
+        "alias_ENG_A": [
+          "AG"
+        ], 
+        "alias_CZE_Q": [
+          "Antigua a Barbuda"
+        ], 
+        "alias_CHI_Q": [
+          "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
+        ], 
+        "alias_ITA_Q": [
+          "Antigua e Barbuda"
+        ], 
+        "alias_CHI_V": [
+          "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
+        ], 
+        "woeid": 23424737, 
+        "alias_JPN_Q": [
+          "\u30a2\u30f3\u30c1\u30b0\u30a2\u30d0\u30fc\u30d6\u30fc\u30c0"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30d0\u30d6\u30fc\u30c0"
+        ], 
+        "alias_SPA_Q": [
+          "Antigua y Barbuda"
+        ], 
+        "alias_FIN_Q": [
+          "Antigua ja Barbuda"
+        ], 
+        "sw_longitude": -62.352, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.086, 
+        "alias_NOR_Q": [
+          "Antigua og Barbuda"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "alias_FRE_V": [
+          "Antigua et Barbuda"
+        ], 
+        "alias_KOR_Q": [
+          "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+        ], 
+        "alias_DUT_Q": [
+          "Antigua en Barbuda"
+        ], 
+        "alias_DUT_V": [
+          "Antigua-en-Barbuda"
+        ], 
+        "alias_DAN_Q": [
+          "Antigua og Barbuda"
+        ], 
+        "alias_GER_Q": [
+          "Antigua und Barbuda"
+        ], 
+        "lang": "ENG", 
+        "name": "Antigua and Barbuda", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Antigva in Barbuda"
+        ], 
+        "alias_HUN_Q": [
+          "Antigua \u00c9s Barbuda"
+        ], 
+        "alias_HUN_V": [
+          "Antigua \u00e9s Barbuda"
+        ], 
+        "ne_longitude": -61.659, 
+        "longitude": -61.789, 
+        "iso": "AG", 
+        "sw_latitude": 16.927, 
+        "alias_RUM_V": [
+          "Antigua \u015fi Barbuda"
+        ], 
+        "fullname": "Antigua and Barbuda", 
+        "alias_FRE_Q": [
+          "Antigua-et-Barbuda"
+        ]
+      }, 
+      "id": 23424737
+    }
+  ]
+}

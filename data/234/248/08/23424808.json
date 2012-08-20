@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.000, 
+              3.402
+            ], 
+            [
+              33.000, 
+              14.892
+            ], 
+            [
+              47.986, 
+              14.892
+            ], 
+            [
+              47.986, 
+              3.402
+            ], 
+            [
+              33.000, 
+              3.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Ethiopian"
+        ], 
+        "alias_SWE_Q": [
+          "Etiopien"
+        ], 
+        "alias_POL_Q": [
+          "Etiopia"
+        ], 
+        "ne_latitude": 14.892, 
+        "alias_RUM_Q": [
+          "Etiopia"
+        ], 
+        "alias_UNK_V": [
+          "Ityopiya"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc774\ub514\uc624\ud53c\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Eti\u00f3pia"
+        ], 
+        "alias_ENG_A": [
+          "ET"
+        ], 
+        "alias_CHI_Q": [
+          "\u8863\u7d22\u6bd4\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Etiopia"
+        ], 
+        "alias_GER_V": [
+          "Demokratische Bundesrepublik \u00c4thiopien"
+        ], 
+        "alias_CHI_V": [
+          "\u8863\u7d22\u6bd4\u4e9e"
+        ], 
+        "woeid": 23424808, 
+        "alias_JPN_Q": [
+          "\u30a8\u30c1\u30aa\u30d4\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30a8\u30c1\u30aa\u30d4\u30a2\u9023\u90a6\u6c11\u4e3b\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Etiop\u00eda"
+        ], 
+        "alias_FIN_Q": [
+          "Etiopiaan"
+        ], 
+        "sw_longitude": 33.000, 
+        "alias_FIN_V": [
+          "Etiopiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.147, 
+        "alias_NOR_Q": [
+          "Etiopia"
+        ], 
+        "date_indexed": "2010-12-02T08:52:18Z", 
+        "alias_KOR_Q": [
+          "\uc5d0\ud2f0\uc624\ud53c\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Ethiopi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Ethiopie"
+        ], 
+        "alias_CZE_Q": [
+          "Etiopie"
+        ], 
+        "alias_DAN_Q": [
+          "Etiopien"
+        ], 
+        "alias_GER_Q": [
+          "\u00c4thiopien"
+        ], 
+        "alias_GER_S": [
+          "Demokratische Bundesrepublik Athiopien"
+        ], 
+        "lang": "ENG", 
+        "name": "Ethiopia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "E\u00fe\u00ed\u00f3p\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Eti\u00f3pia"
+        ], 
+        "ne_longitude": 47.986, 
+        "longitude": 40.493, 
+        "iso": "ET", 
+        "sw_latitude": 3.402, 
+        "fullname": "Ethiopia", 
+        "alias_FRE_Q": [
+          "\u00c9thiopie"
+        ]
+      }, 
+      "id": 23424808
+    }
+  ]
+}

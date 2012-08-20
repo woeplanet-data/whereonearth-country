@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.475, 
+              -56.534
+            ], 
+            [
+              -109.475, 
+              -17.508
+            ], 
+            [
+              -66.418, 
+              -17.508
+            ], 
+            [
+              -66.418, 
+              -56.534
+            ], 
+            [
+              -109.475, 
+              -56.534
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Chile"
+        ], 
+        "alias_ENG_A": [
+          "CL"
+        ], 
+        "ne_latitude": -17.508, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uce60\ub808"
+        ], 
+        "alias_CHI_Q": [
+          "\u667a\u5229"
+        ], 
+        "alias_ITA_Q": [
+          "Cile"
+        ], 
+        "woeid": 23424782, 
+        "alias_JPN_Q": [
+          "\u30c1\u30ea"
+        ], 
+        "alias_JPN_V": [
+          "\u30c1\u30ea\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -109.475, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -35.705, 
+        "date_indexed": "2010-12-02T12:15:39Z", 
+        "alias_DUT_Q": [
+          "Chili"
+        ], 
+        "alias_GER_V": [
+          "Republik Chile"
+        ], 
+        "lang": "ENG", 
+        "name": "Chile", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Chiri"
+        ], 
+        "ne_longitude": -66.418, 
+        "longitude": -71.341, 
+        "iso": "CL", 
+        "sw_latitude": -56.534, 
+        "fullname": "Chile", 
+        "alias_FRE_Q": [
+          "Chili"
+        ]
+      }, 
+      "id": 23424782
+    }
+  ]
+}

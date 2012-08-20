@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.833, 
+              47.728
+            ], 
+            [
+              16.833, 
+              49.603
+            ], 
+            [
+              22.570, 
+              49.603
+            ], 
+            [
+              22.570, 
+              47.728
+            ], 
+            [
+              16.833, 
+              47.728
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Slovak Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Slovakien"
+        ], 
+        "alias_POL_Q": [
+          "S\u0142owacja"
+        ], 
+        "ne_latitude": 49.603, 
+        "alias_RUM_Q": [
+          "Slovacia"
+        ], 
+        "alias_UNK_V": [
+          "Slovak\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Eslov\u00e1quia"
+        ], 
+        "alias_ENG_A": [
+          "SK"
+        ], 
+        "alias_CHI_Q": [
+          "\u65af\u6d1b\u4f10\u514b"
+        ], 
+        "alias_ITA_Q": [
+          "Slovacchia"
+        ], 
+        "alias_GER_V": [
+          "Slowakische Republik"
+        ], 
+        "woeid": 23424877, 
+        "alias_JPN_Q": [
+          "\u30b9\u30ed\u30d0\u30ad\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Slovakia"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30e9\u30c1\u30b9\u30e9\u30f4\u30a1"
+        ], 
+        "alias_SPA_Q": [
+          "Eslovaquia"
+        ], 
+        "alias_FIN_Q": [
+          "Slovakia"
+        ], 
+        "sw_longitude": 16.833, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.666, 
+        "alias_NOR_Q": [
+          "Slovakia"
+        ], 
+        "date_indexed": "2010-12-02T08:50:42Z", 
+        "alias_KOR_Q": [
+          "\uc2ac\ub85c\ubc14\ud0a4\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Slowakije"
+        ], 
+        "alias_CZE_Q": [
+          "Slovensko"
+        ], 
+        "alias_DAN_Q": [
+          "Slovakiet"
+        ], 
+        "alias_GER_Q": [
+          "Slowakei"
+        ], 
+        "lang": "UNK", 
+        "name": "Slovensk\u00e1", 
+        "alias_UNK_S": [
+          "Slovenska"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Eslov\u00e0quia"
+        ], 
+        "alias_HUN_Q": [
+          "Szlov\u00e1kia"
+        ], 
+        "ne_longitude": 22.570, 
+        "longitude": 19.702, 
+        "iso": "SK", 
+        "sw_latitude": 47.728, 
+        "alias_HUN_S": [
+          "Szlovakia"
+        ], 
+        "alias_FRE_V": [
+          "R\u00e9publique slovaque"
+        ], 
+        "fullname": "Slovensk\u00e1, Slovakia", 
+        "alias_FRE_Q": [
+          "Slovaquie"
+        ]
+      }, 
+      "id": 23424877
+    }
+  ]
+}

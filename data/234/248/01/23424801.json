@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.000, 
+              -4.999
+            ], 
+            [
+              -92.000, 
+              1.650
+            ], 
+            [
+              -75.185, 
+              1.650
+            ], 
+            [
+              -75.185, 
+              -4.999
+            ], 
+            [
+              -92.000, 
+              -4.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Ecuador"
+        ], 
+        "alias_ENG_A": [
+          "ECU"
+        ], 
+        "alias_POL_Q": [
+          "Ekwador"
+        ], 
+        "ne_latitude": 1.650, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc5d0\ucfe0\uc544\ub3c4\ub974"
+        ], 
+        "alias_POR_Q": [
+          "Equador"
+        ], 
+        "alias_KOR_Q": [
+          "\uc5d0\ucf70\ub3c4\ub974"
+        ], 
+        "alias_CHI_Q": [
+          "\u5384\u74dc\u591a"
+        ], 
+        "alias_ITA_Q": [
+          "Equatore"
+        ], 
+        "alias_CHI_V": [
+          "\u5384\u74dc\u591a"
+        ], 
+        "woeid": 23424801, 
+        "alias_JPN_Q": [
+          "\u30a8\u30af\u30a2\u30c9\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30a8\u30af\u30a2\u30c9\u30eb\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -92.000, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.790, 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "alias_CZE_Q": [
+          "Ekv\u00e1dor"
+        ], 
+        "alias_GER_Q": [
+          "Republik Ecuador"
+        ], 
+        "lang": "ENG", 
+        "name": "Ecuador", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ekvador"
+        ], 
+        "ne_longitude": -75.185, 
+        "longitude": -78.096, 
+        "iso": "EC", 
+        "sw_latitude": -4.999, 
+        "fullname": "Ecuador", 
+        "alias_FRE_S": [
+          "Equateur"
+        ], 
+        "alias_FRE_Q": [
+          "\u00c9quateur"
+        ]
+      }, 
+      "id": 23424801
+    }
+  ]
+}

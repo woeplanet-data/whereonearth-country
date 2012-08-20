@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.638, 
+              41.189
+            ], 
+            [
+              19.638, 
+              82.500
+            ], 
+            [
+              -168.890, 
+              82.500
+            ], 
+            [
+              -168.890, 
+              41.189
+            ], 
+            [
+              19.638, 
+              41.189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Federacja Rosyjska"
+        ], 
+        "alias_ENG_V": [
+          "Russian Soviet Federative Socialist Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Ryssland"
+        ], 
+        "alias_POL_Q": [
+          "Rosja"
+        ], 
+        "ne_latitude": 82.500, 
+        "alias_RUM_Q": [
+          "Rusia"
+        ], 
+        "alias_UNK_V": [
+          "Rossiya"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "R\u00fassia"
+        ], 
+        "alias_ENG_A": [
+          "RU"
+        ], 
+        "alias_CZE_Q": [
+          "Rusko"
+        ], 
+        "alias_CHI_Q": [
+          "\u4fc4\u7f85\u65af"
+        ], 
+        "alias_ITA_Q": [
+          "Russia"
+        ], 
+        "alias_GER_V": [
+          "Ru\u00dfland"
+        ], 
+        "alias_ITA_V": [
+          "Federazione Russa"
+        ], 
+        "alias_CHI_V": [
+          "\u4fc4\u7f57\u65af"
+        ], 
+        "woeid": 23424936, 
+        "alias_JPN_Q": [
+          "\u30ed\u30b7\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Russia"
+        ], 
+        "alias_JPN_V": [
+          "\u30ed\u30b7\u30a2\u9023\u90a6"
+        ], 
+        "alias_SPA_Q": [
+          "Rusia"
+        ], 
+        "alias_FIN_Q": [
+          "Ven\u00e4j\u00e4"
+        ], 
+        "alias_SPA_S": [
+          "Rusia, Federacion de"
+        ], 
+        "alias_FIN_S": [
+          "Venaejae"
+        ], 
+        "sw_longitude": 19.638, 
+        "alias_FIN_V": [
+          "Ven\u00e4j\u00e4lle"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 59.461, 
+        "alias_NOR_Q": [
+          "Russland"
+        ], 
+        "date_indexed": "2010-12-02T16:11:04Z", 
+        "alias_FRE_V": [
+          "F\u00e9d\u00e9ration de Russie"
+        ], 
+        "alias_KOR_Q": [
+          "\ub7ec\uc2dc\uc544"
+        ], 
+        "alias_SPA_V": [
+          "Rusia, Federaci\u00f3n de"
+        ], 
+        "alias_DUT_Q": [
+          "Rusland"
+        ], 
+        "alias_DUT_V": [
+          "Russische Federatie"
+        ], 
+        "alias_DAN_Q": [
+          "Rusland"
+        ], 
+        "alias_GER_Q": [
+          "Russland"
+        ], 
+        "alias_GER_S": [
+          "Russische Foederation"
+        ], 
+        "lang": "UNK", 
+        "name": "Rossija", 
+        "alias_UNK_S": [
+          "Rosia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "R\u00fassland"
+        ], 
+        "alias_HUN_Q": [
+          "Oroszorsz\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "Orosz K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": -168.890, 
+        "longitude": 108.832, 
+        "iso": "RU", 
+        "sw_latitude": 41.189, 
+        "alias_HUN_S": [
+          "Oroszorszag"
+        ], 
+        "alias_RUM_V": [
+          "Federa\u021bia Rus\u0103"
+        ], 
+        "fullname": "Rossija, Russia", 
+        "alias_FRE_S": [
+          "Federation de Russie"
+        ], 
+        "alias_FRE_Q": [
+          "Russie"
+        ]
+      }, 
+      "id": 23424936
+    }
+  ]
+}

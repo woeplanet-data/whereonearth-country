@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.728, 
+              -4.230
+            ], 
+            [
+              -81.728, 
+              13.390
+            ], 
+            [
+              -66.870, 
+              13.390
+            ], 
+            [
+              -66.870, 
+              -4.230
+            ], 
+            [
+              -81.728, 
+              -4.230
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Colombia"
+        ], 
+        "alias_ENG_A": [
+          "CO"
+        ], 
+        "alias_POL_Q": [
+          "Kolumbia"
+        ], 
+        "ne_latitude": 13.390, 
+        "alias_RUM_Q": [
+          "Columbia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kolumbija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Col\u00f4mbia"
+        ], 
+        "alias_KOR_Q": [
+          "\ucf5c\ub86c\ube44\uc544"
+        ], 
+        "alias_CHI_Q": [
+          "\u54e5\u502b\u6bd4\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u54e5\u4f26\u6bd4\u4e9a"
+        ], 
+        "woeid": 23424787, 
+        "alias_JPN_Q": [
+          "\u30b3\u30ed\u30f3\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b3\u30ed\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Kolumbia"
+        ], 
+        "sw_longitude": -81.728, 
+        "alias_FIN_V": [
+          "Kolumbiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 4.116, 
+        "date_indexed": "2010-12-02T17:57:37Z", 
+        "alias_CZE_Q": [
+          "Kolumbie"
+        ], 
+        "alias_GER_V": [
+          "Republik Kolumbien"
+        ], 
+        "alias_GER_Q": [
+          "Kolumbien"
+        ], 
+        "lang": "ENG", 
+        "name": "Colombia", 
+        "alias_UNK_S": [
+          "Kolombia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kolumbia"
+        ], 
+        "alias_HUN_Q": [
+          "Kolumbia"
+        ], 
+        "ne_longitude": -66.870, 
+        "longitude": -72.959, 
+        "iso": "CO", 
+        "sw_latitude": -4.230, 
+        "fullname": "Colombia", 
+        "alias_FRE_Q": [
+          "Colombie"
+        ]
+      }, 
+      "id": 23424787
+    }
+  ]
+}

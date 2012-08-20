@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.578, 
+              -55.067
+            ], 
+            [
+              -73.578, 
+              -21.781
+            ], 
+            [
+              -53.592, 
+              -21.781
+            ], 
+            [
+              -53.592, 
+              -55.067
+            ], 
+            [
+              -73.578, 
+              -55.067
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Argentine Republic"
+        ], 
+        "alias_ENG_A": [
+          "AR"
+        ], 
+        "alias_POL_Q": [
+          "Argentyna"
+        ], 
+        "ne_latitude": -21.781, 
+        "alias_UNK_V": [
+          "Argentinska Republika"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc544\ub974\ud5e8\ud2f0\ub098"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u6839\u5ef7"
+        ], 
+        "woeid": 23424747, 
+        "alias_JPN_Q": [
+          "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Argentiina"
+        ], 
+        "sw_longitude": -73.578, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -37.091, 
+        "date_indexed": "2010-12-02T17:41:29Z", 
+        "alias_DUT_Q": [
+          "Argentini\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Argentinie"
+        ], 
+        "alias_GER_V": [
+          "Argentinische Republik"
+        ], 
+        "alias_GER_Q": [
+          "Argentinien"
+        ], 
+        "lang": "ENG", 
+        "name": "Argentina", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Argent\u00edna"
+        ], 
+        "alias_HUN_Q": [
+          "Argent\u00edna"
+        ], 
+        "ne_longitude": -53.592, 
+        "longitude": -63.585, 
+        "iso": "AR", 
+        "sw_latitude": -55.067, 
+        "fullname": "Argentina", 
+        "alias_FRE_Q": [
+          "Argentine"
+        ]
+      }, 
+      "id": 23424747
+    }
+  ]
+}

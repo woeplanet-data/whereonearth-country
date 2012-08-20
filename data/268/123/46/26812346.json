@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.273, 
+              34.564
+            ], 
+            [
+              32.273, 
+              35.702
+            ], 
+            [
+              34.598, 
+              35.702
+            ], 
+            [
+              34.598, 
+              34.564
+            ], 
+            [
+              32.273, 
+              34.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Cyprus"
+        ], 
+        "alias_SWE_Q": [
+          "Cypern"
+        ], 
+        "alias_POL_Q": [
+          "Cypr"
+        ], 
+        "ne_latitude": 35.702, 
+        "alias_RUM_Q": [
+          "Cipru"
+        ], 
+        "alias_UNK_V": [
+          "Republika Ciper"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc0ac\uc774\ud504\ub7ec\uc2a4"
+        ], 
+        "alias_POR_Q": [
+          "Chipre"
+        ], 
+        "alias_ENG_A": [
+          "CY"
+        ], 
+        "alias_CHI_Q": [
+          "\u8cfd\u666e\u52d2\u65af"
+        ], 
+        "alias_ITA_Q": [
+          "Cipro"
+        ], 
+        "alias_GER_V": [
+          "Republik Zypern"
+        ], 
+        "alias_CHI_V": [
+          "\u8cfd\u666e\u52d2\u65af"
+        ], 
+        "woeid": 26812346, 
+        "alias_JPN_Q": [
+          "\u30ad\u30d7\u30ed\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30ad\u30d7\u30ed\u30b9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Chipre"
+        ], 
+        "alias_FIN_Q": [
+          "Kyproksen Tasavalta"
+        ], 
+        "sw_longitude": 32.273, 
+        "alias_FIN_V": [
+          "Kyproksesta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 35.133, 
+        "alias_NOR_Q": [
+          "Kypros"
+        ], 
+        "date_indexed": "2010-12-02T09:35:25Z", 
+        "alias_KOR_Q": [
+          "\ud0a4\ud504\ub85c\uc2a4"
+        ], 
+        "alias_CZE_Q": [
+          "Kypr"
+        ], 
+        "alias_DAN_Q": [
+          "Cypern"
+        ], 
+        "alias_GER_Q": [
+          "Zypern"
+        ], 
+        "lang": "ENG", 
+        "name": "Cyprus", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ciper"
+        ], 
+        "alias_HUN_Q": [
+          "Ciprus"
+        ], 
+        "ne_longitude": 34.598, 
+        "longitude": 33.436, 
+        "iso": "CY", 
+        "sw_latitude": 34.564, 
+        "fullname": "Cyprus", 
+        "alias_FRE_Q": [
+          "Chypre"
+        ]
+      }, 
+      "id": 26812346
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              69.277, 
+              39.173
+            ], 
+            [
+              69.277, 
+              43.238
+            ], 
+            [
+              80.283, 
+              43.238
+            ], 
+            [
+              80.283, 
+              39.173
+            ], 
+            [
+              69.277, 
+              39.173
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kyrgyzstani"
+        ], 
+        "alias_SWE_Q": [
+          "Kirgizistan"
+        ], 
+        "alias_POL_Q": [
+          "Kirgistan"
+        ], 
+        "ne_latitude": 43.238, 
+        "alias_RUM_Q": [
+          "K\u00e2rg\u00e2zstan"
+        ], 
+        "alias_UNK_V": [
+          "Kirgisia"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud0a4\ub974\uae30\uc2a4"
+        ], 
+        "alias_POR_V": [
+          "Quirguizist\u00e3o"
+        ], 
+        "alias_POR_Q": [
+          "Quirguist\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "KG"
+        ], 
+        "alias_POR_S": [
+          "Quirguizistao"
+        ], 
+        "alias_CZE_Q": [
+          "Kyrgyzst\u00e1n"
+        ], 
+        "alias_CHI_Q": [
+          "\u5409\u723e\u5409\u65af"
+        ], 
+        "alias_ITA_Q": [
+          "Kirghizistan"
+        ], 
+        "alias_GER_V": [
+          "Kirgistan"
+        ], 
+        "alias_CHI_V": [
+          "\u5409\u723e\u5409\u65af"
+        ], 
+        "woeid": 23424864, 
+        "alias_JPN_Q": [
+          "\u30ad\u30eb\u30ae\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30af\u30eb\u30b0\u30ba\u30b9\u30bf\u30f3"
+        ], 
+        "alias_SPA_Q": [
+          "Kirguist\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Kirgisia"
+        ], 
+        "alias_SPA_S": [
+          "Kirguistan"
+        ], 
+        "sw_longitude": 69.277, 
+        "alias_FIN_V": [
+          "Kirgiisia"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.206, 
+        "alias_NOR_Q": [
+          "Kirgisistan"
+        ], 
+        "date_indexed": "2010-12-02T08:58:47Z", 
+        "alias_KOR_Q": [
+          "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+        ], 
+        "alias_SPA_V": [
+          "Kirgizist\u00e1n"
+        ], 
+        "alias_DUT_Q": [
+          "Kirgizi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Kirgizie"
+        ], 
+        "alias_DUT_V": [
+          "Kirgizstan"
+        ], 
+        "alias_DAN_Q": [
+          "Kirgisistan"
+        ], 
+        "alias_GER_Q": [
+          "Kirgisistan"
+        ], 
+        "lang": "ENG", 
+        "name": "Kyrgyzstan", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kirgizistan"
+        ], 
+        "alias_HUN_Q": [
+          "Kirgiziszt\u00e1n"
+        ], 
+        "ne_longitude": 80.283, 
+        "longitude": 74.780, 
+        "iso": "KG", 
+        "sw_latitude": 39.173, 
+        "alias_RUM_V": [
+          "Kirghizia"
+        ], 
+        "fullname": "Kyrgyzstan", 
+        "alias_FRE_Q": [
+          "Kirghizistan"
+        ]
+      }, 
+      "id": 23424864
+    }
+  ]
+}

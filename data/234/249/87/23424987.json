@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.716, 
+              -28.971
+            ], 
+            [
+              11.716, 
+              -16.960
+            ], 
+            [
+              25.257, 
+              -16.960
+            ], 
+            [
+              25.257, 
+              -28.971
+            ], 
+            [
+              11.716, 
+              -28.971
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Namibia"
+        ], 
+        "alias_ENG_A": [
+          "NA"
+        ], 
+        "ne_latitude": -16.960, 
+        "alias_UNK_V": [
+          "Republika Namibija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Nam\u00edbia"
+        ], 
+        "alias_KOR_Q": [
+          "\ub098\ubbf8\ube44\uc544"
+        ], 
+        "alias_CHI_Q": [
+          "\u7d0d\u7c73\u6bd4\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u7eb3\u7c73\u6bd4\u4e9a"
+        ], 
+        "woeid": 23424987, 
+        "alias_JPN_Q": [
+          "\u30ca\u30df\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30ca\u30df\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 11.716, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -22.966, 
+        "date_indexed": "2010-12-02T07:50:17Z", 
+        "alias_DUT_Q": [
+          "Namibi\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Namibie"
+        ], 
+        "alias_GER_V": [
+          "Republik Namibia"
+        ], 
+        "lang": "ENG", 
+        "name": "Namibia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Namib\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Nam\u00edbia"
+        ], 
+        "ne_longitude": 25.257, 
+        "longitude": 18.486, 
+        "iso": "NA", 
+        "sw_latitude": -28.971, 
+        "fullname": "Namibia", 
+        "alias_FRE_Q": [
+          "Namibie"
+        ]
+      }, 
+      "id": 23424987
+    }
+  ]
+}

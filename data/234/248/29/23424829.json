@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.866, 
+              47.270
+            ], 
+            [
+              5.866, 
+              55.058
+            ], 
+            [
+              15.042, 
+              55.058
+            ], 
+            [
+              15.042, 
+              47.270
+            ], 
+            [
+              5.866, 
+              47.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "German"
+        ], 
+        "alias_SWE_Q": [
+          "Tyskland"
+        ], 
+        "alias_POL_Q": [
+          "Niemcy"
+        ], 
+        "ne_latitude": 55.058, 
+        "alias_RUM_Q": [
+          "Germania"
+        ], 
+        "alias_UNK_V": [
+          "Germanija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Alemanha"
+        ], 
+        "alias_ENG_A": [
+          "DEU"
+        ], 
+        "alias_CHI_Q": [
+          "\u5fb7\u570b"
+        ], 
+        "alias_ITA_Q": [
+          "Germania"
+        ], 
+        "alias_GER_V": [
+          "Bundesrepublik Deutschland"
+        ], 
+        "alias_CHI_V": [
+          "\u5fb7\u56fd"
+        ], 
+        "woeid": 23424829, 
+        "alias_JPN_Q": [
+          "\u30c9\u30a4\u30c4"
+        ], 
+        "alias_ENG_P": [
+          "Germany"
+        ], 
+        "alias_JPN_V": [
+          "\u30c9\u30a4\u30c4\u9023\u90a6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Alemania"
+        ], 
+        "alias_FIN_Q": [
+          "Deutsland"
+        ], 
+        "sw_longitude": 5.866, 
+        "alias_FIN_V": [
+          "Saksa"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 51.164, 
+        "alias_NOR_Q": [
+          "Tyskland"
+        ], 
+        "date_indexed": "2010-12-02T09:50:31Z", 
+        "alias_KOR_Q": [
+          "\ub3c5\uc77c"
+        ], 
+        "alias_DUT_Q": [
+          "Duitsland"
+        ], 
+        "alias_CZE_Q": [
+          "N\u011bmecko"
+        ], 
+        "alias_DAN_Q": [
+          "Tyskland"
+        ], 
+        "lang": "GER", 
+        "name": "Deutschland", 
+        "alias_UNK_S": [
+          "Thyskaland"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Alemanya"
+        ], 
+        "alias_HUN_Q": [
+          "N\u00e9metorsz\u00e1g"
+        ], 
+        "ne_longitude": 15.042, 
+        "longitude": 10.454, 
+        "iso": "DE", 
+        "sw_latitude": 47.270, 
+        "alias_HUN_S": [
+          "Nemetorszag"
+        ], 
+        "fullname": "Deutschland, Germany", 
+        "alias_FRE_Q": [
+          "Allemagne"
+        ]
+      }, 
+      "id": 23424829
+    }
+  ]
+}

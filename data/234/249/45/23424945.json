@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.376, 
+              45.416
+            ], 
+            [
+              13.376, 
+              46.878
+            ], 
+            [
+              16.597, 
+              46.878
+            ], 
+            [
+              16.597, 
+              45.416
+            ], 
+            [
+              13.376, 
+              45.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Slovenian"
+        ], 
+        "alias_SWE_Q": [
+          "Slovenien"
+        ], 
+        "alias_POL_Q": [
+          "S\u0142owenia"
+        ], 
+        "ne_latitude": 46.878, 
+        "alias_RUM_Q": [
+          "Slovenia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Slovenija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Eslov\u00eania"
+        ], 
+        "alias_POR_Q": [
+          "Eslov\u00e9nia"
+        ], 
+        "alias_ENG_A": [
+          "SI"
+        ], 
+        "alias_CHI_Q": [
+          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Slovenia"
+        ], 
+        "alias_CHI_V": [
+          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+        ], 
+        "woeid": 23424945, 
+        "alias_JPN_Q": [
+          "\u30b9\u30ed\u30d9\u30cb\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Slovenia"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Eslovenia"
+        ], 
+        "alias_FIN_Q": [
+          "Slovenia"
+        ], 
+        "sw_longitude": 13.376, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.147, 
+        "alias_NOR_Q": [
+          "Slovenia"
+        ], 
+        "date_indexed": "2010-12-02T09:58:07Z", 
+        "alias_KOR_Q": [
+          "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Sloveni\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Slovenie"
+        ], 
+        "alias_CZE_Q": [
+          "Slovinsko"
+        ], 
+        "alias_DAN_Q": [
+          "Slovenien"
+        ], 
+        "alias_GER_Q": [
+          "Slowenien"
+        ], 
+        "lang": "UNK", 
+        "name": "Slovenija", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sl\u00f3ven\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Szlov\u00e9nia"
+        ], 
+        "ne_longitude": 16.597, 
+        "longitude": 14.955, 
+        "iso": "SI", 
+        "sw_latitude": 45.416, 
+        "alias_HUN_S": [
+          "Szlovenia"
+        ], 
+        "fullname": "Slovenija, Slovenia", 
+        "alias_FRE_S": [
+          "Slovenie"
+        ], 
+        "alias_FRE_Q": [
+          "Slov\u00e9nie"
+        ]
+      }, 
+      "id": 23424945
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.199, 
+              -10.217
+            ], 
+            [
+              46.199, 
+              -3.712
+            ], 
+            [
+              56.279, 
+              -3.712
+            ], 
+            [
+              56.279, 
+              -10.217
+            ], 
+            [
+              46.199, 
+              -10.217
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Seychelles"
+        ], 
+        "alias_SWE_Q": [
+          "Seychellerna"
+        ], 
+        "alias_POL_Q": [
+          "Seszele"
+        ], 
+        "ne_latitude": -3.712, 
+        "alias_UNK_V": [
+          "Seychellerne"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc138\uc774\uc258"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Seychelles"
+        ], 
+        "alias_ENG_A": [
+          "SC"
+        ], 
+        "alias_CHI_Q": [
+          "\u585e\u5e2d\u723e"
+        ], 
+        "alias_GER_V": [
+          "Republik Seychellen"
+        ], 
+        "alias_ITA_V": [
+          "Seicelle"
+        ], 
+        "alias_CHI_V": [
+          "\u585e\u5e2d\u723e"
+        ], 
+        "woeid": 23424941, 
+        "alias_JPN_Q": [
+          "\u30bb\u30fc\u30b7\u30a7\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30bb\u30fc\u30b7\u30a7\u30eb\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Seychellit"
+        ], 
+        "sw_longitude": 46.199, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -4.684, 
+        "alias_NOR_Q": [
+          "Seychellene"
+        ], 
+        "date_indexed": "2010-12-02T08:53:34Z", 
+        "alias_KOR_Q": [
+          "\uc138\uc774\uc178"
+        ], 
+        "alias_DUT_Q": [
+          "Seychellen"
+        ], 
+        "alias_CZE_Q": [
+          "Seychely"
+        ], 
+        "alias_DAN_Q": [
+          "Seychellerne"
+        ], 
+        "alias_GER_Q": [
+          "Seychellen"
+        ], 
+        "lang": "ENG", 
+        "name": "Seychelles", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Seychelle-Szigetek"
+        ], 
+        "ne_longitude": 56.279, 
+        "longitude": 55.487, 
+        "iso": "SC", 
+        "sw_latitude": -10.217, 
+        "alias_FRE_V": [
+          "\u00celes Seychelles"
+        ], 
+        "fullname": "Seychelles", 
+        "alias_FRE_S": [
+          "Iles Seychelles"
+        ]
+      }, 
+      "id": 23424941
+    }
+  ]
+}

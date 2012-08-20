@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              60.478, 
+              29.377
+            ], 
+            [
+              60.478, 
+              38.483
+            ], 
+            [
+              74.879, 
+              38.483
+            ], 
+            [
+              74.879, 
+              29.377
+            ], 
+            [
+              60.478, 
+              29.377
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Afuganisutan"
+        ], 
+        "alias_ENG_A": [
+          "AF"
+        ], 
+        "alias_POL_Q": [
+          "Afganistan"
+        ], 
+        "ne_latitude": 38.483, 
+        "alias_RUM_Q": [
+          "Afganistan"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Afeganist\u00e3o"
+        ], 
+        "alias_KOR_Q": [
+          "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
+        ], 
+        "alias_POR_S": [
+          "Afeganistao"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u5bcc\u6c57"
+        ], 
+        "woeid": 23424739, 
+        "alias_JPN_Q": [
+          "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Afganist\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Afganistan"
+        ], 
+        "sw_longitude": 60.478, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.930, 
+        "date_indexed": "2010-12-02T18:03:37Z", 
+        "alias_CZE_Q": [
+          "Afgh\u00e1nist\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Islamischer Staat Afghanistan"
+        ], 
+        "lang": "ENG", 
+        "name": "Afghanistan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Afganiszt\u00e1n"
+        ], 
+        "ne_longitude": 74.879, 
+        "longitude": 67.679, 
+        "iso": "AF", 
+        "sw_latitude": 29.377, 
+        "fullname": "Afghanistan"
+      }, 
+      "id": 23424739
+    }
+  ]
+}

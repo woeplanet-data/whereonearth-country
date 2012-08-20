@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.241, 
+              13.737
+            ], 
+            [
+              -92.241, 
+              17.815
+            ], 
+            [
+              -88.223, 
+              17.815
+            ], 
+            [
+              -88.223, 
+              13.737
+            ], 
+            [
+              -92.241, 
+              13.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Guatemala"
+        ], 
+        "alias_KOR_Q": [
+          "\uacfc\ud14c\ub9d0\ub77c"
+        ], 
+        "alias_POL_Q": [
+          "Gwatemala"
+        ], 
+        "ne_latitude": 17.815, 
+        "ne_longitude": -88.223, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "GT"
+        ], 
+        "alias_CHI_Q": [
+          "\u74dc\u5730\u99ac\u62c9"
+        ], 
+        "alias_CHI_V": [
+          "\u5371\u5730\u9a6c\u62c9"
+        ], 
+        "woeid": 23424834, 
+        "alias_JPN_Q": [
+          "\u30b0\u30a2\u30c6\u30de\u30e9"
+        ], 
+        "alias_JPN_V": [
+          "\u30b0\u30a2\u30c6\u30de\u30e9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -92.241, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.776, 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "alias_GER_V": [
+          "Republik Guatemala"
+        ], 
+        "lang": "ENG", 
+        "name": "Guatemala", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gvatemala"
+        ], 
+        "alias_UNK_V": [
+          "Republika Gvatemala"
+        ], 
+        "longitude": -90.232, 
+        "iso": "GT", 
+        "sw_latitude": 13.737, 
+        "alias_FRE_V": [
+          "Guat\u00e9mala"
+        ], 
+        "fullname": "Guatemala"
+      }, 
+      "id": 23424834
+    }
+  ]
+}

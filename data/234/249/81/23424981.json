@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.459, 
+              12.581
+            ], 
+            [
+              -61.459, 
+              13.378
+            ], 
+            [
+              -61.114, 
+              13.378
+            ], 
+            [
+              -61.114, 
+              12.581
+            ], 
+            [
+              -61.459, 
+              12.581
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "St. Vincent and the Grenadines"
+        ], 
+        "alias_SWE_Q": [
+          "Saint Vincent och Grenadinerna"
+        ], 
+        "ne_latitude": 13.378, 
+        "alias_UNK_V": [
+          "Sankt Vincent og Grenadinene"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc138\uc778\ud2b8 \ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
+        ], 
+        "alias_ENG_A": [
+          "VC"
+        ], 
+        "alias_CHI_Q": [
+          "\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01"
+        ], 
+        "alias_ITA_Q": [
+          "Saint Vincent e Grenadine"
+        ], 
+        "alias_ITA_V": [
+          "Saint Vincent e Grenadines"
+        ], 
+        "alias_CHI_V": [
+          "\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01"
+        ], 
+        "woeid": 23424981, 
+        "alias_JPN_Q": [
+          "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
+        ], 
+        "alias_JPN_V": [
+          "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "San Vicente y Granadinas"
+        ], 
+        "alias_FIN_Q": [
+          "Saint Vincent ja Grenadiinit"
+        ], 
+        "sw_longitude": -61.459, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.248, 
+        "alias_NOR_Q": [
+          "St Vincent og Grenadinene"
+        ], 
+        "alias_NOR_V": [
+          "Saint Vincent og Grenadinene"
+        ], 
+        "date_indexed": "2010-12-02T09:57:22Z", 
+        "alias_KOR_Q": [
+          "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8\uadf8\ub808\ub098\ub518"
+        ], 
+        "alias_SPA_V": [
+          "San Vicente y Las Granadinas"
+        ], 
+        "alias_DUT_Q": [
+          "Sint-Vincent en de Grenadines"
+        ], 
+        "alias_DUT_V": [
+          "St. Vincent en de Grenadines"
+        ], 
+        "alias_GER_V": [
+          "St. Vincent und Grenadinen"
+        ], 
+        "alias_GER_Q": [
+          "St. Vincent und die Grenadinen"
+        ], 
+        "lang": "ENG", 
+        "name": "Saint Vincent and the Grenadines", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Saint Vincent in Grenadine"
+        ], 
+        "ne_longitude": -61.114, 
+        "longitude": -61.196, 
+        "iso": "VC", 
+        "sw_latitude": 12.581, 
+        "alias_FRE_V": [
+          "Saint-Vincent et les Grenadines"
+        ], 
+        "fullname": "Saint Vincent and the Grenadines", 
+        "alias_FRE_Q": [
+          "Saint-Vincent-et-Les-Grenadines"
+        ]
+      }, 
+      "id": 23424981
+    }
+  ]
+}

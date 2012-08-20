@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.396, 
+              1.175
+            ], 
+            [
+              -61.396, 
+              8.558
+            ], 
+            [
+              -56.480, 
+              8.558
+            ], 
+            [
+              -56.480, 
+              1.175
+            ], 
+            [
+              -61.396, 
+              1.175
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Guianese"
+        ], 
+        "alias_ENG_A": [
+          "GY"
+        ], 
+        "alias_POL_Q": [
+          "Gujana"
+        ], 
+        "ne_latitude": 8.558, 
+        "alias_UNK_V": [
+          "Republika Gvajana"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uad6c\uc544\ub098"
+        ], 
+        "alias_POR_Q": [
+          "Guiana"
+        ], 
+        "alias_KOR_Q": [
+          "\uac00\uc774\uc544\ub098"
+        ], 
+        "alias_CHI_Q": [
+          "\u84cb\u4e9e\u90a3"
+        ], 
+        "alias_ITA_V": [
+          "Guiana"
+        ], 
+        "alias_CHI_V": [
+          "\u84cb\u4e9e\u90a3"
+        ], 
+        "woeid": 23424836, 
+        "alias_JPN_Q": [
+          "\u30ac\u30a4\u30a2\u30ca"
+        ], 
+        "alias_JPN_V": [
+          "\u30ac\u30a4\u30a2\u30ca\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -61.396, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 4.866, 
+        "date_indexed": "2010-12-02T16:33:25Z", 
+        "alias_GER_V": [
+          "Kooperative Republik Guyana"
+        ], 
+        "lang": "ENG", 
+        "name": "Guyana", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gvajana"
+        ], 
+        "ne_longitude": -56.480, 
+        "longitude": -58.938, 
+        "iso": "GY", 
+        "sw_latitude": 1.175, 
+        "fullname": "Guyana"
+      }, 
+      "id": 23424836
+    }
+  ]
+}

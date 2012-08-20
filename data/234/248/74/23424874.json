@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.974, 
+              55.669
+            ], 
+            [
+              20.974, 
+              58.082
+            ], 
+            [
+              28.241, 
+              58.082
+            ], 
+            [
+              28.241, 
+              55.669
+            ], 
+            [
+              20.974, 
+              55.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Latvia"
+        ], 
+        "alias_SWE_Q": [
+          "Lettland"
+        ], 
+        "alias_POL_Q": [
+          "\u0141otwa"
+        ], 
+        "ne_latitude": 58.082, 
+        "alias_RUM_Q": [
+          "Letonia"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Let\u00f4nia"
+        ], 
+        "alias_POR_Q": [
+          "Let\u00f3nia"
+        ], 
+        "alias_ENG_A": [
+          "LV"
+        ], 
+        "alias_CHI_Q": [
+          "\u62c9\u812b\u7dad\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Lettonia"
+        ], 
+        "alias_GER_V": [
+          "Republik Lettland"
+        ], 
+        "alias_CHI_V": [
+          "\u62c9\u8131\u7ef4\u4e9a"
+        ], 
+        "woeid": 23424874, 
+        "alias_JPN_Q": [
+          "\u30e9\u30c8\u30d3\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Latvia"
+        ], 
+        "alias_JPN_V": [
+          "\u30e9\u30c8\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Letonia"
+        ], 
+        "alias_FIN_Q": [
+          "Latvia"
+        ], 
+        "sw_longitude": 20.974, 
+        "alias_FIN_V": [
+          "Latvian"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 56.875, 
+        "alias_NOR_Q": [
+          "Latvia"
+        ], 
+        "date_indexed": "2010-12-02T08:49:48Z", 
+        "alias_KOR_Q": [
+          "\ub77c\ud2b8\ube44\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Letland"
+        ], 
+        "alias_CZE_Q": [
+          "Loty\u0161sko"
+        ], 
+        "alias_DAN_Q": [
+          "Letland"
+        ], 
+        "alias_GER_Q": [
+          "Lettland"
+        ], 
+        "lang": "UNK", 
+        "name": "Latvija", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Republika Latvija"
+        ], 
+        "alias_HUN_Q": [
+          "Lettorsz\u00e1g"
+        ], 
+        "ne_longitude": 28.241, 
+        "longitude": 24.608, 
+        "iso": "LV", 
+        "sw_latitude": 55.669, 
+        "alias_HUN_S": [
+          "Lettorszag"
+        ], 
+        "fullname": "Latvija, Latvia", 
+        "alias_FRE_Q": [
+          "Lettonie"
+        ]
+      }, 
+      "id": 23424874
+    }
+  ]
+}

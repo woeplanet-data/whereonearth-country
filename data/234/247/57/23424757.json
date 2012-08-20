@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.546, 
+              49.497
+            ], 
+            [
+              2.546, 
+              51.505
+            ], 
+            [
+              6.408, 
+              51.505
+            ], 
+            [
+              6.408, 
+              49.497
+            ], 
+            [
+              2.546, 
+              49.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Belgium"
+        ], 
+        "alias_SWE_Q": [
+          "Belgien"
+        ], 
+        "alias_POL_Q": [
+          "Belgia"
+        ], 
+        "ne_latitude": 51.505, 
+        "alias_RUM_Q": [
+          "Belgia"
+        ], 
+        "alias_UNK_V": [
+          "Kraljevina Belgija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Belgia"
+        ], 
+        "alias_POR_Q": [
+          "B\u00e9lgica"
+        ], 
+        "alias_ENG_A": [
+          "BEL"
+        ], 
+        "alias_CZE_Q": [
+          "Belgie"
+        ], 
+        "alias_CHI_Q": [
+          "\u6bd4\u5229\u6642"
+        ], 
+        "alias_ITA_Q": [
+          "Belgio"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Belgien"
+        ], 
+        "alias_CHI_V": [
+          "\u6bd4\u5229\u65f6"
+        ], 
+        "woeid": 23424757, 
+        "alias_JPN_Q": [
+          "\u30d9\u30eb\u30ae\u30fc"
+        ], 
+        "alias_ENG_P": [
+          "Belgium"
+        ], 
+        "alias_JPN_V": [
+          "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "B\u00e9lgica"
+        ], 
+        "alias_FIN_Q": [
+          "Belgia"
+        ], 
+        "alias_SPA_S": [
+          "Belgica"
+        ], 
+        "sw_longitude": 2.546, 
+        "alias_FIN_V": [
+          "Belgiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.501, 
+        "alias_NOR_Q": [
+          "Belgia"
+        ], 
+        "date_indexed": "2010-12-02T16:32:27Z", 
+        "alias_KOR_Q": [
+          "\ubca8\uae30\uc5d0"
+        ], 
+        "alias_DUT_V": [
+          "Koninkrijk Belgi\u00eb"
+        ], 
+        "alias_DAN_Q": [
+          "Belgien"
+        ], 
+        "alias_GER_Q": [
+          "Belgien"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Belgien"
+        ], 
+        "lang": "DUT", 
+        "name": "Belgi\u00eb", 
+        "alias_UNK_S": [
+          "Velgio"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Belgicko"
+        ], 
+        "alias_HUN_Q": [
+          "Belgium"
+        ], 
+        "ne_longitude": 6.408, 
+        "longitude": 4.477, 
+        "iso": "BE", 
+        "sw_latitude": 49.497, 
+        "alias_FRE_V": [
+          "Royaume de Belgique"
+        ], 
+        "fullname": "Belgi\u00eb, Belgium", 
+        "alias_FRE_Q": [
+          "Belgique"
+        ]
+      }, 
+      "id": 23424757
+    }
+  ]
+}

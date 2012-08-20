@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.458, 
+              -46.900
+            ], 
+            [
+              16.458, 
+              -22.127
+            ], 
+            [
+              37.967, 
+              -22.127
+            ], 
+            [
+              37.967, 
+              -46.900
+            ], 
+            [
+              16.458, 
+              -46.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Afryka Po\u0142udniowa"
+        ], 
+        "alias_ENG_V": [
+          "Republic of South Africa"
+        ], 
+        "alias_SWE_Q": [
+          "Sydafrika"
+        ], 
+        "alias_POL_Q": [
+          "Republika Po\u0142udniowej Afryki"
+        ], 
+        "ne_latitude": -22.127, 
+        "alias_RUM_Q": [
+          "Africa de Sud"
+        ], 
+        "alias_UNK_V": [
+          "Etel\u00e4-Afrikka"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub0a8\uc544\uacf5"
+        ], 
+        "alias_POR_Q": [
+          "\u00c1frica do sul"
+        ], 
+        "alias_ENG_A": [
+          "ZA"
+        ], 
+        "alias_CZE_Q": [
+          "Jihoafrick\u00e1 Republika"
+        ], 
+        "alias_CHI_Q": [
+          "\u5357\u975e"
+        ], 
+        "alias_ITA_Q": [
+          "Sud Africa"
+        ], 
+        "alias_GER_V": [
+          "Rep. S\u00fcdafrika"
+        ], 
+        "alias_ITA_V": [
+          "Sudafrica"
+        ], 
+        "woeid": 23424942, 
+        "alias_JPN_Q": [
+          "\u5357\u30a2\u30d5\u30ea\u30ab"
+        ], 
+        "alias_JPN_V": [
+          "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Sud\u00e1frica"
+        ], 
+        "alias_FIN_Q": [
+          "Etel\u00e4-Afrikka"
+        ], 
+        "alias_FIN_S": [
+          "Etela-Afrikka"
+        ], 
+        "sw_longitude": 16.458, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -28.483, 
+        "alias_NOR_S": [
+          "Sor-Afrika"
+        ], 
+        "alias_NOR_Q": [
+          "S\u00f8r-Afrika"
+        ], 
+        "date_indexed": "2010-12-02T08:57:52Z", 
+        "alias_KOR_Q": [
+          "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_DUT_Q": [
+          "Zuid-Afrika"
+        ], 
+        "alias_DUT_V": [
+          "Zuidafrika"
+        ], 
+        "alias_DAN_Q": [
+          "Sydafrika"
+        ], 
+        "alias_GER_Q": [
+          "S\u00fcdafrika"
+        ], 
+        "alias_GER_S": [
+          "Republik Sudafrika"
+        ], 
+        "lang": "ENG", 
+        "name": "South Africa", 
+        "alias_CZE_V": [
+          "Ji\u017en\u00ed Afrika"
+        ], 
+        "alias_UNK_S": [
+          "Sor-Afrika"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Su\u00f0urafr\u00edka"
+        ], 
+        "alias_HUN_Q": [
+          "D\u00e9l-Afrikai K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "D\u00e9l-Afrika"
+        ], 
+        "ne_longitude": 37.967, 
+        "longitude": 24.677, 
+        "iso": "ZA", 
+        "sw_latitude": -46.900, 
+        "fullname": "South Africa", 
+        "alias_FRE_Q": [
+          "Afrique du Sud"
+        ]
+      }, 
+      "id": 23424942
+    }
+  ]
+}

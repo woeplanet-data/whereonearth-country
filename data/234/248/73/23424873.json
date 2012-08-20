@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.114, 
+              33.054
+            ], 
+            [
+              35.114, 
+              34.691
+            ], 
+            [
+              36.639, 
+              34.691
+            ], 
+            [
+              36.639, 
+              33.054
+            ], 
+            [
+              35.114, 
+              33.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Lebanese"
+        ], 
+        "alias_SWE_Q": [
+          "Libanon"
+        ], 
+        "alias_POL_Q": [
+          "Liban"
+        ], 
+        "ne_latitude": 34.691, 
+        "alias_RUM_Q": [
+          "Liban"
+        ], 
+        "alias_UNK_V": [
+          "Libanonska republika"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "L\u00edbano"
+        ], 
+        "alias_ENG_A": [
+          "LB"
+        ], 
+        "alias_ARA_V": [
+          "Al Lubn"
+        ], 
+        "alias_CHI_Q": [
+          "\u9ece\u5df4\u5ae9"
+        ], 
+        "alias_ITA_Q": [
+          "Libano"
+        ], 
+        "alias_GER_V": [
+          "Libanesische Republik"
+        ], 
+        "alias_CHI_V": [
+          "\u9ece\u5df4\u5ae9"
+        ], 
+        "woeid": 23424873, 
+        "alias_JPN_Q": [
+          "\u30ec\u30d0\u30ce\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30ec\u30d0\u30ce\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "L\u00edbano"
+        ], 
+        "alias_FIN_Q": [
+          "Libanonista"
+        ], 
+        "sw_longitude": 35.114, 
+        "alias_FIN_V": [
+          "Libanoniin"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.872, 
+        "alias_NOR_Q": [
+          "Libanon"
+        ], 
+        "date_indexed": "2010-12-02T16:50:08Z", 
+        "alias_KOR_Q": [
+          "\ub808\ubc14\ub17c"
+        ], 
+        "alias_SPA_V": [
+          "el pa\u00eds del cedro"
+        ], 
+        "alias_DUT_Q": [
+          "Libanon"
+        ], 
+        "alias_CZE_Q": [
+          "Libanon"
+        ], 
+        "alias_DAN_Q": [
+          "Libanon"
+        ], 
+        "alias_GER_Q": [
+          "Libanon"
+        ], 
+        "lang": "ENG", 
+        "name": "Lebanon", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Lubnan"
+        ], 
+        "alias_HUN_Q": [
+          "Libanon"
+        ], 
+        "ne_longitude": 36.639, 
+        "longitude": 35.877, 
+        "iso": "LB", 
+        "sw_latitude": 33.054, 
+        "alias_FRE_V": [
+          "R\u00e9publique Libanaise"
+        ], 
+        "fullname": "Lebanon", 
+        "alias_FRE_Q": [
+          "Liban"
+        ]
+      }, 
+      "id": 23424873
+    }
+  ]
+}

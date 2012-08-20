@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.496, 
+              15.614
+            ], 
+            [
+              34.496, 
+              32.221
+            ], 
+            [
+              55.667, 
+              32.221
+            ], 
+            [
+              55.667, 
+              15.614
+            ], 
+            [
+              34.496, 
+              15.614
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Saudi Arabia"
+        ], 
+        "alias_SWE_Q": [
+          "Saudiarabien"
+        ], 
+        "alias_POL_Q": [
+          "Arabia Saudyjska"
+        ], 
+        "ne_latitude": 32.221, 
+        "alias_RUM_Q": [
+          "Arabia Saudit\u0103"
+        ], 
+        "alias_UNK_V": [
+          "Kraljevina Saudova Arabija"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc0ac\uc6b0\ub514 \uc544\ub77c\ube44\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Ar\u00e1bia Saudita"
+        ], 
+        "alias_ENG_A": [
+          "SA"
+        ], 
+        "alias_ARA_V": [
+          "Al-Mamlaka Al-Arabiya As-Sa'udiya"
+        ], 
+        "alias_CZE_Q": [
+          "Sa\u00fadsk\u00e1 Ar\u00e1bie"
+        ], 
+        "alias_CHI_Q": [
+          "\u6c99\u70cf\u5730\u963f\u62c9\u4f2f"
+        ], 
+        "alias_ITA_Q": [
+          "Arabia Saudita"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Saudi-Arabien"
+        ], 
+        "alias_CHI_V": [
+          "\u6c99\u70cf\u5730\u963f\u62c9\u4f2f"
+        ], 
+        "woeid": 23424938, 
+        "alias_JPN_Q": [
+          "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Arabia Saudita"
+        ], 
+        "alias_FIN_Q": [
+          "Saudi-Arabia"
+        ], 
+        "sw_longitude": 34.496, 
+        "alias_FIN_V": [
+          "Saudi-Arabiaan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.918, 
+        "alias_NOR_Q": [
+          "Saudi-Arabia"
+        ], 
+        "date_indexed": "2010-12-02T09:34:42Z", 
+        "alias_KOR_Q": [
+          "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"
+        ], 
+        "alias_DAN_V": [
+          "Saudiarabien"
+        ], 
+        "alias_SPA_V": [
+          "Arabia Saud\u00ed"
+        ], 
+        "alias_DUT_Q": [
+          "Saoedi-Arabi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Saoedi-Arabie"
+        ], 
+        "alias_DUT_V": [
+          "Saudi-Arabi\u00eb"
+        ], 
+        "alias_DAN_Q": [
+          "Saudi-Arabien"
+        ], 
+        "alias_GER_Q": [
+          "Saudi-Arabien"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Saudi-Arabien"
+        ], 
+        "lang": "ENG", 
+        "name": "Saudi Arabia", 
+        "alias_CZE_V": [
+          "Saudsk\u00e1 Ar\u00e1bie"
+        ], 
+        "alias_UNK_S": [
+          "Saudi-Arabia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Saudova Arabija"
+        ], 
+        "alias_HUN_Q": [
+          "Sza\u00fad-Ar\u00e1bia"
+        ], 
+        "alias_HUN_V": [
+          "Szaud-Ar\u00e1bia"
+        ], 
+        "ne_longitude": 55.667, 
+        "longitude": 45.120, 
+        "iso": "SA", 
+        "sw_latitude": 15.614, 
+        "fullname": "Saudi Arabia", 
+        "alias_FRE_Q": [
+          "Arabie Saoudite"
+        ]
+      }, 
+      "id": 23424938
+    }
+  ]
+}

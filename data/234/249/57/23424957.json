@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.956, 
+              45.818
+            ], 
+            [
+              5.956, 
+              47.808
+            ], 
+            [
+              10.492, 
+              47.808
+            ], 
+            [
+              10.492, 
+              45.818
+            ], 
+            [
+              5.956, 
+              45.818
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Swiss"
+        ], 
+        "alias_KOR_Q": [
+          "\uc2a4\uc704\uc2a4"
+        ], 
+        "alias_POL_Q": [
+          "Szwajcaria"
+        ], 
+        "ne_latitude": 47.808, 
+        "alias_RUM_Q": [
+          "Elve\u0163ia"
+        ], 
+        "alias_UNK_V": [
+          "Suisu"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "Suweisu"
+        ], 
+        "alias_POR_V": [
+          "Sui\u00e7a"
+        ], 
+        "alias_POR_Q": [
+          "Su\u00ed\u00e7a"
+        ], 
+        "alias_ENG_A": [
+          "CHE"
+        ], 
+        "alias_POR_S": [
+          "Suica"
+        ], 
+        "alias_CHI_Q": [
+          "\u745e\u58eb"
+        ], 
+        "alias_ITA_Q": [
+          "Svizzera"
+        ], 
+        "alias_GER_V": [
+          "Schweizerische Eidgenossenschaft"
+        ], 
+        "alias_ITA_V": [
+          "Confederazione Svizzera"
+        ], 
+        "woeid": 23424957, 
+        "alias_JPN_Q": [
+          "\u30b9\u30a4\u30b9"
+        ], 
+        "alias_ENG_P": [
+          "Switzerland"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30a4\u30b9\u9023\u90a6"
+        ], 
+        "alias_SPA_Q": [
+          "Suiza"
+        ], 
+        "alias_FIN_Q": [
+          "Sveitsi"
+        ], 
+        "alias_FIN_S": [
+          "Sveitsissa"
+        ], 
+        "sw_longitude": 5.956, 
+        "alias_FIN_V": [
+          "Sveitsist\u00e4"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.813, 
+        "alias_NOR_Q": [
+          "Sveits"
+        ], 
+        "date_indexed": "2010-12-02T18:20:52Z", 
+        "alias_FRE_V": [
+          "Conf\u00e9d\u00e9ration Suisse"
+        ], 
+        "alias_DUT_Q": [
+          "Zwitserland"
+        ], 
+        "alias_CZE_Q": [
+          "\u0160v\u00fdcarsko"
+        ], 
+        "alias_DAN_Q": [
+          "Schweiz"
+        ], 
+        "lang": "GER", 
+        "name": "Schweiz", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sviss"
+        ], 
+        "alias_HUN_Q": [
+          "Sv\u00e1jc"
+        ], 
+        "ne_longitude": 10.492, 
+        "longitude": 8.224, 
+        "iso": "CH", 
+        "sw_latitude": 45.818, 
+        "alias_HUN_S": [
+          "Svajc"
+        ], 
+        "alias_RUM_V": [
+          "Eleve\u0163ia"
+        ], 
+        "fullname": "Schweiz, Switzerland", 
+        "alias_FRE_Q": [
+          "Suisse"
+        ]
+      }, 
+      "id": 23424957
+    }
+  ]
+}

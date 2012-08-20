@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              52.441, 
+              35.141
+            ], 
+            [
+              52.441, 
+              42.796
+            ], 
+            [
+              66.684, 
+              42.796
+            ], 
+            [
+              66.684, 
+              35.141
+            ], 
+            [
+              52.441, 
+              35.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Turkmen"
+        ], 
+        "alias_KOR_Q": [
+          "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
+        ], 
+        "ne_latitude": 42.796, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud22c\ub974\ud06c\uba58"
+        ], 
+        "alias_POR_V": [
+          "Turcomenist\u00e3o"
+        ], 
+        "alias_POR_Q": [
+          "Turquemenist\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "TM"
+        ], 
+        "alias_POR_S": [
+          "Turquemenistao"
+        ], 
+        "alias_CHI_Q": [
+          "\u571f\u5eab\u66fc"
+        ], 
+        "alias_CHI_V": [
+          "\u571f\u5e93\u66fc\u65af\u5766"
+        ], 
+        "woeid": 23424972, 
+        "alias_JPN_Q": [
+          "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
+        ], 
+        "alias_SPA_Q": [
+          "Turkmenist\u00e1n"
+        ], 
+        "sw_longitude": 52.441, 
+        "alias_FIN_V": [
+          "Turkmenistassa"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.968, 
+        "date_indexed": "2010-12-02T18:19:07Z", 
+        "alias_CZE_Q": [
+          "Turkmenist\u00e1n"
+        ], 
+        "lang": "ENG", 
+        "name": "Turkmenistan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "T\u00fcrkmeniszt\u00e1n"
+        ], 
+        "ne_longitude": 66.684, 
+        "longitude": 59.563, 
+        "iso": "TM", 
+        "sw_latitude": 35.141, 
+        "fullname": "Turkmenistan", 
+        "alias_FRE_Q": [
+          "Turkm\u00e9nistan"
+        ]
+      }, 
+      "id": 23424972
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.479, 
+              18.021
+            ], 
+            [
+              -74.479, 
+              20.088
+            ], 
+            [
+              -71.613, 
+              20.088
+            ], 
+            [
+              -71.613, 
+              18.021
+            ], 
+            [
+              -74.479, 
+              18.021
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Haiti"
+        ], 
+        "alias_ENG_A": [
+          "HT"
+        ], 
+        "ne_latitude": 20.088, 
+        "alias_UNK_V": [
+          "Republika Haiti"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud558\uc774\ud2f0"
+        ], 
+        "alias_KOR_Q": [
+          "\uc544\uc774\ud2f0"
+        ], 
+        "alias_CHI_Q": [
+          "\u6d77\u5730"
+        ], 
+        "woeid": 23424839, 
+        "alias_JPN_Q": [
+          "\u30cf\u30a4\u30c1"
+        ], 
+        "alias_JPN_V": [
+          "\u30cf\u30a4\u30c1\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Hait\u00ed"
+        ], 
+        "sw_longitude": -74.479, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.986, 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "alias_DUT_Q": [
+          "Ha\u00efti"
+        ], 
+        "alias_GER_V": [
+          "Republik Haiti"
+        ], 
+        "lang": "ENG", 
+        "name": "Haiti", 
+        "parent_woeid": 1, 
+        "ne_longitude": -71.613, 
+        "longitude": -72.292, 
+        "iso": "HT", 
+        "sw_latitude": 18.021, 
+        "alias_FRE_V": [
+          "R\u00e9publique d\u2019Ha\u00efti"
+        ], 
+        "fullname": "Haiti", 
+        "alias_FRE_Q": [
+          "Ha\u00efti"
+        ]
+      }, 
+      "id": 23424839
+    }
+  ]
+}

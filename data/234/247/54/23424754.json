@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -59.649, 
+              13.040
+            ], 
+            [
+              -59.649, 
+              13.327
+            ], 
+            [
+              -59.420, 
+              13.327
+            ], 
+            [
+              -59.420, 
+              13.040
+            ], 
+            [
+              -59.649, 
+              13.040
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Bajan"
+        ], 
+        "alias_ENG_A": [
+          "BB"
+        ], 
+        "ne_latitude": 13.327, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubc14\ubca0\uc774\ub3c4\uc2a4"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u8c9d\u591a"
+        ], 
+        "alias_CHI_V": [
+          "\u5df4\u8c9d\u591a"
+        ], 
+        "woeid": 23424754, 
+        "alias_JPN_Q": [
+          "\u30d0\u30eb\u30d0\u30c9\u30b9"
+        ], 
+        "sw_longitude": -59.649, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.184, 
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "lang": "ENG", 
+        "name": "Barbados", 
+        "parent_woeid": 1, 
+        "ne_longitude": -59.420, 
+        "longitude": -59.535, 
+        "iso": "BB", 
+        "sw_latitude": 13.040, 
+        "fullname": "Barbados", 
+        "alias_FRE_Q": [
+          "Barbade"
+        ]
+      }, 
+      "id": 23424754
+    }
+  ]
+}

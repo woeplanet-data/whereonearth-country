@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.205, 
+              -5.028
+            ], 
+            [
+              11.205, 
+              3.703
+            ], 
+            [
+              18.650, 
+              3.703
+            ], 
+            [
+              18.650, 
+              -5.028
+            ], 
+            [
+              11.205, 
+              -5.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Republika Konga"
+        ], 
+        "alias_ENG_V": [
+          "Congo Brazzaville"
+        ], 
+        "alias_SWE_V": [
+          "Republiken Kongo"
+        ], 
+        "alias_SWE_Q": [
+          "Kongo-Brazzaville"
+        ], 
+        "alias_POL_Q": [
+          "Kongo"
+        ], 
+        "ne_latitude": 3.703, 
+        "alias_RUM_Q": [
+          "Republica Congo"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucf69\uace0"
+        ], 
+        "alias_POR_V": [
+          "Congo-Brazzaville"
+        ], 
+        "alias_ENG_A": [
+          "CG"
+        ], 
+        "alias_CHI_Q": [
+          "\u525b\u679c"
+        ], 
+        "alias_ITA_Q": [
+          "Repubblica del Congo"
+        ], 
+        "alias_GER_V": [
+          "Republik Kongo"
+        ], 
+        "woeid": 23424779, 
+        "alias_JPN_Q": [
+          "\u30b3\u30f3\u30b4\u5171\u548c\u56fd"
+        ], 
+        "alias_JPN_V": [
+          "\u30b3\u30f3\u30b4"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica del Congo"
+        ], 
+        "alias_FIN_Q": [
+          "Kongon tasavalta"
+        ], 
+        "sw_longitude": 11.205, 
+        "alias_FIN_V": [
+          "Kongo \u2013 Brazzaville"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.663, 
+        "alias_NOR_Q": [
+          "Republikken Kongo"
+        ], 
+        "alias_NOR_V": [
+          "Kongo-Brazzaville"
+        ], 
+        "date_indexed": "2010-12-02T18:21:30Z", 
+        "alias_KOR_Q": [
+          "\ucf69\uace0 \uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Congo-Brazzaville"
+        ], 
+        "alias_DUT_Q": [
+          "Congo-Brazzaville"
+        ], 
+        "alias_CZE_Q": [
+          "Republika Kongo"
+        ], 
+        "alias_DAN_Q": [
+          "Republikken Congo"
+        ], 
+        "alias_GER_Q": [
+          "Kongo"
+        ], 
+        "lang": "ENG", 
+        "name": "Congo", 
+        "alias_CZE_V": [
+          "Kongo"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Republika Kongo"
+        ], 
+        "alias_HUN_Q": [
+          "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "alias_HUN_V": [
+          "Kong\u00f3"
+        ], 
+        "ne_longitude": 18.650, 
+        "longitude": 14.927, 
+        "iso": "CG", 
+        "sw_latitude": -5.028, 
+        "alias_FRE_V": [
+          "Congo-Brazzaville"
+        ], 
+        "fullname": "Congo", 
+        "alias_FRE_S": [
+          "Republique du Congo"
+        ], 
+        "alias_FRE_Q": [
+          "R\u00e9publique du Congo"
+        ]
+      }, 
+      "id": 23424779
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -180.000, 
+              -90.000
+            ], 
+            [
+              -180.000, 
+              -73.000
+            ], 
+            [
+              180.000, 
+              -73.000
+            ], 
+            [
+              180.000, 
+              -90.000
+            ], 
+            [
+              -180.000, 
+              -90.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_A": [
+          "AQ"
+        ], 
+        "ne_latitude": -73.000, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ub0a8\uadf9 \ub300\ub959"
+        ], 
+        "alias_SWE_Q": [
+          "Antraktis"
+        ], 
+        "alias_CHI_Q": [
+          "\u5357\u6781\u6d32"
+        ], 
+        "woeid": 28289409, 
+        "alias_JPN_Q": [
+          "\u5357\u6975"
+        ], 
+        "alias_FIN_Q": [
+          "Antarktis"
+        ], 
+        "sw_longitude": -180.000, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -81.500, 
+        "alias_NOR_Q": [
+          "Antarktika"
+        ], 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "alias_DAN_Q": [
+          "Antarktis"
+        ], 
+        "lang": "ENG", 
+        "name": "Antarctica", 
+        "parent_woeid": 1, 
+        "ne_longitude": 180.000, 
+        "longitude": 0.000, 
+        "iso": "AQ", 
+        "sw_latitude": -90.000, 
+        "fullname": "Antarctica"
+      }, 
+      "id": 28289409
+    }
+  ]
+}

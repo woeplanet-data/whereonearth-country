@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              162.143, 
+              4.575
+            ], 
+            [
+              162.143, 
+              14.655
+            ], 
+            [
+              172.162, 
+              14.655
+            ], 
+            [
+              172.162, 
+              4.575
+            ], 
+            [
+              162.143, 
+              4.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Marshallislands"
+        ], 
+        "alias_SWE_Q": [
+          "Marshall\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy Marshalla"
+        ], 
+        "ne_latitude": 14.655, 
+        "alias_RUM_Q": [
+          "Insulele Marshall"
+        ], 
+        "alias_UNK_V": [
+          "Marshall\u00f8erne"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub9c8\uc0ec\uad70\ub3c4"
+        ], 
+        "alias_POR_V": [
+          "IlhasMarshall"
+        ], 
+        "alias_POR_Q": [
+          "Ilhas Marshall"
+        ], 
+        "alias_ENG_A": [
+          "MH"
+        ], 
+        "alias_CZE_Q": [
+          "Marshallovy Ostrovy"
+        ], 
+        "alias_CHI_Q": [
+          "\u99ac\u7d39\u723e\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Isole Marshall"
+        ], 
+        "alias_GER_V": [
+          "Marshall-Inseln"
+        ], 
+        "alias_ITA_V": [
+          "Marshall, isole"
+        ], 
+        "alias_CHI_V": [
+          "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b"
+        ], 
+        "woeid": 23424932, 
+        "alias_JPN_Q": [
+          "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Marshalloarna"
+        ], 
+        "alias_JPN_V": [
+          "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Islas Marshall"
+        ], 
+        "alias_FIN_Q": [
+          "Marshallinsaaret"
+        ], 
+        "sw_longitude": 162.143, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.110, 
+        "alias_NOR_S": [
+          "Marshalloyene"
+        ], 
+        "alias_NOR_Q": [
+          "Marshall\u00f8yene"
+        ], 
+        "date_indexed": "2010-12-02T09:35:37Z", 
+        "alias_KOR_Q": [
+          "\ub9c8\uc15c \uc81c\ub3c4"
+        ], 
+        "alias_SPA_V": [
+          "Marshall"
+        ], 
+        "alias_DUT_Q": [
+          "Marshalleilanden"
+        ], 
+        "alias_DUT_V": [
+          "Marshall eilanden"
+        ], 
+        "alias_DAN_S": [
+          "Marshalloerne"
+        ], 
+        "alias_DAN_Q": [
+          "Marshall\u00f8erne"
+        ], 
+        "alias_GER_Q": [
+          "Marshallinseln"
+        ], 
+        "lang": "ENG", 
+        "name": "Marshall Islands", 
+        "alias_CZE_V": [
+          "Marshalovy ostrovy"
+        ], 
+        "alias_UNK_S": [
+          "Marshalloyene"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Marshallovi otoki"
+        ], 
+        "alias_HUN_Q": [
+          "Marshall-Szigetek"
+        ], 
+        "ne_longitude": 172.162, 
+        "longitude": 171.082, 
+        "iso": "MH", 
+        "sw_latitude": 4.575, 
+        "alias_FRE_V": [
+          "Marshall, \u00eeles"
+        ], 
+        "fullname": "Marshall Islands", 
+        "alias_FRE_S": [
+          "Iles Marshall"
+        ], 
+        "alias_FRE_Q": [
+          "\u00celes Marshall"
+        ]
+      }, 
+      "id": 23424932
+    }
+  ]
+}

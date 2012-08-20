@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              68.032, 
+              6.747
+            ], 
+            [
+              68.032, 
+              36.262
+            ], 
+            [
+              97.403, 
+              36.262
+            ], 
+            [
+              97.403, 
+              6.747
+            ], 
+            [
+              68.032, 
+              6.747
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of India"
+        ], 
+        "alias_SWE_Q": [
+          "Indien"
+        ], 
+        "alias_POL_Q": [
+          "Indie"
+        ], 
+        "ne_latitude": 36.262, 
+        "alias_UNK_V": [
+          "Republika Indija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "\u00cdndia"
+        ], 
+        "alias_KOR_Q": [
+          "\uc778\ub3c4"
+        ], 
+        "alias_CHI_Q": [
+          "\u5370\u5ea6"
+        ], 
+        "alias_GER_V": [
+          "Republik Indien"
+        ], 
+        "woeid": 23424848, 
+        "alias_JPN_Q": [
+          "\u30a4\u30f3\u30c9"
+        ], 
+        "alias_FIN_Q": [
+          "Intia"
+        ], 
+        "sw_longitude": 68.032, 
+        "alias_FIN_V": [
+          "Intiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.787, 
+        "date_indexed": "2010-12-02T09:26:27Z", 
+        "alias_ENG_A": [
+          "IN"
+        ], 
+        "alias_CZE_Q": [
+          "Indie"
+        ], 
+        "alias_DAN_Q": [
+          "Indien"
+        ], 
+        "alias_GER_Q": [
+          "Indien"
+        ], 
+        "lang": "ENG", 
+        "name": "India", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Indija"
+        ], 
+        "ne_longitude": 97.403, 
+        "longitude": 82.795, 
+        "iso": "IN", 
+        "sw_latitude": 6.747, 
+        "fullname": "India", 
+        "alias_FRE_Q": [
+          "Inde"
+        ]
+      }, 
+      "id": 23424848
+    }
+  ]
+}

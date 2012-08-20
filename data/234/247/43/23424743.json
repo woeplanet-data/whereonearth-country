@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              43.450, 
+              38.831
+            ], 
+            [
+              43.450, 
+              41.302
+            ], 
+            [
+              46.630, 
+              41.302
+            ], 
+            [
+              46.630, 
+              38.831
+            ], 
+            [
+              43.450, 
+              38.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Hayastan"
+        ], 
+        "alias_SWE_Q": [
+          "Armenien"
+        ], 
+        "ne_latitude": 41.302, 
+        "alias_UNK_V": [
+          "Republika Armenija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Arm\u00eania"
+        ], 
+        "alias_POR_Q": [
+          "Arm\u00e9nia"
+        ], 
+        "alias_ENG_A": [
+          "AM"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e9e\u7f8e\u5c3c\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u4e9a\u7f8e\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424743, 
+        "alias_JPN_Q": [
+          "\u30a2\u30eb\u30e1\u30cb\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30eb\u30e1\u30cb\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 43.450, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.066, 
+        "date_indexed": "2010-12-02T12:16:10Z", 
+        "alias_KOR_Q": [
+          "\uc544\ub974\uba54\ub2c8\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Armeni\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Armenie"
+        ], 
+        "alias_CZE_Q": [
+          "Arm\u00e9nie"
+        ], 
+        "alias_DAN_Q": [
+          "Armenien"
+        ], 
+        "alias_GER_Q": [
+          "Armenien"
+        ], 
+        "lang": "ENG", 
+        "name": "Armenia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Armen\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "\u00d6rm\u00e9nyorsz\u00e1g"
+        ], 
+        "ne_longitude": 46.630, 
+        "longitude": 45.040, 
+        "iso": "AM", 
+        "sw_latitude": 38.831, 
+        "fullname": "Armenia", 
+        "alias_FRE_S": [
+          "Armenie"
+        ], 
+        "alias_FRE_Q": [
+          "Arm\u00e9nie"
+        ]
+      }, 
+      "id": 23424743
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.495, 
+              1.653
+            ], 
+            [
+              8.495, 
+              13.078
+            ], 
+            [
+              16.192, 
+              13.078
+            ], 
+            [
+              16.192, 
+              1.653
+            ], 
+            [
+              8.495, 
+              1.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Cameroon"
+        ], 
+        "alias_SWE_Q": [
+          "Kamerun"
+        ], 
+        "alias_POL_Q": [
+          "Kamerun"
+        ], 
+        "ne_latitude": 13.078, 
+        "alias_RUM_Q": [
+          "Camerun"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kamerun"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Rep\u00fablica dos Camar\u00f5es"
+        ], 
+        "alias_POR_Q": [
+          "Camar\u00f5es"
+        ], 
+        "alias_ENG_A": [
+          "CM"
+        ], 
+        "alias_POR_S": [
+          "Camaroes"
+        ], 
+        "alias_CHI_Q": [
+          "\u5580\u9ea5\u9686"
+        ], 
+        "alias_ITA_Q": [
+          "Camerun"
+        ], 
+        "alias_GER_V": [
+          "Republik Kamerun"
+        ], 
+        "alias_CHI_V": [
+          "\u5580\u9ea6\u9686"
+        ], 
+        "woeid": 23424785, 
+        "alias_JPN_Q": [
+          "\u30ab\u30e1\u30eb\u30fc\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30ab\u30e1\u30eb\u30fc\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Camer\u00fan"
+        ], 
+        "alias_FIN_Q": [
+          "Kamerun"
+        ], 
+        "sw_longitude": 8.495, 
+        "alias_FIN_V": [
+          "Kamerunista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.365, 
+        "alias_NOR_Q": [
+          "Kamerun"
+        ], 
+        "date_indexed": "2010-12-02T10:22:30Z", 
+        "alias_KOR_Q": [
+          "\uce74\uba54\ub8ec"
+        ], 
+        "alias_DUT_Q": [
+          "Kameroen"
+        ], 
+        "alias_CZE_Q": [
+          "Kamerun"
+        ], 
+        "alias_DAN_Q": [
+          "Cameroun"
+        ], 
+        "alias_GER_Q": [
+          "Kamerun"
+        ], 
+        "lang": "ENG", 
+        "name": "Cameroon", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kamer\u00fan"
+        ], 
+        "alias_HUN_Q": [
+          "Kamerun"
+        ], 
+        "ne_longitude": 16.192, 
+        "longitude": 12.343, 
+        "iso": "CM", 
+        "sw_latitude": 1.653, 
+        "alias_FRE_V": [
+          "R\u00e9publique du Cameroun"
+        ], 
+        "fullname": "Cameroon", 
+        "alias_FRE_Q": [
+          "Cameroun"
+        ]
+      }, 
+      "id": 23424785
+    }
+  ]
+}

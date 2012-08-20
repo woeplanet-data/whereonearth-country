@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.230, 
+              14.382
+            ], 
+            [
+              -61.230, 
+              14.879
+            ], 
+            [
+              -60.816, 
+              14.879
+            ], 
+            [
+              -60.816, 
+              14.382
+            ], 
+            [
+              -61.230, 
+              14.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Martiniquais"
+        ], 
+        "alias_KOR_Q": [
+          "\ub9c8\ub974\ud2f0\ub2c8\ud06c"
+        ], 
+        "alias_POL_Q": [
+          "Martynika"
+        ], 
+        "ne_latitude": 14.879, 
+        "alias_RUM_Q": [
+          "Martinica"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub9d0\ud2f0\ub2c8\ud06c"
+        ], 
+        "alias_POR_Q": [
+          "Martinica"
+        ], 
+        "alias_ENG_A": [
+          "MQ"
+        ], 
+        "alias_ITA_Q": [
+          "Martinica"
+        ], 
+        "woeid": 23424884, 
+        "alias_JPN_Q": [
+          "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
+        ], 
+        "alias_JPN_V": [
+          "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Martinica"
+        ], 
+        "sw_longitude": -61.230, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.636, 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "alias_CZE_Q": [
+          "Martinik"
+        ], 
+        "lang": "ENG", 
+        "name": "Martinique", 
+        "parent_woeid": 1, 
+        "ne_longitude": -60.816, 
+        "longitude": -61.023, 
+        "iso": "MQ", 
+        "sw_latitude": 14.382, 
+        "fullname": "Martinique"
+      }, 
+      "id": 23424884
+    }
+  ]
+}

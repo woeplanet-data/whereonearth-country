@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.641, 
+              -22.896
+            ], 
+            [
+              -69.641, 
+              -9.681
+            ], 
+            [
+              -57.458, 
+              -9.681
+            ], 
+            [
+              -57.458, 
+              -22.896
+            ], 
+            [
+              -69.641, 
+              -22.896
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Bolivia"
+        ], 
+        "alias_KOR_Q": [
+          "\ubcfc\ub9ac\ube44\uc544"
+        ], 
+        "alias_POL_Q": [
+          "Boliwia"
+        ], 
+        "ne_latitude": -9.681, 
+        "alias_UNK_V": [
+          "Republika Bolivija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Bol\u00edvia"
+        ], 
+        "alias_ENG_A": [
+          "BO"
+        ], 
+        "alias_CZE_Q": [
+          "Bol\u00edvie"
+        ], 
+        "alias_CHI_Q": [
+          "\u73bb\u5229\u7dad\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u73bb\u5229\u7ef4\u4e9a"
+        ], 
+        "woeid": 23424762, 
+        "alias_JPN_Q": [
+          "\u30dc\u30ea\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30dc\u30ea\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -69.641, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -16.288, 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "alias_DUT_V": [
+          "Bolivi\u00eb"
+        ], 
+        "alias_GER_V": [
+          "Republik Bolivien"
+        ], 
+        "alias_GER_Q": [
+          "Bolivien"
+        ], 
+        "lang": "ENG", 
+        "name": "Bolivia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "B\u00f3liv\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Bol\u00edvia"
+        ], 
+        "ne_longitude": -57.458, 
+        "longitude": -63.549, 
+        "iso": "BO", 
+        "sw_latitude": -22.896, 
+        "fullname": "Bolivia", 
+        "alias_FRE_Q": [
+          "Bolivie"
+        ]
+      }, 
+      "id": 23424762
+    }
+  ]
+}

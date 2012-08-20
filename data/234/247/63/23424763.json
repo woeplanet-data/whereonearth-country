@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              92.189, 
+              9.600
+            ], 
+            [
+              92.189, 
+              28.543
+            ], 
+            [
+              101.177, 
+              28.543
+            ], 
+            [
+              101.177, 
+              9.600
+            ], 
+            [
+              92.189, 
+              9.600
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Burmese"
+        ], 
+        "alias_SWE_Q": [
+          "Burma"
+        ], 
+        "alias_POL_Q": [
+          "Birma"
+        ], 
+        "ne_latitude": 28.543, 
+        "alias_RUM_Q": [
+          "Birmania"
+        ], 
+        "alias_UNK_V": [
+          "Mjanmar"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Mianmar"
+        ], 
+        "alias_ENG_A": [
+          "MM"
+        ], 
+        "alias_CHI_Q": [
+          "\u7dec\u7538"
+        ], 
+        "alias_ITA_Q": [
+          "Birmania"
+        ], 
+        "alias_GER_V": [
+          "Union Myanmar"
+        ], 
+        "alias_CHI_V": [
+          "\u7f05\u7538"
+        ], 
+        "woeid": 23424763, 
+        "alias_JPN_Q": [
+          "\u30df\u30e3\u30f3\u30de\u30fc"
+        ], 
+        "alias_JPN_V": [
+          "\u30df\u30e3\u30f3\u30de\u30fc\u9023\u90a6"
+        ], 
+        "alias_SPA_Q": [
+          "Birmania"
+        ], 
+        "sw_longitude": 92.189, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.258, 
+        "alias_NOR_Q": [
+          "Burma"
+        ], 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "alias_KOR_Q": [
+          "\ubbf8\uc580\ub9c8"
+        ], 
+        "alias_SPA_V": [
+          "Birmania (Myanmar)"
+        ], 
+        "alias_DAN_Q": [
+          "Burma"
+        ], 
+        "lang": "ENG", 
+        "name": "Myanmar", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Mianmar"
+        ], 
+        "alias_HUN_V": [
+          "Burma"
+        ], 
+        "ne_longitude": 101.177, 
+        "longitude": 96.683, 
+        "iso": "MM", 
+        "sw_latitude": 9.600, 
+        "fullname": "Myanmar", 
+        "alias_FRE_Q": [
+          "Birmanie"
+        ]
+      }, 
+      "id": 23424763
+    }
+  ]
+}

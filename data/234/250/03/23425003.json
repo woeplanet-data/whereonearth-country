@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.999, 
+              -18.079
+            ], 
+            [
+              21.999, 
+              -8.224
+            ], 
+            [
+              33.706, 
+              -8.224
+            ], 
+            [
+              33.706, 
+              -18.079
+            ], 
+            [
+              21.999, 
+              -18.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Northern Rhodesia"
+        ], 
+        "alias_ENG_A": [
+          "ZM"
+        ], 
+        "ne_latitude": -8.224, 
+        "alias_UNK_V": [
+          "Republika Zambija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Z\u00e2mbia"
+        ], 
+        "alias_KOR_Q": [
+          "\uc7a0\ube44\uc544"
+        ], 
+        "alias_CHI_Q": [
+          "\u5c1a\u6bd4\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u5c1a\u6bd4\u4e9e"
+        ], 
+        "woeid": 23425003, 
+        "alias_JPN_Q": [
+          "\u30b6\u30f3\u30d3\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b6\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Sambia"
+        ], 
+        "sw_longitude": 21.999, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -13.152, 
+        "date_indexed": "2010-12-02T07:50:42Z", 
+        "alias_CZE_Q": [
+          "Zambie"
+        ], 
+        "alias_GER_V": [
+          "Nordrhodesien"
+        ], 
+        "alias_GER_Q": [
+          "Sambia"
+        ], 
+        "lang": "ENG", 
+        "name": "Zambia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Samb\u00eda"
+        ], 
+        "ne_longitude": 33.706, 
+        "longitude": 27.853, 
+        "iso": "ZM", 
+        "sw_latitude": -18.079, 
+        "fullname": "Zambia", 
+        "alias_FRE_Q": [
+          "Zambie"
+        ]
+      }, 
+      "id": 23425003
+    }
+  ]
+}

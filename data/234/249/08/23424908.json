@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.668, 
+              4.277
+            ], 
+            [
+              2.668, 
+              13.892
+            ], 
+            [
+              14.680, 
+              13.892
+            ], 
+            [
+              14.680, 
+              4.277
+            ], 
+            [
+              2.668, 
+              4.277
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Nigerian"
+        ], 
+        "alias_ENG_A": [
+          "NG"
+        ], 
+        "ne_latitude": 13.892, 
+        "alias_UNK_V": [
+          "Zvezna republika Nigerija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Nig\u00e9ria"
+        ], 
+        "alias_KOR_Q": [
+          "\ub098\uc774\uc9c0\ub9ac\uc544"
+        ], 
+        "alias_CHI_Q": [
+          "\u5948\u53ca\u5229\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u5948\u53ca\u5229\u4e9e"
+        ], 
+        "woeid": 23424908, 
+        "alias_JPN_Q": [
+          "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2\u9023\u90a6\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 2.668, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.085, 
+        "date_indexed": "2010-12-02T09:35:13Z", 
+        "alias_CZE_Q": [
+          "Nig\u00e9rie"
+        ], 
+        "alias_GER_V": [
+          "Bundesrepublik Nigeria"
+        ], 
+        "lang": "ENG", 
+        "name": "Nigeria", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Nigerija"
+        ], 
+        "alias_HUN_Q": [
+          "Nig\u00e9ria"
+        ], 
+        "ne_longitude": 14.680, 
+        "longitude": 8.674, 
+        "iso": "NG", 
+        "sw_latitude": 4.277, 
+        "fullname": "Nigeria"
+      }, 
+      "id": 23424908
+    }
+  ]
+}

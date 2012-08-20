@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.627, 
+              35.493
+            ], 
+            [
+              6.627, 
+              47.092
+            ], 
+            [
+              18.520, 
+              47.092
+            ], 
+            [
+              18.520, 
+              35.493
+            ], 
+            [
+              6.627, 
+              35.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Italy"
+        ], 
+        "alias_SWE_Q": [
+          "Italien"
+        ], 
+        "alias_POL_Q": [
+          "W\u0142ochy"
+        ], 
+        "ne_latitude": 47.092, 
+        "alias_UNK_V": [
+          "Taliansko"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc774\ud0c8\ub9ac\uc544"
+        ], 
+        "alias_POR_Q": [
+          "It\u00e1lia"
+        ], 
+        "alias_ENG_A": [
+          "ITA"
+        ], 
+        "alias_CHI_Q": [
+          "\u7fa9\u5927\u5229"
+        ], 
+        "alias_GER_V": [
+          "Italienische Republik"
+        ], 
+        "alias_ITA_V": [
+          "il Bel Paese"
+        ], 
+        "alias_CHI_V": [
+          "\u7fa9\u5927\u5229"
+        ], 
+        "woeid": 23424853, 
+        "alias_JPN_Q": [
+          "\u30a4\u30bf\u30ea\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Italy"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30bf\u30ea\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Italia"
+        ], 
+        "sw_longitude": 6.627, 
+        "alias_FIN_V": [
+          "Italiasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.504, 
+        "date_indexed": "2010-12-02T16:30:51Z", 
+        "alias_KOR_Q": [
+          "\uc774\ud0dc\ub9ac"
+        ], 
+        "alias_DUT_Q": [
+          "Itali\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "It\u00e1lie"
+        ], 
+        "alias_DAN_Q": [
+          "Italien"
+        ], 
+        "alias_GER_Q": [
+          "Italien"
+        ], 
+        "lang": "ITA", 
+        "name": "Italia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "\u00cdtal\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Olaszorsz\u00e1g"
+        ], 
+        "ne_longitude": 18.520, 
+        "longitude": 12.573, 
+        "iso": "IT", 
+        "sw_latitude": 35.493, 
+        "alias_HUN_S": [
+          "Olaszorszag"
+        ], 
+        "fullname": "Italia, Italy", 
+        "alias_FRE_Q": [
+          "Italie"
+        ]
+      }, 
+      "id": 23424853
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              56.513, 
+              -20.526
+            ], 
+            [
+              56.513, 
+              -10.319
+            ], 
+            [
+              63.525, 
+              -10.319
+            ], 
+            [
+              63.525, 
+              -20.526
+            ], 
+            [
+              56.513, 
+              -20.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Mauritius"
+        ], 
+        "alias_ENG_A": [
+          "MU"
+        ], 
+        "ne_latitude": -10.319, 
+        "alias_UNK_V": [
+          "Republika Mauritius"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Maur\u00edcio"
+        ], 
+        "alias_POR_Q": [
+          "Maur\u00edcia"
+        ], 
+        "alias_KOR_Q": [
+          "\ubaa8\ub9ac\uc154\uc2a4"
+        ], 
+        "alias_POR_S": [
+          "Mauricia"
+        ], 
+        "alias_CHI_Q": [
+          "\u6a21\u91cc\u897f\u65af"
+        ], 
+        "alias_ITA_V": [
+          "Maurizio"
+        ], 
+        "alias_CHI_V": [
+          "\u6a21\u91cc\u897f\u65af"
+        ], 
+        "woeid": 23424894, 
+        "alias_JPN_Q": [
+          "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Mauricio"
+        ], 
+        "sw_longitude": 56.513, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -20.255, 
+        "date_indexed": "2010-12-02T08:58:29Z", 
+        "alias_SPA_V": [
+          "Rep\u00fablica de Mauricio"
+        ], 
+        "alias_CZE_Q": [
+          "Mauricius"
+        ], 
+        "alias_GER_V": [
+          "Republik Mauritius"
+        ], 
+        "lang": "ENG", 
+        "name": "Mauritius", 
+        "alias_UNK_S": [
+          "Maritius"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "M\u00e1rit\u00edus"
+        ], 
+        "ne_longitude": 63.525, 
+        "longitude": 57.552, 
+        "iso": "MU", 
+        "sw_latitude": -20.526, 
+        "alias_FRE_V": [
+          "\u00cele Maurice"
+        ], 
+        "fullname": "Mauritius", 
+        "alias_FRE_S": [
+          "Ile Maurice"
+        ], 
+        "alias_FRE_Q": [
+          "Maurice"
+        ]
+      }, 
+      "id": 23424894
+    }
+  ]
+}

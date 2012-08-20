@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.664, 
+              35.810
+            ], 
+            [
+              25.664, 
+              42.105
+            ], 
+            [
+              44.830, 
+              42.105
+            ], 
+            [
+              44.830, 
+              35.810
+            ], 
+            [
+              25.664, 
+              35.810
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Turkey"
+        ], 
+        "alias_SWE_Q": [
+          "Turkiet"
+        ], 
+        "alias_POL_Q": [
+          "Turcja"
+        ], 
+        "ne_latitude": 42.105, 
+        "alias_RUM_Q": [
+          "Turcia"
+        ], 
+        "alias_UNK_V": [
+          "Turkki"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Turquia"
+        ], 
+        "alias_ENG_A": [
+          "TUR"
+        ], 
+        "alias_CHI_Q": [
+          "\u571f\u8033\u5176"
+        ], 
+        "alias_ITA_Q": [
+          "Turchia"
+        ], 
+        "alias_GER_V": [
+          "Republik T\u00fcrkei"
+        ], 
+        "woeid": 23424969, 
+        "alias_JPN_Q": [
+          "\u30c8\u30eb\u30b3"
+        ], 
+        "alias_JPN_V": [
+          "\u30c8\u30eb\u30b3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Turqu\u00eda"
+        ], 
+        "alias_FIN_Q": [
+          "Turkin"
+        ], 
+        "sw_longitude": 25.664, 
+        "alias_FIN_V": [
+          "Turkista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.958, 
+        "alias_NOR_Q": [
+          "Tyrkia"
+        ], 
+        "date_indexed": "2010-12-02T16:23:11Z", 
+        "alias_KOR_Q": [
+          "\ud130\ud0a4"
+        ], 
+        "alias_DUT_Q": [
+          "Turkije"
+        ], 
+        "alias_CZE_Q": [
+          "Turecko"
+        ], 
+        "alias_DAN_Q": [
+          "Tyrkiet"
+        ], 
+        "alias_GER_Q": [
+          "T\u00fcrkei"
+        ], 
+        "alias_GER_S": [
+          "Republik Turkei"
+        ], 
+        "lang": "ENG", 
+        "name": "Turkey", 
+        "alias_UNK_S": [
+          "Turkiye"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Tyrkland"
+        ], 
+        "alias_HUN_Q": [
+          "T\u00f6r\u00f6korsz\u00e1g"
+        ], 
+        "ne_longitude": 44.830, 
+        "longitude": 35.432, 
+        "iso": "TR", 
+        "sw_latitude": 35.810, 
+        "fullname": "Turkey", 
+        "alias_FRE_Q": [
+          "Turquie"
+        ]
+      }, 
+      "id": 23424969
+    }
+  ]
+}

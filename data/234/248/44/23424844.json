@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.113, 
+              45.737
+            ], 
+            [
+              16.113, 
+              48.585
+            ], 
+            [
+              22.897, 
+              48.585
+            ], 
+            [
+              22.897, 
+              45.737
+            ], 
+            [
+              16.113, 
+              45.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Hungary"
+        ], 
+        "alias_SWE_Q": [
+          "Ungern"
+        ], 
+        "alias_POL_Q": [
+          "W\u0119gry"
+        ], 
+        "ne_latitude": 48.585, 
+        "alias_RUM_Q": [
+          "Ungaria"
+        ], 
+        "alias_UNK_V": [
+          "Magyar Koztarsasag"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Hungria"
+        ], 
+        "alias_ENG_A": [
+          "HU"
+        ], 
+        "alias_CHI_Q": [
+          "\u5308\u7259\u5229"
+        ], 
+        "alias_ITA_Q": [
+          "Ungheria"
+        ], 
+        "alias_GER_V": [
+          "Republik Ungarn"
+        ], 
+        "woeid": 23424844, 
+        "alias_JPN_Q": [
+          "\u30cf\u30f3\u30ac\u30ea\u30fc"
+        ], 
+        "alias_ENG_P": [
+          "Hungary"
+        ], 
+        "alias_JPN_V": [
+          "\u30cf\u30f3\u30ac\u30ea\u30fc\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Hungr\u00eda"
+        ], 
+        "alias_FIN_Q": [
+          "Unkari"
+        ], 
+        "alias_SPA_S": [
+          "Republica Hungria"
+        ], 
+        "sw_longitude": 16.113, 
+        "alias_FIN_V": [
+          "Unkarista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.161, 
+        "alias_NOR_Q": [
+          "Ungarn"
+        ], 
+        "date_indexed": "2010-12-02T09:56:22Z", 
+        "alias_KOR_Q": [
+          "\ud5dd\uac00\ub9ac"
+        ], 
+        "alias_SPA_V": [
+          "Republica Hungr\u00eda"
+        ], 
+        "alias_DUT_Q": [
+          "Hongarije"
+        ], 
+        "alias_CZE_Q": [
+          "Ma\u010farsko"
+        ], 
+        "alias_DAN_Q": [
+          "Ungarn"
+        ], 
+        "alias_GER_Q": [
+          "Ungarn"
+        ], 
+        "lang": "HUN", 
+        "name": "Magyarorsz\u00e1g", 
+        "alias_UNK_S": [
+          "Ouggaria"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ungverjaland"
+        ], 
+        "alias_HUN_V": [
+          "A Magyar K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": 22.897, 
+        "longitude": 19.505, 
+        "iso": "HU", 
+        "sw_latitude": 45.737, 
+        "alias_HUN_S": [
+          "Magyarorszag"
+        ], 
+        "fullname": "Magyarorsz\u00e1g, Hungary", 
+        "alias_FRE_Q": [
+          "Hongrie"
+        ]
+      }, 
+      "id": 23424844
+    }
+  ]
+}

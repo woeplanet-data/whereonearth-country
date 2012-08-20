@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              44.772, 
+              38.397
+            ], 
+            [
+              44.772, 
+              41.906
+            ], 
+            [
+              50.608, 
+              41.906
+            ], 
+            [
+              50.608, 
+              38.397
+            ], 
+            [
+              44.772, 
+              38.397
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Azerbaijani Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Azerbajdzjan"
+        ], 
+        "alias_POL_Q": [
+          "Azerbejd\u017can"
+        ], 
+        "ne_latitude": 41.906, 
+        "alias_RUM_Q": [
+          "Azerbaidjan"
+        ], 
+        "alias_UNK_V": [
+          "Azarbaycan Respublikasi"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Azerbaij\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "AZ"
+        ], 
+        "alias_POR_S": [
+          "Azerbaijao"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e9e\u585e\u62dc\u7136"
+        ], 
+        "alias_ITA_Q": [
+          "Azerbaigian"
+        ], 
+        "alias_GER_V": [
+          "Republik Aserbaidschan"
+        ], 
+        "alias_CHI_V": [
+          "\u4e9e\u585e\u62dc\u7136"
+        ], 
+        "woeid": 23424741, 
+        "alias_JPN_Q": [
+          "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Azerbaiy\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Azerbaid\u017ean"
+        ], 
+        "alias_SPA_S": [
+          "Azerbaidjan"
+        ], 
+        "sw_longitude": 44.772, 
+        "alias_FIN_V": [
+          "Azerbaidzan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.151, 
+        "alias_NOR_Q": [
+          "Aserbajdsjan"
+        ], 
+        "date_indexed": "2010-12-02T08:58:35Z", 
+        "alias_KOR_Q": [
+          "\uc544\uc81c\ub974\ubc14\uc774\uc794"
+        ], 
+        "alias_SPA_V": [
+          "Azerbaidj\u00e1n"
+        ], 
+        "alias_DUT_Q": [
+          "Azerbeidzjan"
+        ], 
+        "alias_CZE_Q": [
+          "\u00c1zerb\u00e1jd\u017e\u00e1n"
+        ], 
+        "alias_DAN_Q": [
+          "Aserbajdsjan"
+        ], 
+        "alias_GER_Q": [
+          "Aserbaidschan"
+        ], 
+        "lang": "ENG", 
+        "name": "Azerbaijan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Azerbajdzs\u00e1n"
+        ], 
+        "ne_longitude": 50.608, 
+        "longitude": 47.687, 
+        "iso": "AZ", 
+        "sw_latitude": 38.397, 
+        "fullname": "Azerbaijan", 
+        "alias_FRE_S": [
+          "Azerbaidjan"
+        ], 
+        "alias_FRE_Q": [
+          "Azerba\u00efdjan"
+        ]
+      }, 
+      "id": 23424741
+    }
+  ]
+}

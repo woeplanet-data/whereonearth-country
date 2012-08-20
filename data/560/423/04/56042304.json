@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.934, 
+              17.866
+            ], 
+            [
+              -62.934, 
+              17.969
+            ], 
+            [
+              -62.783, 
+              17.969
+            ], 
+            [
+              -62.783, 
+              17.866
+            ], 
+            [
+              -62.934, 
+              17.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "St. Barths"
+        ], 
+        "alias_ENG_P": [
+          "Saint Barthelemy"
+        ], 
+        "ne_latitude": 17.969, 
+        "alias_RUM_Q": [
+          "Saint Barth\u00e9lemy"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "S\u00e3o Bartolomeu"
+        ], 
+        "alias_KOR_Q": [
+          "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
+        ], 
+        "woeid": 56042304, 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "San Bartolom\u00e9"
+        ], 
+        "sw_longitude": -62.934, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.908, 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "alias_GER_V": [
+          "Sankt Bartholom\u00e4us"
+        ], 
+        "lang": "FRE", 
+        "name": "Saint-Barth\u00e9lemy", 
+        "parent_woeid": 1, 
+        "ne_longitude": -62.783, 
+        "longitude": -62.834, 
+        "alias_FRE_A": [
+          "BL"
+        ], 
+        "iso": "BL", 
+        "sw_latitude": 17.866, 
+        "alias_FRE_V": [
+          "Saint-Barth"
+        ], 
+        "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
+        "alias_FRE_S": [
+          "Saint-Barthelemy"
+        ]
+      }, 
+      "id": 56042304
+    }
+  ]
+}

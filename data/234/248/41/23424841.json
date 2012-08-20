@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.351, 
+              12.982
+            ], 
+            [
+              -89.351, 
+              17.450
+            ], 
+            [
+              -82.500, 
+              17.450
+            ], 
+            [
+              -82.500, 
+              12.982
+            ], 
+            [
+              -89.351, 
+              12.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Honduras"
+        ], 
+        "alias_KOR_Q": [
+          "\uc628\ub450\ub77c\uc2a4"
+        ], 
+        "ne_latitude": 17.450, 
+        "ne_longitude": -82.500, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "HN"
+        ], 
+        "alias_CHI_Q": [
+          "\u5b8f\u90fd\u62c9\u65af"
+        ], 
+        "alias_CHI_V": [
+          "\u5b8f\u90fd\u62c9\u65af"
+        ], 
+        "woeid": 23424841, 
+        "alias_JPN_Q": [
+          "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -89.351, 
+        "alias_SPA_V": [
+          "Rep\u00fablica de Honduras"
+        ], 
+        "latitude": 14.505, 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_GER_V": [
+          "Republik Honduras"
+        ], 
+        "lang": "ENG", 
+        "name": "Honduras", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Hond\u00faras"
+        ], 
+        "alias_UNK_V": [
+          "Republika Honduras"
+        ], 
+        "longitude": -86.253, 
+        "iso": "HN", 
+        "sw_latitude": 12.982, 
+        "fullname": "Honduras"
+      }, 
+      "id": 23424841
+    }
+  ]
+}

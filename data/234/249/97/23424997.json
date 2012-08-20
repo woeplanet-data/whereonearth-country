@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.783, 
+              32.753
+            ], 
+            [
+              35.783, 
+              33.434
+            ], 
+            [
+              35.935, 
+              33.434
+            ], 
+            [
+              35.935, 
+              32.753
+            ], 
+            [
+              35.783, 
+              32.753
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_SWE_Q": [
+          "F\u00f6renta Nationernas Neutrala Zon"
+        ], 
+        "alias_SWE_S": [
+          "Forenta Nationernas Neutrala Zon"
+        ], 
+        "ne_latitude": 33.434, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "XD"
+        ], 
+        "woeid": 23424997, 
+        "alias_FIN_Q": [
+          "Yhdistyneet kansakunnat (neutraali vy\u00f6hyke)"
+        ], 
+        "alias_FIN_S": [
+          "Yhdistyneet kansakunnat (neutraali vyohyke)"
+        ], 
+        "sw_longitude": 35.783, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.093, 
+        "alias_NOR_S": [
+          "FNs noytrale sone"
+        ], 
+        "alias_NOR_Q": [
+          "FNs n\u00f8ytrale sone"
+        ], 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "alias_KOR_Q": [
+          "\uad6d\uc81c\uc5f0\ud569 \uc911\ub9bd\uc9c0\ub300"
+        ], 
+        "alias_DAN_Q": [
+          "Forenede Nationer Neutral Zone"
+        ], 
+        "lang": "ENG", 
+        "name": "United Nations Neutral Zone", 
+        "parent_woeid": 1, 
+        "ne_longitude": 35.935, 
+        "longitude": 35.859, 
+        "iso": "XD", 
+        "sw_latitude": 32.753, 
+        "fullname": "United Nations Neutral Zone"
+      }, 
+      "id": 23424997
+    }
+  ]
+}

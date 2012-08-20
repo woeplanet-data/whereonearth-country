@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              38.804, 
+              29.103
+            ], 
+            [
+              38.804, 
+              37.378
+            ], 
+            [
+              48.576, 
+              37.378
+            ], 
+            [
+              48.576, 
+              29.103
+            ], 
+            [
+              38.804, 
+              29.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Iraq"
+        ], 
+        "alias_SWE_Q": [
+          "Irak"
+        ], 
+        "alias_POL_Q": [
+          "Irak"
+        ], 
+        "ne_latitude": 37.378, 
+        "alias_RUM_Q": [
+          "Irak"
+        ], 
+        "alias_UNK_V": [
+          "Republika Irak"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Iraque"
+        ], 
+        "alias_ENG_A": [
+          "IQ"
+        ], 
+        "alias_ARA_V": [
+          "Al Iraq"
+        ], 
+        "alias_CHI_Q": [
+          "\u4f0a\u62c9\u514b"
+        ], 
+        "alias_GER_V": [
+          "Republik Irak"
+        ], 
+        "woeid": 23424855, 
+        "alias_JPN_Q": [
+          "\u30a4\u30e9\u30af"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30e9\u30af\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Irak"
+        ], 
+        "sw_longitude": 38.804, 
+        "alias_FIN_V": [
+          "Irakista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.241, 
+        "alias_NOR_Q": [
+          "Irak"
+        ], 
+        "date_indexed": "2010-12-02T16:42:58Z", 
+        "alias_KOR_Q": [
+          "\uc774\ub77c\ud06c"
+        ], 
+        "alias_DUT_Q": [
+          "Irak"
+        ], 
+        "alias_CZE_Q": [
+          "Ir\u00e1k"
+        ], 
+        "alias_DAN_Q": [
+          "Irak"
+        ], 
+        "alias_GER_Q": [
+          "Irak"
+        ], 
+        "lang": "ENG", 
+        "name": "Iraq", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "\u00cdrak"
+        ], 
+        "alias_HUN_Q": [
+          "Irak"
+        ], 
+        "ne_longitude": 48.576, 
+        "longitude": 43.690, 
+        "iso": "IQ", 
+        "sw_latitude": 29.103, 
+        "fullname": "Iraq", 
+        "alias_FRE_Q": [
+          "Irak"
+        ]
+      }, 
+      "id": 23424855
+    }
+  ]
+}

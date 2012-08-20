@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              114.071, 
+              4.003
+            ], 
+            [
+              114.071, 
+              5.047
+            ], 
+            [
+              115.359, 
+              5.047
+            ], 
+            [
+              115.359, 
+              4.003
+            ], 
+            [
+              114.071, 
+              4.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Brunei, Sultanate Of"
+        ], 
+        "alias_ENG_A": [
+          "BN"
+        ], 
+        "ne_latitude": 5.047, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ube0c\ub8e8\ub098\uc774"
+        ], 
+        "alias_CHI_Q": [
+          "\u6c76\u840a"
+        ], 
+        "alias_CHI_V": [
+          "\u6c76\u840a"
+        ], 
+        "woeid": 23424773, 
+        "alias_JPN_Q": [
+          "\u30d6\u30eb\u30cd\u30a4"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30c3\u30b5\u30e9\u30fc\u30e0\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Brun\u00e9i"
+        ], 
+        "sw_longitude": 114.071, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 4.525, 
+        "date_indexed": "2010-12-02T17:58:12Z", 
+        "alias_CZE_V": [
+          "Brunej Darussalam"
+        ], 
+        "alias_CZE_Q": [
+          "Brunej"
+        ], 
+        "alias_GER_V": [
+          "Brunei Darussalam"
+        ], 
+        "lang": "ENG", 
+        "name": "Brunei", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Negara Brunei Darussalam"
+        ], 
+        "ne_longitude": 115.359, 
+        "longitude": 114.599, 
+        "iso": "BN", 
+        "sw_latitude": 4.003, 
+        "alias_FRE_V": [
+          "Brun\u00e9i Darussalam"
+        ], 
+        "fullname": "Brunei"
+      }, 
+      "id": 23424773
+    }
+  ]
+}

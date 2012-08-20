@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.599, 
+              4.357
+            ], 
+            [
+              -8.599, 
+              10.737
+            ], 
+            [
+              -2.495, 
+              10.737
+            ], 
+            [
+              -2.495, 
+              4.357
+            ], 
+            [
+              -8.599, 
+              4.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "C\u00f4te d'Ivoire"
+        ], 
+        "alias_SWE_Q": [
+          "Elfenbenskusten"
+        ], 
+        "alias_POL_Q": [
+          "Wybrze\u017ce Ko\u015bci S\u0142oniowej"
+        ], 
+        "ne_latitude": 10.737, 
+        "alias_RUM_Q": [
+          "Coasta de Filde\u015f"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucf54\ud2b8\ub514\ubd80\uc640\ub974"
+        ], 
+        "alias_POR_Q": [
+          "Costa do Marfim"
+        ], 
+        "alias_ENG_A": [
+          "CI"
+        ], 
+        "alias_CHI_Q": [
+          "\u8c61\u7259\u6d77\u5cb8"
+        ], 
+        "alias_ITA_Q": [
+          "Costa d'Avorio"
+        ], 
+        "alias_GER_V": [
+          "C\u00f4te d\u2019Ivoire"
+        ], 
+        "alias_ITA_V": [
+          "Costa d\u2019Avorio"
+        ], 
+        "alias_CHI_V": [
+          "\u8c61\u7259\u6d77\u5cb8"
+        ], 
+        "woeid": 23424854, 
+        "alias_JPN_Q": [
+          "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb"
+        ], 
+        "alias_ENG_P": [
+          "Ivory Coast"
+        ], 
+        "alias_JPN_V": [
+          "\u30b3\u30fc\u30c8\u30b8\u30dc\u30a2\u30fc\u30eb"
+        ], 
+        "alias_SPA_Q": [
+          "Costa de Marfil"
+        ], 
+        "alias_FIN_Q": [
+          "Norsunluurannikko"
+        ], 
+        "alias_SPA_S": [
+          "Republica Cote d'Ivoire"
+        ], 
+        "sw_longitude": -8.599, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.547, 
+        "alias_NOR_Q": [
+          "Elfenbenskysten"
+        ], 
+        "date_indexed": "2010-12-02T09:35:19Z", 
+        "alias_FRE_V": [
+          "C\u00f4te-d'Ivoire"
+        ], 
+        "alias_KOR_Q": [
+          "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
+        ], 
+        "alias_SPA_V": [
+          "Republica C\u00f4te d'Ivoire"
+        ], 
+        "alias_DUT_Q": [
+          "Ivoorkust"
+        ], 
+        "alias_CZE_Q": [
+          "Pob\u0159e\u017e\u00ed Slonoviny"
+        ], 
+        "alias_DAN_Q": [
+          "Elfenbenskysten"
+        ], 
+        "alias_GER_Q": [
+          "Elfenbeink\u00fcste"
+        ], 
+        "alias_GER_S": [
+          "Republik Cote d\u00b4Ivoire"
+        ], 
+        "lang": "FRE", 
+        "name": "C\u00f4te d\u00b4Ivoire", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Elef\u00e1ntcsontpart"
+        ], 
+        "ne_longitude": -2.495, 
+        "longitude": -5.547, 
+        "iso": "CI", 
+        "sw_latitude": 4.357, 
+        "alias_RUM_V": [
+          "C\u00f4te d'Ivoire"
+        ], 
+        "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast"
+      }, 
+      "id": 23424854
+    }
+  ]
+}

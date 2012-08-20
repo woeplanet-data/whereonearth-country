@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.000, 
+              -26.907
+            ], 
+            [
+              20.000, 
+              -17.781
+            ], 
+            [
+              29.361, 
+              -17.781
+            ], 
+            [
+              29.361, 
+              -26.907
+            ], 
+            [
+              20.000, 
+              -26.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Botswana"
+        ], 
+        "alias_KOR_Q": [
+          "\ubcf4\uce20\uc640\ub098"
+        ], 
+        "ne_latitude": -17.781, 
+        "alias_UNK_V": [
+          "Republika Bocvana"
+        ], 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "BW"
+        ], 
+        "alias_CHI_Q": [
+          "\u6ce2\u672d\u90a3"
+        ], 
+        "alias_CHI_V": [
+          "\u6ce2\u672d\u90a3"
+        ], 
+        "woeid": 23424755, 
+        "alias_JPN_Q": [
+          "\u30dc\u30c4\u30ef\u30ca"
+        ], 
+        "alias_JPN_V": [
+          "\u30dc\u30c4\u30ef\u30ca\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Botsuana"
+        ], 
+        "sw_longitude": 20.000, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -22.344, 
+        "date_indexed": "2010-12-02T10:22:50Z", 
+        "alias_GER_V": [
+          "Republik Botsuana"
+        ], 
+        "lang": "ENG", 
+        "name": "Botswana", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Bocvana"
+        ], 
+        "ne_longitude": 29.361, 
+        "longitude": 24.680, 
+        "iso": "BW", 
+        "sw_latitude": -26.907, 
+        "fullname": "Botswana"
+      }, 
+      "id": 23424755
+    }
+  ]
+}

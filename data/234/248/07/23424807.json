@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.129, 
+              13.149
+            ], 
+            [
+              -90.129, 
+              14.445
+            ], 
+            [
+              -87.683, 
+              14.445
+            ], 
+            [
+              -87.683, 
+              13.149
+            ], 
+            [
+              -90.129, 
+              13.149
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Salvadoran"
+        ], 
+        "alias_ENG_A": [
+          "SV"
+        ], 
+        "alias_POL_Q": [
+          "Salwador"
+        ], 
+        "ne_latitude": 14.445, 
+        "alias_UNK_V": [
+          "Republika Salvador"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc5d8\uc0b4 \ubc14\ub3c4\ub974"
+        ], 
+        "alias_KOR_Q": [
+          "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
+        ], 
+        "alias_CHI_Q": [
+          "\u85a9\u723e\u74e6\u591a"
+        ], 
+        "alias_ITA_V": [
+          "Salvador"
+        ], 
+        "alias_CHI_V": [
+          "\u8428\u5c14\u74e6\u591a"
+        ], 
+        "woeid": 23424807, 
+        "alias_JPN_Q": [
+          "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -90.129, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.797, 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "alias_CZE_Q": [
+          "Salvador"
+        ], 
+        "alias_GER_V": [
+          "Republik El Salvador"
+        ], 
+        "lang": "ENG", 
+        "name": "El Salvador", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Salvador"
+        ], 
+        "ne_longitude": -87.683, 
+        "longitude": -88.919, 
+        "iso": "SV", 
+        "sw_latitude": 13.149, 
+        "fullname": "El Salvador", 
+        "alias_FRE_Q": [
+          "Salvador"
+        ]
+      }, 
+      "id": 23424807
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.409, 
+              43.725
+            ], 
+            [
+              7.409, 
+              43.752
+            ], 
+            [
+              7.439, 
+              43.752
+            ], 
+            [
+              7.439, 
+              43.725
+            ], 
+            [
+              7.409, 
+              43.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Principality of Monaco"
+        ], 
+        "alias_ENG_A": [
+          "MC"
+        ], 
+        "alias_POL_Q": [
+          "Monako"
+        ], 
+        "ne_latitude": 43.752, 
+        "alias_UNK_V": [
+          "Monak\u00f3"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "M\u00f4naco"
+        ], 
+        "alias_POR_Q": [
+          "M\u00f3naco"
+        ], 
+        "alias_KOR_Q": [
+          "\ubaa8\ub098\ucf54"
+        ], 
+        "alias_CHI_Q": [
+          "\u6469\u7d0d\u54e5"
+        ], 
+        "alias_ITA_Q": [
+          "Principato di Monaco"
+        ], 
+        "alias_CHI_V": [
+          "\u6469\u7eb3\u54e5"
+        ], 
+        "woeid": 23424892, 
+        "alias_JPN_Q": [
+          "\u30e2\u30ca\u30b3"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30ca\u30b3\u516c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "M\u00f3naco"
+        ], 
+        "sw_longitude": 7.409, 
+        "alias_SPA_V": [
+          "Principado de M\u00f3naco"
+        ], 
+        "latitude": 43.738, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_CZE_Q": [
+          "Monako"
+        ], 
+        "alias_GER_V": [
+          "F\u00fcrstentum Monaco"
+        ], 
+        "alias_GER_S": [
+          "Furstentum Monaco"
+        ], 
+        "lang": "FRE", 
+        "name": "Monaco", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Monako"
+        ], 
+        "ne_longitude": 7.439, 
+        "longitude": 7.424, 
+        "iso": "MC", 
+        "sw_latitude": 43.725, 
+        "alias_FRE_V": [
+          "Principaut\u00e9 de Monaco"
+        ], 
+        "fullname": "Monaco"
+      }, 
+      "id": 23424892
+    }
+  ]
+}

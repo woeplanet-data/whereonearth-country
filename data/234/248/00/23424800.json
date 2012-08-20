@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.003, 
+              17.469
+            ], 
+            [
+              -72.003, 
+              19.930
+            ], 
+            [
+              -68.320, 
+              19.930
+            ], 
+            [
+              -68.320, 
+              17.469
+            ], 
+            [
+              -72.003, 
+              17.469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Republika Dominikany"
+        ], 
+        "alias_ENG_V": [
+          "Dominicanrepublic"
+        ], 
+        "alias_SWE_Q": [
+          "Dominikanska republiken"
+        ], 
+        "alias_POL_Q": [
+          "Dominikana"
+        ], 
+        "ne_latitude": 19.930, 
+        "alias_RUM_Q": [
+          "Republica Dominican\u0103"
+        ], 
+        "alias_UNK_V": [
+          "Dominikaaninen tasavalta"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica Dominicana"
+        ], 
+        "alias_ENG_A": [
+          "DO"
+        ], 
+        "alias_CHI_Q": [
+          "\u591a\u660e\u5c3c\u52a0"
+        ], 
+        "alias_ITA_Q": [
+          "Repubblica Dominicana"
+        ], 
+        "alias_GER_V": [
+          "Dominikanische Rep."
+        ], 
+        "alias_CHI_V": [
+          "\u591a\u7c73\u5c3c\u52a0"
+        ], 
+        "woeid": 23424800, 
+        "alias_JPN_Q": [
+          "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica Dominicana"
+        ], 
+        "alias_FIN_Q": [
+          "Dominikaaninen tasavalta"
+        ], 
+        "sw_longitude": -72.003, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.768, 
+        "alias_NOR_Q": [
+          "Den dominikanske republikk"
+        ], 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "alias_KOR_Q": [
+          "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Den Dominikanske Republik"
+        ], 
+        "alias_SPA_V": [
+          "Quisqueya"
+        ], 
+        "alias_DUT_Q": [
+          "Dominicaanse republiek"
+        ], 
+        "alias_CZE_Q": [
+          "Dominik\u00e1nsk\u00e1 republika"
+        ], 
+        "alias_DAN_Q": [
+          "Dominikanske Republik"
+        ], 
+        "alias_GER_Q": [
+          "Dominikanische Republik"
+        ], 
+        "lang": "ENG", 
+        "name": "Dominican Republic", 
+        "alias_UNK_S": [
+          "Dominiska lydveldid"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Dominikanska republika"
+        ], 
+        "alias_HUN_Q": [
+          "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": -68.320, 
+        "longitude": -70.162, 
+        "iso": "DO", 
+        "sw_latitude": 17.469, 
+        "alias_FRE_V": [
+          "Dominicaine, r\u00e9publique"
+        ], 
+        "fullname": "Dominican Republic", 
+        "alias_FRE_S": [
+          "Republique Dominicaine"
+        ], 
+        "alias_FRE_Q": [
+          "R\u00e9publique Dominicaine"
+        ]
+      }, 
+      "id": 23424800
+    }
+  ]
+}

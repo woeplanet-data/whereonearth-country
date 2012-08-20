@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.465, 
+              40.860
+            ], 
+            [
+              20.465, 
+              42.346
+            ], 
+            [
+              23.038, 
+              42.346
+            ], 
+            [
+              23.038, 
+              40.860
+            ], 
+            [
+              20.465, 
+              40.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "F.Y.R.O. Macedonia"
+        ], 
+        "alias_SWE_V": [
+          "F.d. jugoslaviska republiken Makedonien"
+        ], 
+        "alias_SWE_Q": [
+          "Makedonien"
+        ], 
+        "ne_latitude": 42.346, 
+        "alias_RUM_Q": [
+          "Republica Macedonia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Makedonija"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544"
+        ], 
+        "alias_POR_V": [
+          "Maced\u00f3nia"
+        ], 
+        "alias_POR_Q": [
+          "Rep\u00fablica da Maced\u00f3nia"
+        ], 
+        "alias_ENG_A": [
+          "MK"
+        ], 
+        "alias_POR_S": [
+          "Antiga Republica jugoslava da Macedonia"
+        ], 
+        "alias_CZE_Q": [
+          "Makedonie"
+        ], 
+        "alias_CHI_Q": [
+          "\u99ac\u5176\u9813"
+        ], 
+        "alias_ITA_Q": [
+          "Repubblica di Macedonia"
+        ], 
+        "alias_GER_V": [
+          "Ehemalige Jugoslawische Republik Mazedonien"
+        ], 
+        "alias_ITA_V": [
+          "Macedonia, Ex Repubblica Jugoslava"
+        ], 
+        "woeid": 23424890, 
+        "alias_JPN_Q": [
+          "\u30de\u30b1\u30c9\u30cb\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Rep\u00fablica de Macedonia"
+        ], 
+        "alias_FIN_Q": [
+          "Makedonia"
+        ], 
+        "alias_SPA_S": [
+          "Ex Republica Yugoslava de Macedonia"
+        ], 
+        "sw_longitude": 20.465, 
+        "alias_FIN_V": [
+          "Makedonian tasavalta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.603, 
+        "alias_NOR_Q": [
+          "Republikken Makedonia"
+        ], 
+        "alias_NOR_V": [
+          "Makedonia"
+        ], 
+        "date_indexed": "2010-12-02T09:34:55Z", 
+        "alias_FRE_V": [
+          "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
+        ], 
+        "alias_KOR_Q": [
+          "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Republikken Makedonien"
+        ], 
+        "alias_SPA_V": [
+          "Macedonia, Antigua Rep\u00fablica Yugoslava"
+        ], 
+        "alias_DUT_Q": [
+          "Macedoni\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Macedonie"
+        ], 
+        "alias_DUT_V": [
+          "Voormalige Joegoslavische Republiek Macedoni\u00eb"
+        ], 
+        "alias_DAN_Q": [
+          "Makedonien"
+        ], 
+        "alias_GER_Q": [
+          "Mazedonien"
+        ], 
+        "lang": "ENG", 
+        "name": "Macedonia", 
+        "alias_CZE_V": [
+          "Republika Makedonie"
+        ], 
+        "alias_UNK_S": [
+          "Proin Giougkoslaviki Dimokratia tis Makedonias"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Maced\u00f3nia"
+        ], 
+        "alias_HUN_V": [
+          "Maced\u00f3nia, K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": 23.038, 
+        "longitude": 21.751, 
+        "iso": "MK", 
+        "sw_latitude": 40.860, 
+        "alias_RUM_V": [
+          "Fosta Republic\u0103 Iugoslav\u0103 Macedonia"
+        ], 
+        "fullname": "Macedonia", 
+        "alias_FRE_S": [
+          "Macedoine"
+        ], 
+        "alias_FRE_Q": [
+          "Mac\u00e9doine"
+        ]
+      }, 
+      "id": 23424890
+    }
+  ]
+}

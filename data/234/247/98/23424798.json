@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.484, 
+              15.202
+            ], 
+            [
+              -61.484, 
+              15.632
+            ], 
+            [
+              -61.244, 
+              15.632
+            ], 
+            [
+              -61.244, 
+              15.202
+            ], 
+            [
+              -61.484, 
+              15.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Dominican"
+        ], 
+        "alias_KOR_Q": [
+          "\ub3c4\ubbf8\ub2c8\uce74"
+        ], 
+        "alias_POL_Q": [
+          "Dominika"
+        ], 
+        "ne_latitude": 15.632, 
+        "alias_UNK_V": [
+          "Zveza Dominika"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Dom\u00ednica"
+        ], 
+        "alias_ENG_A": [
+          "DM"
+        ], 
+        "alias_CHI_Q": [
+          "\u591a\u7c73\u5c3c\u514b"
+        ], 
+        "woeid": 23424798, 
+        "alias_JPN_Q": [
+          "\u30c9\u30df\u30cb\u30ab"
+        ], 
+        "alias_JPN_V": [
+          "\u30c9\u30df\u30cb\u30ab\u56fd"
+        ], 
+        "sw_longitude": -61.484, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.417, 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "alias_CZE_Q": [
+          "Dominika"
+        ], 
+        "alias_GER_V": [
+          "Commonwealth Dominica"
+        ], 
+        "lang": "ENG", 
+        "name": "Dominica", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "D\u00f3min\u00edka"
+        ], 
+        "alias_HUN_Q": [
+          "Dominikai K\u00f6z\u00f6ss\u00e9g"
+        ], 
+        "alias_HUN_V": [
+          "Dominika"
+        ], 
+        "ne_longitude": -61.244, 
+        "longitude": -61.364, 
+        "iso": "DM", 
+        "sw_latitude": 15.202, 
+        "alias_FRE_V": [
+          "\u00cele Dominique"
+        ], 
+        "fullname": "Dominica", 
+        "alias_FRE_S": [
+          "Ile Dominique"
+        ], 
+        "alias_FRE_Q": [
+          "Dominique"
+        ]
+      }, 
+      "id": 23424798
+    }
+  ]
+}

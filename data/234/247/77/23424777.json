@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.473, 
+              7.441
+            ], 
+            [
+              13.473, 
+              23.450
+            ], 
+            [
+              24.003, 
+              23.450
+            ], 
+            [
+              24.003, 
+              7.441
+            ], 
+            [
+              13.473, 
+              7.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Chad"
+        ], 
+        "alias_SWE_Q": [
+          "Tchad"
+        ], 
+        "alias_POL_Q": [
+          "Czad"
+        ], 
+        "ne_latitude": 23.450, 
+        "alias_RUM_Q": [
+          "Ciad"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucc60\ub4dc"
+        ], 
+        "alias_POR_Q": [
+          "Chade"
+        ], 
+        "alias_ENG_A": [
+          "TCD"
+        ], 
+        "alias_CHI_Q": [
+          "\u67e5\u5fb7"
+        ], 
+        "alias_ITA_Q": [
+          "Ciad"
+        ], 
+        "alias_GER_V": [
+          "Republik Tschad"
+        ], 
+        "alias_CHI_V": [
+          "\u67e5\u5fb7"
+        ], 
+        "woeid": 23424777, 
+        "alias_JPN_Q": [
+          "\u30c1\u30e3\u30c9"
+        ], 
+        "alias_JPN_V": [
+          "\u30c1\u30e3\u30c9\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "T\u0161ad"
+        ], 
+        "alias_FIN_S": [
+          "Tsad"
+        ], 
+        "sw_longitude": 13.473, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.446, 
+        "alias_NOR_Q": [
+          "Tsjad"
+        ], 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "alias_KOR_Q": [
+          "\ucc28\ub4dc"
+        ], 
+        "alias_DUT_Q": [
+          "Tsjaad"
+        ], 
+        "alias_CZE_Q": [
+          "\u010cad"
+        ], 
+        "alias_DAN_Q": [
+          "Tchad"
+        ], 
+        "alias_GER_Q": [
+          "Tschad"
+        ], 
+        "lang": "ENG", 
+        "name": "Chad", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Tsjad"
+        ], 
+        "alias_HUN_Q": [
+          "Cs\u00e1d"
+        ], 
+        "ne_longitude": 24.003, 
+        "longitude": 18.738, 
+        "iso": "TD", 
+        "sw_latitude": 7.441, 
+        "alias_FRE_V": [
+          "R\u00e9publique du Tchad"
+        ], 
+        "fullname": "Chad", 
+        "alias_FRE_Q": [
+          "Tchad"
+        ]
+      }, 
+      "id": 23424777
+    }
+  ]
+}

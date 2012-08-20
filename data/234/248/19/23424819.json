@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.141, 
+              41.334
+            ], 
+            [
+              -5.141, 
+              51.089
+            ], 
+            [
+              9.559, 
+              51.089
+            ], 
+            [
+              9.559, 
+              41.334
+            ], 
+            [
+              -5.141, 
+              41.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "French Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Frankrike"
+        ], 
+        "alias_POL_Q": [
+          "Francja"
+        ], 
+        "ne_latitude": 51.089, 
+        "alias_RUM_Q": [
+          "Fran\u0163a"
+        ], 
+        "alias_UNK_V": [
+          "Franc\u00fazsko"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "P'urangsu"
+        ], 
+        "alias_POR_Q": [
+          "Fran\u00e7a"
+        ], 
+        "alias_ENG_A": [
+          "FRA"
+        ], 
+        "alias_POR_S": [
+          "Franca"
+        ], 
+        "alias_CHI_Q": [
+          "\u6cd5\u570b"
+        ], 
+        "alias_ITA_Q": [
+          "Francia"
+        ], 
+        "alias_GER_V": [
+          "Franz\u00f6sische Republik"
+        ], 
+        "alias_CHI_V": [
+          "\u6cd5\u56fd"
+        ], 
+        "woeid": 23424819, 
+        "alias_JPN_Q": [
+          "\u30d5\u30e9\u30f3\u30b9"
+        ], 
+        "alias_JPN_V": [
+          "\u30d5\u30e9\u30f3\u30b9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Francia"
+        ], 
+        "alias_FIN_Q": [
+          "Ranska"
+        ], 
+        "sw_longitude": -5.141, 
+        "alias_FIN_V": [
+          "Ranskasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.711, 
+        "alias_NOR_Q": [
+          "Frankrike"
+        ], 
+        "date_indexed": "2010-12-02T12:04:01Z", 
+        "alias_KOR_Q": [
+          "\ud504\ub791\uc2a4"
+        ], 
+        "alias_DUT_Q": [
+          "Frankrijk"
+        ], 
+        "alias_CZE_Q": [
+          "Francie"
+        ], 
+        "alias_DAN_Q": [
+          "Frankrig"
+        ], 
+        "alias_GER_Q": [
+          "Frankreich"
+        ], 
+        "alias_GER_S": [
+          "Franzosische Republik"
+        ], 
+        "lang": "FRE", 
+        "name": "France", 
+        "alias_UNK_S": [
+          "Francuzsko"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Frakkland"
+        ], 
+        "alias_HUN_Q": [
+          "Franciaorsz\u00e1g"
+        ], 
+        "ne_longitude": 9.559, 
+        "longitude": 1.718, 
+        "iso": "FR", 
+        "sw_latitude": 41.334, 
+        "alias_HUN_S": [
+          "Franciaorszag"
+        ], 
+        "alias_FRE_V": [
+          "R\u00e9publique Fran\u00e7aise"
+        ], 
+        "fullname": "France", 
+        "alias_FRE_S": [
+          "Gallia"
+        ]
+      }, 
+      "id": 23424819
+    }
+  ]
+}

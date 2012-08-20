@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.327, 
+              -18.350
+            ], 
+            [
+              -81.327, 
+              -0.013
+            ], 
+            [
+              -68.678, 
+              -0.013
+            ], 
+            [
+              -68.678, 
+              -18.350
+            ], 
+            [
+              -81.327, 
+              -18.350
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Peru"
+        ], 
+        "alias_ENG_A": [
+          "PE"
+        ], 
+        "ne_latitude": -0.013, 
+        "alias_UNK_V": [
+          "Republika Peru"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud398\ub974"
+        ], 
+        "alias_KOR_Q": [
+          "\ud398\ub8e8"
+        ], 
+        "alias_CHI_Q": [
+          "\u79d8\u9b6f"
+        ], 
+        "alias_ITA_Q": [
+          "Per\u00f9"
+        ], 
+        "alias_CHI_V": [
+          "\u79d8\u9c81"
+        ], 
+        "woeid": 23424919, 
+        "alias_JPN_Q": [
+          "\u30da\u30eb\u30fc"
+        ], 
+        "alias_JPN_V": [
+          "\u30da\u30eb\u30fc\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Per\u00fa"
+        ], 
+        "sw_longitude": -81.327, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -9.181, 
+        "date_indexed": "2010-12-02T16:12:16Z", 
+        "alias_GER_V": [
+          "Republik Peru"
+        ], 
+        "lang": "ENG", 
+        "name": "Peru", 
+        "parent_woeid": 1, 
+        "ne_longitude": -68.678, 
+        "longitude": -75.002, 
+        "iso": "PE", 
+        "sw_latitude": -18.350, 
+        "fullname": "Peru", 
+        "alias_FRE_S": [
+          "Perou"
+        ], 
+        "alias_FRE_Q": [
+          "P\u00e9rou"
+        ]
+      }, 
+      "id": 23424919
+    }
+  ]
+}

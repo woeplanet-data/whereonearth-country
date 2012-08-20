@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.374, 
+              0.744
+            ], 
+            [
+              -73.374, 
+              12.202
+            ], 
+            [
+              -59.804, 
+              12.202
+            ], 
+            [
+              -59.804, 
+              0.744
+            ], 
+            [
+              -73.374, 
+              0.744
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "United States of Venezuela"
+        ], 
+        "alias_ENG_A": [
+          "VE"
+        ], 
+        "alias_POL_Q": [
+          "Wenezuela"
+        ], 
+        "ne_latitude": 12.202, 
+        "alias_UNK_V": [
+          "Republika Venezuela"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubca0\ub124\uc8fc\uc5d8\ub77c"
+        ], 
+        "alias_KOR_Q": [
+          "\ubca0\ub124\uc218\uc5d8\ub77c"
+        ], 
+        "alias_CHI_Q": [
+          "\u59d4\u5167\u745e\u62c9"
+        ], 
+        "woeid": 23424982, 
+        "alias_JPN_Q": [
+          "\u30d9\u30cd\u30ba\u30a8\u30e9"
+        ], 
+        "alias_JPN_V": [
+          "\u30d9\u30cd\u30ba\u30a8\u30e9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -73.374, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 6.473, 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "alias_GER_V": [
+          "Bolivarische Republik Venezuela"
+        ], 
+        "lang": "ENG", 
+        "name": "Venezuela", 
+        "alias_UNK_S": [
+          "Venesuela"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Venes\u00faela"
+        ], 
+        "ne_longitude": -59.804, 
+        "longitude": -66.589, 
+        "iso": "VE", 
+        "sw_latitude": 0.744, 
+        "alias_FRE_V": [
+          "V\u00e9n\u00e9zu\u00e9la"
+        ], 
+        "fullname": "Venezuela"
+      }, 
+      "id": 23424982
+    }
+  ]
+}

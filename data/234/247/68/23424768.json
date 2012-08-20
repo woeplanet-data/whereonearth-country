@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.986, 
+              -33.751
+            ], 
+            [
+              -73.986, 
+              5.265
+            ], 
+            [
+              -28.839, 
+              5.265
+            ], 
+            [
+              -28.839, 
+              -33.751
+            ], 
+            [
+              -73.986, 
+              -33.751
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Federative Republic of Brazil"
+        ], 
+        "alias_SWE_Q": [
+          "Brasilien"
+        ], 
+        "alias_POL_Q": [
+          "Brazylia"
+        ], 
+        "ne_latitude": 5.265, 
+        "alias_RUM_Q": [
+          "Brazilia"
+        ], 
+        "alias_UNK_V": [
+          "Burajiru"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Estados Unidos do Brazil"
+        ], 
+        "alias_ENG_A": [
+          "BR"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u897f"
+        ], 
+        "alias_ITA_Q": [
+          "Brasile"
+        ], 
+        "alias_GER_V": [
+          "F\u00f6derative Republik Brasilien"
+        ], 
+        "woeid": 23424768, 
+        "alias_JPN_Q": [
+          "\u30d6\u30e9\u30b8\u30eb"
+        ], 
+        "alias_ENG_P": [
+          "Brazil"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30e9\u30b8\u30eb\u9023\u90a6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Brasil"
+        ], 
+        "alias_FIN_Q": [
+          "Brasilia"
+        ], 
+        "sw_longitude": -73.986, 
+        "alias_FIN_V": [
+          "Brasiliasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -14.243, 
+        "alias_NOR_Q": [
+          "Brasil"
+        ], 
+        "date_indexed": "2010-12-02T18:01:28Z", 
+        "alias_KOR_Q": [
+          "\ube0c\ub77c\uc9c8"
+        ], 
+        "alias_DUT_Q": [
+          "Brazili\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Brazilie"
+        ], 
+        "alias_CZE_Q": [
+          "Braz\u00edlie"
+        ], 
+        "alias_DAN_Q": [
+          "Brasilien"
+        ], 
+        "alias_GER_Q": [
+          "Brasilien"
+        ], 
+        "alias_GER_S": [
+          "Foderative Republik Brasilien"
+        ], 
+        "lang": "POR", 
+        "name": "Brasil", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Brasil\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Braz\u00edlia"
+        ], 
+        "ne_longitude": -28.839, 
+        "longitude": -54.388, 
+        "iso": "BR", 
+        "sw_latitude": -33.751, 
+        "fullname": "Brasil, Brazil", 
+        "alias_FRE_S": [
+          "Bresil"
+        ], 
+        "alias_FRE_Q": [
+          "Br\u00e9sil"
+        ]
+      }, 
+      "id": 23424768
+    }
+  ]
+}

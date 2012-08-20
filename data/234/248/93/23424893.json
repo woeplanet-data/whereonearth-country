@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.142, 
+              27.703
+            ], 
+            [
+              -13.142, 
+              35.928
+            ], 
+            [
+              -0.992, 
+              35.928
+            ], 
+            [
+              -0.992, 
+              27.703
+            ], 
+            [
+              -13.142, 
+              27.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Morocco"
+        ], 
+        "alias_SWE_Q": [
+          "Marocko"
+        ], 
+        "alias_POL_Q": [
+          "Maroko"
+        ], 
+        "ne_latitude": 35.928, 
+        "alias_RUM_Q": [
+          "Maroc"
+        ], 
+        "alias_UNK_V": [
+          "Kraljevina Maroko"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Marrocos"
+        ], 
+        "alias_ENG_A": [
+          "MA"
+        ], 
+        "alias_ARA_V": [
+          "Al Magreb"
+        ], 
+        "alias_CHI_Q": [
+          "\u6469\u6d1b\u54e5"
+        ], 
+        "alias_ITA_Q": [
+          "Marocco"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Marokko"
+        ], 
+        "woeid": 23424893, 
+        "alias_JPN_Q": [
+          "\u30e2\u30ed\u30c3\u30b3"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30ed\u30c3\u30b3\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Marruecos"
+        ], 
+        "alias_FIN_Q": [
+          "Marokko"
+        ], 
+        "sw_longitude": -13.142, 
+        "alias_FIN_V": [
+          "Marokosta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.815, 
+        "alias_NOR_Q": [
+          "Marokko"
+        ], 
+        "date_indexed": "2010-12-02T18:19:13Z", 
+        "alias_KOR_Q": [
+          "\ubaa8\ub85c\ucf54"
+        ], 
+        "alias_SPA_V": [
+          "Reino de Marruecos"
+        ], 
+        "alias_DUT_Q": [
+          "Marokko"
+        ], 
+        "alias_CZE_Q": [
+          "Maroko"
+        ], 
+        "alias_DAN_Q": [
+          "Marokko"
+        ], 
+        "alias_GER_Q": [
+          "Marokko"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Marokko"
+        ], 
+        "lang": "ENG", 
+        "name": "Morocco", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Maroko"
+        ], 
+        "alias_HUN_Q": [
+          "Marokk\u00f3"
+        ], 
+        "ne_longitude": -0.992, 
+        "longitude": -7.067, 
+        "iso": "MA", 
+        "sw_latitude": 27.703, 
+        "alias_FRE_V": [
+          "Royaume du Maroc"
+        ], 
+        "fullname": "Morocco", 
+        "alias_FRE_Q": [
+          "Maroc"
+        ]
+      }, 
+      "id": 23424893
+    }
+  ]
+}

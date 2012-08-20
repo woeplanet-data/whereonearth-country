@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              71.266, 
+              -7.334
+            ], 
+            [
+              71.266, 
+              7.279
+            ], 
+            [
+              72.417, 
+              7.279
+            ], 
+            [
+              72.417, 
+              -7.334
+            ], 
+            [
+              71.266, 
+              -7.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_SWE_Q": [
+          "Brittiska territoriet i Indiska oceanen"
+        ], 
+        "ne_latitude": 7.279, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
+        ], 
+        "alias_ENG_A": [
+          "IO"
+        ], 
+        "alias_POR_S": [
+          "Territorio Britanico do Oceano Indico"
+        ], 
+        "alias_CHI_Q": [
+          "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u571f"
+        ], 
+        "alias_ITA_Q": [
+          "Territorio Britannico dell'Oceano Indiano"
+        ], 
+        "woeid": 23424849, 
+        "alias_JPN_Q": [
+          "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+        ], 
+        "alias_JPN_V": [
+          "\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+        ], 
+        "alias_FIN_Q": [
+          "Brittil\u00e4inen Intian valtameren alue"
+        ], 
+        "alias_FIN_S": [
+          "Brittilainen Intian valtameren alue"
+        ], 
+        "sw_longitude": 71.266, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.201, 
+        "alias_NOR_Q": [
+          "Det britiske territoriet i Indiahavet"
+        ], 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "alias_KOR_Q": [
+          "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
+        ], 
+        "alias_DAN_Q": [
+          "Det Britiske Territorium i Det Indiske Ocean"
+        ], 
+        "alias_GER_Q": [
+          "Britische Territorium im Indischen Ozean"
+        ], 
+        "lang": "ENG", 
+        "name": "British Indian Ocean Territory", 
+        "parent_woeid": 1, 
+        "ne_longitude": 72.417, 
+        "longitude": 72.252, 
+        "iso": "IO", 
+        "sw_latitude": -7.334, 
+        "fullname": "British Indian Ocean Territory", 
+        "alias_FRE_S": [
+          "Territoire Britannique de l'Ocean Indien"
+        ], 
+        "alias_FRE_Q": [
+          "Territoire Britannique de l'Oc\u00e9an Indien"
+        ]
+      }, 
+      "id": 23424849
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.800, 
+              11.983
+            ], 
+            [
+              -61.800, 
+              12.541
+            ], 
+            [
+              -61.376, 
+              12.541
+            ], 
+            [
+              -61.376, 
+              11.983
+            ], 
+            [
+              -61.800, 
+              11.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Grenadian"
+        ], 
+        "alias_ENG_A": [
+          "GD"
+        ], 
+        "ne_latitude": 12.541, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Granada"
+        ], 
+        "alias_KOR_Q": [
+          "\uadf8\ub808\ub098\ub2e4"
+        ], 
+        "alias_CHI_Q": [
+          "\u683c\u745e\u90a3\u9054"
+        ], 
+        "alias_CHI_V": [
+          "\u683c\u745e\u90a3\u9054"
+        ], 
+        "woeid": 23424826, 
+        "alias_JPN_Q": [
+          "\u30b0\u30ec\u30ca\u30c0"
+        ], 
+        "alias_SPA_Q": [
+          "Granada"
+        ], 
+        "sw_longitude": -61.800, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.113, 
+        "date_indexed": "2010-12-02T17:52:39Z", 
+        "lang": "ENG", 
+        "name": "Grenada", 
+        "parent_woeid": 1, 
+        "ne_longitude": -61.376, 
+        "longitude": -61.699, 
+        "iso": "GD", 
+        "sw_latitude": 11.983, 
+        "fullname": "Grenada", 
+        "alias_FRE_Q": [
+          "Grenade"
+        ]
+      }, 
+      "id": 23424826
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              51.882, 
+              16.646
+            ], 
+            [
+              51.882, 
+              26.500
+            ], 
+            [
+              59.837, 
+              26.500
+            ], 
+            [
+              59.837, 
+              16.646
+            ], 
+            [
+              51.882, 
+              16.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Sultanate of Oman"
+        ], 
+        "alias_ENG_A": [
+          "OM"
+        ], 
+        "ne_latitude": 26.500, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Om\u00e3"
+        ], 
+        "alias_KOR_Q": [
+          "\uc624\ub9cc"
+        ], 
+        "alias_POR_S": [
+          "Oma"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u66fc"
+        ], 
+        "woeid": 23424898, 
+        "alias_JPN_Q": [
+          "\u30aa\u30de\u30fc\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30aa\u30de\u30fc\u30f3\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Om\u00e1n"
+        ], 
+        "sw_longitude": 51.882, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.814, 
+        "date_indexed": "2010-12-02T09:35:43Z", 
+        "alias_CZE_Q": [
+          "Om\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Sultanat Oman"
+        ], 
+        "lang": "ENG", 
+        "name": "Oman", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Saltanat 'Uman"
+        ], 
+        "alias_HUN_Q": [
+          "Om\u00e1n"
+        ], 
+        "ne_longitude": 59.837, 
+        "longitude": 55.859, 
+        "iso": "OM", 
+        "sw_latitude": 16.646, 
+        "fullname": "Oman"
+      }, 
+      "id": 23424898
+    }
+  ]
+}

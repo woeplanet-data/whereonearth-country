@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              124.183, 
+              37.633
+            ], 
+            [
+              124.183, 
+              43.006
+            ], 
+            [
+              130.675, 
+              43.006
+            ], 
+            [
+              130.675, 
+              37.633
+            ], 
+            [
+              124.183, 
+              37.633
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Korea\u0144ska Republika Ludowo-Demokratyczna"
+        ], 
+        "alias_ENG_V": [
+          "Northkorea"
+        ], 
+        "alias_SWE_Q": [
+          "Nordkorea"
+        ], 
+        "alias_POL_Q": [
+          "Korea P\u00f3\u0142nocna"
+        ], 
+        "ne_latitude": 43.006, 
+        "alias_RUM_Q": [
+          "Coreea de Nord"
+        ], 
+        "alias_UNK_V": [
+          "Choson MIK"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc870\uc120 \ubbfc\uc8fc\uc8fc\uc758 \uc778\ubbfc \uacf5\ud654\uad6d"
+        ], 
+        "alias_POR_V": [
+          "Cor\u00e9ia, Rep\u00fablica Popular Democr\u00e1tica da"
+        ], 
+        "alias_POR_Q": [
+          "Cor\u00e9ia do Norte"
+        ], 
+        "alias_ENG_A": [
+          "KP"
+        ], 
+        "alias_CZE_Q": [
+          "Severn\u00ed Korea"
+        ], 
+        "alias_CHI_Q": [
+          "\u5317\u97d3"
+        ], 
+        "alias_ITA_Q": [
+          "Corea del Nord"
+        ], 
+        "alias_GER_V": [
+          "Korea"
+        ], 
+        "alias_ITA_V": [
+          "Corea, Repubblica Popolare Democratica"
+        ], 
+        "alias_CHI_V": [
+          "\u671d\u9c9c"
+        ], 
+        "woeid": 23424865, 
+        "alias_JPN_Q": [
+          "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd"
+        ], 
+        "alias_JPN_V": [
+          "\u97d3\u56fd\u3001\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Corea del Norte"
+        ], 
+        "alias_FIN_Q": [
+          "Korean Demokraattinen Kansantasavalta"
+        ], 
+        "sw_longitude": 124.183, 
+        "alias_FIN_V": [
+          "Pohjois-Korea"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.340, 
+        "alias_NOR_Q": [
+          "Nord-Korea"
+        ], 
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "alias_KOR_Q": [
+          "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Den demokratiske folkerepublik Korea"
+        ], 
+        "alias_SPA_V": [
+          "Corea, Rep\u00fablica Popular Democr\u00e1tica"
+        ], 
+        "alias_DUT_Q": [
+          "Noord-Korea"
+        ], 
+        "alias_DUT_V": [
+          "Korea, Democratische Volksrepubliek"
+        ], 
+        "alias_DAN_Q": [
+          "Nordkorea"
+        ], 
+        "alias_GER_Q": [
+          "Nordkorea"
+        ], 
+        "lang": "ENG", 
+        "name": "North Korea", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "\u00c9szak-Korea"
+        ], 
+        "alias_HUN_V": [
+          "Korea, \u00c9szak"
+        ], 
+        "ne_longitude": 130.675, 
+        "longitude": 127.495, 
+        "iso": "KP", 
+        "sw_latitude": 37.633, 
+        "alias_FRE_V": [
+          "Cor\u00e9e (R\u00e9publique populaire d\u00e9mocratique de)"
+        ], 
+        "fullname": "North Korea", 
+        "alias_FRE_S": [
+          "Rep. Pop. Dem. de Coree"
+        ]
+      }, 
+      "id": 23424865
+    }
+  ]
+}

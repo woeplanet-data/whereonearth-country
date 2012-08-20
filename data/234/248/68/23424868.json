@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              124.608, 
+              33.106
+            ], 
+            [
+              124.608, 
+              38.612
+            ], 
+            [
+              130.934, 
+              38.612
+            ], 
+            [
+              130.934, 
+              33.106
+            ], 
+            [
+              124.608, 
+              33.106
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Republika Korei"
+        ], 
+        "alias_ENG_V": [
+          "Southkorea"
+        ], 
+        "alias_SWE_Q": [
+          "Sydkorea"
+        ], 
+        "alias_POL_Q": [
+          "Korea Po\u0142udniowa"
+        ], 
+        "ne_latitude": 38.612, 
+        "alias_RUM_Q": [
+          "Coreea de Sud"
+        ], 
+        "alias_UNK_V": [
+          "Etel\u00e4-Korea"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\u5927\u97d3\u6c11\u56fd"
+        ], 
+        "alias_POR_V": [
+          "Cor\u00e9ia, Rep\u00fablica da"
+        ], 
+        "alias_POR_Q": [
+          "Cor\u00e9ia do Sul"
+        ], 
+        "alias_ENG_A": [
+          "KR"
+        ], 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Korea"
+        ], 
+        "alias_CHI_Q": [
+          "\u97d3\u570b"
+        ], 
+        "alias_ITA_Q": [
+          "Corea del Sud"
+        ], 
+        "alias_GER_V": [
+          "Korea (Republik Korea, S\u00fcdkorea)"
+        ], 
+        "alias_ITA_V": [
+          "Corea"
+        ], 
+        "alias_CHI_V": [
+          "\u97d3\u570b"
+        ], 
+        "woeid": 23424868, 
+        "alias_JPN_Q": [
+          "\u5927\u97d3\u6c11\u56fd"
+        ], 
+        "alias_ENG_P": [
+          "South Korea"
+        ], 
+        "alias_JPN_V": [
+          "\u97d3\u56fd\u3001\u5927\u97d3\u6c11\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Corea del Sur"
+        ], 
+        "alias_FIN_Q": [
+          "Korean Tasavalta"
+        ], 
+        "alias_FIN_S": [
+          "Etela-Korea"
+        ], 
+        "sw_longitude": 124.608, 
+        "alias_FIN_V": [
+          "Etel\u00e4-Korea"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.448, 
+        "alias_NOR_S": [
+          "Sor-Korea"
+        ], 
+        "alias_NOR_Q": [
+          "S\u00f8r-Korea"
+        ], 
+        "alias_NOR_V": [
+          "Syd-Korea"
+        ], 
+        "date_indexed": "2010-12-02T17:53:06Z", 
+        "alias_DAN_V": [
+          "Republikken Korea"
+        ], 
+        "alias_SPA_V": [
+          "Corea, Rep\u00fablica de"
+        ], 
+        "alias_DUT_Q": [
+          "Zuid-Korea"
+        ], 
+        "alias_DUT_V": [
+          "Korea, Republiek"
+        ], 
+        "alias_DAN_Q": [
+          "Sydkorea"
+        ], 
+        "alias_GER_Q": [
+          "S\u00fcdkorea"
+        ], 
+        "lang": "KOR", 
+        "name": "\ud55c\uad6d", 
+        "alias_UNK_S": [
+          "Sor-Korea"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Su\u00f0ur-K\u00f3rea"
+        ], 
+        "alias_HUN_Q": [
+          "D\u00e9l-Korea"
+        ], 
+        "alias_HUN_V": [
+          "Korea, D\u00e9l"
+        ], 
+        "ne_longitude": 130.934, 
+        "longitude": 127.850, 
+        "iso": "KR", 
+        "sw_latitude": 33.106, 
+        "alias_FRE_V": [
+          "Cor\u00e9e"
+        ], 
+        "fullname": "\ud55c\uad6d, South Korea", 
+        "alias_FRE_S": [
+          "Coree du Sud"
+        ], 
+        "alias_FRE_Q": [
+          "Cor\u00e9e du Sud"
+        ]
+      }, 
+      "id": 23424868
+    }
+  ]
+}

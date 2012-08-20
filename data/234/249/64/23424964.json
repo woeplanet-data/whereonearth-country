@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -176.213, 
+              -22.346
+            ], 
+            [
+              -176.213, 
+              -15.553
+            ], 
+            [
+              -173.702, 
+              -15.553
+            ], 
+            [
+              -173.702, 
+              -22.346
+            ], 
+            [
+              -176.213, 
+              -22.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Tongan"
+        ], 
+        "alias_KOR_Q": [
+          "\ud1b5\uac00"
+        ], 
+        "ne_latitude": -15.553, 
+        "ne_longitude": -173.702, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "TO"
+        ], 
+        "alias_CHI_Q": [
+          "\u6771\u52a0"
+        ], 
+        "alias_CHI_V": [
+          "\u6c64\u52a0"
+        ], 
+        "woeid": 23424964, 
+        "alias_JPN_Q": [
+          "\u30c8\u30f3\u30ac"
+        ], 
+        "alias_JPN_V": [
+          "\u30c8\u30f3\u30ac\u738b\u56fd"
+        ], 
+        "sw_longitude": -176.213, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.168, 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "alias_GER_V": [
+          "K\u00f6nigreich Tonga"
+        ], 
+        "alias_GER_S": [
+          "Koenigreich Tonga"
+        ], 
+        "lang": "ENG", 
+        "name": "Tonga", 
+        "parent_woeid": 1, 
+        "alias_UNK_V": [
+          "Kraljevina Tonga"
+        ], 
+        "longitude": -175.196, 
+        "iso": "TO", 
+        "sw_latitude": -22.346, 
+        "alias_FRE_V": [
+          "\u00celes Tonga"
+        ], 
+        "fullname": "Tonga", 
+        "alias_FRE_S": [
+          "Iles Tonga"
+        ]
+      }, 
+      "id": 23424964
+    }
+  ]
+}

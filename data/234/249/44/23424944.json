@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -14.442, 
+              -40.400
+            ], 
+            [
+              -14.442, 
+              -7.878
+            ], 
+            [
+              -5.633, 
+              -7.878
+            ], 
+            [
+              -5.633, 
+              -40.400
+            ], 
+            [
+              -14.442, 
+              -40.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "\u015awi\u0119ta Helena"
+        ], 
+        "alias_ENG_V": [
+          "Saint Helena"
+        ], 
+        "alias_SWE_V": [
+          "St Helena"
+        ], 
+        "alias_SWE_Q": [
+          "Sankta Helena"
+        ], 
+        "alias_POL_Q": [
+          "Wyspa \u015awi\u0119tej Heleny"
+        ], 
+        "ne_latitude": -7.878, 
+        "alias_RUM_Q": [
+          "Insula Sf\u00e2nta Elena"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc138\uc778\ud2b8 \ud5ec\ub808\ub098"
+        ], 
+        "alias_POR_Q": [
+          "Santa Helena"
+        ], 
+        "alias_ENG_A": [
+          "SH"
+        ], 
+        "alias_CHI_Q": [
+          "\u8056\u8d6b\u502b\u90a3"
+        ], 
+        "alias_ITA_Q": [
+          "Sant'Elena"
+        ], 
+        "alias_GER_V": [
+          "Sankt Helena"
+        ], 
+        "alias_CHI_V": [
+          "\u8056\u8d6b\u502b\u90a3"
+        ], 
+        "woeid": 23424944, 
+        "alias_JPN_Q": [
+          "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
+        ], 
+        "alias_SPA_Q": [
+          "Santa Helena"
+        ], 
+        "sw_longitude": -14.442, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -7.947, 
+        "alias_NOR_Q": [
+          "St. Helena"
+        ], 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "alias_KOR_Q": [
+          "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"
+        ], 
+        "alias_SPA_V": [
+          "Santa Elena"
+        ], 
+        "alias_DUT_Q": [
+          "Sint-Helena"
+        ], 
+        "alias_DAN_Q": [
+          "Sankt Helena"
+        ], 
+        "alias_GER_Q": [
+          "St. Helena"
+        ], 
+        "lang": "ENG", 
+        "name": "St Helena Ascension and Tristan da Cunha", 
+        "alias_CZE_V": [
+          "Svat\u00e1 Helena"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sankt Helena"
+        ], 
+        "alias_HUN_Q": [
+          "Szent Ilona"
+        ], 
+        "ne_longitude": -5.633, 
+        "longitude": -14.342, 
+        "iso": "SH", 
+        "sw_latitude": -40.400, 
+        "alias_FRE_V": [
+          "\u00cele Sainte-H\u00e9l\u00e8ne"
+        ], 
+        "fullname": "St Helena Ascension and Tristan da Cunha, Saint Helena", 
+        "alias_FRE_S": [
+          "Sainte-Helene Ascension et Tristan da Cunha"
+        ], 
+        "alias_FRE_Q": [
+          "Sainte-H\u00e9l\u00e8ne Ascension et Tristan da Cunha"
+        ]
+      }, 
+      "id": 23424944
+    }
+  ]
+}

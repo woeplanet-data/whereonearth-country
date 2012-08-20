@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              97.346, 
+              5.610
+            ], 
+            [
+              97.346, 
+              20.463
+            ], 
+            [
+              105.639, 
+              20.463
+            ], 
+            [
+              105.639, 
+              5.610
+            ], 
+            [
+              97.346, 
+              5.610
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Prathet Thai"
+        ], 
+        "alias_KOR_Q": [
+          "\ud0dc\uad6d"
+        ], 
+        "alias_POL_Q": [
+          "Tajlandia"
+        ], 
+        "ne_latitude": 20.463, 
+        "alias_RUM_Q": [
+          "Thailanda"
+        ], 
+        "alias_UNK_V": [
+          "Muang Thai"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud0c0\uc774"
+        ], 
+        "alias_POR_Q": [
+          "Tail\u00e2ndia"
+        ], 
+        "alias_ENG_A": [
+          "TH"
+        ], 
+        "alias_CHI_Q": [
+          "\u6cf0\u570b"
+        ], 
+        "alias_ITA_Q": [
+          "Tailandia"
+        ], 
+        "alias_ITA_V": [
+          "Thailandia"
+        ], 
+        "alias_CHI_V": [
+          "\u6cf0\u56fd"
+        ], 
+        "woeid": 23424960, 
+        "alias_JPN_Q": [
+          "\u30bf\u30a4"
+        ], 
+        "alias_JPN_V": [
+          "\u30bf\u30a4\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Tailandia"
+        ], 
+        "alias_FIN_Q": [
+          "Thaimaa"
+        ], 
+        "sw_longitude": 97.346, 
+        "alias_FIN_V": [
+          "Thaimaasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.037, 
+        "date_indexed": "2010-12-02T17:05:34Z", 
+        "alias_SPA_V": [
+          "Siam"
+        ], 
+        "alias_CZE_Q": [
+          "Thajsko"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Thailand"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Thailand"
+        ], 
+        "lang": "ENG", 
+        "name": "Thailand", 
+        "alias_UNK_S": [
+          "Tailand"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ta\u00edland"
+        ], 
+        "alias_HUN_Q": [
+          "Thaif\u00f6ld"
+        ], 
+        "ne_longitude": 105.639, 
+        "longitude": 101.493, 
+        "iso": "TH", 
+        "sw_latitude": 5.610, 
+        "alias_RUM_V": [
+          "Tailanda"
+        ], 
+        "fullname": "Thailand", 
+        "alias_FRE_S": [
+          "Thailande"
+        ], 
+        "alias_FRE_Q": [
+          "Tha\u00eflande"
+        ]
+      }, 
+      "id": 23424960
+    }
+  ]
+}

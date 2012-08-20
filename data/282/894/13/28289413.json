@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -9.080, 
+              70.827
+            ], 
+            [
+              -9.080, 
+              80.834
+            ], 
+            [
+              36.815, 
+              80.834
+            ], 
+            [
+              36.815, 
+              70.827
+            ], 
+            [
+              -9.080, 
+              70.827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Svalbard"
+        ], 
+        "alias_SWE_V": [
+          "Svalbard och Jan Mayen"
+        ], 
+        "alias_SWE_Q": [
+          "Svalbard"
+        ], 
+        "alias_POL_Q": [
+          "Svalbard"
+        ], 
+        "ne_latitude": 80.834, 
+        "alias_RUM_Q": [
+          "Svalbard"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc2a4\ubc1c\ube44\ub4dc \uad70\ub3c4"
+        ], 
+        "alias_POR_Q": [
+          "Svalbard"
+        ], 
+        "alias_ENG_A": [
+          "SJ"
+        ], 
+        "alias_CHI_Q": [
+          "\u65af\u74e6\u723e\u5df4\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Isole Svalbard"
+        ], 
+        "alias_ITA_V": [
+          "Svalbard e Jan Mayen"
+        ], 
+        "alias_CHI_V": [
+          "\u65af\u74e6\u5c14\u5df4\u7fa4\u5c9b"
+        ], 
+        "woeid": 28289413, 
+        "alias_JPN_Q": [
+          "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u3068\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Svalbard"
+        ], 
+        "alias_FIN_Q": [
+          "Huippuvuoret"
+        ], 
+        "sw_longitude": -9.080, 
+        "alias_FIN_V": [
+          "Huippuvuoret ja Jan Mayen"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 78.316, 
+        "alias_NOR_Q": [
+          "Svalbard"
+        ], 
+        "alias_NOR_V": [
+          "Svalbard og Jan Mayen"
+        ], 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "alias_KOR_Q": [
+          "\uc2a4\ubc1c\ubc14\ub974 \uc81c\ub3c4"
+        ], 
+        "alias_DAN_V": [
+          "Svalbard og Jan Mayen"
+        ], 
+        "alias_SPA_V": [
+          "Svalbard y Jan Mayen"
+        ], 
+        "alias_DUT_Q": [
+          "Spitsbergen"
+        ], 
+        "alias_CZE_Q": [
+          "\u0160picberky"
+        ], 
+        "alias_DAN_Q": [
+          "Svalbard"
+        ], 
+        "alias_GER_Q": [
+          "Spitzbergen"
+        ], 
+        "lang": "ENG", 
+        "name": "Svalbard and Jan Mayen", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Spitzberg\u00e1k"
+        ], 
+        "ne_longitude": 36.815, 
+        "longitude": 16.097, 
+        "iso": "SJ", 
+        "sw_latitude": 70.827, 
+        "alias_FRE_V": [
+          "Svalbard et \u00eele Jan Mayen"
+        ], 
+        "fullname": "Svalbard and Jan Mayen", 
+        "alias_FRE_S": [
+          "Svalbard et ile Jan Mayen"
+        ], 
+        "alias_FRE_Q": [
+          "Svalbard"
+        ]
+      }, 
+      "id": 28289413
+    }
+  ]
+}

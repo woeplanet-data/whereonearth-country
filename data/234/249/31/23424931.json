@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              55.219, 
+              -21.372
+            ], 
+            [
+              55.219, 
+              -20.857
+            ], 
+            [
+              55.845, 
+              -20.857
+            ], 
+            [
+              55.845, 
+              -21.372
+            ], 
+            [
+              55.219, 
+              -21.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Reunionese"
+        ], 
+        "alias_KOR_Q": [
+          "\ub808\uc704\ub2c8\uc639"
+        ], 
+        "alias_POL_Q": [
+          "Reunion"
+        ], 
+        "ne_latitude": -20.857, 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ub9ac\uc720\ub2c8\uc628"
+        ], 
+        "alias_POR_Q": [
+          "Reuni\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "RE"
+        ], 
+        "alias_POR_S": [
+          "Reuniao"
+        ], 
+        "alias_CHI_Q": [
+          "\u7559\u5c3c\u65fa"
+        ], 
+        "alias_ITA_Q": [
+          "Riunione"
+        ], 
+        "alias_CHI_V": [
+          "\u7559\u5c3c\u65fa"
+        ], 
+        "woeid": 23424931, 
+        "alias_JPN_Q": [
+          "\u30ec\u30e6\u30cb\u30aa\u30f3"
+        ], 
+        "alias_ENG_P": [
+          "Reunion"
+        ], 
+        "alias_JPN_V": [
+          "\u30ec\u30e6\u30cb\u30aa\u30f3\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Reuni\u00f3n"
+        ], 
+        "sw_longitude": 55.219, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.115, 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "alias_DUT_S": [
+          "La Reunion"
+        ], 
+        "alias_DUT_V": [
+          "La R\u00e9union"
+        ], 
+        "lang": "FRE", 
+        "name": "La R\u00e9union", 
+        "parent_woeid": 1, 
+        "ne_longitude": 55.845, 
+        "longitude": 55.532, 
+        "iso": "RE", 
+        "sw_latitude": -21.372, 
+        "alias_FRE_V": [
+          "R\u00e9union"
+        ], 
+        "fullname": "La R\u00e9union, Reunion"
+      }, 
+      "id": 23424931
+    }
+  ]
+}

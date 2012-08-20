@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              102.340, 
+              9.283
+            ], 
+            [
+              102.340, 
+              14.686
+            ], 
+            [
+              107.628, 
+              14.686
+            ], 
+            [
+              107.628, 
+              9.283
+            ], 
+            [
+              102.340, 
+              9.283
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Democratic Kampuchea"
+        ], 
+        "alias_SWE_Q": [
+          "Kambodja"
+        ], 
+        "alias_POL_Q": [
+          "Kambod\u017ca"
+        ], 
+        "ne_latitude": 14.686, 
+        "alias_RUM_Q": [
+          "Cambodgia"
+        ], 
+        "alias_UNK_V": [
+          "K\u00e2mpuch\u00e9a"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Camboja"
+        ], 
+        "alias_ENG_A": [
+          "KH"
+        ], 
+        "alias_CHI_Q": [
+          "\u67ec\u57d4\u5be8"
+        ], 
+        "alias_ITA_Q": [
+          "Cambogia"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Kambodscha"
+        ], 
+        "woeid": 23424776, 
+        "alias_JPN_Q": [
+          "\u30ab\u30f3\u30dc\u30b8\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30ab\u30f3\u30dc\u30b8\u30a2\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Camboya"
+        ], 
+        "alias_FIN_Q": [
+          "Kambod\u017ea"
+        ], 
+        "alias_FIN_S": [
+          "Kambodza"
+        ], 
+        "sw_longitude": 102.340, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.548, 
+        "alias_NOR_Q": [
+          "Kambodsja"
+        ], 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "alias_KOR_Q": [
+          "\uce84\ubcf4\ub514\uc544"
+        ], 
+        "alias_SPA_V": [
+          "Reino de Camboya"
+        ], 
+        "alias_DUT_Q": [
+          "Cambodja"
+        ], 
+        "alias_CZE_Q": [
+          "Kambod\u017ea"
+        ], 
+        "alias_DAN_Q": [
+          "Cambodja"
+        ], 
+        "alias_GER_Q": [
+          "Kambodscha"
+        ], 
+        "alias_GER_S": [
+          "Konigreich Kambodscha"
+        ], 
+        "lang": "ENG", 
+        "name": "Cambodia", 
+        "alias_UNK_S": [
+          "Kampuchea"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kamb\u00f3d\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Kambodzsa"
+        ], 
+        "ne_longitude": 107.628, 
+        "longitude": 104.984, 
+        "iso": "KH", 
+        "sw_latitude": 9.283, 
+        "alias_FRE_V": [
+          "Kampuchea D\u00e9mocratique"
+        ], 
+        "fullname": "Cambodia", 
+        "alias_FRE_Q": [
+          "Cambodge"
+        ]
+      }, 
+      "id": 23424776
+    }
+  ]
+}

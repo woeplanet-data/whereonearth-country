@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              79.516, 
+              5.917
+            ], 
+            [
+              79.516, 
+              9.831
+            ], 
+            [
+              81.881, 
+              9.831
+            ], 
+            [
+              81.881, 
+              5.917
+            ], 
+            [
+              79.516, 
+              5.917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Ceylon"
+        ], 
+        "alias_ENG_A": [
+          "LK"
+        ], 
+        "ne_latitude": 9.831, 
+        "alias_UNK_V": [
+          "Sr\u00ed-Lanka"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Sri Lanca"
+        ], 
+        "alias_KOR_Q": [
+          "\uc2a4\ub9ac\ub791\uce74"
+        ], 
+        "alias_CHI_Q": [
+          "\u65af\u91cc\u862d\u5361"
+        ], 
+        "alias_CHI_V": [
+          "\u65af\u91cc\u5170\u5361"
+        ], 
+        "woeid": 23424778, 
+        "alias_JPN_Q": [
+          "\u30b9\u30ea\u30e9\u30f3\u30ab"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30ea\u30e9\u30f3\u30ab\u6c11\u4e3b\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_S": [
+          "Ceilan"
+        ], 
+        "sw_longitude": 79.516, 
+        "alias_SPA_V": [
+          "Isla Trapobana"
+        ], 
+        "latitude": 7.874, 
+        "date_indexed": "2010-12-02T17:56:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_CZE_V": [
+          "Sr\u00ed Lanka"
+        ], 
+        "alias_CZE_Q": [
+          "\u0160r\u00ed Lanka"
+        ], 
+        "alias_GER_V": [
+          "Demokratische Sozialistische Republik Sri Lanka"
+        ], 
+        "lang": "ENG", 
+        "name": "Sri Lanka", 
+        "alias_UNK_S": [
+          "Sri-Lanka"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Sr\u00ed Lanka"
+        ], 
+        "ne_longitude": 81.881, 
+        "longitude": 80.790, 
+        "iso": "LK", 
+        "sw_latitude": 5.917, 
+        "fullname": "Sri Lanka"
+      }, 
+      "id": 23424778
+    }
+  ]
+}

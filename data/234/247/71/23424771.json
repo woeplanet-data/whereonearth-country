@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.357, 
+              41.236
+            ], 
+            [
+              22.357, 
+              44.227
+            ], 
+            [
+              28.609, 
+              44.227
+            ], 
+            [
+              28.609, 
+              41.236
+            ], 
+            [
+              22.357, 
+              41.236
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Bulgaria"
+        ], 
+        "alias_SWE_Q": [
+          "Bulgarien"
+        ], 
+        "alias_POL_Q": [
+          "Bu\u0142garia"
+        ], 
+        "ne_latitude": 44.227, 
+        "alias_UNK_V": [
+          "Burugaria"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Bulg\u00e1ria"
+        ], 
+        "alias_ENG_A": [
+          "BGR"
+        ], 
+        "alias_CHI_Q": [
+          "\u4fdd\u52a0\u5229\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Bulgarie"
+        ], 
+        "alias_GER_V": [
+          "Republik Bulgarien"
+        ], 
+        "woeid": 23424771, 
+        "alias_JPN_Q": [
+          "\u30d6\u30eb\u30ac\u30ea\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30eb\u30ac\u30ea\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 22.357, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.732, 
+        "date_indexed": "2010-12-02T16:14:37Z", 
+        "alias_KOR_Q": [
+          "\ubd88\uac00\ub9ac\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Bulgarije"
+        ], 
+        "alias_CZE_Q": [
+          "Bulharsko"
+        ], 
+        "alias_DAN_Q": [
+          "Bulgarien"
+        ], 
+        "alias_GER_Q": [
+          "Bulgarien"
+        ], 
+        "lang": "ENG", 
+        "name": "Bulgaria", 
+        "alias_UNK_S": [
+          "Balgarija"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "B\u00falgar\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Bulg\u00e1ria"
+        ], 
+        "ne_longitude": 28.609, 
+        "longitude": 25.483, 
+        "iso": "BG", 
+        "sw_latitude": 41.236, 
+        "alias_FRE_V": [
+          "R\u00e9publique Bulgarie"
+        ], 
+        "fullname": "Bulgaria", 
+        "alias_FRE_S": [
+          "Republique Bulgarie"
+        ], 
+        "alias_FRE_Q": [
+          "Bulgarie"
+        ]
+      }, 
+      "id": 23424771
+    }
+  ]
+}

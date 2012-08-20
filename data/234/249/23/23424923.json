@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.123, 
+              49.002
+            ], 
+            [
+              14.123, 
+              54.836
+            ], 
+            [
+              24.146, 
+              54.836
+            ], 
+            [
+              24.146, 
+              49.002
+            ], 
+            [
+              14.123, 
+              49.002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Rzeczpospolita Polska"
+        ], 
+        "alias_ENG_V": [
+          "Rep. Poland"
+        ], 
+        "alias_SWE_Q": [
+          "Polen"
+        ], 
+        "alias_ENG_P": [
+          "Poland"
+        ], 
+        "ne_latitude": 54.836, 
+        "alias_RUM_Q": [
+          "Polonia"
+        ], 
+        "alias_UNK_V": [
+          "Polsko"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Pol\u00f4nia"
+        ], 
+        "alias_POR_Q": [
+          "Pol\u00f3nia"
+        ], 
+        "alias_ENG_A": [
+          "POL"
+        ], 
+        "alias_CHI_Q": [
+          "\u6ce2\u862d"
+        ], 
+        "alias_ITA_Q": [
+          "Polonia"
+        ], 
+        "alias_GER_V": [
+          "Republik Polen"
+        ], 
+        "alias_CHI_V": [
+          "\u6ce2\u5170"
+        ], 
+        "woeid": 23424923, 
+        "alias_JPN_Q": [
+          "\u30dd\u30fc\u30e9\u30f3\u30c9"
+        ], 
+        "alias_JPN_V": [
+          "\u30dd\u30fc\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Polonia"
+        ], 
+        "alias_FIN_Q": [
+          "Puola"
+        ], 
+        "sw_longitude": 14.123, 
+        "alias_FIN_V": [
+          "Puolasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 51.919, 
+        "alias_NOR_Q": [
+          "Polen"
+        ], 
+        "date_indexed": "2010-12-02T12:12:45Z", 
+        "alias_KOR_Q": [
+          "\ud3f4\ub780\ub4dc"
+        ], 
+        "alias_SPA_V": [
+          "Republica de Polonia"
+        ], 
+        "alias_DUT_Q": [
+          "Polen"
+        ], 
+        "alias_CZE_Q": [
+          "Polsko"
+        ], 
+        "alias_DAN_Q": [
+          "Polen"
+        ], 
+        "alias_GER_Q": [
+          "Polen"
+        ], 
+        "lang": "POL", 
+        "name": "Polska", 
+        "alias_UNK_S": [
+          "Polland"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "P\u00f3lland"
+        ], 
+        "alias_HUN_Q": [
+          "Lengyelorsz\u00e1g"
+        ], 
+        "ne_longitude": 24.146, 
+        "longitude": 19.134, 
+        "iso": "PL", 
+        "sw_latitude": 49.002, 
+        "alias_HUN_S": [
+          "Lengyelorszag"
+        ], 
+        "fullname": "Polska, Poland", 
+        "alias_FRE_Q": [
+          "Pologne"
+        ]
+      }, 
+      "id": 23424923
+    }
+  ]
+}

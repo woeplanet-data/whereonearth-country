@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.270, 
+              43.627
+            ], 
+            [
+              20.270, 
+              48.267
+            ], 
+            [
+              29.691, 
+              48.267
+            ], 
+            [
+              29.691, 
+              43.627
+            ], 
+            [
+              20.270, 
+              43.627
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Romanian"
+        ], 
+        "alias_SWE_Q": [
+          "Rum\u00e4nien"
+        ], 
+        "alias_POL_Q": [
+          "Rumunia"
+        ], 
+        "ne_latitude": 48.267, 
+        "alias_UNK_V": [
+          "Rumunija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Rom\u00eania"
+        ], 
+        "alias_POR_Q": [
+          "Rom\u00e9nia"
+        ], 
+        "alias_ENG_A": [
+          "RO"
+        ], 
+        "alias_POR_S": [
+          "Romenia"
+        ], 
+        "alias_CHI_Q": [
+          "\u7f85\u99ac\u5c3c\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Romania"
+        ], 
+        "alias_CHI_V": [
+          "\u7f57\u9a6c\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424933, 
+        "alias_JPN_Q": [
+          "\u30eb\u30fc\u30de\u30cb\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Romania"
+        ], 
+        "alias_SPA_Q": [
+          "Rumania"
+        ], 
+        "alias_FIN_Q": [
+          "Romania"
+        ], 
+        "sw_longitude": 20.270, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.947, 
+        "alias_NOR_Q": [
+          "Romania"
+        ], 
+        "date_indexed": "2010-12-02T16:37:48Z", 
+        "alias_KOR_Q": [
+          "\ub8e8\ub9c8\ub2c8\uc544"
+        ], 
+        "alias_SPA_V": [
+          "Ruman\u00eda"
+        ], 
+        "alias_DUT_Q": [
+          "Roemeni\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Roemenie"
+        ], 
+        "alias_CZE_Q": [
+          "Rumunsko"
+        ], 
+        "alias_DAN_S": [
+          "Rumaenien"
+        ], 
+        "alias_DAN_Q": [
+          "Rum\u00e6nien"
+        ], 
+        "alias_GER_Q": [
+          "Rum\u00e4nien"
+        ], 
+        "alias_GER_S": [
+          "Rumanien"
+        ], 
+        "lang": "RUM", 
+        "name": "Rom\u00e2nia", 
+        "alias_UNK_S": [
+          "Roumania"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Romunija"
+        ], 
+        "alias_HUN_Q": [
+          "Rom\u00e1nia"
+        ], 
+        "ne_longitude": 29.691, 
+        "longitude": 24.980, 
+        "iso": "RO", 
+        "sw_latitude": 43.627, 
+        "fullname": "Rom\u00e2nia, Romania", 
+        "alias_FRE_Q": [
+          "Roumanie"
+        ]
+      }, 
+      "id": 23424933
+    }
+  ]
+}

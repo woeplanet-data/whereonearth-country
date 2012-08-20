@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -24.547, 
+              63.287
+            ], 
+            [
+              -24.547, 
+              67.117
+            ], 
+            [
+              -13.232, 
+              67.117
+            ], 
+            [
+              -13.232, 
+              63.287
+            ], 
+            [
+              -24.547, 
+              63.287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Iceland"
+        ], 
+        "alias_SWE_Q": [
+          "Island"
+        ], 
+        "alias_POL_Q": [
+          "Islandia"
+        ], 
+        "ne_latitude": 67.117, 
+        "alias_RUM_Q": [
+          "Islanda"
+        ], 
+        "alias_UNK_V": [
+          "Islanti"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Isl\u00e2ndia"
+        ], 
+        "alias_ENG_A": [
+          "IS"
+        ], 
+        "alias_CHI_Q": [
+          "\u51b0\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Islanda"
+        ], 
+        "alias_GER_V": [
+          "Republik Island"
+        ], 
+        "alias_CHI_V": [
+          "\u51b0\u5c9b"
+        ], 
+        "woeid": 23424845, 
+        "alias_JPN_Q": [
+          "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
+        ], 
+        "alias_ENG_P": [
+          "Iceland"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Islandia"
+        ], 
+        "alias_FIN_Q": [
+          "Islannin"
+        ], 
+        "sw_longitude": -24.547, 
+        "alias_FIN_V": [
+          "Islannista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 64.964, 
+        "alias_NOR_Q": [
+          "Island"
+        ], 
+        "date_indexed": "2010-12-02T09:55:32Z", 
+        "alias_KOR_Q": [
+          "\uc544\uc774\uc2ac\ub780\ub4dc"
+        ], 
+        "alias_DUT_Q": [
+          "Ijsland"
+        ], 
+        "alias_CZE_Q": [
+          "Island"
+        ], 
+        "alias_DAN_Q": [
+          "Island"
+        ], 
+        "alias_GER_Q": [
+          "Island"
+        ], 
+        "lang": "UNK", 
+        "name": "\u00cdsland", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Islandija"
+        ], 
+        "alias_HUN_Q": [
+          "Izland"
+        ], 
+        "ne_longitude": -13.232, 
+        "longitude": -19.021, 
+        "iso": "IS", 
+        "sw_latitude": 63.287, 
+        "fullname": "\u00cdsland, Iceland", 
+        "alias_FRE_Q": [
+          "Islande"
+        ]
+      }, 
+      "id": 23424845
+    }
+  ]
+}

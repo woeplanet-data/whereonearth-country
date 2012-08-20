@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              44.719, 
+              28.778
+            ], 
+            [
+              44.719, 
+              29.475
+            ], 
+            [
+              46.558, 
+              29.475
+            ], 
+            [
+              46.558, 
+              28.778
+            ], 
+            [
+              44.719, 
+              28.778
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_SWE_Q": [
+          "Irak-Saudiarabien Neutral Zon"
+        ], 
+        "ne_latitude": 29.475, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc774\ub77c\ud06c-\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc911\ub9bd\uc9c0\ub300"
+        ], 
+        "woeid": 23424998, 
+        "alias_JPN_Q": [
+          "\u30a4\u30e9\u30af\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e2d\u7acb\u5730\u5e2f"
+        ], 
+        "sw_longitude": 44.719, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.126, 
+        "alias_NOR_S": [
+          "Irakisk-Saidi Arabisk noytral sone"
+        ], 
+        "alias_NOR_Q": [
+          "Irakisk-Saidi Arabisk n\u00f8ytral sone"
+        ], 
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "alias_ENG_A": [
+          "XE"
+        ], 
+        "alias_DAN_Q": [
+          "Irak-Saudiarabien Neutral Zone"
+        ], 
+        "lang": "ENG", 
+        "name": "Iraq-Saudi Arabia Neutral Zone", 
+        "parent_woeid": 1, 
+        "ne_longitude": 46.558, 
+        "longitude": 45.638, 
+        "iso": "XE", 
+        "sw_latitude": 28.778, 
+        "fullname": "Iraq-Saudi Arabia Neutral Zone"
+      }, 
+      "id": 23424998
+    }
+  ]
+}

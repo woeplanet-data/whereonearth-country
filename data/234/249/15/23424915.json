@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.690, 
+              10.708
+            ], 
+            [
+              -87.690, 
+              15.026
+            ], 
+            [
+              -82.592, 
+              15.026
+            ], 
+            [
+              -82.592, 
+              10.708
+            ], 
+            [
+              -87.690, 
+              10.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Nicaragua"
+        ], 
+        "alias_KOR_Q": [
+          "\ub2c8\uce74\ub77c\uacfc"
+        ], 
+        "alias_POL_Q": [
+          "Nikaragua"
+        ], 
+        "ne_latitude": 15.026, 
+        "ne_longitude": -82.592, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Nicar\u00e1gua"
+        ], 
+        "alias_ENG_A": [
+          "NI"
+        ], 
+        "alias_CHI_Q": [
+          "\u5c3c\u52a0\u62c9\u74dc"
+        ], 
+        "woeid": 23424915, 
+        "alias_JPN_Q": [
+          "\u30cb\u30ab\u30e9\u30b0\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30cb\u30ab\u30e9\u30b0\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": -87.690, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.867, 
+        "date_indexed": "2010-12-02T18:19:13Z", 
+        "alias_CZE_Q": [
+          "Nikaragua"
+        ], 
+        "alias_GER_V": [
+          "Nikaragua"
+        ], 
+        "lang": "ENG", 
+        "name": "Nicaragua", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "N\u00edkaragva"
+        ], 
+        "alias_UNK_V": [
+          "Republika Nikaragva"
+        ], 
+        "longitude": -85.424, 
+        "iso": "NI", 
+        "sw_latitude": 10.708, 
+        "fullname": "Nicaragua"
+      }, 
+      "id": 23424915
+    }
+  ]
+}

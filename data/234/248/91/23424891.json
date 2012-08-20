@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -12.243, 
+              10.160
+            ], 
+            [
+              -12.243, 
+              25.000
+            ], 
+            [
+              4.245, 
+              25.000
+            ], 
+            [
+              4.245, 
+              10.160
+            ], 
+            [
+              -12.243, 
+              10.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Malian"
+        ], 
+        "alias_KOR_Q": [
+          "\ub9d0\ub9ac"
+        ], 
+        "ne_latitude": 25.000, 
+        "ne_longitude": 4.245, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "ML"
+        ], 
+        "alias_CHI_Q": [
+          "\u99ac\u5229"
+        ], 
+        "alias_CHI_V": [
+          "\u99ac\u5229"
+        ], 
+        "woeid": 23424891, 
+        "alias_JPN_Q": [
+          "\u30de\u30ea"
+        ], 
+        "alias_JPN_V": [
+          "\u30de\u30ea\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Mal\u00ed"
+        ], 
+        "sw_longitude": -12.243, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.580, 
+        "date_indexed": "2010-12-02T08:58:41Z", 
+        "alias_GER_V": [
+          "Republik Mali"
+        ], 
+        "lang": "ENG", 
+        "name": "Mali", 
+        "parent_woeid": 1, 
+        "alias_UNK_V": [
+          "Republika Mali"
+        ], 
+        "longitude": -3.999, 
+        "iso": "ML", 
+        "sw_latitude": 10.160, 
+        "fullname": "Mali"
+      }, 
+      "id": 23424891
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              67.387, 
+              36.674
+            ], 
+            [
+              67.387, 
+              41.042
+            ], 
+            [
+              75.137, 
+              41.042
+            ], 
+            [
+              75.137, 
+              36.674
+            ], 
+            [
+              67.387, 
+              36.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Tajikistan"
+        ], 
+        "alias_SWE_Q": [
+          "Tadzjikistan"
+        ], 
+        "alias_POL_Q": [
+          "Tad\u017cykistan"
+        ], 
+        "ne_latitude": 41.042, 
+        "alias_RUM_Q": [
+          "Tadjikistan"
+        ], 
+        "alias_UNK_V": [
+          "Tojikistan"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
+        ], 
+        "alias_POR_V": [
+          "Tajiquist\u00e3o"
+        ], 
+        "alias_POR_Q": [
+          "Tadjiquist\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "TJ"
+        ], 
+        "alias_POR_S": [
+          "Tajiquistao"
+        ], 
+        "alias_CZE_Q": [
+          "T\u00e1d\u017eikist\u00e1n"
+        ], 
+        "alias_CHI_Q": [
+          "\u5854\u5409\u514b\u65af\u5766"
+        ], 
+        "alias_ITA_Q": [
+          "Tagikistan"
+        ], 
+        "alias_GER_V": [
+          "Republik Tadschikistan"
+        ], 
+        "alias_CHI_V": [
+          "\u5854\u5409\u514b\u65af\u5766"
+        ], 
+        "woeid": 23424961, 
+        "alias_JPN_Q": [
+          "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Tayikist\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Tad\u017eikistan"
+        ], 
+        "alias_SPA_S": [
+          "Tayikistan"
+        ], 
+        "alias_FIN_S": [
+          "Tadzikistan"
+        ], 
+        "sw_longitude": 67.387, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.858, 
+        "alias_NOR_Q": [
+          "Tadsjikistan"
+        ], 
+        "date_indexed": "2010-12-02T12:16:45Z", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+        ], 
+        "alias_DUT_Q": [
+          "Tadzjikistan"
+        ], 
+        "alias_DUT_V": [
+          "Tadjzjikistan"
+        ], 
+        "alias_DAN_Q": [
+          "Tadsjikistan"
+        ], 
+        "alias_GER_Q": [
+          "Tadschikistan"
+        ], 
+        "lang": "ENG", 
+        "name": "Tajikistan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "T\u00e1dzsikiszt\u00e1n"
+        ], 
+        "alias_HUN_V": [
+          "Tadzsikiszt\u00e1n"
+        ], 
+        "ne_longitude": 75.137, 
+        "longitude": 71.262, 
+        "iso": "TJ", 
+        "sw_latitude": 36.674, 
+        "fullname": "Tajikistan", 
+        "alias_FRE_Q": [
+          "Tadjikistan"
+        ]
+      }, 
+      "id": 23424961
+    }
+  ]
+}

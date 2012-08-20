@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.775, 
+              6.226
+            ], 
+            [
+              0.775, 
+              12.418
+            ], 
+            [
+              3.852, 
+              12.418
+            ], 
+            [
+              3.852, 
+              6.226
+            ], 
+            [
+              0.775, 
+              6.226
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Benin"
+        ], 
+        "alias_ENG_A": [
+          "BJ"
+        ], 
+        "ne_latitude": 12.418, 
+        "alias_UNK_V": [
+          "Republika Benin"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubca0\ub139"
+        ], 
+        "alias_POR_V": [
+          "Benim"
+        ], 
+        "alias_KOR_Q": [
+          "\ubca0\ub0c9"
+        ], 
+        "alias_CHI_Q": [
+          "\u8c9d\u5357"
+        ], 
+        "alias_CHI_V": [
+          "\u8c9d\u5357"
+        ], 
+        "woeid": 23424764, 
+        "alias_JPN_Q": [
+          "\u30d9\u30ca\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30d9\u30cb\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Ben\u00edn"
+        ], 
+        "sw_longitude": 0.775, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.322, 
+        "date_indexed": "2010-12-02T18:16:21Z", 
+        "alias_GER_V": [
+          "Republik Benin"
+        ], 
+        "lang": "ENG", 
+        "name": "Benin", 
+        "parent_woeid": 1, 
+        "ne_longitude": 3.852, 
+        "longitude": 2.313, 
+        "iso": "BJ", 
+        "sw_latitude": 6.226, 
+        "alias_FRE_V": [
+          "R\u00e9publique du B\u00e9nin"
+        ], 
+        "fullname": "Benin", 
+        "alias_FRE_Q": [
+          "B\u00e9nin"
+        ]
+      }, 
+      "id": 23424764
+    }
+  ]
+}

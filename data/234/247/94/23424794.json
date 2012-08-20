@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -25.359, 
+              14.802
+            ], 
+            [
+              -25.359, 
+              17.197
+            ], 
+            [
+              -22.666, 
+              17.197
+            ], 
+            [
+              -22.666, 
+              14.802
+            ], 
+            [
+              -25.359, 
+              14.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspy Zielonego Przyl\u0105dka"
+        ], 
+        "alias_ENG_V": [
+          "Republic of Cape Verde"
+        ], 
+        "alias_SWE_Q": [
+          "Kap verde"
+        ], 
+        "alias_POL_Q": [
+          "Republika Zielonego Przyl\u0105dka"
+        ], 
+        "ne_latitude": 17.197, 
+        "alias_RUM_Q": [
+          "Republica Capului Verde"
+        ], 
+        "alias_UNK_V": [
+          "Zelenortski otoki"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uae4c\ubf40\ubca0\ub974\ub370"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica de Cabo Verde"
+        ], 
+        "alias_POR_Q": [
+          "Cabo Verde"
+        ], 
+        "alias_ENG_A": [
+          "CV"
+        ], 
+        "alias_CHI_Q": [
+          "\u7dad\u5fb7\u89d2"
+        ], 
+        "alias_ITA_Q": [
+          "Capo Verde"
+        ], 
+        "alias_GER_V": [
+          "Republik Kap Verde"
+        ], 
+        "alias_CHI_V": [
+          "\u7dad\u5fb7\u89d2"
+        ], 
+        "woeid": 23424794, 
+        "alias_JPN_Q": [
+          "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"
+        ], 
+        "alias_JPN_V": [
+          "\u30ab\u30fc\u30dc\u30f4\u30a7\u30eb\u30c7"
+        ], 
+        "alias_SPA_Q": [
+          "Cabo Verde"
+        ], 
+        "alias_FIN_Q": [
+          "Kap Verde"
+        ], 
+        "sw_longitude": -25.359, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.112, 
+        "alias_NOR_Q": [
+          "Kapp Verde"
+        ], 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "alias_FRE_V": [
+          "Cap Vert"
+        ], 
+        "alias_KOR_Q": [
+          "\uce74\ubcf4\ubca0\ub974\ub370"
+        ], 
+        "alias_SPA_V": [
+          "Caboverde"
+        ], 
+        "alias_DUT_Q": [
+          "Kaapverdi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Kaapverdie"
+        ], 
+        "alias_CZE_Q": [
+          "Kapverdy"
+        ], 
+        "alias_DAN_Q": [
+          "Kap Verde"
+        ], 
+        "alias_GER_Q": [
+          "Kap Verde"
+        ], 
+        "lang": "ENG", 
+        "name": "Cape Verde", 
+        "alias_UNK_S": [
+          "Graenhofdaeyjar"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gr\u00e6nh\u00f6f\u00f0aeyjar"
+        ], 
+        "alias_HUN_Q": [
+          "Z\u00f6ld-Foki K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": -22.666, 
+        "longitude": -23.615, 
+        "iso": "CV", 
+        "sw_latitude": 14.802, 
+        "alias_RUM_V": [
+          "Capul Verde"
+        ], 
+        "fullname": "Cape Verde", 
+        "alias_FRE_S": [
+          "Iles du Cap-Vert"
+        ], 
+        "alias_FRE_Q": [
+          "Cap-Vert"
+        ]
+      }, 
+      "id": 23424794
+    }
+  ]
+}

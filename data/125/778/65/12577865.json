@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.263, 
+              59.736
+            ], 
+            [
+              19.263, 
+              60.666
+            ], 
+            [
+              21.324, 
+              60.666
+            ], 
+            [
+              21.324, 
+              59.736
+            ], 
+            [
+              19.263, 
+              59.736
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_P": [
+          "Aland Islands"
+        ], 
+        "alias_ENG_S": [
+          "Alandseilanden"
+        ], 
+        "alias_KOR_Q": [
+          "\uc62c\ub780\ub4dc \uc81c\ub3c4"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy Alandzkie"
+        ], 
+        "ne_latitude": 60.666, 
+        "alias_RUM_Q": [
+          "Insulele \u00c5land"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc544\ubca0\ub09c\ub9c8"
+        ], 
+        "alias_POR_Q": [
+          "\u00c5land"
+        ], 
+        "alias_ENG_A": [
+          "AX"
+        ], 
+        "alias_CZE_Q": [
+          "\u00c5landy"
+        ], 
+        "alias_CHI_Q": [
+          "\u5967\u862d\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Isole \u00c5land"
+        ], 
+        "alias_ITA_V": [
+          "Isole Aland"
+        ], 
+        "alias_CHI_V": [
+          "\u5965\u5170\u7fa4\u5c9b"
+        ], 
+        "woeid": 12577865, 
+        "alias_JPN_Q": [
+          "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Aaland"
+        ], 
+        "alias_SPA_Q": [
+          "\u00c5land"
+        ], 
+        "alias_FIN_Q": [
+          "Ahvenanmaan Maakunta"
+        ], 
+        "sw_longitude": 19.263, 
+        "alias_FIN_V": [
+          "Ahvenanmaa"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 60.198, 
+        "alias_NOR_Q": [
+          "\u00c5land"
+        ], 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "alias_SPA_V": [
+          "Islas de Aland"
+        ], 
+        "alias_DUT_Q": [
+          "\u00c5land"
+        ], 
+        "alias_DUT_S": [
+          "Aalandseilanden"
+        ], 
+        "alias_DUT_V": [
+          "\u00c5landseilanden"
+        ], 
+        "alias_DAN_Q": [
+          "\u00c5land"
+        ], 
+        "alias_GER_Q": [
+          "\u00c5land"
+        ], 
+        "lang": "SWE", 
+        "name": "\u00c5land", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "\u00c5land"
+        ], 
+        "ne_longitude": 21.324, 
+        "longitude": 20.217, 
+        "iso": "AX", 
+        "sw_latitude": 59.736, 
+        "alias_FRE_V": [
+          "Aland"
+        ], 
+        "fullname": "\u00c5land, Aland Islands", 
+        "alias_FRE_Q": [
+          "\u00c5land"
+        ]
+      }, 
+      "id": 12577865
+    }
+  ]
+}

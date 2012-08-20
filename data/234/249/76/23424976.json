@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              22.129, 
+              44.390
+            ], 
+            [
+              22.129, 
+              52.375
+            ], 
+            [
+              40.218, 
+              52.375
+            ], 
+            [
+              40.218, 
+              44.390
+            ], 
+            [
+              22.129, 
+              44.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Ukrainian"
+        ], 
+        "alias_SWE_Q": [
+          "Ukraina"
+        ], 
+        "alias_POL_Q": [
+          "Ukraina"
+        ], 
+        "ne_latitude": 52.375, 
+        "alias_RUM_Q": [
+          "Ucraina"
+        ], 
+        "alias_UNK_V": [
+          "Ukra\u00efna"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Ucr\u00e2nia"
+        ], 
+        "alias_ENG_A": [
+          "UA"
+        ], 
+        "alias_POR_S": [
+          "Ucrania"
+        ], 
+        "alias_CHI_Q": [
+          "\u70cf\u514b\u862d"
+        ], 
+        "alias_ITA_Q": [
+          "Ucraina"
+        ], 
+        "alias_GER_V": [
+          "Ukrajina"
+        ], 
+        "alias_CHI_V": [
+          "\u4e4c\u514b\u5170"
+        ], 
+        "woeid": 23424976, 
+        "alias_JPN_Q": [
+          "\u30a6\u30af\u30e9\u30a4\u30ca"
+        ], 
+        "alias_ENG_P": [
+          "Ukraine"
+        ], 
+        "alias_JPN_V": [
+          "\u30a6\u30af\u30e9\u30a4\u30ca\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Ucran\u00eda"
+        ], 
+        "alias_FIN_Q": [
+          "Ukraina"
+        ], 
+        "alias_SPA_S": [
+          "Ucrania"
+        ], 
+        "sw_longitude": 22.129, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.383, 
+        "alias_NOR_Q": [
+          "Ukraina"
+        ], 
+        "date_indexed": "2010-12-02T08:52:39Z", 
+        "alias_KOR_Q": [
+          "\uc6b0\ud06c\ub77c\uc774\ub098"
+        ], 
+        "alias_DUT_Q": [
+          "Oekra\u00efne"
+        ], 
+        "alias_DUT_S": [
+          "Oekraine"
+        ], 
+        "alias_CZE_Q": [
+          "Ukrajina"
+        ], 
+        "alias_DAN_Q": [
+          "Ukraine"
+        ], 
+        "alias_GER_Q": [
+          "Ukraine"
+        ], 
+        "lang": "UNK", 
+        "name": "Ukrayina", 
+        "alias_UNK_S": [
+          "Oukrania"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ucra\u00efna"
+        ], 
+        "alias_HUN_Q": [
+          "Ukrajna"
+        ], 
+        "ne_longitude": 40.218, 
+        "longitude": 31.173, 
+        "iso": "UA", 
+        "sw_latitude": 44.390, 
+        "fullname": "Ukrayina, Ukraine", 
+        "alias_FRE_Q": [
+          "Ukraine"
+        ]
+      }, 
+      "id": 23424976
+    }
+  ]
+}

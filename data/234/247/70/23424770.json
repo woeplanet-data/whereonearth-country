@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              88.760, 
+              26.707
+            ], 
+            [
+              88.760, 
+              28.323
+            ], 
+            [
+              92.125, 
+              28.323
+            ], 
+            [
+              92.125, 
+              26.707
+            ], 
+            [
+              88.760, 
+              26.707
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Bhutan"
+        ], 
+        "alias_KOR_Q": [
+          "\ubd80\ud0c4"
+        ], 
+        "ne_latitude": 28.323, 
+        "alias_UNK_V": [
+          "Kraljevina Butan"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "But\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "BT"
+        ], 
+        "alias_POR_S": [
+          "Butao"
+        ], 
+        "alias_CZE_Q": [
+          "Bh\u00fat\u00e1n"
+        ], 
+        "alias_CHI_Q": [
+          "\u4e0d\u4e39"
+        ], 
+        "woeid": 23424770, 
+        "alias_JPN_Q": [
+          "\u30d6\u30fc\u30bf\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30d6\u30fc\u30bf\u30f3\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "But\u00e1n"
+        ], 
+        "sw_longitude": 88.760, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.515, 
+        "date_indexed": "2010-12-02T17:56:39Z", 
+        "alias_SPA_V": [
+          "Bhut\u00e1n"
+        ], 
+        "alias_DUT_V": [
+          "Bhoetan"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Bhutan"
+        ], 
+        "alias_GER_S": [
+          "Koenigreich Bhutan"
+        ], 
+        "lang": "ENG", 
+        "name": "Bhutan", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Butan"
+        ], 
+        "alias_HUN_Q": [
+          "Bhut\u00e1n"
+        ], 
+        "ne_longitude": 92.125, 
+        "longitude": 90.442, 
+        "iso": "BT", 
+        "sw_latitude": 26.707, 
+        "fullname": "Bhutan", 
+        "alias_FRE_Q": [
+          "Bhoutan"
+        ]
+      }, 
+      "id": 23424770
+    }
+  ]
+}

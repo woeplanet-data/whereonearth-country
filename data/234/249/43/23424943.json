@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.535, 
+              12.307
+            ], 
+            [
+              -17.535, 
+              16.692
+            ], 
+            [
+              -11.356, 
+              16.692
+            ], 
+            [
+              -11.356, 
+              12.307
+            ], 
+            [
+              -17.535, 
+              12.307
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Senegal"
+        ], 
+        "alias_ENG_A": [
+          "SN"
+        ], 
+        "alias_POL_Q": [
+          "Senegal"
+        ], 
+        "ne_latitude": 16.692, 
+        "alias_RUM_Q": [
+          "Senegal"
+        ], 
+        "alias_UNK_V": [
+          "Republika Senegal"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Senegal"
+        ], 
+        "alias_KOR_Q": [
+          "\uc138\ub124\uac08"
+        ], 
+        "alias_SWE_Q": [
+          "Senegal"
+        ], 
+        "alias_CHI_Q": [
+          "\u585e\u5167\u52a0\u723e"
+        ], 
+        "alias_ITA_Q": [
+          "Senegal"
+        ], 
+        "alias_GER_V": [
+          "Republik Senegal"
+        ], 
+        "alias_CHI_V": [
+          "\u585e\u5185\u52a0\u5c14"
+        ], 
+        "woeid": 23424943, 
+        "alias_JPN_Q": [
+          "\u30bb\u30cd\u30ac\u30eb"
+        ], 
+        "alias_ENG_P": [
+          "Senegal"
+        ], 
+        "alias_JPN_V": [
+          "\u30bb\u30cd\u30ac\u30eb\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Senegal"
+        ], 
+        "alias_FIN_Q": [
+          "Senegal"
+        ], 
+        "sw_longitude": -17.535, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.499, 
+        "alias_NOR_Q": [
+          "Senegal"
+        ], 
+        "date_indexed": "2010-12-02T08:57:23Z", 
+        "alias_DUT_Q": [
+          "Senegal"
+        ], 
+        "alias_CZE_Q": [
+          "Senegal"
+        ], 
+        "alias_DAN_Q": [
+          "Senegal"
+        ], 
+        "alias_GER_Q": [
+          "Senegal"
+        ], 
+        "lang": "FRE", 
+        "name": "S\u00e9n\u00e9gal", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Szeneg\u00e1l"
+        ], 
+        "ne_longitude": -11.356, 
+        "longitude": -14.446, 
+        "iso": "SN", 
+        "sw_latitude": 12.307, 
+        "alias_FRE_V": [
+          "R\u00e9publique du S\u00e9n\u00e9gal"
+        ], 
+        "fullname": "S\u00e9n\u00e9gal, Senegal"
+      }, 
+      "id": 23424943
+    }
+  ]
+}

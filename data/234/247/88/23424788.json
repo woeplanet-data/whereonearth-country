@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              136.083, 
+              14.107
+            ], 
+            [
+              136.083, 
+              20.417
+            ], 
+            [
+              146.081, 
+              20.417
+            ], 
+            [
+              146.081, 
+              14.107
+            ], 
+            [
+              136.083, 
+              14.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wsp\u00f3lnota Marian\u00f3w P\u00f3\u0142nocnych"
+        ], 
+        "alias_ENG_V": [
+          "Marianas"
+        ], 
+        "alias_SWE_Q": [
+          "Nordmarianerna"
+        ], 
+        "alias_POL_Q": [
+          "Mariany P\u00f3\u0142nocne"
+        ], 
+        "ne_latitude": 20.417, 
+        "alias_RUM_Q": [
+          "Insulele Mariane de Nord"
+        ], 
+        "alias_UNK_V": [
+          "Zveza Severni Marianski otoki"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubd81\ub9c8\ub9ac\uc544\ub098 \uad70\ub3c4"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Marianas do Norte"
+        ], 
+        "alias_POR_Q": [
+          "Marianas Setentrionais"
+        ], 
+        "alias_ENG_A": [
+          "MP"
+        ], 
+        "alias_CZE_Q": [
+          "Severn\u00ed Mariany"
+        ], 
+        "alias_CHI_Q": [
+          "\u5317\u99ac\u91cc\u4e9e\u7d0d\u7fa4\u5cf6\u90a6"
+        ], 
+        "alias_ITA_Q": [
+          "Isole Marianne Settentrionali"
+        ], 
+        "alias_GER_V": [
+          "N\u00f6rdliche Marianen"
+        ], 
+        "alias_ITA_V": [
+          "Marianne Settentrionali, isole"
+        ], 
+        "alias_CHI_V": [
+          "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b\u90a6"
+        ], 
+        "woeid": 23424788, 
+        "alias_JPN_Q": [
+          "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6"
+        ], 
+        "alias_JPN_V": [
+          "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6\u9023\u90a6"
+        ], 
+        "alias_SPA_Q": [
+          "Islas Marianas del Norte"
+        ], 
+        "alias_FIN_Q": [
+          "Pohjois-Mariaanit"
+        ], 
+        "sw_longitude": 136.083, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.193, 
+        "alias_NOR_Q": [
+          "Nord-Marianene"
+        ], 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "alias_FRE_V": [
+          "Mariannes du Nord"
+        ], 
+        "alias_KOR_Q": [
+          "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"
+        ], 
+        "alias_SPA_V": [
+          "Islas Mariana del Norte"
+        ], 
+        "alias_DUT_Q": [
+          "Noordelijke Marianen"
+        ], 
+        "alias_DUT_V": [
+          "Mariannen eilanden Noordelijke"
+        ], 
+        "alias_DAN_Q": [
+          "Nordmarianerne"
+        ], 
+        "alias_GER_Q": [
+          "N\u00f6rdlichen Marianen"
+        ], 
+        "alias_GER_S": [
+          "Noerdliche Marianen"
+        ], 
+        "lang": "ENG", 
+        "name": "Northern Mariana Islands", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Severni Marianski otoki"
+        ], 
+        "alias_HUN_Q": [
+          "\u00c9szaki-Mariana-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "\u00c9szaki Mariana-szigetek"
+        ], 
+        "ne_longitude": 146.081, 
+        "longitude": 145.765, 
+        "iso": "MP", 
+        "sw_latitude": 14.107, 
+        "alias_RUM_V": [
+          "Insulele Northern Mariana"
+        ], 
+        "fullname": "Northern Mariana Islands", 
+        "alias_FRE_S": [
+          "Iles Mariannes du Nord"
+        ], 
+        "alias_FRE_Q": [
+          "\u00celes Mariannes du Nord"
+        ]
+      }, 
+      "id": 23424788
+    }
+  ]
+}

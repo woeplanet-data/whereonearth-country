@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              19.276, 
+              39.648
+            ], 
+            [
+              19.276, 
+              42.666
+            ], 
+            [
+              21.068, 
+              42.666
+            ], 
+            [
+              21.068, 
+              39.648
+            ], 
+            [
+              19.276, 
+              39.648
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Albania"
+        ], 
+        "alias_SWE_Q": [
+          "Albanien"
+        ], 
+        "alias_POL_Q": [
+          "Albania"
+        ], 
+        "ne_latitude": 42.666, 
+        "alias_RUM_Q": [
+          "Albania"
+        ], 
+        "alias_UNK_V": [
+          "Arubania"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Alb\u00e2nia"
+        ], 
+        "alias_ENG_A": [
+          "ALB"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u723e\u5df4\u5c3c\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Albania"
+        ], 
+        "alias_GER_V": [
+          "Republik Albanien"
+        ], 
+        "alias_CHI_V": [
+          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424742, 
+        "alias_JPN_Q": [
+          "\u30a2\u30eb\u30d0\u30cb\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Albania"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30eb\u30d0\u30cb\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Albania"
+        ], 
+        "alias_FIN_Q": [
+          "Albania"
+        ], 
+        "sw_longitude": 19.276, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.153, 
+        "alias_NOR_Q": [
+          "Albania"
+        ], 
+        "date_indexed": "2010-12-02T08:58:52Z", 
+        "alias_KOR_Q": [
+          "\uc54c\ubc14\ub2c8\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Albani\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Alb\u00e1nie"
+        ], 
+        "alias_DAN_Q": [
+          "Albanien"
+        ], 
+        "alias_GER_Q": [
+          "Albanien"
+        ], 
+        "lang": "UNK", 
+        "name": "Shqip\u00ebri", 
+        "alias_UNK_S": [
+          "Shqiperi"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Alban\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Alb\u00e1nia"
+        ], 
+        "ne_longitude": 21.068, 
+        "longitude": 20.170, 
+        "iso": "AL", 
+        "sw_latitude": 39.648, 
+        "fullname": "Shqip\u00ebri, Albania", 
+        "alias_FRE_Q": [
+          "Albanie"
+        ]
+      }, 
+      "id": 23424742
+    }
+  ]
+}

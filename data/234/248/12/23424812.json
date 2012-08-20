@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.549, 
+              59.765
+            ], 
+            [
+              20.549, 
+              70.092
+            ], 
+            [
+              31.586, 
+              70.092
+            ], 
+            [
+              31.586, 
+              59.765
+            ], 
+            [
+              20.549, 
+              59.765
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Finland"
+        ], 
+        "alias_SWE_V": [
+          "Republiken Finland"
+        ], 
+        "alias_SWE_Q": [
+          "Finland"
+        ], 
+        "alias_POL_Q": [
+          "Finlandia"
+        ], 
+        "ne_latitude": 70.092, 
+        "alias_RUM_Q": [
+          "Finlanda"
+        ], 
+        "alias_UNK_V": [
+          "Finljandija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Finl\u00e2ndia"
+        ], 
+        "alias_ENG_A": [
+          "FI"
+        ], 
+        "alias_CHI_Q": [
+          "\u82ac\u862d"
+        ], 
+        "alias_ITA_Q": [
+          "Finlandia"
+        ], 
+        "alias_GER_V": [
+          "Republik Finnland"
+        ], 
+        "alias_CHI_V": [
+          "\u82ac\u5170"
+        ], 
+        "woeid": 23424812, 
+        "alias_JPN_Q": [
+          "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9"
+        ], 
+        "alias_ENG_P": [
+          "Finland"
+        ], 
+        "alias_JPN_V": [
+          "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Finlandia"
+        ], 
+        "sw_longitude": 20.549, 
+        "alias_FIN_V": [
+          "Suomen Tasavalta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 64.950, 
+        "alias_NOR_Q": [
+          "Finland"
+        ], 
+        "date_indexed": "2010-12-02T16:41:19Z", 
+        "alias_KOR_Q": [
+          "\ud540\ub780\ub4dc"
+        ], 
+        "alias_DUT_Q": [
+          "Finland"
+        ], 
+        "alias_CZE_Q": [
+          "Finsko"
+        ], 
+        "alias_DAN_Q": [
+          "Finland"
+        ], 
+        "alias_GER_Q": [
+          "Finnland"
+        ], 
+        "lang": "FIN", 
+        "name": "Suomi", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Finsko"
+        ], 
+        "alias_HUN_Q": [
+          "Finnorsz\u00e1g"
+        ], 
+        "ne_longitude": 31.586, 
+        "longitude": 26.067, 
+        "iso": "FI", 
+        "sw_latitude": 59.765, 
+        "alias_HUN_S": [
+          "Finnorszag"
+        ], 
+        "fullname": "Suomi, Finland", 
+        "alias_FRE_Q": [
+          "Finlande"
+        ]
+      }, 
+      "id": 23424812
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              94.970, 
+              -11.005
+            ], 
+            [
+              94.970, 
+              6.076
+            ], 
+            [
+              141.022, 
+              6.076
+            ], 
+            [
+              141.022, 
+              -11.005
+            ], 
+            [
+              94.970, 
+              -11.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Indonesia"
+        ], 
+        "alias_SWE_Q": [
+          "Indonesien"
+        ], 
+        "alias_POL_Q": [
+          "Indonezja"
+        ], 
+        "ne_latitude": 6.076, 
+        "alias_RUM_Q": [
+          "Indonezia"
+        ], 
+        "alias_UNK_V": [
+          "Republika Indonezija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Indon\u00e9sia"
+        ], 
+        "alias_ENG_A": [
+          "ID"
+        ], 
+        "alias_CHI_Q": [
+          "\u5370\u5ea6\u5c3c\u897f\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Indonesia"
+        ], 
+        "alias_GER_V": [
+          "Republik Indonesien"
+        ], 
+        "alias_CHI_V": [
+          "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+        ], 
+        "woeid": 23424846, 
+        "alias_JPN_Q": [
+          "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2"
+        ], 
+        "alias_ENG_P": [
+          "Indonesia"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Indonesia"
+        ], 
+        "alias_FIN_Q": [
+          "Indonesia"
+        ], 
+        "sw_longitude": 94.970, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.110, 
+        "alias_NOR_Q": [
+          "Indonesia"
+        ], 
+        "date_indexed": "2010-12-02T16:54:32Z", 
+        "alias_KOR_Q": [
+          "\uc778\ub3c4\ub124\uc2dc\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Indonesi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Indonesie"
+        ], 
+        "alias_CZE_Q": [
+          "Indon\u00e9sie"
+        ], 
+        "alias_DAN_Q": [
+          "Indonesien"
+        ], 
+        "alias_GER_Q": [
+          "Indonesien"
+        ], 
+        "lang": "UNK", 
+        "name": "Republik Indonesia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ind\u00f3nes\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Indon\u00e9zia"
+        ], 
+        "ne_longitude": 141.022, 
+        "longitude": 113.917, 
+        "iso": "ID", 
+        "sw_latitude": -11.005, 
+        "alias_FRE_V": [
+          "Indes orientales n\u00e9erlandaises"
+        ], 
+        "fullname": "Republik Indonesia, Indonesia", 
+        "alias_FRE_S": [
+          "Indonesie"
+        ], 
+        "alias_FRE_Q": [
+          "Indon\u00e9sie"
+        ]
+      }, 
+      "id": 23424846
+    }
+  ]
+}

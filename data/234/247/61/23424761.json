@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.749, 
+              42.565
+            ], 
+            [
+              15.749, 
+              45.276
+            ], 
+            [
+              19.629, 
+              45.276
+            ], 
+            [
+              19.629, 
+              42.565
+            ], 
+            [
+              15.749, 
+              42.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Bosnia"
+        ], 
+        "alias_SWE_V": [
+          "Bosnien-Hercegovina"
+        ], 
+        "alias_SWE_Q": [
+          "Bosnien och Hercegovina"
+        ], 
+        "alias_POL_Q": [
+          "Bo\u015bnia I Hercegowina"
+        ], 
+        "ne_latitude": 45.276, 
+        "alias_RUM_Q": [
+          "Bosnia \u015ei Her\u0163egovina"
+        ], 
+        "alias_UNK_V": [
+          "Bosnia-Herzegovina"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
+        ], 
+        "alias_POR_V": [
+          "B\u00f3snia-Herzegovina"
+        ], 
+        "alias_POR_Q": [
+          "B\u00f3snia e Herzegovina"
+        ], 
+        "alias_ENG_A": [
+          "BIH"
+        ], 
+        "alias_CZE_Q": [
+          "Bosna a Hercegovina"
+        ], 
+        "alias_CHI_Q": [
+          "\u6ce2\u58eb\u5c3c\u4e9e\u548c\u8d6b\u585e\u54e5\u7dad\u7d0d"
+        ], 
+        "alias_ITA_Q": [
+          "Bosnia-Erzegovina"
+        ], 
+        "alias_GER_V": [
+          "Bosnien-Herzegowina"
+        ], 
+        "alias_ITA_V": [
+          "Bosnia Erzegovina"
+        ], 
+        "alias_CHI_V": [
+          "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
+        ], 
+        "woeid": 23424761, 
+        "alias_JPN_Q": [
+          "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
+        ], 
+        "alias_ENG_P": [
+          "Bosnia and Herzegovina"
+        ], 
+        "alias_JPN_V": [
+          "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Bosnia Y Herzegovina"
+        ], 
+        "alias_FIN_Q": [
+          "Bosnia ja Hertsegovina"
+        ], 
+        "sw_longitude": 15.749, 
+        "alias_FIN_V": [
+          "Bosnia-Hertsegovina"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.920, 
+        "alias_NOR_Q": [
+          "Bosnia-Hercegovina"
+        ], 
+        "date_indexed": "2010-12-02T12:15:52Z", 
+        "alias_FRE_V": [
+          "Bosnie-Herz\u00e9govine"
+        ], 
+        "alias_KOR_Q": [
+          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+        ], 
+        "alias_DAN_V": [
+          "Bosnien og Hercegovina"
+        ], 
+        "alias_SPA_V": [
+          "Bosnia-Herzegovina"
+        ], 
+        "alias_DUT_Q": [
+          "Bosni\u00eb en Herzegovina"
+        ], 
+        "alias_DUT_S": [
+          "Bosnie-Herzegovina"
+        ], 
+        "alias_DUT_V": [
+          "Bosni\u00eb-Herzegovina"
+        ], 
+        "alias_DAN_Q": [
+          "Bosnien-Hercegovina"
+        ], 
+        "alias_GER_Q": [
+          "Bosnien und Herzegowina"
+        ], 
+        "lang": "UNK", 
+        "name": "Bosna i Hercegovina", 
+        "alias_UNK_S": [
+          "Bosnia-Hersegovina"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Bosna in Hercegovina"
+        ], 
+        "alias_HUN_Q": [
+          "Bosznia-Hercegovina"
+        ], 
+        "alias_HUN_V": [
+          "Bosznia \u00e9s Hercegovina"
+        ], 
+        "ne_longitude": 19.629, 
+        "longitude": 17.677, 
+        "iso": "BA", 
+        "sw_latitude": 42.565, 
+        "alias_RUM_V": [
+          "Bosnia \u015fi Herzegovina"
+        ], 
+        "fullname": "Bosna i Hercegovina, Bosnia and Herzegovina", 
+        "alias_FRE_S": [
+          "Bosnie et Herzegovine"
+        ], 
+        "alias_FRE_Q": [
+          "Bosnie et Herz\u00e9govine"
+        ]
+      }, 
+      "id": 23424761
+    }
+  ]
+}

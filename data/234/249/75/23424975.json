@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.414, 
+              49.162
+            ], 
+            [
+              -13.414, 
+              60.855
+            ], 
+            [
+              1.769, 
+              60.855
+            ], 
+            [
+              1.769, 
+              49.162
+            ], 
+            [
+              -13.414, 
+              49.162
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Zjednoczone Kr\u00f3lestwo Wielkiej Brytanii"
+        ], 
+        "alias_ENG_V": [
+          "Unitedkingdom"
+        ], 
+        "alias_SWE_V": [
+          "F\u00f6renade Konungariket"
+        ], 
+        "alias_SWE_Q": [
+          "Storbritannien"
+        ], 
+        "alias_POL_Q": [
+          "Wielka Brytania"
+        ], 
+        "ne_latitude": 60.855, 
+        "alias_RUM_Q": [
+          "Regatul Unit Al Marii Britanii \u015ei Al Irlandei de Nord"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Reino Unido"
+        ], 
+        "alias_ENG_A": [
+          "GBR"
+        ], 
+        "alias_CHI_Q": [
+          "\u82f1\u570b"
+        ], 
+        "alias_ITA_Q": [
+          "Regno Unito"
+        ], 
+        "alias_GER_V": [
+          "Gro\u00dfbritannien und Nordirland"
+        ], 
+        "alias_ITA_V": [
+          "Regnounito"
+        ], 
+        "alias_CHI_V": [
+          "\u8054\u5408\u738b\u56fd"
+        ], 
+        "woeid": 23424975, 
+        "alias_JPN_Q": [
+          "\u30a4\u30ae\u30ea\u30b9"
+        ], 
+        "alias_SWE_S": [
+          "Forenade Kungariket"
+        ], 
+        "alias_JPN_V": [
+          "\u30b0\u30ec\u30fc\u30c8\u30fb\u30d6\u30ea\u30c6\u30f3\u304a\u3088\u3073\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u9023\u5408\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Reino Unido"
+        ], 
+        "alias_FIN_Q": [
+          "Yhdistynyt Kuningaskunta"
+        ], 
+        "sw_longitude": -13.414, 
+        "alias_FIN_V": [
+          "Iso-Britannia"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 54.314, 
+        "alias_NOR_Q": [
+          "Storbritannia"
+        ], 
+        "alias_NOR_V": [
+          "Det forente kongerike Storbritannia og Nord-Irland"
+        ], 
+        "date_indexed": "2010-12-02T12:21:01Z", 
+        "alias_FRE_V": [
+          "Grande Bretagne"
+        ], 
+        "alias_KOR_Q": [
+          "\uc601\uad6d"
+        ], 
+        "alias_DAN_V": [
+          "Det Forenede Kongerige Storbritannien og Nordirland"
+        ], 
+        "alias_SPA_V": [
+          "Reinounido"
+        ], 
+        "alias_DUT_Q": [
+          "Verenigd Koninkrijk"
+        ], 
+        "alias_CZE_Q": [
+          "Spojen\u00e9 Kr\u00e1lovstv\u00ed"
+        ], 
+        "alias_DAN_Q": [
+          "Storbritannien"
+        ], 
+        "alias_GER_Q": [
+          "Vereinigtes K\u00f6nigreich"
+        ], 
+        "alias_GER_S": [
+          "Vereinigtes Koenigreich"
+        ], 
+        "lang": "ENG", 
+        "name": "United Kingdom", 
+        "alias_CZE_V": [
+          "Velk\u00e1 Brit\u00e1nie"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Y Deyrnas Unedig"
+        ], 
+        "alias_HUN_Q": [
+          "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+        ], 
+        "ne_longitude": 1.769, 
+        "longitude": -2.230, 
+        "iso": "GB", 
+        "sw_latitude": 49.162, 
+        "alias_RUM_V": [
+          "Regatul Unit"
+        ], 
+        "fullname": "United Kingdom", 
+        "alias_FRE_Q": [
+          "Royaume Uni"
+        ]
+      }, 
+      "id": 23424975
+    }
+  ]
+}

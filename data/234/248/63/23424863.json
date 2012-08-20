@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              33.909, 
+              -4.717
+            ], 
+            [
+              33.909, 
+              4.629
+            ], 
+            [
+              41.899, 
+              4.629
+            ], 
+            [
+              41.899, 
+              -4.717
+            ], 
+            [
+              33.909, 
+              -4.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Kenya"
+        ], 
+        "alias_KOR_Q": [
+          "\ucf00\ub0d0"
+        ], 
+        "alias_POL_Q": [
+          "Kenia"
+        ], 
+        "ne_latitude": 4.629, 
+        "alias_UNK_V": [
+          "Republika Kenija"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Qu\u00eania"
+        ], 
+        "alias_POR_Q": [
+          "Qu\u00e9nia"
+        ], 
+        "alias_ENG_A": [
+          "KE"
+        ], 
+        "alias_POR_S": [
+          "Quenia"
+        ], 
+        "alias_CHI_Q": [
+          "\u80af\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u80af\u5c3c\u4e9a"
+        ], 
+        "woeid": 23424863, 
+        "alias_JPN_Q": [
+          "\u30b1\u30cb\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b1\u30cb\u30e4"
+        ], 
+        "alias_SPA_Q": [
+          "Kenia"
+        ], 
+        "alias_FIN_Q": [
+          "Kenian"
+        ], 
+        "sw_longitude": 33.909, 
+        "alias_FIN_V": [
+          "Keniasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.024, 
+        "date_indexed": "2010-12-02T08:53:57Z", 
+        "alias_DUT_Q": [
+          "Kenia"
+        ], 
+        "alias_CZE_Q": [
+          "Ke\u0148a"
+        ], 
+        "alias_GER_V": [
+          "Republik Kenia"
+        ], 
+        "alias_GER_Q": [
+          "Kenia"
+        ], 
+        "lang": "ENG", 
+        "name": "Kenya", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kenija"
+        ], 
+        "ne_longitude": 41.899, 
+        "longitude": 37.904, 
+        "iso": "KE", 
+        "sw_latitude": -4.717, 
+        "fullname": "Kenya"
+      }, 
+      "id": 23424863
+    }
+  ]
+}

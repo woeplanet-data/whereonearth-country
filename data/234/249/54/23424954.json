@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.982, 
+              55.337
+            ], 
+            [
+              10.982, 
+              69.060
+            ], 
+            [
+              24.166, 
+              69.060
+            ], 
+            [
+              24.166, 
+              55.337
+            ], 
+            [
+              10.982, 
+              55.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Sweden"
+        ], 
+        "alias_SWE_V": [
+          "Konungariket Sverige"
+        ], 
+        "alias_KOR_Q": [
+          "\uc2a4\uc6e8\ub374"
+        ], 
+        "alias_POL_Q": [
+          "Szwecja"
+        ], 
+        "ne_latitude": 69.060, 
+        "alias_RUM_Q": [
+          "Suedia"
+        ], 
+        "alias_UNK_V": [
+          "Souid\u00eda"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc2a4\uc6e8\ub358"
+        ], 
+        "alias_POR_Q": [
+          "Su\u00e9cia"
+        ], 
+        "alias_ENG_A": [
+          "SWE"
+        ], 
+        "alias_CHI_Q": [
+          "\u745e\u5178"
+        ], 
+        "alias_ITA_Q": [
+          "Svezia"
+        ], 
+        "woeid": 23424954, 
+        "alias_JPN_Q": [
+          "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3"
+        ], 
+        "alias_ENG_P": [
+          "Sweden"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Suecia"
+        ], 
+        "alias_FIN_Q": [
+          "Ruotsi"
+        ], 
+        "sw_longitude": 10.982, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 62.198, 
+        "date_indexed": "2010-12-02T16:45:55Z", 
+        "alias_DUT_Q": [
+          "Zweden"
+        ], 
+        "alias_CZE_Q": [
+          "\u0160v\u00e9dsko"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Schweden"
+        ], 
+        "alias_GER_Q": [
+          "Schweden"
+        ], 
+        "alias_GER_S": [
+          "Koenigreich Schweden"
+        ], 
+        "lang": "SWE", 
+        "name": "Sverige", 
+        "alias_UNK_S": [
+          "Souidia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sv\u00ed\u00fej\u00f3\u00f0"
+        ], 
+        "alias_HUN_Q": [
+          "Sv\u00e9dorsz\u00e1g"
+        ], 
+        "ne_longitude": 24.166, 
+        "longitude": 17.551, 
+        "iso": "SE", 
+        "sw_latitude": 55.337, 
+        "alias_HUN_S": [
+          "Svedorszag"
+        ], 
+        "fullname": "Sverige, Sweden", 
+        "alias_FRE_S": [
+          "Suede"
+        ], 
+        "alias_FRE_Q": [
+          "Su\u00e8de"
+        ]
+      }, 
+      "id": 23424954
+    }
+  ]
+}

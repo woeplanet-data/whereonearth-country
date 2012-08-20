@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              40.010, 
+              41.039
+            ], 
+            [
+              40.010, 
+              43.585
+            ], 
+            [
+              46.721, 
+              43.585
+            ], 
+            [
+              46.721, 
+              41.039
+            ], 
+            [
+              40.010, 
+              41.039
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Georgian Soviet Socialist Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Georgien"
+        ], 
+        "alias_POL_Q": [
+          "Gruzja"
+        ], 
+        "ne_latitude": 43.585, 
+        "alias_UNK_V": [
+          "Sakartvelo"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uadf8\ub8e8\uc9c0\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Ge\u00f3rgia"
+        ], 
+        "alias_ENG_A": [
+          "GE"
+        ], 
+        "alias_CHI_Q": [
+          "\u55ac\u6cbb\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u55ac\u6cbb\u4e9e"
+        ], 
+        "woeid": 23424823, 
+        "alias_JPN_Q": [
+          "\u30b0\u30eb\u30b8\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 40.010, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.312, 
+        "date_indexed": "2010-12-02T17:51:59Z", 
+        "alias_KOR_Q": [
+          "\uadf8\ub8e8\uc9c0\uc57c"
+        ], 
+        "alias_DUT_Q": [
+          "Georgi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Georgie"
+        ], 
+        "alias_CZE_Q": [
+          "Gruzie"
+        ], 
+        "alias_DAN_Q": [
+          "Georgien"
+        ], 
+        "alias_GER_Q": [
+          "Georgien"
+        ], 
+        "lang": "ENG", 
+        "name": "Georgia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Gruzija"
+        ], 
+        "alias_HUN_Q": [
+          "Gr\u00fazia"
+        ], 
+        "ne_longitude": 46.721, 
+        "longitude": 43.366, 
+        "iso": "GE", 
+        "sw_latitude": 41.039, 
+        "fullname": "Georgia", 
+        "alias_FRE_S": [
+          "Georgie"
+        ], 
+        "alias_FRE_Q": [
+          "G\u00e9orgie"
+        ]
+      }, 
+      "id": 23424823
+    }
+  ]
+}

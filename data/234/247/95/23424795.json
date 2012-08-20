@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -165.858, 
+              -21.944
+            ], 
+            [
+              -165.858, 
+              -8.944
+            ], 
+            [
+              -157.312, 
+              -8.944
+            ], 
+            [
+              -157.312, 
+              -21.944
+            ], 
+            [
+              -165.858, 
+              -21.944
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Cook Island"
+        ], 
+        "alias_SWE_Q": [
+          "Cook\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy Cooka"
+        ], 
+        "ne_latitude": -8.944, 
+        "alias_RUM_Q": [
+          "Insulele Cook"
+        ], 
+        "alias_UNK_V": [
+          "Cook\u00f8yene"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucfe1 \uc544\uc77c\ub79c\ub4dc"
+        ], 
+        "alias_POR_Q": [
+          "Ilhas Cook"
+        ], 
+        "alias_ENG_A": [
+          "CK"
+        ], 
+        "alias_CZE_Q": [
+          "Cookovy Ostrovy"
+        ], 
+        "alias_CHI_Q": [
+          "\u5eab\u514b\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Arcipelago di Cook"
+        ], 
+        "alias_GER_V": [
+          "Cook-Inseln"
+        ], 
+        "alias_ITA_V": [
+          "Cook, isole"
+        ], 
+        "alias_CHI_V": [
+          "\u5e93\u514b\u7fa4\u5c9b"
+        ], 
+        "woeid": 23424795, 
+        "alias_JPN_Q": [
+          "\u30af\u30c3\u30af\u8af8\u5cf6"
+        ], 
+        "alias_SWE_S": [
+          "Cookoarna"
+        ], 
+        "alias_SPA_Q": [
+          "Islas Cook"
+        ], 
+        "alias_FIN_Q": [
+          "Cookinsaaret"
+        ], 
+        "sw_longitude": -165.858, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.227, 
+        "alias_NOR_S": [
+          "Cookoyene"
+        ], 
+        "alias_NOR_Q": [
+          "Cook\u00f8yene"
+        ], 
+        "date_indexed": "2010-12-02T17:57:50Z", 
+        "alias_KOR_Q": [
+          "\ucfe1 \uc81c\ub3c4"
+        ], 
+        "alias_DUT_Q": [
+          "Cookeilanden"
+        ], 
+        "alias_DUT_V": [
+          "Cook Eilanden"
+        ], 
+        "alias_DAN_Q": [
+          "Cook\u00f8erne"
+        ], 
+        "alias_GER_Q": [
+          "Cookinseln"
+        ], 
+        "lang": "ENG", 
+        "name": "Cook Islands", 
+        "alias_UNK_S": [
+          "Cookoyene"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Cook-Szigetek"
+        ], 
+        "ne_longitude": -157.312, 
+        "longitude": -159.771, 
+        "iso": "CK", 
+        "sw_latitude": -21.944, 
+        "alias_FRE_V": [
+          "\u00eeles Cook"
+        ], 
+        "fullname": "Cook Islands", 
+        "alias_FRE_S": [
+          "iles Cook"
+        ], 
+        "alias_FRE_Q": [
+          "\u00celes Cook"
+        ]
+      }, 
+      "id": 23424795
+    }
+  ]
+}

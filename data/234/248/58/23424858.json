@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.367, 
+              16.950
+            ], 
+            [
+              -78.367, 
+              18.527
+            ], 
+            [
+              -75.983, 
+              18.527
+            ], 
+            [
+              -75.983, 
+              16.950
+            ], 
+            [
+              -78.367, 
+              16.950
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Jamaican"
+        ], 
+        "alias_KOR_Q": [
+          "\uc790\uba54\uc774\uce74"
+        ], 
+        "alias_POL_Q": [
+          "Jamajka"
+        ], 
+        "ne_latitude": 18.527, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "JM"
+        ], 
+        "alias_CZE_Q": [
+          "Jamajka"
+        ], 
+        "alias_CHI_Q": [
+          "\u7259\u8cb7\u52a0"
+        ], 
+        "alias_ITA_Q": [
+          "Giamaica"
+        ], 
+        "alias_CHI_V": [
+          "\u7259\u4e70\u52a0"
+        ], 
+        "woeid": 23424858, 
+        "alias_JPN_Q": [
+          "\u30b8\u30e3\u30de\u30a4\u30ab"
+        ], 
+        "alias_FIN_Q": [
+          "Jamaika"
+        ], 
+        "sw_longitude": -78.367, 
+        "alias_FIN_V": [
+          "Jamaikan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.115, 
+        "date_indexed": "2010-12-02T08:59:07Z", 
+        "alias_DUT_V": [
+          "Jama\u00efca"
+        ], 
+        "alias_GER_Q": [
+          "Jamaika"
+        ], 
+        "lang": "ENG", 
+        "name": "Jamaica", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Jama\u00edka"
+        ], 
+        "ne_longitude": -75.983, 
+        "longitude": -77.273, 
+        "iso": "JM", 
+        "sw_latitude": 16.950, 
+        "fullname": "Jamaica", 
+        "alias_FRE_S": [
+          "Jamaique"
+        ], 
+        "alias_FRE_Q": [
+          "Jama\u00efque"
+        ]
+      }, 
+      "id": 23424858
+    }
+  ]
+}

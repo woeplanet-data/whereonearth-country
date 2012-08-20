@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              29.573, 
+              -1.484
+            ], 
+            [
+              29.573, 
+              4.214
+            ], 
+            [
+              35.036, 
+              4.214
+            ], 
+            [
+              35.036, 
+              -1.484
+            ], 
+            [
+              29.573, 
+              -1.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Ugandan"
+        ], 
+        "alias_KOR_Q": [
+          "\uc6b0\uac04\ub2e4"
+        ], 
+        "ne_latitude": 4.214, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "UGA"
+        ], 
+        "alias_CHI_Q": [
+          "\u70cf\u5e72\u9054"
+        ], 
+        "alias_CHI_V": [
+          "\u4e4c\u5e72\u8fbe"
+        ], 
+        "woeid": 23424974, 
+        "alias_JPN_Q": [
+          "\u30a6\u30ac\u30f3\u30c0"
+        ], 
+        "alias_JPN_V": [
+          "\u30a6\u30ac\u30f3\u30c0\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 29.573, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 1.365, 
+        "date_indexed": "2010-12-02T10:22:43Z", 
+        "alias_DUT_Q": [
+          "Oeganda"
+        ], 
+        "lang": "ENG", 
+        "name": "Uganda", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "\u00daganda"
+        ], 
+        "ne_longitude": 35.036, 
+        "longitude": 32.305, 
+        "iso": "UG", 
+        "sw_latitude": -1.484, 
+        "fullname": "Uganda", 
+        "alias_FRE_Q": [
+          "Ouganda"
+        ]
+      }, 
+      "id": 23424974
+    }
+  ]
+}

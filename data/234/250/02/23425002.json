@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              41.816, 
+              12.111
+            ], 
+            [
+              41.816, 
+              19.002
+            ], 
+            [
+              54.531, 
+              19.002
+            ], 
+            [
+              54.531, 
+              12.111
+            ], 
+            [
+              41.816, 
+              12.111
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Yemen"
+        ], 
+        "alias_SWE_Q": [
+          "Jemen"
+        ], 
+        "alias_POL_Q": [
+          "Jemen"
+        ], 
+        "ne_latitude": 19.002, 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "I\u00eamen"
+        ], 
+        "alias_POR_Q": [
+          "I\u00e9men"
+        ], 
+        "alias_ENG_A": [
+          "YE"
+        ], 
+        "alias_POR_S": [
+          "Iemen"
+        ], 
+        "alias_ARA_Q": [
+          "Al Yaman"
+        ], 
+        "alias_CHI_Q": [
+          "\u8449\u9580"
+        ], 
+        "alias_CHI_V": [
+          "\u8449\u9580"
+        ], 
+        "woeid": 23425002, 
+        "alias_JPN_Q": [
+          "\u30a4\u30a8\u30e1\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30a8\u30e1\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_FIN_Q": [
+          "Jemen"
+        ], 
+        "sw_longitude": 41.816, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.797, 
+        "alias_NOR_Q": [
+          "Jemen"
+        ], 
+        "date_indexed": "2010-12-02T16:39:41Z", 
+        "alias_KOR_Q": [
+          "\uc608\uba58"
+        ], 
+        "alias_DUT_Q": [
+          "Jemen"
+        ], 
+        "alias_CZE_Q": [
+          "Jemen"
+        ], 
+        "alias_GER_V": [
+          "Republik Jemen"
+        ], 
+        "alias_GER_Q": [
+          "Jemen"
+        ], 
+        "lang": "ENG", 
+        "name": "Yemen", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Republika Jemen"
+        ], 
+        "alias_HUN_Q": [
+          "Jemen"
+        ], 
+        "ne_longitude": 54.531, 
+        "longitude": 47.837, 
+        "iso": "YE", 
+        "sw_latitude": 12.111, 
+        "fullname": "Yemen", 
+        "alias_FRE_Q": [
+          "Y\u00e9men"
+        ]
+      }, 
+      "id": 23425002
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              87.749, 
+              41.568
+            ], 
+            [
+              87.749, 
+              52.154
+            ], 
+            [
+              119.924, 
+              52.154
+            ], 
+            [
+              119.924, 
+              41.568
+            ], 
+            [
+              87.749, 
+              41.568
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Mongolian"
+        ], 
+        "alias_SWE_Q": [
+          "Mongoliet"
+        ], 
+        "ne_latitude": 52.154, 
+        "alias_UNK_V": [
+          "Mongol Ard Uls"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Mong\u00f3lia"
+        ], 
+        "alias_KOR_Q": [
+          "\ubabd\uace8"
+        ], 
+        "alias_CHI_Q": [
+          "\u8499\u53e4"
+        ], 
+        "woeid": 23424887, 
+        "alias_JPN_Q": [
+          "\u30e2\u30f3\u30b4\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30e2\u30f3\u30b4\u30eb\u56fd"
+        ], 
+        "sw_longitude": 87.749, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.861, 
+        "date_indexed": "2010-12-02T08:53:23Z", 
+        "alias_ENG_A": [
+          "MN"
+        ], 
+        "alias_DUT_Q": [
+          "Mongoli\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Mongolsko"
+        ], 
+        "alias_DAN_Q": [
+          "Mongoliet"
+        ], 
+        "alias_GER_Q": [
+          "Mongolei"
+        ], 
+        "lang": "ENG", 
+        "name": "Mongolia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Mongolija"
+        ], 
+        "alias_HUN_Q": [
+          "Mong\u00f3lia"
+        ], 
+        "ne_longitude": 119.924, 
+        "longitude": 103.837, 
+        "iso": "MN", 
+        "sw_latitude": 41.568, 
+        "fullname": "Mongolia", 
+        "alias_FRE_Q": [
+          "Mongolie"
+        ]
+      }, 
+      "id": 23424887
+    }
+  ]
+}

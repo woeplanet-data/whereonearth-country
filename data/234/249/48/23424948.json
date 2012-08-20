@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              103.618, 
+              1.116
+            ], 
+            [
+              103.618, 
+              1.471
+            ], 
+            [
+              104.408, 
+              1.471
+            ], 
+            [
+              104.408, 
+              1.116
+            ], 
+            [
+              103.618, 
+              1.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Singapore"
+        ], 
+        "alias_ENG_A": [
+          "SG"
+        ], 
+        "alias_POL_Q": [
+          "Singapur"
+        ], 
+        "ne_latitude": 1.471, 
+        "alias_UNK_V": [
+          "Republika Singapur"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Cingapura"
+        ], 
+        "alias_POR_Q": [
+          "Singapura"
+        ], 
+        "alias_KOR_Q": [
+          "\uc2f1\uac00\ud3ec\ub974"
+        ], 
+        "alias_CHI_Q": [
+          "\u65b0\u52a0\u5761"
+        ], 
+        "woeid": 23424948, 
+        "alias_JPN_Q": [
+          "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Singapur"
+        ], 
+        "alias_SPA_S": [
+          "Republica de Singapur"
+        ], 
+        "sw_longitude": 103.618, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 1.366, 
+        "date_indexed": "2010-12-02T08:53:28Z", 
+        "alias_SPA_V": [
+          "Rep\u00fablica de Singapur"
+        ], 
+        "alias_CZE_Q": [
+          "Singapur"
+        ], 
+        "alias_GER_V": [
+          "Republik Singapur"
+        ], 
+        "alias_GER_Q": [
+          "Singapur"
+        ], 
+        "lang": "ENG", 
+        "name": "Singapore", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Sing-gap'ol"
+        ], 
+        "alias_HUN_Q": [
+          "Szingap\u00far"
+        ], 
+        "ne_longitude": 104.408, 
+        "longitude": 103.828, 
+        "iso": "SG", 
+        "sw_latitude": 1.116, 
+        "fullname": "Singapore", 
+        "alias_FRE_Q": [
+          "Singapour"
+        ]
+      }, 
+      "id": 23424948
+    }
+  ]
+}

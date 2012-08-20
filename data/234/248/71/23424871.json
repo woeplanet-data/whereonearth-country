@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              46.492, 
+              40.567
+            ], 
+            [
+              46.492, 
+              55.432
+            ], 
+            [
+              87.313, 
+              55.432
+            ], 
+            [
+              87.313, 
+              40.567
+            ], 
+            [
+              46.492, 
+              40.567
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Rep. Kazakhstan"
+        ], 
+        "alias_SWE_V": [
+          "Kazachstan"
+        ], 
+        "alias_SWE_Q": [
+          "Kazakstan"
+        ], 
+        "alias_POL_Q": [
+          "Kazachstan"
+        ], 
+        "ne_latitude": 55.432, 
+        "alias_RUM_Q": [
+          "Kazahstan"
+        ], 
+        "alias_UNK_V": [
+          "Kazakstan"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Casaquist\u00e3o"
+        ], 
+        "alias_POR_Q": [
+          "Cazaquist\u00e3o"
+        ], 
+        "alias_ENG_A": [
+          "KZ"
+        ], 
+        "alias_POR_S": [
+          "Cazaquistao"
+        ], 
+        "alias_CHI_Q": [
+          "\u54c8\u85a9\u514b"
+        ], 
+        "alias_ITA_Q": [
+          "Kazakistan"
+        ], 
+        "alias_GER_V": [
+          "Republik Kasachstan"
+        ], 
+        "alias_CHI_V": [
+          "\u54c8\u8428\u514b\u65af\u5766"
+        ], 
+        "woeid": 23424871, 
+        "alias_JPN_Q": [
+          "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Kazajist\u00e1n"
+        ], 
+        "alias_FIN_Q": [
+          "Kazakstan"
+        ], 
+        "alias_SPA_S": [
+          "Kazajstan"
+        ], 
+        "sw_longitude": 46.492, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.999, 
+        "alias_NOR_Q": [
+          "Kasakhstan"
+        ], 
+        "date_indexed": "2010-12-02T08:54:13Z", 
+        "alias_KOR_Q": [
+          "\uce74\uc790\ud750\uc2a4\ud0c4"
+        ], 
+        "alias_SPA_V": [
+          "Kazajst\u00e1n"
+        ], 
+        "alias_DUT_Q": [
+          "Kazachstan"
+        ], 
+        "alias_CZE_Q": [
+          "Kazachst\u00e1n"
+        ], 
+        "alias_DAN_Q": [
+          "Kasakhstan"
+        ], 
+        "alias_GER_Q": [
+          "Kasachstan"
+        ], 
+        "lang": "ENG", 
+        "name": "Kazakhstan", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Kazahstan"
+        ], 
+        "alias_HUN_Q": [
+          "Kazahszt\u00e1n"
+        ], 
+        "ne_longitude": 87.313, 
+        "longitude": 66.902, 
+        "iso": "KZ", 
+        "sw_latitude": 40.567, 
+        "fullname": "Kazakhstan"
+      }, 
+      "id": 23424871
+    }
+  ]
+}

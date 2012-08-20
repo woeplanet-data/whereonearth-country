@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -178.207, 
+              -14.388
+            ], 
+            [
+              -178.207, 
+              -13.173
+            ], 
+            [
+              -176.083, 
+              -13.173
+            ], 
+            [
+              -176.083, 
+              -14.388
+            ], 
+            [
+              -178.207, 
+              -14.388
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_POL_V": [
+          "Wyspy Wallis i Futuna"
+        ], 
+        "alias_ENG_V": [
+          "Wallis & Futuna"
+        ], 
+        "alias_SWE_V": [
+          "Wallis och Futuna"
+        ], 
+        "alias_SWE_Q": [
+          "Wallis- och Futuna\u00f6arna"
+        ], 
+        "alias_POL_Q": [
+          "Wallis I Futuna"
+        ], 
+        "ne_latitude": -13.173, 
+        "alias_RUM_Q": [
+          "Wallis \u015ei Futuna"
+        ], 
+        "alias_UNK_V": [
+          "Wallis og Futuna\u00f8erne"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc648\ub77c\uc2a4 & \ud4e8\ud22c\ub098"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Wallis e Futuna"
+        ], 
+        "alias_POR_Q": [
+          "Wallis E Futuna"
+        ], 
+        "alias_ENG_A": [
+          "WF"
+        ], 
+        "alias_CZE_Q": [
+          "Wallis a Futuna"
+        ], 
+        "alias_CHI_Q": [
+          "\u74e6\u5229\u65af\u548c\u5bcc\u5716\u7d0d\u7fa4\u5cf6"
+        ], 
+        "alias_ITA_Q": [
+          "Wallis e Futuna"
+        ], 
+        "alias_CHI_V": [
+          "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
+        ], 
+        "woeid": 23424989, 
+        "alias_JPN_Q": [
+          "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca"
+        ], 
+        "alias_SWE_S": [
+          "Wallis- och Futunaoarna"
+        ], 
+        "alias_JPN_V": [
+          "\u30ef\u30ea\u30fc \u30a8 \u30d5\u30c8\u30a5\u30fc\u30ca\u8af8\u5cf6"
+        ], 
+        "alias_SPA_Q": [
+          "Wallis y Futuna"
+        ], 
+        "alias_FIN_Q": [
+          "Wallis- Ja Futunasaaret"
+        ], 
+        "sw_longitude": -178.207, 
+        "alias_FIN_V": [
+          "Wallis ja Futuna"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -13.283, 
+        "alias_NOR_Q": [
+          "Wallis- Og Futuna\u00f8yene"
+        ], 
+        "alias_NOR_V": [
+          "Wallis og Futuna"
+        ], 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "alias_FRE_V": [
+          "Wallis et Futuna"
+        ], 
+        "alias_KOR_Q": [
+          "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"
+        ], 
+        "alias_DAN_V": [
+          "Wallis og Futuna\u00f8erne"
+        ], 
+        "alias_DUT_Q": [
+          "Wallis en Futuna"
+        ], 
+        "alias_DUT_V": [
+          "Wallis & Futuna eilanden"
+        ], 
+        "alias_DAN_Q": [
+          "Wallis Og Futuna"
+        ], 
+        "alias_GER_Q": [
+          "Wallis Und Futuna"
+        ], 
+        "lang": "ENG", 
+        "name": "Wallis and Futuna", 
+        "alias_UNK_S": [
+          "Wallis- og Futunaoyene"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Wallis \u00c9s Futuna"
+        ], 
+        "alias_HUN_V": [
+          "Wallis \u00e9s Futuna"
+        ], 
+        "ne_longitude": -176.083, 
+        "longitude": -176.173, 
+        "iso": "WF", 
+        "sw_latitude": -14.388, 
+        "alias_RUM_V": [
+          "Wallis \u015fi Futuna"
+        ], 
+        "fullname": "Wallis and Futuna", 
+        "alias_FRE_S": [
+          "Iles Wallis et Futuna"
+        ], 
+        "alias_FRE_Q": [
+          "Wallis-Et-Futuna"
+        ]
+      }, 
+      "id": 23424989
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.674, 
+              18.960
+            ], 
+            [
+              -8.674, 
+              37.094
+            ], 
+            [
+              11.980, 
+              37.094
+            ], 
+            [
+              11.980, 
+              18.960
+            ], 
+            [
+              -8.674, 
+              18.960
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Democratic and Popular Republic of Algeria"
+        ], 
+        "alias_SWE_Q": [
+          "Algeriet"
+        ], 
+        "alias_POL_Q": [
+          "Algieria"
+        ], 
+        "ne_latitude": 37.094, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Arg\u00e9lia"
+        ], 
+        "alias_ENG_A": [
+          "DZ"
+        ], 
+        "alias_ARA_V": [
+          "Al-Djaza'ir"
+        ], 
+        "alias_CHI_Q": [
+          "\u963f\u723e\u53ca\u5229\u4e9e"
+        ], 
+        "alias_GER_V": [
+          "Demokratische Volksrepublik Algerien"
+        ], 
+        "alias_CHI_V": [
+          "\u963f\u5c14\u53ca\u5229\u4e9a"
+        ], 
+        "woeid": 23424740, 
+        "alias_JPN_Q": [
+          "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Argelia"
+        ], 
+        "sw_longitude": -8.674, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.027, 
+        "alias_NOR_Q": [
+          "Algerie"
+        ], 
+        "date_indexed": "2010-12-02T17:07:16Z", 
+        "alias_KOR_Q": [
+          "\uc54c\uc81c\ub9ac"
+        ], 
+        "alias_DUT_Q": [
+          "Algerije"
+        ], 
+        "alias_CZE_Q": [
+          "Al\u017e\u00edrsko"
+        ], 
+        "alias_DAN_Q": [
+          "Algeriet"
+        ], 
+        "alias_GER_Q": [
+          "Algerien"
+        ], 
+        "lang": "ENG", 
+        "name": "Algeria", 
+        "alias_UNK_S": [
+          "Alsir"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Arujeria"
+        ], 
+        "alias_HUN_Q": [
+          "Alg\u00e9ria"
+        ], 
+        "ne_longitude": 11.980, 
+        "longitude": 1.653, 
+        "iso": "DZ", 
+        "sw_latitude": 18.960, 
+        "fullname": "Algeria", 
+        "alias_FRE_Q": [
+          "Alg\u00e9rie"
+        ]
+      }, 
+      "id": 23424740
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              60.879, 
+              23.787
+            ], 
+            [
+              60.879, 
+              37.097
+            ], 
+            [
+              77.841, 
+              37.097
+            ], 
+            [
+              77.841, 
+              23.787
+            ], 
+            [
+              60.879, 
+              23.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Islamic Republic of Pakistan"
+        ], 
+        "alias_ENG_A": [
+          "PK"
+        ], 
+        "ne_latitude": 37.097, 
+        "alias_UNK_V": [
+          "Islamska republika Pakistan"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Paquist\u00e3o"
+        ], 
+        "alias_KOR_Q": [
+          "\ud30c\ud0a4\uc2a4\ud0c4"
+        ], 
+        "alias_POR_S": [
+          "Paquistao"
+        ], 
+        "alias_CHI_Q": [
+          "\u5df4\u57fa\u65af\u5766"
+        ], 
+        "woeid": 23424922, 
+        "alias_JPN_Q": [
+          "\u30d1\u30ad\u30b9\u30bf\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30d1\u30ad\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Pakist\u00e1n"
+        ], 
+        "alias_SPA_S": [
+          "Paquistan"
+        ], 
+        "sw_longitude": 60.879, 
+        "alias_SPA_V": [
+          "Paquist\u00e1n"
+        ], 
+        "latitude": 30.442, 
+        "date_indexed": "2010-12-02T17:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_CZE_Q": [
+          "P\u00e1kist\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Islamische Republik Pakistan"
+        ], 
+        "lang": "ENG", 
+        "name": "Pakistan", 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Pakiszt\u00e1n"
+        ], 
+        "ne_longitude": 77.841, 
+        "longitude": 69.360, 
+        "iso": "PK", 
+        "sw_latitude": 23.787, 
+        "fullname": "Pakistan"
+      }, 
+      "id": 23424922
+    }
+  ]
+}

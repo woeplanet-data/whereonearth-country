@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.679, 
+              -18.042
+            ], 
+            [
+              11.679, 
+              -4.373
+            ], 
+            [
+              24.082, 
+              -4.373
+            ], 
+            [
+              24.082, 
+              -18.042
+            ], 
+            [
+              11.679, 
+              -18.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Angolan"
+        ], 
+        "alias_ENG_A": [
+          "AO"
+        ], 
+        "ne_latitude": -4.373, 
+        "ne_longitude": 24.082, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc559\uace8\ub77c"
+        ], 
+        "alias_CHI_Q": [
+          "\u5b89\u54e5\u62c9"
+        ], 
+        "woeid": 23424745, 
+        "alias_JPN_Q": [
+          "\u30a2\u30f3\u30b4\u30e9"
+        ], 
+        "alias_JPN_V": [
+          "\u30a2\u30f3\u30b4\u30e9\u5171\u548c\u56fd"
+        ], 
+        "sw_longitude": 11.679, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -11.942, 
+        "date_indexed": "2010-12-02T17:52:20Z", 
+        "alias_GER_V": [
+          "Republik Angola"
+        ], 
+        "lang": "ENG", 
+        "name": "Angola", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ang\u00f3la"
+        ], 
+        "alias_UNK_V": [
+          "Republika Angola"
+        ], 
+        "longitude": 17.907, 
+        "iso": "AO", 
+        "sw_latitude": -18.042, 
+        "fullname": "Angola"
+      }, 
+      "id": 23424745
+    }
+  ]
+}

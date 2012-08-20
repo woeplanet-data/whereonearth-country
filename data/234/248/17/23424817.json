@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -154.700, 
+              -27.654
+            ], 
+            [
+              -154.700, 
+              10.360
+            ], 
+            [
+              -108.873, 
+              10.360
+            ], 
+            [
+              -108.873, 
+              -27.654
+            ], 
+            [
+              -154.700, 
+              -27.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Territory of French Polynesia"
+        ], 
+        "alias_SWE_Q": [
+          "Franska Polynesien"
+        ], 
+        "alias_POL_Q": [
+          "Polinezja Francuska"
+        ], 
+        "ne_latitude": 10.360, 
+        "alias_RUM_Q": [
+          "Polinezia Francez\u0103"
+        ], 
+        "alias_UNK_V": [
+          "Fransk Polynesien"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ud504\ub791\uc2a4\ub839\ud3f4\ub9ac\ub124\uc2dc\uc544"
+        ], 
+        "alias_POR_Q": [
+          "Polin\u00e9sia Francesa"
+        ], 
+        "alias_ENG_A": [
+          "PF"
+        ], 
+        "alias_CHI_Q": [
+          "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Polinesia Francese"
+        ], 
+        "alias_CHI_V": [
+          "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
+        ], 
+        "woeid": 23424817, 
+        "alias_JPN_Q": [
+          "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2"
+        ], 
+        "alias_SPA_Q": [
+          "Polinesia Francesa"
+        ], 
+        "alias_FIN_Q": [
+          "Ranskan Polynesia"
+        ], 
+        "sw_longitude": -154.700, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -17.690, 
+        "alias_NOR_Q": [
+          "Fransk Polynesia"
+        ], 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "alias_KOR_Q": [
+          "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"
+        ], 
+        "alias_DUT_Q": [
+          "Frans-Polynesi\u00eb"
+        ], 
+        "alias_DUT_S": [
+          "Frans-Polynesie"
+        ], 
+        "alias_CZE_Q": [
+          "Francouzsk\u00e1 Polyn\u00e9sie"
+        ], 
+        "alias_DAN_Q": [
+          "Fransk Polynesien"
+        ], 
+        "alias_GER_Q": [
+          "Franz\u00f6sisch-Polynesien"
+        ], 
+        "alias_GER_S": [
+          "Franzosisch-Polynesien"
+        ], 
+        "lang": "ENG", 
+        "name": "French Polynesia", 
+        "alias_UNK_S": [
+          "Franska Polynesia"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Franska P\u00f3l\u00fdnes\u00eda"
+        ], 
+        "alias_HUN_Q": [
+          "Francia Polin\u00e9zia"
+        ], 
+        "ne_longitude": -108.873, 
+        "longitude": -149.376, 
+        "iso": "PF", 
+        "sw_latitude": -27.654, 
+        "alias_FRE_V": [
+          "Territoire de la Polyn\u00e9sie Fran\u00e7aise"
+        ], 
+        "fullname": "French Polynesia", 
+        "alias_FRE_S": [
+          "Territoire de la Polynesie Francaise"
+        ], 
+        "alias_FRE_Q": [
+          "Polyn\u00e9sie Fran\u00e7aise"
+        ]
+      }, 
+      "id": 23424817
+    }
+  ]
+}

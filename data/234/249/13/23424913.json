@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.087, 
+              1.831
+            ], 
+            [
+              -58.087, 
+              6.005
+            ], 
+            [
+              -53.977, 
+              6.005
+            ], 
+            [
+              -53.977, 
+              1.831
+            ], 
+            [
+              -58.087, 
+              1.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Suriname"
+        ], 
+        "alias_ENG_A": [
+          "SR"
+        ], 
+        "alias_POL_Q": [
+          "Surinam"
+        ], 
+        "ne_latitude": 6.005, 
+        "alias_RUM_Q": [
+          "Surinam"
+        ], 
+        "alias_UNK_V": [
+          "Republika Surinam"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc218\ub9ac\ub0a8"
+        ], 
+        "alias_SWE_Q": [
+          "Surinam"
+        ], 
+        "alias_CHI_Q": [
+          "\u8607\u5229\u5357"
+        ], 
+        "alias_GER_V": [
+          "Republik Suriname"
+        ], 
+        "alias_CHI_V": [
+          "\u8607\u5229\u5357"
+        ], 
+        "woeid": 23424913, 
+        "alias_JPN_Q": [
+          "\u30b9\u30ea\u30ca\u30e0"
+        ], 
+        "alias_JPN_V": [
+          "\u30b9\u30ea\u30ca\u30e0\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Surinam"
+        ], 
+        "sw_longitude": -58.087, 
+        "alias_FIN_V": [
+          "Surinamista"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 3.918, 
+        "alias_NOR_Q": [
+          "Surinam"
+        ], 
+        "date_indexed": "2010-12-02T12:16:16Z", 
+        "alias_CZE_Q": [
+          "Surinam"
+        ], 
+        "alias_DAN_Q": [
+          "Surinam"
+        ], 
+        "lang": "ENG", 
+        "name": "Suriname", 
+        "parent_woeid": 1, 
+        "ne_longitude": -53.977, 
+        "longitude": -56.032, 
+        "iso": "SR", 
+        "sw_latitude": 1.831, 
+        "fullname": "Suriname"
+      }, 
+      "id": 23424913
+    }
+  ]
+}

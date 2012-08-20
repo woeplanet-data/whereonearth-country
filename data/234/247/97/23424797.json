@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              41.773, 
+              10.910
+            ], 
+            [
+              41.773, 
+              12.707
+            ], 
+            [
+              43.450, 
+              12.707
+            ], 
+            [
+              43.450, 
+              10.910
+            ], 
+            [
+              41.773, 
+              10.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Kingdom of Djibouti"
+        ], 
+        "alias_ENG_A": [
+          "DJ"
+        ], 
+        "alias_POL_Q": [
+          "D\u017cibuti"
+        ], 
+        "ne_latitude": 12.707, 
+        "alias_UNK_V": [
+          "D\u00edb\u00fat\u00ed"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Djibuti"
+        ], 
+        "alias_KOR_Q": [
+          "\uc9c0\ubd80\ud2f0"
+        ], 
+        "alias_CHI_Q": [
+          "\u5409\u5e03\u5730"
+        ], 
+        "alias_ITA_Q": [
+          "Gibuti"
+        ], 
+        "alias_CHI_V": [
+          "\u5409\u5e03\u5730"
+        ], 
+        "woeid": 23424797, 
+        "alias_JPN_Q": [
+          "\u30b8\u30d6\u30c1"
+        ], 
+        "alias_JPN_V": [
+          "\u30b8\u30d6\u30c1\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Yibuti"
+        ], 
+        "sw_longitude": 41.773, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.808, 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "alias_SPA_V": [
+          "Djibuti"
+        ], 
+        "alias_CZE_V": [
+          "D\u017eibuti"
+        ], 
+        "alias_CZE_Q": [
+          "D\u017eibutsko"
+        ], 
+        "alias_GER_V": [
+          "Republik Dschibuti"
+        ], 
+        "alias_GER_Q": [
+          "Dschibuti"
+        ], 
+        "lang": "ENG", 
+        "name": "Djibouti", 
+        "alias_UNK_S": [
+          "Dibuti"
+        ], 
+        "parent_woeid": 1, 
+        "alias_HUN_Q": [
+          "Dzsibuti"
+        ], 
+        "ne_longitude": 43.450, 
+        "longitude": 42.595, 
+        "iso": "DJ", 
+        "sw_latitude": 10.910, 
+        "fullname": "Djibouti"
+      }, 
+      "id": 23424797
+    }
+  ]
+}

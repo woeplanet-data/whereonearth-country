@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.268, 
+              29.497
+            ], 
+            [
+              34.268, 
+              33.433
+            ], 
+            [
+              35.941, 
+              33.433
+            ], 
+            [
+              35.941, 
+              29.497
+            ], 
+            [
+              34.268, 
+              29.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "State of Israel"
+        ], 
+        "alias_ENG_A": [
+          "IL"
+        ], 
+        "alias_POL_Q": [
+          "Izrael"
+        ], 
+        "ne_latitude": 33.433, 
+        "alias_UNK_V": [
+          "Yisra'el"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc774\uc2a4\ub77c\uc5d8"
+        ], 
+        "alias_CHI_Q": [
+          "\u4ee5\u8272\u5217"
+        ], 
+        "alias_ITA_Q": [
+          "Israele"
+        ], 
+        "woeid": 23424852, 
+        "alias_JPN_Q": [
+          "\u30a4\u30b9\u30e9\u30a8\u30eb"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd"
+        ], 
+        "sw_longitude": 34.268, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.389, 
+        "date_indexed": "2010-12-02T08:53:06Z", 
+        "alias_DUT_Q": [
+          "Isra\u00ebl"
+        ], 
+        "alias_CZE_Q": [
+          "Izrael"
+        ], 
+        "alias_GER_V": [
+          "Staat Israel"
+        ], 
+        "lang": "ENG", 
+        "name": "Israel", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Izrael"
+        ], 
+        "alias_HUN_Q": [
+          "Izrael"
+        ], 
+        "ne_longitude": 35.941, 
+        "longitude": 35.361, 
+        "iso": "IL", 
+        "sw_latitude": 29.497, 
+        "fullname": "Israel", 
+        "alias_FRE_Q": [
+          "Isra\u00ebl"
+        ]
+      }, 
+      "id": 23424852
+    }
+  ]
+}

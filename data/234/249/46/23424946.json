@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.308, 
+              6.929
+            ], 
+            [
+              -13.308, 
+              10.000
+            ], 
+            [
+              -10.284, 
+              10.000
+            ], 
+            [
+              -10.284, 
+              6.929
+            ], 
+            [
+              -13.308, 
+              6.929
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Republic of Sierra Leone"
+        ], 
+        "alias_KOR_Q": [
+          "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
+        ], 
+        "ne_latitude": 10.000, 
+        "alias_UNK_V": [
+          "Republika Sierra Leone"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\uc2dc\uc5d0\ub77c \ub9ac\uc628"
+        ], 
+        "alias_POR_Q": [
+          "Serra Leoa"
+        ], 
+        "alias_ENG_A": [
+          "SL"
+        ], 
+        "alias_CHI_Q": [
+          "\u7345\u5b50\u5c71"
+        ], 
+        "alias_CHI_V": [
+          "\u7345\u5b50\u5c71"
+        ], 
+        "woeid": 23424946, 
+        "alias_JPN_Q": [
+          "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd"
+        ], 
+        "alias_JPN_V": [
+          "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Sierra Leona"
+        ], 
+        "sw_longitude": -13.308, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.465, 
+        "date_indexed": "2010-12-02T12:08:44Z", 
+        "alias_GER_V": [
+          "Republik Sierra Leone"
+        ], 
+        "lang": "ENG", 
+        "name": "Sierra Leone", 
+        "parent_woeid": 1, 
+        "ne_longitude": -10.284, 
+        "longitude": -11.796, 
+        "iso": "SL", 
+        "sw_latitude": 6.929, 
+        "fullname": "Sierra Leone"
+      }, 
+      "id": 23424946
+    }
+  ]
+}

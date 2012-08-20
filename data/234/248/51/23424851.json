@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              44.047, 
+              25.064
+            ], 
+            [
+              44.047, 
+              39.777
+            ], 
+            [
+              63.317, 
+              39.777
+            ], 
+            [
+              63.317, 
+              25.064
+            ], 
+            [
+              44.047, 
+              25.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Empire of Iran"
+        ], 
+        "alias_ENG_A": [
+          "IR"
+        ], 
+        "ne_latitude": 39.777, 
+        "alias_UNK_V": [
+          "Islamska republika Iran"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_V": [
+          "Ir\u00e3"
+        ], 
+        "alias_POR_Q": [
+          "Ir\u00e3o"
+        ], 
+        "alias_KOR_Q": [
+          "\uc774\ub780"
+        ], 
+        "alias_POR_S": [
+          "Irao"
+        ], 
+        "alias_CHI_Q": [
+          "\u4f0a\u6717"
+        ], 
+        "woeid": 23424851, 
+        "alias_JPN_Q": [
+          "\u30a4\u30e9\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Ir\u00e1n"
+        ], 
+        "alias_SPA_S": [
+          "Iran, Rep. Islamica"
+        ], 
+        "sw_longitude": 44.047, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 32.421, 
+        "date_indexed": "2010-12-02T08:53:52Z", 
+        "alias_SPA_V": [
+          "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)"
+        ], 
+        "alias_CZE_Q": [
+          "\u00cdr\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Islamische Republik Iran"
+        ], 
+        "lang": "ENG", 
+        "name": "Iran", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "\u00cdran"
+        ], 
+        "alias_HUN_Q": [
+          "Ir\u00e1n"
+        ], 
+        "ne_longitude": 63.317, 
+        "longitude": 53.682, 
+        "iso": "IR", 
+        "sw_latitude": 25.064, 
+        "fullname": "Iran"
+      }, 
+      "id": 23424851
+    }
+  ]
+}

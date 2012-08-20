@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              34.960, 
+              29.186
+            ], 
+            [
+              34.960, 
+              33.372
+            ], 
+            [
+              39.319, 
+              33.372
+            ], 
+            [
+              39.319, 
+              29.186
+            ], 
+            [
+              34.960, 
+              29.186
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Jordanian"
+        ], 
+        "alias_SWE_Q": [
+          "Jordanien"
+        ], 
+        "alias_POL_Q": [
+          "Jordania"
+        ], 
+        "ne_latitude": 33.372, 
+        "alias_RUM_Q": [
+          "Iordania"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "Jord\u00e2nia"
+        ], 
+        "alias_ENG_A": [
+          "JO"
+        ], 
+        "alias_ARA_V": [
+          "Al Urdun"
+        ], 
+        "alias_CHI_Q": [
+          "\u7d04\u65e6"
+        ], 
+        "alias_ITA_Q": [
+          "Giordania"
+        ], 
+        "alias_CHI_V": [
+          "\u7ea6\u65e6"
+        ], 
+        "woeid": 23424860, 
+        "alias_JPN_Q": [
+          "\u30e8\u30eb\u30c0\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30e8\u30eb\u30c0\u30f3\u30fb\u30cf\u30b7\u30df\u30c6\u738b\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Jordania"
+        ], 
+        "alias_FIN_Q": [
+          "Jordaniaan"
+        ], 
+        "sw_longitude": 34.960, 
+        "alias_FIN_V": [
+          "Jordaniasta"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.279, 
+        "date_indexed": "2010-12-02T12:08:12Z", 
+        "alias_KOR_Q": [
+          "\uc694\ub974\ub2e8"
+        ], 
+        "alias_DUT_Q": [
+          "Jordani\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Jord\u00e1nsko"
+        ], 
+        "alias_GER_Q": [
+          "Jordanien"
+        ], 
+        "lang": "ENG", 
+        "name": "Jordan", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Urdunn"
+        ], 
+        "alias_HUN_Q": [
+          "Jord\u00e1nia"
+        ], 
+        "ne_longitude": 39.319, 
+        "longitude": 37.139, 
+        "iso": "JO", 
+        "sw_latitude": 29.186, 
+        "fullname": "Jordan", 
+        "alias_FRE_Q": [
+          "Jordanie"
+        ]
+      }, 
+      "id": 23424860
+    }
+  ]
+}

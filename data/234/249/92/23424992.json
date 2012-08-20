@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -172.799, 
+              -14.064
+            ], 
+            [
+              -172.799, 
+              -13.432
+            ], 
+            [
+              -171.333, 
+              -13.432
+            ], 
+            [
+              -171.333, 
+              -14.064
+            ], 
+            [
+              -172.799, 
+              -14.064
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Western Samoa"
+        ], 
+        "alias_ENG_A": [
+          "WS"
+        ], 
+        "ne_latitude": -13.432, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc0ac\ubaa8\uc544"
+        ], 
+        "alias_CHI_Q": [
+          "\u85a9\u6469\u4e9e"
+        ], 
+        "alias_ITA_V": [
+          "Samoa Occidentali"
+        ], 
+        "alias_CHI_V": [
+          "\u8428\u6469\u4e9a"
+        ], 
+        "woeid": 23424992, 
+        "alias_JPN_Q": [
+          "\u30b5\u30e2\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u897f\u30b5\u30e2\u30a2"
+        ], 
+        "sw_longitude": -172.799, 
+        "alias_SPA_V": [
+          "Samoa Occidental"
+        ], 
+        "latitude": -13.617, 
+        "date_indexed": "2010-12-02T16:50:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "alias_GER_V": [
+          "Westsamoa"
+        ], 
+        "lang": "ENG", 
+        "name": "Samoa", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Samoa i Sisifo"
+        ], 
+        "alias_HUN_Q": [
+          "Szamoa"
+        ], 
+        "ne_longitude": -171.333, 
+        "longitude": -172.482, 
+        "iso": "WS", 
+        "sw_latitude": -14.064, 
+        "alias_FRE_V": [
+          "Samoa-Occidental"
+        ], 
+        "fullname": "Samoa"
+      }, 
+      "id": 23424992
+    }
+  ]
+}

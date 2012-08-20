@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              43.216, 
+              -12.414
+            ], 
+            [
+              43.216, 
+              -11.362
+            ], 
+            [
+              44.538, 
+              -11.362
+            ], 
+            [
+              44.538, 
+              -12.414
+            ], 
+            [
+              43.216, 
+              -12.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Comoran"
+        ], 
+        "alias_SWE_Q": [
+          "Komorerna"
+        ], 
+        "alias_POL_Q": [
+          "Komory"
+        ], 
+        "ne_latitude": -11.362, 
+        "alias_RUM_Q": [
+          "Comore"
+        ], 
+        "alias_UNK_V": [
+          "Comores"
+        ], 
+        "placetype": "Country", 
+        "alias_KOR_V": [
+          "\ucf54\ubaa8\ub974"
+        ], 
+        "alias_POR_V": [
+          "Ilhas Comores"
+        ], 
+        "alias_POR_Q": [
+          "Comores"
+        ], 
+        "alias_ENG_A": [
+          "KM"
+        ], 
+        "alias_ARA_V": [
+          "Al-Qumur"
+        ], 
+        "alias_CHI_Q": [
+          "\u845b\u6469"
+        ], 
+        "alias_ITA_Q": [
+          "Comore"
+        ], 
+        "alias_GER_V": [
+          "Komoreninseln"
+        ], 
+        "alias_CHI_V": [
+          "\u845b\u6469"
+        ], 
+        "woeid": 23424786, 
+        "alias_JPN_Q": [
+          "\u30b3\u30e2\u30ed"
+        ], 
+        "alias_JPN_V": [
+          "\u30b3\u30e2\u30ed\u30fb\u30a4\u30b9\u30e9\u30e0\u9023\u90a6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Comoras"
+        ], 
+        "alias_FIN_Q": [
+          "Komorit"
+        ], 
+        "sw_longitude": 43.216, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -11.652, 
+        "alias_NOR_Q": [
+          "Komorene"
+        ], 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "alias_KOR_Q": [
+          "\ucf54\ubaa8\ub85c"
+        ], 
+        "alias_DUT_Q": [
+          "Comoren"
+        ], 
+        "alias_CZE_Q": [
+          "Komory"
+        ], 
+        "alias_DAN_Q": [
+          "Comorerne"
+        ], 
+        "alias_GER_Q": [
+          "Komoren"
+        ], 
+        "lang": "ENG", 
+        "name": "Comoros", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Islamska zvezna republika Komori"
+        ], 
+        "alias_HUN_Q": [
+          "Comore-Szigetek"
+        ], 
+        "alias_HUN_V": [
+          "Comor-szigetek"
+        ], 
+        "ne_longitude": 44.538, 
+        "longitude": 43.360, 
+        "iso": "KM", 
+        "sw_latitude": -12.414, 
+        "alias_FRE_V": [
+          "Comores (Archipel)"
+        ], 
+        "fullname": "Comoros", 
+        "alias_FRE_S": [
+          "Iles Comores"
+        ], 
+        "alias_FRE_Q": [
+          "Comores"
+        ]
+      }, 
+      "id": 23424786
+    }
+  ]
+}

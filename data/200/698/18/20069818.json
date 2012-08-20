@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              18.815, 
+              41.909
+            ], 
+            [
+              18.815, 
+              46.191
+            ], 
+            [
+              23.007, 
+              46.191
+            ], 
+            [
+              23.007, 
+              41.909
+            ], 
+            [
+              18.815, 
+              41.909
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "RS"
+        ], 
+        "alias_SWE_Q": [
+          "Serbien"
+        ], 
+        "ne_latitude": 46.191, 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "S\u00e9rvia"
+        ], 
+        "alias_KOR_Q": [
+          "\uc138\ub974\ube44\uc544"
+        ], 
+        "alias_POR_S": [
+          "Servia"
+        ], 
+        "alias_CHI_Q": [
+          "\u585e\u723e\u7dad\u4e9e"
+        ], 
+        "alias_CHI_V": [
+          "\u585e\u5c14\u7ef4\u4e9a"
+        ], 
+        "woeid": 20069818, 
+        "alias_JPN_Q": [
+          "\u30bb\u30eb\u30d3\u30a2"
+        ], 
+        "sw_longitude": 18.815, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.050, 
+        "date_indexed": "2010-12-02T10:22:38Z", 
+        "alias_DUT_Q": [
+          "Servi\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "Srbsko"
+        ], 
+        "alias_DAN_Q": [
+          "Serbien"
+        ], 
+        "alias_GER_Q": [
+          "Serbien"
+        ], 
+        "lang": "ENG", 
+        "name": "Serbia", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Srbija"
+        ], 
+        "alias_HUN_Q": [
+          "Szerbia"
+        ], 
+        "ne_longitude": 23.007, 
+        "longitude": 20.911, 
+        "iso": "RS", 
+        "sw_latitude": 41.909, 
+        "fullname": "Serbia", 
+        "alias_FRE_Q": [
+          "Serbie"
+        ]
+      }, 
+      "id": 20069818
+    }
+  ]
+}

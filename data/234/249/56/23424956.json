@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              35.727, 
+              32.311
+            ], 
+            [
+              35.727, 
+              37.319
+            ], 
+            [
+              42.385, 
+              37.319
+            ], 
+            [
+              42.385, 
+              32.311
+            ], 
+            [
+              35.727, 
+              32.311
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "alias_ENG_V": [
+          "Syrian Arab Republic"
+        ], 
+        "alias_SWE_Q": [
+          "Syrien"
+        ], 
+        "ne_latitude": 37.319, 
+        "alias_RUM_Q": [
+          "Siria"
+        ], 
+        "alias_UNK_V": [
+          "Sirska arabska republika"
+        ], 
+        "placetype": "Country", 
+        "alias_POR_Q": [
+          "S\u00edria"
+        ], 
+        "alias_ENG_A": [
+          "SY"
+        ], 
+        "alias_CHI_Q": [
+          "\u6558\u5229\u4e9e"
+        ], 
+        "alias_ITA_Q": [
+          "Siria"
+        ], 
+        "alias_GER_V": [
+          "Arabische Republik Syrien"
+        ], 
+        "alias_CHI_V": [
+          "\u53d9\u5229\u4e9a"
+        ], 
+        "woeid": 23424956, 
+        "alias_JPN_Q": [
+          "\u30b7\u30ea\u30a2"
+        ], 
+        "alias_JPN_V": [
+          "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
+        ], 
+        "alias_SPA_Q": [
+          "Siria"
+        ], 
+        "alias_FIN_Q": [
+          "Syyria"
+        ], 
+        "sw_longitude": 35.727, 
+        "alias_FIN_V": [
+          "Syyriaan"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 34.815, 
+        "date_indexed": "2010-12-02T07:50:25Z", 
+        "alias_KOR_Q": [
+          "\uc2dc\ub9ac\uc544"
+        ], 
+        "alias_SPA_V": [
+          "Siria, Republica Arabe"
+        ], 
+        "alias_DUT_Q": [
+          "Syri\u00eb"
+        ], 
+        "alias_CZE_Q": [
+          "S\u00fdrie"
+        ], 
+        "alias_DAN_Q": [
+          "Syrien"
+        ], 
+        "alias_GER_Q": [
+          "Syrien"
+        ], 
+        "lang": "ENG", 
+        "name": "Syria", 
+        "alias_UNK_S": [
+          "Syrland"
+        ], 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "S\u00fdrland"
+        ], 
+        "alias_HUN_Q": [
+          "Sz\u00edria"
+        ], 
+        "alias_HUN_V": [
+          "Sz\u00edriai Arab K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
+        "ne_longitude": 42.385, 
+        "longitude": 39.056, 
+        "iso": "SY", 
+        "sw_latitude": 32.311, 
+        "fullname": "Syria", 
+        "alias_FRE_Q": [
+          "Syrie"
+        ]
+      }, 
+      "id": 23424956
+    }
+  ]
+}
