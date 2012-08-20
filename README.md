@@ -4,17 +4,19 @@ whereonearth-country
 The short version
 --
 
-Where On Earth (WOE) data for countries smushed up with Natural Earth data for
-countries. That's fancy talk for "polygons".
+Where On Earth (WOE) data for countries smushed up with Natural Earth (NE) data
+for countries. That's fancy talk for "polygons".
 
 The longer version
 --
 
 It's still a bit of a moving target, specifically formatting and normalizing ket
-names in the `properties` hash. For example, all the Natural Earth (NE) property
-keys are prefixed with `ne:`. Most but not all the records have NE geometries
-associated with them. Those are the kinds of fiddly details that still need to
-be worked out.
+names in the `properties` hash. For example, all the NE property keys are
+prefixed with `ne:`. Most but not all the records have NE geometries associated
+with them. Those are the kinds of fiddly details that still need to be worked
+out.
+
+Suggestions and gentle cluebats are absolutely welcome.
 
 Also I'd really like to include Geonames IDs since that would be both easy and
 useful. Please for to be sending me a pull request if you've already got that
