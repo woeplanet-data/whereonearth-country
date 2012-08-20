@@ -198,14 +198,16 @@
         "alias_ENG_V": [
           "RS"
         ], 
+        "alias_HUN_Q": [
+          "Szerbia"
+        ], 
         "alias_SWE_Q": [
           "Serbien"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 46.191, 
+        "ne_latitude": 46.17172984474456, 
         "ne:SUBUNIT": "Republic of Serbia", 
-        "ne:POSTAL": "RS", 
-        "ne:NAME_SORT": "Serbia", 
+        "ne_longitude": 22.986018507588483, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "S\u00e9rvia"
@@ -216,24 +218,22 @@
         "alias_POR_S": [
           "Servia"
         ], 
-        "ne:ISO_N3": 688.0, 
         "ne:ADM0_A3": "SRB", 
+        "ne:SOVEREIGNT": "Republic of Serbia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u585e\u723e\u7dad\u4e9e"
         ], 
         "ne:NAME": "Serbia", 
-        "alias_CHI_V": [
-          "\u585e\u5c14\u7ef4\u4e9a"
-        ], 
+        "ne:POSTAL": "RS", 
         "alias_JPN_Q": [
           "\u30bb\u30eb\u30d3\u30a2"
         ], 
+        "fullname": "Serbia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 18.82982, 
         "ne:SOV_A3": "SRB", 
-        "sw_longitude": 18.815, 
-        "ne:GDP_MD_EST": 80340.0, 
         "ne:SU_A3": "SRB", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 44.05, 
@@ -262,7 +262,7 @@
         "alias_GER_Q": [
           "Serbien"
         ], 
-        "ne:SOVEREIGNT": "Republic of Serbia", 
+        "ne:ISO_N3": 688.0, 
         "lang": "ENG", 
         "name": "Serbia", 
         "ne:TYPE": "Sovereign country", 
@@ -270,21 +270,27 @@
         "alias_UNK_Q": [
           "Srbija"
         ], 
-        "alias_HUN_Q": [
-          "Szerbia"
+        "alias_CHI_V": [
+          "\u585e\u5c14\u7ef4\u4e9a"
         ], 
-        "ne_longitude": 23.007, 
+        "ne:NAME_SORT": "Serbia", 
         "longitude": 20.911, 
         "ne:POP_EST": 7379339.0, 
         "iso": "RS", 
-        "sw_latitude": 41.909, 
+        "sw_latitude": 42.24522439706186, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Serbia", 
+        "ne:GDP_MD_EST": 80340.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Serbie"
         ]
       }, 
+      "bbox": [
+        18.82982, 
+        42.24522439706186, 
+        22.986018507588483, 
+        46.17172984474456
+      ], 
       "id": 20069818
     }
   ]

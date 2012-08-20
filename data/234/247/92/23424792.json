@@ -271,19 +271,15 @@
         "alias_POL_Q": [
           "Republika \u015arodkowoafryka\u0144ska"
         ], 
-        "ne_latitude": 11.008, 
+        "ne_latitude": 11.142395127807546, 
         "ne:SUBUNIT": "Central African Republic", 
-        "ne:GU_A3": "CAF", 
         "alias_RUM_Q": [
           "Republica Centrafrican\u0103"
         ], 
-        "ne_longitude": 27.463, 
+        "ne:NAME_SORT": "Central African Republic", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc911\uc559 \uc544\ud504\ub9ac\uce74"
-        ], 
-        "alias_RUM_V": [
-          "Republica Central African\u0103"
         ], 
         "alias_POR_Q": [
           "Rep\u00fablica Centro-Africana"
@@ -294,9 +290,8 @@
         "alias_POR_S": [
           "Republica Centro-Africana"
         ], 
-        "ne:POSTAL": "CF", 
-        "ne:ISO_N3": 140.0, 
         "ne:ADM0_A3": "CAF", 
+        "ne:SOVEREIGNT": "Central African Republic", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e2d\u975e"
@@ -307,7 +302,13 @@
         "alias_ITA_V": [
           "Repubblica Centrafricana"
         ], 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "CF", 
+        "alias_KOR_Q": [
+          "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_GER_Q": [
+          "Zentralafrikanische Republik"
+        ], 
         "alias_JPN_Q": [
           "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab"
         ], 
@@ -319,17 +320,16 @@
         "alias_SPA_Q": [
           "Rep\u00fablica Centroafricana"
         ], 
-        "alias_FIN_Q": [
-          "Keski-Afrikan tasavalta"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Republica Centroafricana"
         ], 
+        "sw_longitude": 14.459407179429348, 
         "ne:SOV_A3": "CAF", 
-        "sw_longitude": 14.42, 
-        "ne:GDP_MD_EST": 3198.0, 
         "ne:SU_A3": "CAF", 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "Republica Central African\u0103"
+        ], 
         "latitude": 6.614, 
         "woe:id": 23424792, 
         "alias_NOR_Q": [
@@ -338,15 +338,21 @@
         "ne:ISO_A3": "CAF", 
         "ne:ISO_A2": "CF", 
         "date_indexed": "2010-12-02T17:43:32Z", 
-        "ne:NAME_SORT": "Central African Republic", 
-        "alias_KOR_Q": [
-          "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        "ne:NAME_FORMA": "Central African Republic", 
+        "fullname": "Central African Republic", 
+        "alias_FRE_V": [
+          "Centrafricaine, r\u00e9publique"
         ], 
+        "ne:GU_A3": "CAF", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Central African Republic", 
         "ne:GEOUNIT": "Central African Republic", 
         "ne:LabelRank": 1, 
+        "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Keski-Afrikka"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Centraal-Afrikaanse Republiek"
@@ -355,41 +361,35 @@
         "alias_CZE_Q": [
           "St\u0159edoafrick\u00e1 Republika"
         ], 
+        "alias_FIN_Q": [
+          "Keski-Afrikan tasavalta"
+        ], 
         "alias_DAN_Q": [
           "Centralafrikanske Republik"
         ], 
         "alias_DAN_V": [
           "Den Centralafrikanske Republik"
         ], 
-        "ne:SOVEREIGNT": "Central African Republic", 
+        "ne:ISO_N3": 140.0, 
         "ne:NAME": "Central African Rep.", 
         "lang": "ENG", 
-        "ne:TYPE": "Sovereign country", 
         "name": "Central African Republic", 
-        "alias_UNK_S": [
-          "Midafrikulydveldid"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "K\u00f6z\u00e9p-Afrikai K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "alias_GER_Q": [
-          "Zentralafrikanische Republik"
-        ], 
-        "alias_UNK_V": [
-          "Keski-Afrikka"
-        ], 
+        "ne_longitude": 27.37422610851749, 
         "longitude": 20.942, 
         "ne:POP_EST": 4511488.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "CF", 
-        "sw_latitude": 2.221, 
-        "alias_FRE_V": [
-          "Centrafricaine, r\u00e9publique"
+        "alias_UNK_S": [
+          "Midafrikulydveldid"
         ], 
-        "fullname": "Central African Republic", 
-        "ne:NAME_FORMA": "Central African Republic", 
+        "iso": "CF", 
+        "sw_latitude": 2.267639675298085, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 3198.0, 
         "alias_FRE_S": [
           "Republique Centrafricaine"
         ], 
@@ -397,6 +397,12 @@
           "R\u00e9publique Centrafricaine"
         ]
       }, 
+      "bbox": [
+        14.459407179429348, 
+        2.267639675298085, 
+        27.37422610851749, 
+        11.142395127807546
+      ], 
       "id": 23424792
     }
   ]

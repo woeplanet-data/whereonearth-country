@@ -196,8 +196,8 @@
         "alias_POL_Q": [
           "Wietnam"
         ], 
-        "ne_latitude": 23.389, 
-        "ne:NAME_SORT": "Vietnam", 
+        "ne_latitude": 23.352063300056912, 
+        "ne_longitude": 109.33526981001722, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Vietn\u00e3"
@@ -209,8 +209,8 @@
           "VN"
         ], 
         "ne:SUBUNIT": "Vietnam", 
-        "ne:ISO_N3": 704.0, 
         "ne:ADM0_A3": "VNM", 
+        "ne:SOVEREIGNT": "Vietnam", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8d8a\u5357"
@@ -226,9 +226,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 102.17043582561358, 
         "ne:SOV_A3": "VNM", 
-        "sw_longitude": 102.148, 
-        "ne:GDP_MD_EST": 241700.0, 
         "ne:SU_A3": "VNM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.974, 
@@ -237,6 +236,7 @@
         "ne:ISO_A2": "VN", 
         "date_indexed": "2010-12-02T08:52:49Z", 
         "ne:NAME_FORMA": "Socialist Republic of Vietnam", 
+        "fullname": "Vietnam", 
         "ne:GU_A3": "VNM", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Vietnam", 
@@ -244,12 +244,14 @@
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Viet Nam"
+        ], 
         "ne:ABBREV": "Viet.", 
         "alias_DUT_V": [
           "Viet-Nam"
         ], 
-        "ne:SOVEREIGNT": "Vietnam", 
+        "ne:ISO_N3": 704.0, 
         "lang": "ENG", 
         "name": "Vietnam", 
         "ne:TYPE": "Sovereign country", 
@@ -257,20 +259,24 @@
         "alias_UNK_Q": [
           "V\u00edetnam"
         ], 
-        "ne_longitude": 109.467, 
+        "ne:NAME_SORT": "Vietnam", 
         "longitude": 107.868, 
         "ne:POP_EST": 86967524.0, 
         "iso": "VN", 
-        "sw_latitude": 8.408, 
-        "alias_FRE_V": [
-          "Viet Nam"
-        ], 
-        "fullname": "Vietnam", 
+        "sw_latitude": 8.599759629750494, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 241700.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Vi\u00eat Nam"
         ]
       }, 
+      "bbox": [
+        102.17043582561358, 
+        8.599759629750494, 
+        109.33526981001722, 
+        23.352063300056912
+      ], 
       "id": 23424984
     }
   ]

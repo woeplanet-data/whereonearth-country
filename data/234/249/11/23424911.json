@@ -106,28 +106,28 @@
         "alias_ENG_V": [
           "Kingdom of Nepal"
         ], 
+        "alias_HUN_Q": [
+          "Nep\u00e1l"
+        ], 
         "alias_KOR_Q": [
           "\ub124\ud314"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 30.433, 
-        "ne:POSTAL": "NP", 
-        "ne_longitude": 88.199, 
+        "ne_latitude": 30.42271698660863, 
+        "ne:NAME_SORT": "Nepal", 
         "placetype": "Country", 
         "alias_ENG_A": [
           "NP"
         ], 
         "ne:SUBUNIT": "Nepal", 
-        "ne:ISO_N3": 524.0, 
         "ne:ADM0_A3": "NPL", 
+        "ne:SOVEREIGNT": "Nepal", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5c3c\u6cca\u723e"
         ], 
         "ne:NAME": "Nepal", 
-        "alias_CHI_V": [
-          "\u5c3c\u6cca\u723e"
-        ], 
+        "ne:POSTAL": "NP", 
         "alias_JPN_Q": [
           "\u30cd\u30d1\u30fc\u30eb"
         ], 
@@ -136,9 +136,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 80.08842451367627, 
         "ne:SOV_A3": "NPL", 
-        "sw_longitude": 80.056, 
-        "ne:GDP_MD_EST": 31080.0, 
         "ne:SU_A3": "NPL", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 28.395, 
@@ -146,13 +145,17 @@
         "ne:ISO_A3": "NPL", 
         "ne:ISO_A2": "NP", 
         "date_indexed": "2010-12-02T18:18:47Z", 
-        "ne:NAME_SORT": "Nepal", 
+        "ne:NAME_FORMA": "Kingdom of Nepal", 
+        "fullname": "Nepal", 
         "ne:GU_A3": "NPL", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Nepal", 
         "ne:GEOUNIT": "Nepal", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Kraljevina Nepal"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Nepal", 
         "alias_CZE_Q": [
@@ -161,7 +164,7 @@
         "alias_GER_V": [
           "K\u00f6nigreich Nepal"
         ], 
-        "ne:SOVEREIGNT": "Nepal", 
+        "ne:ISO_N3": 524.0, 
         "alias_GER_S": [
           "Konigreich Nepal"
         ], 
@@ -170,23 +173,26 @@
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Nep\u00e1l"
+        "alias_CHI_V": [
+          "\u5c3c\u6cca\u723e"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Nepal"
-        ], 
+        "ne_longitude": 88.17480431514092, 
         "longitude": 84.128, 
         "ne:POP_EST": 28563377.0, 
         "iso": "NP", 
-        "sw_latitude": 26.357, 
+        "sw_latitude": 26.397898057556077, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Nepal", 
-        "ne:NAME_FORMA": "Kingdom of Nepal", 
+        "ne:GDP_MD_EST": 31080.0, 
         "alias_FRE_Q": [
           "N\u00e9pal"
         ]
       }, 
+      "bbox": [
+        80.08842451367627, 
+        26.397898057556077, 
+        88.17480431514092, 
+        30.42271698660863
+      ], 
       "id": 23424911
     }
   ]

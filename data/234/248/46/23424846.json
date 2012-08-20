@@ -1064,20 +1064,21 @@
         "alias_ENG_V": [
           "Republic of Indonesia"
         ], 
+        "alias_HUN_Q": [
+          "Indon\u00e9zia"
+        ], 
         "alias_SWE_Q": [
           "Indonesien"
         ], 
         "alias_ENG_P": [
           "Indonesia"
         ], 
-        "ne_latitude": 6.076, 
-        "ne:GU_A3": "IDN", 
+        "ne_latitude": 5.479820868344817, 
         "alias_RUM_Q": [
           "Indonezia"
         ], 
-        "ne_longitude": 141.022, 
+        "ne:NAME_SORT": "Indonesia", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Indon\u00e9sia"
         ], 
@@ -1085,9 +1086,8 @@
           "ID"
         ], 
         "ne:SUBUNIT": "Indonesia", 
-        "ne:POSTAL": "INDO", 
-        "ne:ISO_N3": 360.0, 
         "ne:ADM0_A3": "IDN", 
+        "ne:SOVEREIGNT": "Indonesia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5370\u5ea6\u5c3c\u897f\u4e9e"
@@ -1095,12 +1095,13 @@
         "alias_ITA_Q": [
           "Indonesia"
         ], 
-        "alias_DAN_Q": [
-          "Indonesien"
+        "alias_GER_V": [
+          "Republik Indonesien"
         ], 
         "ne:NAME": "Indonesia", 
-        "alias_CHI_V": [
-          "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+        "ne:POSTAL": "INDO", 
+        "alias_KOR_Q": [
+          "\uc778\ub3c4\ub124\uc2dc\uc544"
         ], 
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2"
@@ -1115,12 +1116,9 @@
         "alias_SPA_Q": [
           "Indonesia"
         ], 
-        "alias_FIN_Q": [
-          "Indonesia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 95.29302615761733, 
         "ne:SOV_A3": "IDN", 
-        "sw_longitude": 94.97, 
-        "ne:GDP_MD_EST": 914600.0, 
         "ne:SU_A3": "IDN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 0.11, 
@@ -1131,15 +1129,20 @@
         "ne:ISO_A3": "IDN", 
         "ne:ISO_A2": "ID", 
         "date_indexed": "2010-12-02T16:54:32Z", 
-        "ne:NAME_SORT": "Indonesia", 
-        "alias_KOR_Q": [
-          "\uc778\ub3c4\ub124\uc2dc\uc544"
+        "ne:NAME_FORMA": "Republic of Indonesia", 
+        "fullname": "Republik Indonesia, Indonesia", 
+        "alias_FRE_V": [
+          "Indes orientales n\u00e9erlandaises"
         ], 
+        "ne:GU_A3": "IDN", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Indonesia", 
         "ne:GEOUNIT": "Indonesia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Indonezija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Indonesi\u00eb"
@@ -1152,13 +1155,19 @@
         "alias_CZE_Q": [
           "Indon\u00e9sie"
         ], 
-        "alias_GER_V": [
-          "Republik Indonesien"
+        "alias_FRE_S": [
+          "Indonesie"
+        ], 
+        "alias_FIN_Q": [
+          "Indonesia"
+        ], 
+        "alias_DAN_Q": [
+          "Indonesien"
         ], 
         "alias_GER_Q": [
           "Indonesien"
         ], 
-        "ne:SOVEREIGNT": "Indonesia", 
+        "ne:ISO_N3": 360.0, 
         "lang": "UNK", 
         "name": "Republik Indonesia", 
         "ne:TYPE": "Sovereign country", 
@@ -1166,30 +1175,27 @@
         "alias_UNK_Q": [
           "Ind\u00f3nes\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Indon\u00e9zia"
+        "alias_CHI_V": [
+          "\u5370\u5ea6\u5c3c\u897f\u4e9a"
         ], 
-        "alias_UNK_V": [
-          "Republika Indonezija"
-        ], 
+        "ne_longitude": 141.0338517600139, 
         "longitude": 113.917, 
         "ne:POP_EST": 240271522.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "ID", 
-        "sw_latitude": -11.005, 
-        "alias_FRE_V": [
-          "Indes orientales n\u00e9erlandaises"
-        ], 
+        "sw_latitude": -10.359987481327963, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 914600.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Republik Indonesia, Indonesia", 
-        "ne:NAME_FORMA": "Republic of Indonesia", 
-        "alias_FRE_S": [
-          "Indonesie"
-        ], 
         "alias_FRE_Q": [
           "Indon\u00e9sie"
         ]
       }, 
+      "bbox": [
+        95.29302615761733, 
+        -10.359987481327963, 
+        141.0338517600139, 
+        5.479820868344817
+      ], 
       "id": 23424846
     }
   ]

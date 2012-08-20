@@ -542,19 +542,21 @@
         "alias_ENG_V": [
           "Greenlander"
         ], 
+        "alias_HUN_Q": [
+          "Gr\u00f6nland"
+        ], 
         "alias_SWE_Q": [
           "Gr\u00f6nland"
         ], 
         "alias_SWE_S": [
           "Gronland"
         ], 
-        "ne_latitude": 83.627, 
+        "ne_latitude": 83.64513, 
         "ne:SUBUNIT": "Greenland", 
-        "ne:GU_A3": "GRL", 
         "alias_RUM_Q": [
           "Groenlanda"
         ], 
-        "ne_longitude": -11.312, 
+        "ne:NAME_SORT": "Greenland", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uadf8\ub9b0\ub79c\ub4dc"
@@ -571,9 +573,8 @@
         "alias_POR_S": [
           "Gronelandia"
         ], 
-        "ne:POSTAL": "GL", 
-        "ne:ISO_N3": 304.0, 
         "ne:ADM0_A3": "GRL", 
+        "ne:SOVEREIGNT": "Denmark", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u683c\u9675\u862d"
@@ -582,8 +583,12 @@
           "Groenlandia"
         ], 
         "ne:NAME": "Greenland", 
-        "alias_CHI_V": [
-          "\u683c\u9675\u5170"
+        "ne:POSTAL": "GL", 
+        "alias_KOR_Q": [
+          "\uadf8\ub9b0\ub780\ub4dc"
+        ], 
+        "alias_GER_Q": [
+          "Gr\u00f6nland"
         ], 
         "alias_JPN_Q": [
           "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9"
@@ -591,6 +596,7 @@
         "alias_POL_Q": [
           "Grenlandia"
         ], 
+        "fullname": "Greenland", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Groenlandia"
@@ -599,8 +605,8 @@
         "alias_FIN_S": [
           "Gronlannista"
         ], 
-        "sw_longitude": -73.263, 
-        "ne:GDP_MD_EST": 1100.0, 
+        "sw_longitude": -73.297, 
+        "ne:SOV_A3": "DN1", 
         "alias_FIN_V": [
           "Gr\u00f6nlannista"
         ], 
@@ -616,16 +622,17 @@
         "ne:ISO_A3": "GRL", 
         "ne:ISO_A2": "GL", 
         "date_indexed": "2010-12-02T17:40:29Z", 
-        "ne:NAME_SORT": "Greenland", 
-        "alias_KOR_Q": [
-          "\uadf8\ub9b0\ub780\ub4dc"
-        ], 
+        "ne:NAME_FORMA": null, 
+        "ne:GU_A3": "GRL", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Greenland", 
         "ne:SU_A3": "GRL", 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "DN1", 
+        "ne:LEVEL": 2.0, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Gr\u00f6nlanti"
+        ], 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Groenland"
@@ -646,7 +653,7 @@
         "alias_DAN_V": [
           "Kalaalit Nunnat"
         ], 
-        "ne:SOVEREIGNT": "Denmark", 
+        "ne:ISO_N3": 304.0, 
         "alias_GER_S": [
           "Gronland"
         ], 
@@ -660,29 +667,28 @@
         "alias_UNK_Q": [
           "Gr\u00e6nland"
         ], 
-        "alias_HUN_Q": [
-          "Gr\u00f6nland"
+        "alias_CHI_V": [
+          "\u683c\u9675\u5170"
         ], 
-        "alias_GER_Q": [
-          "Gr\u00f6nland"
-        ], 
-        "alias_UNK_V": [
-          "Gr\u00f6nlanti"
-        ], 
+        "ne_longitude": -12.20855, 
         "longitude": -42.177, 
         "ne:POP_EST": 57600.0, 
         "ne:TYPE": "Country", 
         "iso": "GL", 
-        "sw_latitude": 59.777, 
+        "sw_latitude": 60.03676, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1100.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Greenland", 
-        "ne:NAME_FORMA": null, 
-        "ne:LEVEL": 2.0, 
         "alias_FRE_Q": [
           "Groenland"
         ]
       }, 
+      "bbox": [
+        -73.297, 
+        60.03676, 
+        -12.20855, 
+        83.64513
+      ], 
       "id": 23424828
     }
   ]

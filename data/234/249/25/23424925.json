@@ -152,12 +152,11 @@
         "alias_POL_Q": [
           "Portugalia"
         ], 
-        "ne_latitude": 42.154, 
-        "ne:POSTAL": "P", 
+        "ne_latitude": 42.28046865495034, 
         "alias_RUM_Q": [
           "Portugalia"
         ], 
-        "ne_longitude": -6.189, 
+        "ne:NAME_SORT": "Portugal", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud3ec\ub974\ud2b8\uce7c"
@@ -169,8 +168,8 @@
           "\ud3ec\ub974\ud22c\uac08"
         ], 
         "ne:SUBUNIT": "Portugal", 
-        "ne:ISO_N3": 620.0, 
         "ne:ADM0_A3": "PRT", 
+        "ne:SOVEREIGNT": "Portugal", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8461\u8404\u7259"
@@ -181,7 +180,7 @@
         "alias_ITA_V": [
           "Portogallo"
         ], 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "P", 
         "alias_JPN_Q": [
           "\u30dd\u30eb\u30c8\u30ac\u30eb"
         ], 
@@ -190,12 +189,9 @@
           "\u30dd\u30eb\u30c8\u30ac\u30eb\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Portugali"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -9.526570603869715, 
         "ne:SOV_A3": "PRT", 
-        "sw_longitude": -31.266, 
-        "ne:GDP_MD_EST": 236500.0, 
         "ne:SU_A3": "PR1", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 39.558, 
@@ -203,22 +199,29 @@
         "ne:ISO_A3": "PRT", 
         "ne:ISO_A2": "PT", 
         "date_indexed": "2010-12-02T10:00:50Z", 
-        "ne:NAME_SORT": "Portugal", 
+        "ne:NAME_FORMA": "Portuguese Republic", 
+        "fullname": "Portugal", 
         "ne:GU_A3": "PRT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Portugal", 
         "ne:GEOUNIT": "Portugal", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Portogal\u00eda"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Port.", 
         "alias_CZE_Q": [
           "Portugalsko"
         ], 
+        "alias_FIN_Q": [
+          "Portugali"
+        ], 
         "alias_GER_V": [
           "Portugiesische Republik"
         ], 
-        "ne:SOVEREIGNT": "Portugal", 
+        "ne:ISO_N3": 620.0, 
         "ne:NAME": "Portugal", 
         "lang": "POR", 
         "name": "Portugal", 
@@ -232,19 +235,22 @@
         "alias_HUN_Q": [
           "Portug\u00e1lia"
         ], 
-        "alias_UNK_V": [
-          "Portogal\u00eda"
-        ], 
+        "ne_longitude": -6.389087693700915, 
         "longitude": -7.845, 
         "ne:POP_EST": 10707924.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "PT", 
-        "sw_latitude": 30.028, 
+        "sw_latitude": 36.83826854099627, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Portugal", 
-        "ne:NAME_FORMA": "Portuguese Republic", 
+        "ne:GDP_MD_EST": 236500.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -9.526570603869715, 
+        36.83826854099627, 
+        -6.389087693700915, 
+        42.28046865495034
+      ], 
       "id": 23424925
     }
   ]

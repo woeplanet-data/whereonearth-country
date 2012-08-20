@@ -832,12 +832,11 @@
         "alias_POL_Q": [
           "Brazylia"
         ], 
-        "ne_latitude": 5.265, 
-        "ne:GU_A3": "BRA", 
+        "ne_latitude": 5.244486395687602, 
         "alias_RUM_Q": [
           "Brazilia"
         ], 
-        "ne_longitude": -28.839, 
+        "ne:NAME_SORT": "Brazil", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Estados Unidos do Brazil"
@@ -846,9 +845,8 @@
           "BR"
         ], 
         "ne:SUBUNIT": "Brazil", 
-        "ne:POSTAL": "BR", 
-        "ne:ISO_N3": 76.0, 
         "ne:ADM0_A3": "BRA", 
+        "ne:SOVEREIGNT": "Brazil", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u897f"
@@ -856,11 +854,14 @@
         "alias_ITA_Q": [
           "Brasile"
         ], 
-        "alias_DAN_Q": [
-          "Brasilien"
+        "alias_GER_V": [
+          "F\u00f6derative Republik Brasilien"
         ], 
         "ne:NAME": "Brazil", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "BR", 
+        "alias_KOR_Q": [
+          "\ube0c\ub77c\uc9c8"
+        ], 
         "alias_JPN_Q": [
           "\u30d6\u30e9\u30b8\u30eb"
         ], 
@@ -874,12 +875,9 @@
         "alias_SPA_Q": [
           "Brasil"
         ], 
-        "alias_FIN_Q": [
-          "Brasilia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -73.98723548042966, 
         "ne:SOV_A3": "BRA", 
-        "sw_longitude": -73.986, 
-        "ne:GDP_MD_EST": 1993000.0, 
         "alias_FIN_V": [
           "Brasiliasta"
         ], 
@@ -892,15 +890,17 @@
         "ne:ISO_A3": "BRA", 
         "ne:ISO_A2": "BR", 
         "date_indexed": "2010-12-02T18:01:28Z", 
-        "ne:NAME_SORT": "Brazil", 
-        "alias_KOR_Q": [
-          "\ube0c\ub77c\uc9c8"
-        ], 
+        "ne:NAME_FORMA": "Federative Republic of Brazil", 
+        "fullname": "Brasil, Brazil", 
+        "ne:GU_A3": "BRA", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Brazil", 
         "ne:SU_A3": "BRA", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Burajiru"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Brazili\u00eb"
@@ -913,13 +913,19 @@
         "alias_CZE_Q": [
           "Braz\u00edlie"
         ], 
-        "alias_GER_V": [
-          "F\u00f6derative Republik Brasilien"
+        "alias_FRE_S": [
+          "Bresil"
+        ], 
+        "alias_FIN_Q": [
+          "Brasilia"
+        ], 
+        "alias_DAN_Q": [
+          "Brasilien"
         ], 
         "alias_GER_Q": [
           "Brasilien"
         ], 
-        "ne:SOVEREIGNT": "Brazil", 
+        "ne:ISO_N3": 76.0, 
         "alias_GER_S": [
           "Foderative Republik Brasilien"
         ], 
@@ -934,24 +940,24 @@
         "alias_HUN_Q": [
           "Braz\u00edlia"
         ], 
-        "alias_UNK_V": [
-          "Burajiru"
-        ], 
+        "ne_longitude": -34.729993455533034, 
         "longitude": -54.388, 
         "ne:POP_EST": 198739269.0, 
         "iso": "BR", 
-        "sw_latitude": -33.751, 
+        "sw_latitude": -33.768377780900764, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1993000.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Brasil, Brazil", 
-        "ne:NAME_FORMA": "Federative Republic of Brazil", 
-        "alias_FRE_S": [
-          "Bresil"
-        ], 
         "alias_FRE_Q": [
           "Br\u00e9sil"
         ]
       }, 
+      "bbox": [
+        -73.98723548042966, 
+        -33.768377780900764, 
+        -34.729993455533034, 
+        5.244486395687602
+      ], 
       "id": 23424768
     }
   ]

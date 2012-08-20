@@ -94,13 +94,15 @@
         "alias_ENG_V": [
           "Hayastan"
         ], 
+        "alias_HUN_Q": [
+          "\u00d6rm\u00e9nyorsz\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Armenien"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 41.302, 
-        "ne:GU_A3": "ARM", 
-        "ne_longitude": 46.63, 
+        "ne_latitude": 41.248128567055595, 
+        "ne:NAME_SORT": "Armenia", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Arm\u00eania"
@@ -112,17 +114,14 @@
           "\uc544\ub974\uba54\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Armenia", 
-        "ne:POSTAL": "ARM", 
-        "ne:ISO_N3": 51.0, 
         "ne:ADM0_A3": "ARM", 
+        "ne:SOVEREIGNT": "Armenia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e9e\u7f8e\u5c3c\u4e9e"
         ], 
         "ne:NAME": "Armenia", 
-        "alias_CHI_V": [
-          "\u4e9a\u7f8e\u5c3c\u4e9a"
-        ], 
+        "ne:POSTAL": "ARM", 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30e1\u30cb\u30a2"
         ], 
@@ -131,9 +130,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 43.58274580259273, 
         "ne:SOV_A3": "ARM", 
-        "sw_longitude": 43.45, 
-        "ne:GDP_MD_EST": 18770.0, 
         "ne:SU_A3": "ARM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.066, 
@@ -141,15 +139,17 @@
         "ne:ISO_A3": "ARM", 
         "ne:ISO_A2": "AM", 
         "date_indexed": "2010-12-02T12:16:10Z", 
-        "ne:NAME_SORT": "Armenia", 
-        "alias_ENG_A": [
-          "AM"
-        ], 
+        "ne:NAME_FORMA": "Republic of Armenia", 
+        "fullname": "Armenia", 
+        "ne:GU_A3": "ARM", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Armenia", 
         "ne:GEOUNIT": "Armenia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Armenija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Armeni\u00eb"
@@ -161,13 +161,16 @@
         "alias_CZE_Q": [
           "Arm\u00e9nie"
         ], 
+        "alias_FRE_S": [
+          "Armenie"
+        ], 
         "alias_DAN_Q": [
           "Armenien"
         ], 
         "alias_GER_Q": [
           "Armenien"
         ], 
-        "ne:SOVEREIGNT": "Armenia", 
+        "ne:ISO_N3": 51.0, 
         "lang": "ENG", 
         "name": "Armenia", 
         "ne:TYPE": "Sovereign country", 
@@ -175,27 +178,30 @@
         "alias_UNK_Q": [
           "Armen\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "\u00d6rm\u00e9nyorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u4e9a\u7f8e\u5c3c\u4e9a"
         ], 
-        "alias_UNK_V": [
-          "Republika Armenija"
-        ], 
+        "ne_longitude": 46.50571984231797, 
         "longitude": 45.04, 
         "ne:POP_EST": 2967004.0, 
-        "iso": "AM", 
-        "sw_latitude": 38.831, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Armenia", 
-        "ne:NAME_FORMA": "Republic of Armenia", 
-        "alias_FRE_S": [
-          "Armenie"
+        "iso": "AM", 
+        "sw_latitude": 38.74120148371222, 
+        "alias_ENG_A": [
+          "AM"
         ], 
+        "ne:GDP_MD_EST": 18770.0, 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Arm\u00e9nie"
         ]
       }, 
+      "bbox": [
+        43.58274580259273, 
+        38.74120148371222, 
+        46.50571984231797, 
+        41.248128567055595
+      ], 
       "id": 23424743
     }
   ]

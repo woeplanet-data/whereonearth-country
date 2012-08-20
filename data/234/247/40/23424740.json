@@ -262,15 +262,17 @@
         "alias_ENG_V": [
           "Democratic and Popular Republic of Algeria"
         ], 
+        "alias_HUN_Q": [
+          "Alg\u00e9ria"
+        ], 
         "alias_SWE_Q": [
           "Algeriet"
         ], 
         "alias_POL_Q": [
           "Algieria"
         ], 
-        "ne_latitude": 37.094, 
-        "ne:GU_A3": "DZA", 
-        "ne:NAME_SORT": "Algeria", 
+        "ne_latitude": 37.11838064223437, 
+        "ne_longitude": 11.999505649471613, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Arg\u00e9lia"
@@ -279,27 +281,25 @@
           "\uc54c\uc81c\ub9ac"
         ], 
         "ne:SUBUNIT": "Algeria", 
-        "ne:POSTAL": "DZ", 
-        "ne:ISO_N3": 12.0, 
         "alias_ARA_V": [
           "Al-Djaza'ir"
         ], 
         "ne:ADM0_A3": "DZA", 
+        "ne:SOVEREIGNT": "Algeria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u53ca\u5229\u4e9e"
         ], 
-        "alias_DAN_Q": [
-          "Algeriet"
+        "alias_GER_V": [
+          "Demokratische Volksrepublik Algerien"
         ], 
         "ne:NAME": "Algeria", 
-        "alias_CHI_V": [
-          "\u963f\u5c14\u53ca\u5229\u4e9a"
-        ], 
+        "ne:POSTAL": "DZ", 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd"
         ], 
@@ -308,9 +308,8 @@
           "Argelia"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": -8.684399786809053, 
         "ne:SOV_A3": "DZA", 
-        "sw_longitude": -8.674, 
-        "ne:GDP_MD_EST": 232900.0, 
         "ne:SU_A3": "DZA", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 28.027, 
@@ -322,9 +321,8 @@
         "ne:ISO_A2": "DZ", 
         "date_indexed": "2010-12-02T17:07:16Z", 
         "ne:NAME_FORMA": "People's Democratic Republic of Algeria", 
-        "alias_ENG_A": [
-          "DZ"
-        ], 
+        "fullname": "Algeria", 
+        "ne:GU_A3": "DZA", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Algeria", 
         "ne:GEOUNIT": "Algeria", 
@@ -338,13 +336,13 @@
         "alias_CZE_Q": [
           "Al\u017e\u00edrsko"
         ], 
-        "alias_GER_V": [
-          "Demokratische Volksrepublik Algerien"
+        "alias_DAN_Q": [
+          "Algeriet"
         ], 
         "alias_GER_Q": [
           "Algerien"
         ], 
-        "ne:SOVEREIGNT": "Algeria", 
+        "ne:ISO_N3": 12.0, 
         "lang": "ENG", 
         "name": "Algeria", 
         "alias_UNK_S": [
@@ -354,22 +352,30 @@
         "alias_UNK_Q": [
           "Arujeria"
         ], 
-        "alias_HUN_Q": [
-          "Alg\u00e9ria"
+        "alias_CHI_V": [
+          "\u963f\u5c14\u53ca\u5229\u4e9a"
         ], 
-        "ne_longitude": 11.98, 
+        "ne:NAME_SORT": "Algeria", 
         "longitude": 1.653, 
         "ne:POP_EST": 34178188.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "DZ", 
-        "sw_latitude": 18.96, 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "Algeria", 
+        "sw_latitude": 19.057364203360038, 
+        "alias_ENG_A": [
+          "DZ"
+        ], 
+        "ne:GDP_MD_EST": 232900.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Alg\u00e9rie"
         ]
       }, 
+      "bbox": [
+        -8.684399786809053, 
+        19.057364203360038, 
+        11.999505649471613, 
+        37.11838064223437
+      ], 
       "id": 23424740
     }
   ]

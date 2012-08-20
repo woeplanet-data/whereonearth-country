@@ -196,21 +196,22 @@
         "alias_ENG_V": [
           "Azerbaijani Republic"
         ], 
+        "alias_HUN_Q": [
+          "Azerbajdzs\u00e1n"
+        ], 
         "alias_SWE_Q": [
           "Azerbajdzjan"
         ], 
         "alias_POL_Q": [
           "Azerbejd\u017can"
         ], 
-        "ne_latitude": 41.906, 
+        "ne_latitude": 41.86067515722735, 
         "ne:SUBUNIT": "Azerbaijan", 
-        "ne:GU_A3": "AZE", 
         "alias_RUM_Q": [
           "Azerbaidjan"
         ], 
-        "ne_longitude": 50.608, 
+        "ne:NAME_SORT": "Azerbaijan", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Azerbaij\u00e3o"
         ], 
@@ -220,9 +221,8 @@
         "alias_POR_S": [
           "Azerbaijao"
         ], 
-        "ne:POSTAL": "AZ", 
-        "ne:ISO_N3": 31.0, 
         "ne:ADM0_A3": "AZE", 
+        "ne:SOVEREIGNT": "Azerbaijan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e9e\u585e\u62dc\u7136"
@@ -230,12 +230,13 @@
         "alias_ITA_Q": [
           "Azerbaigian"
         ], 
-        "alias_DAN_Q": [
-          "Aserbajdsjan"
+        "alias_GER_V": [
+          "Republik Aserbaidschan"
         ], 
         "ne:NAME": "Azerbaijan", 
-        "alias_CHI_V": [
-          "\u4e9e\u585e\u62dc\u7136"
+        "ne:POSTAL": "AZ", 
+        "alias_KOR_Q": [
+          "\uc544\uc81c\ub974\ubc14\uc774\uc794"
         ], 
         "alias_JPN_Q": [
           "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3"
@@ -248,15 +249,12 @@
         "alias_SPA_Q": [
           "Azerbaiy\u00e1n"
         ], 
-        "alias_FIN_Q": [
-          "Azerbaid\u017ean"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Azerbaidjan"
         ], 
+        "sw_longitude": 44.793989699082005, 
         "ne:SOV_A3": "AZE", 
-        "sw_longitude": 44.772, 
-        "ne:GDP_MD_EST": 77610.0, 
         "alias_FIN_V": [
           "Azerbaidzan"
         ], 
@@ -269,10 +267,9 @@
         "ne:ISO_A3": "AZE", 
         "ne:ISO_A2": "AZ", 
         "date_indexed": "2010-12-02T08:58:35Z", 
-        "ne:NAME_SORT": "Azerbaijan", 
-        "alias_KOR_Q": [
-          "\uc544\uc81c\ub974\ubc14\uc774\uc794"
-        ], 
+        "ne:NAME_FORMA": "Republic of Azerbaijan", 
+        "fullname": "Azerbaijan", 
+        "ne:GU_A3": "AZE", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Azerbaijan", 
         "ne:SU_A3": "AZE", 
@@ -281,6 +278,9 @@
           "Azerbaidj\u00e1n"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Azarbaycan Respublikasi"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Azerbeidzjan"
@@ -289,32 +289,32 @@
         "alias_CZE_Q": [
           "\u00c1zerb\u00e1jd\u017e\u00e1n"
         ], 
-        "alias_GER_V": [
-          "Republik Aserbaidschan"
+        "alias_FIN_Q": [
+          "Azerbaid\u017ean"
+        ], 
+        "alias_DAN_Q": [
+          "Aserbajdsjan"
         ], 
         "alias_GER_Q": [
           "Aserbaidschan"
         ], 
-        "ne:SOVEREIGNT": "Azerbaijan", 
+        "ne:ISO_N3": 31.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Azerbaijan", 
         "name": "Azerbaijan", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Azerbajdzs\u00e1n"
+        "alias_CHI_V": [
+          "\u4e9e\u585e\u62dc\u7136"
         ], 
-        "alias_UNK_V": [
-          "Azarbaycan Respublikasi"
-        ], 
+        "ne_longitude": 50.39282107931271, 
         "longitude": 47.687, 
         "ne:POP_EST": 8238672.0, 
         "iso": "AZ", 
-        "sw_latitude": 38.397, 
+        "sw_latitude": 38.27037750910094, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Azerbaijan", 
-        "ne:NAME_FORMA": "Republic of Azerbaijan", 
+        "ne:GDP_MD_EST": 77610.0, 
         "alias_FRE_S": [
           "Azerbaidjan"
         ], 
@@ -322,6 +322,12 @@
           "Azerba\u00efdjan"
         ]
       }, 
+      "bbox": [
+        44.793989699082005, 
+        38.27037750910094, 
+        50.39282107931271, 
+        41.86067515722735
+      ], 
       "id": 23424741
     }
   ]

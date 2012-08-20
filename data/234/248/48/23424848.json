@@ -564,9 +564,8 @@
         "alias_POL_Q": [
           "Indie"
         ], 
-        "ne_latitude": 36.262, 
-        "ne:GU_A3": "IND", 
-        "ne_longitude": 97.403, 
+        "ne_latitude": 35.494009507787766, 
+        "ne:NAME_SORT": "India", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "\u00cdndia"
@@ -575,28 +574,31 @@
           "IN"
         ], 
         "ne:SUBUNIT": "India", 
-        "ne:ISO_N3": 356.0, 
         "ne:ADM0_A3": "IND", 
+        "ne:SOVEREIGNT": "India", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5370\u5ea6"
         ], 
-        "alias_GER_V": [
-          "Republik Indien"
+        "alias_DAN_Q": [
+          "Indien"
         ], 
         "ne:NAME": "India", 
-        "ne:TERR_": null, 
+        "alias_FIN_Q": [
+          "Intia"
+        ], 
+        "alias_KOR_Q": [
+          "\uc778\ub3c4"
+        ], 
         "alias_JPN_Q": [
           "\u30a4\u30f3\u30c9"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "India", 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Intia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 68.1766451353734, 
         "ne:SOV_A3": "IND", 
-        "sw_longitude": 68.032, 
-        "ne:GDP_MD_EST": 3297000.0, 
         "alias_FIN_V": [
           "Intiasta"
         ], 
@@ -606,27 +608,28 @@
         "ne:ISO_A3": "IND", 
         "ne:ISO_A2": "IN", 
         "date_indexed": "2010-12-02T09:26:27Z", 
-        "ne:NAME_SORT": "India", 
-        "alias_KOR_Q": [
-          "\uc778\ub3c4"
-        ], 
+        "ne:NAME_FORMA": "Republic of India", 
+        "ne:GU_A3": "IND", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "India", 
         "ne:SU_A3": "IND", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Indija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "India", 
         "alias_CZE_Q": [
           "Indie"
         ], 
-        "alias_DAN_Q": [
-          "Indien"
+        "alias_GER_V": [
+          "Republik Indien"
         ], 
         "alias_GER_Q": [
           "Indien"
         ], 
-        "ne:SOVEREIGNT": "India", 
+        "ne:ISO_N3": 356.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "India", 
         "name": "India", 
@@ -636,21 +639,24 @@
           "Indija"
         ], 
         "ne:POSTAL": "IND", 
-        "alias_UNK_V": [
-          "Republika Indija"
-        ], 
+        "ne_longitude": 97.40256147663614, 
         "longitude": 82.795, 
         "ne:POP_EST": 1166079217.0, 
         "iso": "IN", 
-        "sw_latitude": 6.747, 
+        "sw_latitude": 7.965534776232332, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "India", 
-        "ne:NAME_FORMA": "Republic of India", 
+        "ne:GDP_MD_EST": 3297000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Inde"
         ]
       }, 
+      "bbox": [
+        68.1766451353734, 
+        7.965534776232332, 
+        97.40256147663614, 
+        35.494009507787766
+      ], 
       "id": 23424848
     }
   ]

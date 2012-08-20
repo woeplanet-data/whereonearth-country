@@ -112,15 +112,15 @@
         "alias_POL_Q": [
           "Izrael"
         ], 
-        "ne_latitude": 33.433, 
-        "ne_longitude": 35.941, 
+        "ne_latitude": 33.2774264592763, 
+        "ne:NAME_SORT": "Israel", 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc774\uc2a4\ub77c\uc5d8"
         ], 
         "ne:SUBUNIT": "Israel", 
-        "ne:ISO_N3": 376.0, 
         "ne:ADM0_A3": "ISR", 
+        "ne:SOVEREIGNT": "Israel", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4ee5\u8272\u5217"
@@ -139,9 +139,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 34.26543338393569, 
         "ne:SOV_A3": "ISR", 
-        "sw_longitude": 34.268, 
-        "ne:GDP_MD_EST": 201400.0, 
         "ne:SU_A3": "ISR", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 31.389, 
@@ -149,13 +148,17 @@
         "ne:ISO_A3": "ISR", 
         "ne:ISO_A2": "IL", 
         "date_indexed": "2010-12-02T08:53:06Z", 
-        "ne:NAME_SORT": "Israel", 
+        "ne:NAME_FORMA": "State of Israel", 
+        "fullname": "Israel", 
         "ne:GU_A3": "ISR", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Israel", 
         "ne:GEOUNIT": "Israel", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Yisra'el"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Isra\u00ebl"
@@ -167,7 +170,7 @@
         "alias_GER_V": [
           "Staat Israel"
         ], 
-        "ne:SOVEREIGNT": "Israel", 
+        "ne:ISO_N3": 376.0, 
         "lang": "ENG", 
         "name": "Israel", 
         "ne:TYPE": "Sovereign country", 
@@ -178,21 +181,24 @@
         "alias_HUN_Q": [
           "Izrael"
         ], 
-        "alias_UNK_V": [
-          "Yisra'el"
-        ], 
+        "ne_longitude": 35.836396925608625, 
         "longitude": 35.361, 
         "ne:POP_EST": 7233701.0, 
         "iso": "IL", 
-        "sw_latitude": 29.497, 
+        "sw_latitude": 29.501326198844524, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Israel", 
-        "ne:NAME_FORMA": "State of Israel", 
+        "ne:GDP_MD_EST": 201400.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Isra\u00ebl"
         ]
       }, 
+      "bbox": [
+        34.26543338393569, 
+        29.501326198844524, 
+        35.836396925608625, 
+        33.2774264592763
+      ], 
       "id": 23424852
     }
   ]

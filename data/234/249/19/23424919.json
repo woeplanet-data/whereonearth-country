@@ -322,8 +322,8 @@
           "PE"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -0.013, 
-        "ne_longitude": -68.678, 
+        "ne_latitude": -0.05720549886486, 
+        "ne:NAME_SORT": "Peru", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud398\ub974"
@@ -332,8 +332,8 @@
           "\ud398\ub8e8"
         ], 
         "ne:SUBUNIT": "Peru", 
-        "ne:ISO_N3": 604.0, 
         "ne:ADM0_A3": "PER", 
+        "ne:SOVEREIGNT": "Peru", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u79d8\u9b6f"
@@ -356,9 +356,8 @@
           "Per\u00fa"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": -81.41094255239946, 
         "ne:SOV_A3": "PER", 
-        "sw_longitude": -81.327, 
-        "ne:GDP_MD_EST": 247300.0, 
         "ne:SU_A3": "PER", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -9.181, 
@@ -366,35 +365,36 @@
         "ne:ISO_A3": "PER", 
         "ne:ISO_A2": "PE", 
         "date_indexed": "2010-12-02T16:12:16Z", 
-        "ne:NAME_SORT": "Peru", 
+        "ne:NAME_FORMA": "Republic of Peru", 
+        "fullname": "Peru", 
         "ne:GU_A3": "PER", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Peru", 
         "ne:GEOUNIT": "Peru", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Peru"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Peru", 
         "alias_GER_V": [
           "Republik Peru"
         ], 
-        "ne:SOVEREIGNT": "Peru", 
+        "ne:ISO_N3": 604.0, 
         "lang": "ENG", 
         "name": "Peru", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "PE", 
-        "alias_UNK_V": [
-          "Republika Peru"
-        ], 
+        "ne_longitude": -68.66507971868963, 
         "longitude": -75.002, 
         "ne:POP_EST": 29546963.0, 
         "iso": "PE", 
-        "sw_latitude": -18.35, 
+        "sw_latitude": -18.34797535570887, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Peru", 
-        "ne:NAME_FORMA": "Republic of Peru", 
+        "ne:GDP_MD_EST": 247300.0, 
         "alias_FRE_S": [
           "Perou"
         ], 
@@ -402,6 +402,12 @@
           "P\u00e9rou"
         ]
       }, 
+      "bbox": [
+        -81.41094255239946, 
+        -18.34797535570887, 
+        -68.66507971868963, 
+        -0.05720549886486
+      ], 
       "id": 23424919
     }
   ]

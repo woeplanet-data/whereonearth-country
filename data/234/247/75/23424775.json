@@ -3312,16 +3312,13 @@
         "alias_ENG_V": [
           "Canadian"
         ], 
-        "alias_ENG_A": [
-          "CAN"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Kanada"
         ], 
-        "ne_latitude": 83.111, 
-        "ne:ScaleRank": 1, 
-        "ne:POSTAL": "CA", 
-        "ne:NAME_SORT": "Canada", 
+        "ne_latitude": 83.23324, 
+        "ne:GU_A3": "CAN", 
+        "ne_longitude": -52.64809872090419, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Canad\u00e1"
@@ -3330,8 +3327,8 @@
           "\uce90\ub098\ub2e4"
         ], 
         "ne:SUBUNIT": "Canada", 
-        "ne:ISO_N3": 124.0, 
         "ne:ADM0_A3": "CAN", 
+        "ne:SOVEREIGNT": "Canada", 
         "alias_SWE_Q": [
           "Kanada"
         ], 
@@ -3339,21 +3336,19 @@
           "\u52a0\u62ff\u5927"
         ], 
         "ne:NAME": "Canada", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "CA", 
         "alias_JPN_Q": [
           "\u30ab\u30ca\u30c0"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Canada", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Canad\u00e1"
         ], 
-        "alias_FIN_Q": [
-          "Kanada"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -140.99778, 
         "ne:SOV_A3": "CAN", 
-        "sw_longitude": -141.003, 
-        "ne:GDP_MD_EST": 1300000.0, 
         "alias_FIN_V": [
           "Kanadasta"
         ], 
@@ -3364,7 +3359,9 @@
         "ne:ISO_A2": "CA", 
         "date_indexed": "2010-12-02T10:24:00Z", 
         "ne:NAME_FORMA": null, 
-        "ne:GU_A3": "CAN", 
+        "alias_ENG_A": [
+          "CAN"
+        ], 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Canada", 
         "ne:SU_A3": "CAN", 
@@ -3375,11 +3372,14 @@
         "alias_CZE_Q": [
           "Kanada"
         ], 
+        "alias_FIN_Q": [
+          "Kanada"
+        ], 
         "ne:GEOUNIT": "Canada", 
         "alias_GER_Q": [
           "Kanada"
         ], 
-        "ne:SOVEREIGNT": "Canada", 
+        "ne:ISO_N3": 124.0, 
         "lang": "ENG", 
         "name": "Canada", 
         "ne:TYPE": "Sovereign country", 
@@ -3390,15 +3390,21 @@
         "alias_HUN_Q": [
           "Kanada"
         ], 
-        "ne_longitude": -52.62, 
+        "ne:NAME_SORT": "Canada", 
         "longitude": -98.309, 
         "ne:POP_EST": 33487208.0, 
         "iso": "CA", 
-        "sw_latitude": 41.681, 
+        "sw_latitude": 41.675105088867156, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Canada", 
+        "ne:GDP_MD_EST": 1300000.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -140.99778, 
+        41.675105088867156, 
+        -52.64809872090419, 
+        83.23324
+      ], 
       "id": 23424775
     }
   ]

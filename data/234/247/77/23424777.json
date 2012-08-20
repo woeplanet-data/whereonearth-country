@@ -243,9 +243,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Republic of Chad"
+        ], 
+        "alias_HUN_Q": [
+          "Cs\u00e1d"
         ], 
         "alias_SWE_Q": [
           "Tchad"
@@ -253,12 +255,11 @@
         "alias_POL_Q": [
           "Czad"
         ], 
-        "ne_latitude": 23.45, 
-        "ne:GU_A3": "TCD", 
+        "ne_latitude": 23.40972, 
         "alias_RUM_Q": [
           "Ciad"
         ], 
-        "ne:NAME_SORT": "Chad", 
+        "ne_longitude": 23.886890000000108, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucc60\ub4dc"
@@ -270,9 +271,8 @@
           "TCD"
         ], 
         "ne:SUBUNIT": "Chad", 
-        "ne:POSTAL": "TD", 
-        "ne:ISO_N3": 148.0, 
         "ne:ADM0_A3": "TCD", 
+        "ne:SOVEREIGNT": "Chad", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u67e5\u5fb7"
@@ -280,12 +280,13 @@
         "alias_ITA_Q": [
           "Ciad"
         ], 
-        "alias_DAN_Q": [
-          "Tchad"
+        "alias_GER_V": [
+          "Republik Tschad"
         ], 
         "ne:NAME": "Chad", 
-        "alias_CHI_V": [
-          "\u67e5\u5fb7"
+        "ne:POSTAL": "TD", 
+        "alias_KOR_Q": [
+          "\ucc28\ub4dc"
         ], 
         "alias_JPN_Q": [
           "\u30c1\u30e3\u30c9"
@@ -295,14 +296,12 @@
           "\u30c1\u30e3\u30c9\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "T\u0161ad"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Tsad"
         ], 
-        "sw_longitude": 13.473, 
-        "ne:GDP_MD_EST": 15860.0, 
+        "sw_longitude": 13.540393507550789, 
+        "ne:NAME_FORMA": "Republic of Chad", 
         "ne:SU_A3": "TCD", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.446, 
@@ -313,15 +312,16 @@
         "ne:ISO_A3": "TCD", 
         "ne:ISO_A2": "TD", 
         "date_indexed": "2010-12-02T08:53:23Z", 
-        "ne:NAME_FORMA": "Republic of Chad", 
-        "alias_KOR_Q": [
-          "\ucc28\ub4dc"
+        "ne:SOV_A3": "TCD", 
+        "fullname": "Chad", 
+        "alias_FRE_V": [
+          "R\u00e9publique du Tchad"
         ], 
+        "ne:GU_A3": "TCD", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Chad", 
         "ne:GEOUNIT": "Chad", 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "TCD", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -331,13 +331,16 @@
         "alias_CZE_Q": [
           "\u010cad"
         ], 
-        "alias_GER_V": [
-          "Republik Tschad"
+        "alias_FIN_Q": [
+          "T\u0161ad"
+        ], 
+        "alias_DAN_Q": [
+          "Tchad"
         ], 
         "alias_GER_Q": [
           "Tschad"
         ], 
-        "ne:SOVEREIGNT": "Chad", 
+        "ne:ISO_N3": 148.0, 
         "lang": "ENG", 
         "name": "Chad", 
         "ne:TYPE": "Sovereign country", 
@@ -345,24 +348,27 @@
         "alias_UNK_Q": [
           "Tsjad"
         ], 
-        "alias_HUN_Q": [
-          "Cs\u00e1d"
+        "alias_CHI_V": [
+          "\u67e5\u5fb7"
         ], 
-        "ne_longitude": 24.003, 
+        "ne:NAME_SORT": "Chad", 
         "longitude": 18.738, 
         "ne:POP_EST": 10329208.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "TD", 
-        "sw_latitude": 7.441, 
-        "alias_FRE_V": [
-          "R\u00e9publique du Tchad"
-        ], 
-        "fullname": "Chad", 
+        "sw_latitude": 7.421924546738012, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 15860.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Tchad"
         ]
       }, 
+      "bbox": [
+        13.540393507550789, 
+        7.421924546738012, 
+        23.886890000000108, 
+        23.40972
+      ], 
       "id": 23424777
     }
   ]

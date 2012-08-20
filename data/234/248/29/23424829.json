@@ -246,20 +246,21 @@
         "alias_ENG_V": [
           "German"
         ], 
+        "alias_HUN_Q": [
+          "N\u00e9metorsz\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Tyskland"
         ], 
         "alias_ENG_P": [
           "Germany"
         ], 
-        "ne_latitude": 55.058, 
-        "ne:GU_A3": "DEU", 
+        "ne_latitude": 54.98310415304803, 
         "alias_RUM_Q": [
           "Germania"
         ], 
-        "ne_longitude": 15.042, 
+        "ne:NAME_SORT": "Germany", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Alemanha"
         ], 
@@ -267,9 +268,8 @@
           "DEU"
         ], 
         "ne:SUBUNIT": "Germany", 
-        "ne:POSTAL": "D", 
-        "ne:ISO_N3": 276.0, 
         "ne:ADM0_A3": "DEU", 
+        "ne:SOVEREIGNT": "Germany", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5fb7\u570b"
@@ -277,12 +277,13 @@
         "alias_ITA_Q": [
           "Germania"
         ], 
-        "alias_DAN_Q": [
-          "Tyskland"
+        "alias_GER_V": [
+          "Bundesrepublik Deutschland"
         ], 
         "ne:NAME": "Germany", 
-        "alias_CHI_V": [
-          "\u5fb7\u56fd"
+        "ne:POSTAL": "D", 
+        "alias_KOR_Q": [
+          "\ub3c5\uc77c"
         ], 
         "alias_JPN_Q": [
           "\u30c9\u30a4\u30c4"
@@ -297,12 +298,9 @@
         "alias_SPA_Q": [
           "Alemania"
         ], 
-        "alias_FIN_Q": [
-          "Deutsland"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 5.988658074577813, 
         "ne:SOV_A3": "DEU", 
-        "sw_longitude": 5.866, 
-        "ne:GDP_MD_EST": 2918000.0, 
         "alias_FIN_V": [
           "Saksa"
         ], 
@@ -315,15 +313,17 @@
         "ne:ISO_A3": "DEU", 
         "ne:ISO_A2": "DE", 
         "date_indexed": "2010-12-02T09:50:31Z", 
-        "ne:NAME_SORT": "Germany", 
-        "alias_KOR_Q": [
-          "\ub3c5\uc77c"
-        ], 
+        "ne:NAME_FORMA": "Federal Republic of Germany", 
+        "fullname": "Deutschland, Germany", 
+        "ne:GU_A3": "DEU", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Germany", 
         "ne:SU_A3": "DEU", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Germanija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Duitsland"
@@ -333,10 +333,13 @@
         "alias_CZE_Q": [
           "N\u011bmecko"
         ], 
-        "alias_GER_V": [
-          "Bundesrepublik Deutschland"
+        "alias_FIN_Q": [
+          "Deutsland"
         ], 
-        "ne:SOVEREIGNT": "Germany", 
+        "alias_DAN_Q": [
+          "Tyskland"
+        ], 
+        "ne:ISO_N3": 276.0, 
         "lang": "GER", 
         "ne:GEOUNIT": "Germany", 
         "name": "Deutschland", 
@@ -347,28 +350,31 @@
         "alias_UNK_Q": [
           "Alemanya"
         ], 
-        "alias_HUN_Q": [
-          "N\u00e9metorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u5fb7\u56fd"
         ], 
-        "alias_UNK_V": [
-          "Germanija"
-        ], 
+        "ne_longitude": 15.016995883858783, 
         "longitude": 10.454, 
         "ne:POP_EST": 82329758.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "DE", 
-        "sw_latitude": 47.27, 
+        "sw_latitude": 47.30248769793917, 
         "alias_HUN_S": [
           "Nemetorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Deutschland, Germany", 
-        "ne:NAME_FORMA": "Federal Republic of Germany", 
+        "ne:GDP_MD_EST": 2918000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Allemagne"
         ]
       }, 
+      "bbox": [
+        5.988658074577813, 
+        47.30248769793917, 
+        15.016995883858783, 
+        54.98310415304803
+      ], 
       "id": 23424829
     }
   ]

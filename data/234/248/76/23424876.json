@@ -122,13 +122,15 @@
         "alias_ENG_V": [
           "Republic of Liberia"
         ], 
+        "alias_HUN_Q": [
+          "Lib\u00e9ria"
+        ], 
         "alias_ENG_A": [
           "LR"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 8.552, 
-        "ne:POSTAL": "LR", 
-        "ne_longitude": -7.365, 
+        "ne_latitude": 8.541055202666925, 
+        "ne:NAME_SORT": "Liberia", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Lib\u00e9ria"
@@ -137,16 +139,14 @@
           "\ub77c\uc774\ubca0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Liberia", 
-        "ne:ISO_N3": 430.0, 
         "ne:ADM0_A3": "LBR", 
+        "ne:SOVEREIGNT": "Liberia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cf4\u6bd4\u745e\u4e9e"
         ], 
         "ne:NAME": "Liberia", 
-        "alias_CHI_V": [
-          "\u8cf4\u6bd4\u745e\u4e9e"
-        ], 
+        "ne:POSTAL": "LR", 
         "alias_JPN_Q": [
           "\u30ea\u30d9\u30ea\u30a2"
         ], 
@@ -155,9 +155,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -11.438779466182055, 
         "ne:SOV_A3": "LBR", 
-        "sw_longitude": -11.492, 
-        "ne:GDP_MD_EST": 1526.0, 
         "ne:SU_A3": "LBR", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.452, 
@@ -165,13 +164,17 @@
         "ne:ISO_A3": "LBR", 
         "ne:ISO_A2": "LR", 
         "date_indexed": "2010-12-02T17:40:22Z", 
-        "ne:NAME_SORT": "Liberia", 
+        "ne:NAME_FORMA": "Republic of Liberia", 
+        "fullname": "Liberia", 
         "ne:GU_A3": "LBR", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Liberia", 
         "ne:GEOUNIT": "Liberia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Liberija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Liberia", 
         "alias_CZE_Q": [
@@ -180,7 +183,7 @@
         "alias_GER_V": [
           "Republik Liberia"
         ], 
-        "ne:SOVEREIGNT": "Liberia", 
+        "ne:ISO_N3": 430.0, 
         "lang": "ENG", 
         "name": "Liberia", 
         "ne:TYPE": "Sovereign country", 
@@ -188,21 +191,24 @@
         "alias_UNK_Q": [
           "Liberija"
         ], 
-        "alias_HUN_Q": [
-          "Lib\u00e9ria"
+        "alias_CHI_V": [
+          "\u8cf4\u6bd4\u745e\u4e9e"
         ], 
-        "alias_UNK_V": [
-          "Republika Liberija"
-        ], 
+        "ne_longitude": -7.539715135111763, 
         "longitude": -9.429, 
         "ne:POP_EST": 3441790.0, 
         "iso": "LR", 
-        "sw_latitude": 4.353, 
+        "sw_latitude": 4.355755113131963, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Liberia", 
-        "ne:NAME_FORMA": "Republic of Liberia", 
+        "ne:GDP_MD_EST": 1526.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -11.438779466182055, 
+        4.355755113131963, 
+        -7.539715135111763, 
+        8.541055202666925
+      ], 
       "id": 23424876
     }
   ]

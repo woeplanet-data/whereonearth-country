@@ -70,15 +70,15 @@
           "\ubd80\ub8ec\ub514"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -2.31, 
-        "ne_longitude": 30.848, 
+        "ne_latitude": -2.348486830254238, 
+        "ne:NAME_SORT": "Burundi", 
         "placetype": "Country", 
         "alias_ENG_A": [
           "BI"
         ], 
         "ne:SUBUNIT": "Burundi", 
-        "ne:ISO_N3": 108.0, 
         "ne:ADM0_A3": "BDI", 
+        "ne:SOVEREIGNT": "Burundi", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u84b2\u9686\u5730"
@@ -95,9 +95,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 29.024926385216787, 
         "ne:SOV_A3": "BDI", 
-        "sw_longitude": 28.993, 
-        "ne:GDP_MD_EST": 3102.0, 
         "ne:SU_A3": "BDI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -3.388, 
@@ -105,36 +104,43 @@
         "ne:ISO_A3": "BDI", 
         "ne:ISO_A2": "BI", 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "ne:NAME_SORT": "Burundi", 
+        "ne:NAME_FORMA": "Republic of Burundi", 
+        "fullname": "Burundi", 
         "ne:GU_A3": "BDI", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Burundi", 
         "ne:GEOUNIT": "Burundi", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "B\u00farund\u00ed"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Bur.", 
         "alias_GER_V": [
           "Republik Burundi"
         ], 
-        "ne:SOVEREIGNT": "Burundi", 
+        "ne:ISO_N3": 108.0, 
         "lang": "ENG", 
         "name": "Burundi", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "BI", 
-        "alias_UNK_V": [
-          "B\u00farund\u00ed"
-        ], 
+        "ne_longitude": 30.752262811004954, 
         "longitude": 29.92, 
         "ne:POP_EST": 8988091.0, 
         "iso": "BI", 
-        "sw_latitude": -4.466, 
+        "sw_latitude": -4.499983412294092, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Burundi", 
-        "ne:NAME_FORMA": "Republic of Burundi"
+        "ne:GDP_MD_EST": 3102.0
       }, 
+      "bbox": [
+        29.024926385216787, 
+        -4.499983412294092, 
+        30.752262811004954, 
+        -2.348486830254238
+      ], 
       "id": 23424774
     }
   ]

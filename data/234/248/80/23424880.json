@@ -66,8 +66,8 @@
           "LS"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -28.572, 
-        "ne_longitude": 29.466, 
+        "ne_latitude": -28.64750172293757, 
+        "ne:NAME_SORT": "Lesotho", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Lesoto"
@@ -76,8 +76,8 @@
           "\ub808\uc18c\ud1a0"
         ], 
         "ne:SUBUNIT": "Lesotho", 
-        "ne:ISO_N3": 426.0, 
         "ne:ADM0_A3": "LSO", 
+        "ne:SOVEREIGNT": "Lesotho", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cf4\u7d22\u6258"
@@ -97,9 +97,8 @@
           "Lesoto"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 26.999261915807637, 
         "ne:SOV_A3": "LSO", 
-        "sw_longitude": 27.029, 
-        "ne:GDP_MD_EST": 3293.0, 
         "ne:SU_A3": "LSO", 
         "alias_SPA_V": [
           "Lesoto o Lesotho"
@@ -109,7 +108,8 @@
         "ne:ISO_A3": "LSO", 
         "ne:ISO_A2": "LS", 
         "date_indexed": "2010-12-02T08:57:23Z", 
-        "ne:NAME_SORT": "Lesotho", 
+        "ne:NAME_FORMA": "Republic of Lesotho", 
+        "fullname": "Lesotho", 
         "ne:GU_A3": "LSO", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Lesotho", 
@@ -117,12 +117,15 @@
         "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Kraljevina Lesoto"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Les.", 
         "alias_GER_V": [
           "K\u00f6nigreich Lesotho"
         ], 
-        "ne:SOVEREIGNT": "Lesotho", 
+        "ne:ISO_N3": 426.0, 
         "alias_GER_S": [
           "Konigreich Lesotho"
         ], 
@@ -132,17 +135,20 @@
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "LS", 
-        "alias_UNK_V": [
-          "Kraljevina Lesoto"
-        ], 
+        "ne_longitude": 29.32516645683259, 
         "longitude": 28.247, 
         "ne:POP_EST": 2130819.0, 
         "iso": "LS", 
-        "sw_latitude": -30.669, 
+        "sw_latitude": -30.645105889612225, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Lesotho", 
-        "ne:NAME_FORMA": "Republic of Lesotho"
+        "ne:GDP_MD_EST": 3293.0
       }, 
+      "bbox": [
+        26.999261915807637, 
+        -30.645105889612225, 
+        29.32516645683259, 
+        -28.64750172293757
+      ], 
       "id": 23424880
     }
   ]

@@ -480,15 +480,15 @@
           "\uce60\ub808"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -17.508, 
-        "ne:NAME_SORT": "Chile", 
+        "ne_latitude": -17.58001189541929, 
+        "ne_longitude": -66.95992, 
         "placetype": "Country", 
         "alias_ENG_A": [
           "CL"
         ], 
         "ne:SUBUNIT": "Chile", 
-        "ne:ISO_N3": 152.0, 
         "ne:ADM0_A3": "CHL", 
+        "ne:SOVEREIGNT": "Chile", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u667a\u5229"
@@ -506,9 +506,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -75.64439531116545, 
         "ne:SOV_A3": "CHL", 
-        "sw_longitude": -109.475, 
-        "ne:GDP_MD_EST": 244500.0, 
         "ne:SU_A3": "CHL", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -35.705, 
@@ -517,6 +516,7 @@
         "ne:ISO_A2": "CL", 
         "date_indexed": "2010-12-02T12:15:39Z", 
         "ne:NAME_FORMA": "Republic of Chile", 
+        "fullname": "Chile", 
         "ne:GU_A3": "CHL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Chile", 
@@ -531,7 +531,7 @@
         "alias_GER_V": [
           "Republik Chile"
         ], 
-        "ne:SOVEREIGNT": "Chile", 
+        "ne:ISO_N3": 152.0, 
         "lang": "ENG", 
         "name": "Chile", 
         "ne:TYPE": "Sovereign country", 
@@ -539,18 +539,24 @@
         "alias_UNK_Q": [
           "Chiri"
         ], 
-        "ne_longitude": -66.418, 
+        "ne:NAME_SORT": "Chile", 
         "longitude": -71.341, 
         "ne:POP_EST": 16601707.0, 
         "iso": "CL", 
-        "sw_latitude": -56.534, 
+        "sw_latitude": -55.61183, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Chile", 
+        "ne:GDP_MD_EST": 244500.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Chili"
         ]
       }, 
+      "bbox": [
+        -75.64439531116545, 
+        -55.61183, 
+        -66.95992, 
+        -17.58001189541929
+      ], 
       "id": 23424782
     }
   ]

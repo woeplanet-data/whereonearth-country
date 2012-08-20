@@ -158,15 +158,17 @@
         "alias_ENG_V": [
           "People's Republic of Bangladesh"
         ], 
+        "alias_HUN_Q": [
+          "Banglades"
+        ], 
         "alias_ENG_A": [
           "BD"
         ], 
         "alias_POL_Q": [
           "Bangladesz"
         ], 
-        "ne_latitude": 26.632, 
-        "ne:POSTAL": "BD", 
-        "ne:NAME_SORT": "Bangladesh", 
+        "ne_latitude": 26.446525580342723, 
+        "ne_longitude": 92.67272098182556, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Bangladeche"
@@ -175,16 +177,14 @@
           "\ubc29\uae00\ub77c\ub370\uc2dc"
         ], 
         "ne:SUBUNIT": "Bangladesh", 
-        "ne:ISO_N3": 50.0, 
         "ne:ADM0_A3": "BGD", 
+        "ne:SOVEREIGNT": "Bangladesh", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b5f\u52a0\u62c9"
         ], 
         "ne:NAME": "Bangladesh", 
-        "alias_CHI_V": [
-          "\u5b5f\u52a0\u62c9\u56fd"
-        ], 
+        "ne:POSTAL": "BD", 
         "alias_JPN_Q": [
           "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5"
         ], 
@@ -194,9 +194,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 88.08442223506242, 
         "ne:SOV_A3": "BGD", 
-        "sw_longitude": 88.028, 
-        "ne:GDP_MD_EST": 224000.0, 
         "ne:SU_A3": "BGD", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.687, 
@@ -205,6 +204,7 @@
         "ne:ISO_A2": "BD", 
         "date_indexed": "2010-12-02T12:16:33Z", 
         "ne:NAME_FORMA": "People's Republic of Bangladesh", 
+        "fullname": "Bangladesh", 
         "ne:GU_A3": "BGD", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Bangladesh", 
@@ -222,7 +222,7 @@
         "alias_GER_Q": [
           "Bangladesch"
         ], 
-        "ne:SOVEREIGNT": "Bangladesh", 
+        "ne:ISO_N3": 50.0, 
         "lang": "ENG", 
         "name": "Bangladesh", 
         "ne:TYPE": "Sovereign country", 
@@ -230,18 +230,24 @@
         "alias_UNK_Q": [
           "Bangladess"
         ], 
-        "alias_HUN_Q": [
-          "Banglades"
+        "alias_CHI_V": [
+          "\u5b5f\u52a0\u62c9\u56fd"
         ], 
-        "ne_longitude": 92.674, 
+        "ne:NAME_SORT": "Bangladesh", 
         "longitude": 90.351, 
         "ne:POP_EST": 156050883.0, 
         "iso": "BD", 
-        "sw_latitude": 20.585, 
+        "sw_latitude": 20.670883287025347, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Bangladesh", 
+        "ne:GDP_MD_EST": 224000.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        88.08442223506242, 
+        20.670883287025347, 
+        92.67272098182556, 
+        26.446525580342723
+      ], 
       "id": 23424759
     }
   ]

@@ -195,9 +195,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "C\u00f4te d'Ivoire"
+        ], 
+        "alias_HUN_Q": [
+          "Elef\u00e1ntcsontpart"
         ], 
         "alias_SWE_Q": [
           "Elfenbenskusten"
@@ -205,18 +207,14 @@
         "alias_ENG_P": [
           "Ivory Coast"
         ], 
-        "ne_latitude": 10.737, 
-        "ne:GU_A3": "CIV", 
+        "ne_latitude": 10.524060777219134, 
         "alias_RUM_Q": [
           "Coasta de Filde\u015f"
         ], 
-        "ne:NAME_SORT": "Ivory Coast (C\u00f4te d'Ivoire)", 
+        "ne_longitude": -2.562189500326241, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucf54\ud2b8\ub514\ubd80\uc640\ub974"
-        ], 
-        "alias_RUM_V": [
-          "C\u00f4te d'Ivoire"
         ], 
         "alias_POR_Q": [
           "Costa do Marfim"
@@ -225,9 +223,8 @@
           "CI"
         ], 
         "ne:SUBUNIT": "Ivory Coast", 
-        "ne:POSTAL": "CI", 
-        "ne:ISO_N3": 384.0, 
         "ne:ADM0_A3": "CIV", 
+        "ne:SOVEREIGNT": "Ivory Coast", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8c61\u7259\u6d77\u5cb8"
@@ -235,14 +232,15 @@
         "alias_ITA_Q": [
           "Costa d'Avorio"
         ], 
-        "alias_DAN_Q": [
-          "Elfenbenskysten"
+        "alias_GER_V": [
+          "C\u00f4te d\u2019Ivoire"
         ], 
         "alias_ITA_V": [
           "Costa d\u2019Avorio"
         ], 
-        "alias_CHI_V": [
-          "\u8c61\u7259\u6d77\u5cb8"
+        "ne:POSTAL": "CI", 
+        "alias_KOR_Q": [
+          "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
         ], 
         "alias_JPN_Q": [
           "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb"
@@ -257,18 +255,20 @@
         "alias_SPA_Q": [
           "Costa de Marfil"
         ], 
-        "alias_FIN_Q": [
-          "Norsunluurannikko"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Republica Cote d'Ivoire"
         ], 
+        "sw_longitude": -8.60288021486862, 
         "ne:SOV_A3": "CIV", 
-        "sw_longitude": -8.599, 
-        "ne:GDP_MD_EST": 33850.0, 
         "ne:SU_A3": "CIV", 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "C\u00f4te d'Ivoire"
+        ], 
         "latitude": 7.547, 
+        "alias_SPA_V": [
+          "Republica C\u00f4te d'Ivoire"
+        ], 
         "woe:id": 23424854, 
         "alias_NOR_Q": [
           "Elfenbenskysten"
@@ -277,16 +277,16 @@
         "ne:ISO_A2": "CI", 
         "date_indexed": "2010-12-02T09:35:19Z", 
         "ne:NAME_FORMA": "Republic of Cote D'Ivoire", 
-        "alias_KOR_Q": [
-          "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
+        "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast", 
+        "alias_FRE_V": [
+          "C\u00f4te-d'Ivoire"
         ], 
+        "ne:GU_A3": "CIV", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Ivory Coast", 
         "ne:GEOUNIT": "Ivory Coast", 
         "ne:LabelRank": 1, 
-        "alias_SPA_V": [
-          "Republica C\u00f4te d'Ivoire"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -297,13 +297,16 @@
         "alias_CZE_Q": [
           "Pob\u0159e\u017e\u00ed Slonoviny"
         ], 
-        "alias_GER_V": [
-          "C\u00f4te d\u2019Ivoire"
+        "alias_FIN_Q": [
+          "Norsunluurannikko"
+        ], 
+        "alias_DAN_Q": [
+          "Elfenbenskysten"
         ], 
         "alias_GER_Q": [
           "Elfenbeink\u00fcste"
         ], 
-        "ne:SOVEREIGNT": "Ivory Coast", 
+        "ne:ISO_N3": 384.0, 
         "alias_GER_S": [
           "Republik Cote d\u00b4Ivoire"
         ], 
@@ -313,20 +316,23 @@
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Elef\u00e1ntcsontpart"
+        "alias_CHI_V": [
+          "\u8c61\u7259\u6d77\u5cb8"
         ], 
-        "ne_longitude": -2.495, 
+        "ne:NAME_SORT": "Ivory Coast (C\u00f4te d'Ivoire)", 
         "longitude": -5.547, 
         "ne:POP_EST": 20617068.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "CI", 
-        "sw_latitude": 4.357, 
-        "alias_FRE_V": [
-          "C\u00f4te-d'Ivoire"
-        ], 
-        "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast"
+        "sw_latitude": 4.338288479017308, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 33850.0
       }, 
+      "bbox": [
+        -8.60288021486862, 
+        4.338288479017308, 
+        -2.562189500326241, 
+        10.524060777219134
+      ], 
       "id": 23424854
     }
   ]

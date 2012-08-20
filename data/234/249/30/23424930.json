@@ -50,15 +50,17 @@
         "alias_ENG_V": [
           "State of Qatar"
         ], 
+        "alias_HUN_Q": [
+          "Katar"
+        ], 
         "alias_KOR_Q": [
           "\uce74\ud0c0\ub974"
         ], 
         "alias_POL_Q": [
           "Katar"
         ], 
-        "ne_latitude": 26.178, 
-        "ne:POSTAL": "QA", 
-        "ne:NAME_SORT": "Qatar", 
+        "ne_latitude": 26.11458201751587, 
+        "ne_longitude": 51.60670047384881, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Catar"
@@ -67,19 +69,14 @@
           "QA"
         ], 
         "ne:SUBUNIT": "Qatar", 
-        "ne:ISO_N3": 634.0, 
-        "alias_CZE_Q": [
-          "Katar"
-        ], 
+        "ne:ADM0_A3": "QAT", 
+        "ne:SOVEREIGNT": "Qatar", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5361\u9054"
         ], 
         "ne:NAME": "Qatar", 
-        "alias_CHI_V": [
-          "\u5361\u9054"
-        ], 
-        "ne:ADM0_A3": "QAT", 
+        "ne:POSTAL": "QA", 
         "alias_JPN_Q": [
           "\u30ab\u30bf\u30fc\u30eb"
         ], 
@@ -89,9 +86,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 50.74391076030369, 
         "ne:SOV_A3": "QAT", 
-        "sw_longitude": 50.757, 
-        "ne:GDP_MD_EST": 91330.0, 
         "ne:SU_A3": "QAT", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 25.319, 
@@ -100,16 +96,20 @@
         "ne:ISO_A2": "QA", 
         "date_indexed": "2010-12-02T12:16:10Z", 
         "ne:NAME_FORMA": "State of Qatar", 
+        "fullname": "Qatar", 
         "ne:GU_A3": "QAT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Qatar", 
         "ne:GEOUNIT": "Qatar", 
+        "alias_DUT_V": [
+          "Quatar"
+        ], 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Qatar", 
-        "alias_DUT_V": [
-          "Quatar"
+        "alias_CZE_Q": [
+          "Katar"
         ], 
         "alias_GER_V": [
           "Staat Katar"
@@ -117,23 +117,29 @@
         "alias_GER_Q": [
           "Katar"
         ], 
-        "ne:SOVEREIGNT": "Qatar", 
+        "ne:ISO_N3": 634.0, 
         "lang": "ENG", 
         "name": "Qatar", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Katar"
+        "alias_CHI_V": [
+          "\u5361\u9054"
         ], 
-        "ne_longitude": 52.428, 
+        "ne:NAME_SORT": "Qatar", 
         "longitude": 51.197, 
         "ne:POP_EST": 833285.0, 
         "iso": "QA", 
-        "sw_latitude": 24.483, 
+        "sw_latitude": 24.556330878186724, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Qatar"
+        "ne:GDP_MD_EST": 91330.0
       }, 
+      "bbox": [
+        50.74391076030369, 
+        24.556330878186724, 
+        51.60670047384881, 
+        26.11458201751587
+      ], 
       "id": 23424930
     }
   ]

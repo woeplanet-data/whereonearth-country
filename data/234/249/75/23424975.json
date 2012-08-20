@@ -250,23 +250,21 @@
         "alias_SWE_V": [
           "F\u00f6renade Konungariket"
         ], 
+        "alias_HUN_Q": [
+          "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Storbritannien"
         ], 
         "alias_SWE_S": [
           "Forenade Kungariket"
         ], 
-        "ne_latitude": 60.855, 
-        "ne:GU_A3": "GBR", 
+        "ne_latitude": 58.63500010846633, 
         "alias_RUM_Q": [
           "Regatul Unit Al Marii Britanii \u015ei Al Irlandei de Nord"
         ], 
-        "ne:NAME_SORT": "United Kingdom", 
+        "ne_longitude": 1.681530795914739, 
         "placetype": "Country", 
-        "ne:TERR_": null, 
-        "alias_RUM_V": [
-          "Regatul Unit"
-        ], 
         "alias_POR_Q": [
           "Reino Unido"
         ], 
@@ -274,9 +272,8 @@
           "GBR"
         ], 
         "ne:SUBUNIT": "United Kingdom", 
-        "ne:POSTAL": "GB", 
-        "ne:ISO_N3": 826.0, 
         "ne:ADM0_A3": "GBR", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u82f1\u570b"
@@ -284,14 +281,18 @@
         "alias_ITA_Q": [
           "Regno Unito"
         ], 
-        "alias_DAN_Q": [
-          "Storbritannien"
+        "alias_GER_V": [
+          "Gro\u00dfbritannien und Nordirland"
         ], 
         "alias_ITA_V": [
           "Regnounito"
         ], 
-        "alias_CHI_V": [
-          "\u8054\u5408\u738b\u56fd"
+        "ne:POSTAL": "GB", 
+        "alias_KOR_Q": [
+          "\uc601\uad6d"
+        ], 
+        "alias_GER_Q": [
+          "Vereinigtes K\u00f6nigreich"
         ], 
         "alias_JPN_Q": [
           "\u30a4\u30ae\u30ea\u30b9"
@@ -306,17 +307,19 @@
         "alias_SPA_Q": [
           "Reino Unido"
         ], 
-        "alias_FIN_Q": [
-          "Yhdistynyt Kuningaskunta"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -7.572167934591079, 
         "ne:SOV_A3": "GB1", 
-        "sw_longitude": -13.414, 
-        "ne:GDP_MD_EST": 2226000.0, 
         "alias_FIN_V": [
           "Iso-Britannia"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "Regatul Unit"
+        ], 
         "latitude": 54.314, 
+        "alias_SPA_V": [
+          "Reinounido"
+        ], 
         "woe:id": 23424975, 
         "alias_NOR_Q": [
           "Storbritannia"
@@ -327,16 +330,16 @@
         "ne:ISO_A2": "GB", 
         "date_indexed": "2010-12-02T12:21:01Z", 
         "ne:NAME_FORMA": "United Kingdom of Great Britain and Northern Ireland", 
-        "alias_KOR_Q": [
-          "\uc601\uad6d"
+        "fullname": "United Kingdom", 
+        "alias_FRE_V": [
+          "Grande Bretagne"
         ], 
+        "ne:GU_A3": "GBR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "United Kingdom", 
         "ne:SU_A3": "GBR", 
         "ne:LabelRank": 1, 
-        "alias_SPA_V": [
-          "Reinounido"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -347,13 +350,16 @@
         "alias_CZE_Q": [
           "Spojen\u00e9 Kr\u00e1lovstv\u00ed"
         ], 
-        "alias_GER_V": [
-          "Gro\u00dfbritannien und Nordirland"
+        "alias_FIN_Q": [
+          "Yhdistynyt Kuningaskunta"
+        ], 
+        "alias_DAN_Q": [
+          "Storbritannien"
         ], 
         "alias_DAN_V": [
           "Det Forenede Kongerige Storbritannien og Nordirland"
         ], 
-        "ne:SOVEREIGNT": "United Kingdom", 
+        "ne:ISO_N3": 826.0, 
         "alias_GER_S": [
           "Vereinigtes Koenigreich"
         ], 
@@ -369,28 +375,28 @@
         "alias_UNK_Q": [
           "Y Deyrnas Unedig"
         ], 
-        "alias_HUN_Q": [
-          "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+        "alias_CHI_V": [
+          "\u8054\u5408\u738b\u56fd"
         ], 
-        "alias_GER_Q": [
-          "Vereinigtes K\u00f6nigreich"
-        ], 
-        "ne_longitude": 1.769, 
+        "ne:NAME_SORT": "United Kingdom", 
         "longitude": -2.23, 
         "ne:POP_EST": 61113205.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "GB", 
-        "sw_latitude": 49.162, 
+        "sw_latitude": 49.95999990498109, 
         "ne:ISO_A3": "GBR", 
-        "alias_FRE_V": [
-          "Grande Bretagne"
-        ], 
-        "fullname": "United Kingdom", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 2226000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Royaume Uni"
         ]
       }, 
+      "bbox": [
+        -7.572167934591079, 
+        49.95999990498109, 
+        1.681530795914739, 
+        58.63500010846633
+      ], 
       "id": 23424975
     }
   ]

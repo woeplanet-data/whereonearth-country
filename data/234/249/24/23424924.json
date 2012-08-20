@@ -222,40 +222,37 @@
         "alias_ENG_V": [
           "Republic of Panama"
         ], 
-        "alias_ENG_A": [
-          "PA"
+        "alias_HUN_Q": [
+          "Panamai K\u00f6zt\u00e1rsas\u00e1g"
         ], 
+        "ne:ScaleRank": 1, 
         "alias_ENG_P": [
           "Panama"
         ], 
-        "ne_latitude": 9.65, 
-        "ne:ScaleRank": 1, 
-        "ne:POSTAL": "PA", 
+        "ne_latitude": 9.611610012241528, 
+        "ne:GU_A3": "PAN", 
         "alias_RUM_Q": [
           "Panama"
         ], 
-        "ne_longitude": -77.174, 
+        "ne:NAME_SORT": "Panama", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_KOR_Q": [
           "\ud30c\ub098\ub9c8"
         ], 
         "ne:SUBUNIT": "Panama", 
-        "ne:ISO_N3": 591.0, 
         "ne:ADM0_A3": "PAN", 
+        "ne:SOVEREIGNT": "Panama", 
         "alias_SWE_Q": [
           "Panama"
         ], 
         "alias_CHI_Q": [
           "\u5df4\u62ff\u99ac"
         ], 
-        "alias_DAN_Q": [
-          "Panama"
+        "alias_GER_V": [
+          "Republik Panama"
         ], 
         "ne:NAME": "Panama", 
-        "alias_CHI_V": [
-          "\u5df4\u62ff\u9a6c"
-        ], 
+        "ne:POSTAL": "PA", 
         "alias_JPN_Q": [
           "\u30d1\u30ca\u30de"
         ], 
@@ -266,15 +263,12 @@
           "\u30d1\u30ca\u30de\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Panama"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Republica de Panama"
         ], 
+        "sw_longitude": -82.96578304719736, 
         "ne:SOV_A3": "PAN", 
-        "sw_longitude": -83.051, 
-        "ne:GDP_MD_EST": 38830.0, 
         "ne:SU_A3": "PAN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.418, 
@@ -285,8 +279,11 @@
         "ne:ISO_A3": "PAN", 
         "ne:ISO_A2": "PA", 
         "date_indexed": "2010-12-02T17:52:32Z", 
-        "ne:NAME_SORT": "Panama", 
-        "ne:GU_A3": "PAN", 
+        "ne:NAME_FORMA": "Republic of Panama", 
+        "fullname": "Panam\u00e1, Panama", 
+        "alias_ENG_A": [
+          "PA"
+        ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Panama", 
         "ne:GEOUNIT": "Panama", 
@@ -295,6 +292,9 @@
           "Rep\u00fablica de Panam\u00e1"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Panama"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Panama"
@@ -304,13 +304,16 @@
         "alias_CZE_Q": [
           "Panama"
         ], 
-        "alias_GER_V": [
-          "Republik Panama"
+        "alias_FIN_Q": [
+          "Panama"
+        ], 
+        "alias_DAN_Q": [
+          "Panama"
         ], 
         "alias_GER_Q": [
           "Panama"
         ], 
-        "ne:SOVEREIGNT": "Panama", 
+        "ne:ISO_N3": 591.0, 
         "lang": "SPA", 
         "name": "Panam\u00e1", 
         "ne:TYPE": "Sovereign country", 
@@ -318,21 +321,24 @@
         "alias_UNK_Q": [
           "Panama"
         ], 
-        "alias_HUN_Q": [
-          "Panamai K\u00f6zt\u00e1rsas\u00e1g"
+        "alias_CHI_V": [
+          "\u5df4\u62ff\u9a6c"
         ], 
-        "alias_UNK_V": [
-          "Republika Panama"
-        ], 
+        "ne_longitude": -77.24256649444008, 
         "longitude": -80.113, 
         "ne:POP_EST": 3360474.0, 
         "iso": "PA", 
-        "sw_latitude": 7.198, 
+        "sw_latitude": 7.220541490096537, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Panam\u00e1, Panama", 
-        "ne:NAME_FORMA": "Republic of Panama", 
+        "ne:GDP_MD_EST": 38830.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -82.96578304719736, 
+        7.220541490096537, 
+        -77.24256649444008, 
+        9.611610012241528
+      ], 
       "id": 23424924
     }
   ]

@@ -162,8 +162,8 @@
           "SO"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 11.985, 
-        "ne_longitude": 51.413, 
+        "ne_latitude": 12.02464, 
+        "ne:NAME_SORT": "Somalia", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc18c\ub9d0\ub9ac\uc57c"
@@ -175,19 +175,19 @@
           "\uc18c\ub9d0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Somalia", 
-        "ne:ISO_N3": 706.0, 
         "ne:ADM0_A3": "SOM", 
+        "ne:SOVEREIGNT": "Somalia", 
         "ne:ScaleRank": 1, 
         "ne:NAME": "Somalia", 
         "ne:POSTAL": "SO", 
         "alias_JPN_Q": [
           "\u30bd\u30de\u30ea\u30a2"
         ], 
+        "fullname": "Somalia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 40.98105, 
         "ne:SOV_A3": "SOM", 
-        "sw_longitude": 40.989, 
-        "ne:GDP_MD_EST": 5524.0, 
         "ne:SU_A3": "SOM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.162, 
@@ -195,13 +195,16 @@
         "ne:ISO_A3": "SOM", 
         "ne:ISO_A2": "SO", 
         "date_indexed": "2010-12-02T08:51:01Z", 
-        "ne:NAME_SORT": "Somalia", 
+        "ne:NAME_FORMA": "Federal Republic of Somalia", 
         "ne:GU_A3": "SOM", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Somalia", 
         "ne:GEOUNIT": "Somalia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Somalska demokratiena republika"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Somali\u00eb"
@@ -213,7 +216,7 @@
         "alias_GER_V": [
           "Republik Somalia"
         ], 
-        "ne:SOVEREIGNT": "Somalia", 
+        "ne:ISO_N3": 706.0, 
         "lang": "ENG", 
         "name": "Somalia", 
         "ne:TYPE": "Sovereign country", 
@@ -224,21 +227,24 @@
         "alias_HUN_Q": [
           "Szom\u00e1lia"
         ], 
-        "alias_UNK_V": [
-          "Somalska demokratiena republika"
-        ], 
+        "ne_longitude": 51.13387, 
         "longitude": 46.201, 
         "ne:POP_EST": 9832017.0, 
         "iso": "SO", 
-        "sw_latitude": -1.662, 
+        "sw_latitude": -1.68325, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Somalia", 
-        "ne:NAME_FORMA": "Federal Republic of Somalia", 
+        "ne:GDP_MD_EST": 5524.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Somalie"
         ]
       }, 
+      "bbox": [
+        40.98105, 
+        -1.68325, 
+        51.13387, 
+        12.02464
+      ], 
       "id": 23424949
     }
   ]

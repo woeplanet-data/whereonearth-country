@@ -94,15 +94,15 @@
           "\ud1a0\uace0"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 11.139, 
-        "ne:NAME_SORT": "Togo", 
+        "ne_latitude": 11.018681748900804, 
+        "ne_longitude": 1.865240512712319, 
         "placetype": "Country", 
         "alias_ENG_A": [
           "TG"
         ], 
         "ne:SUBUNIT": "Togo", 
-        "ne:ISO_N3": 768.0, 
         "ne:ADM0_A3": "TGO", 
+        "ne:SOVEREIGNT": "Togo", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u591a\u54e5"
@@ -117,17 +117,17 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -0.049784715159944, 
         "ne:SOV_A3": "TGO", 
-        "sw_longitude": -0.147, 
-        "ne:GDP_MD_EST": 5118.0, 
         "ne:SU_A3": "TGO", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.622, 
         "woe:id": 23424965, 
         "ne:ISO_A3": "TGO", 
         "ne:ISO_A2": "TG", 
-        "sw_latitude": 6.104, 
+        "sw_latitude": 5.928837388528876, 
         "ne:NAME_FORMA": "Togolese Republic", 
+        "fullname": "Togo", 
         "ne:GU_A3": "TGO", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Togo", 
@@ -139,7 +139,7 @@
         "alias_GER_V": [
           "Republik Togo"
         ], 
-        "ne:SOVEREIGNT": "Togo", 
+        "ne:ISO_N3": 768.0, 
         "lang": "ENG", 
         "name": "Togo", 
         "ne:TYPE": "Sovereign country", 
@@ -147,15 +147,21 @@
         "alias_UNK_Q": [
           "Togolese Republic"
         ], 
-        "ne_longitude": 1.807, 
+        "ne:NAME_SORT": "Togo", 
         "longitude": 0.83, 
         "ne:POP_EST": 6019877.0, 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Togo", 
+        "ne:GDP_MD_EST": 5118.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -0.049784715159944, 
+        5.928837388528876, 
+        1.865240512712319, 
+        11.018681748900804
+      ], 
       "id": 23424965
     }
   ]

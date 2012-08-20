@@ -130,8 +130,8 @@
           "\ub9d0\ub77c\uc704"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -9.368, 
-        "ne:NAME_SORT": "Malawi", 
+        "ne_latitude": -9.23059905358906, 
+        "ne_longitude": 35.77190473810836, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Malavi"
@@ -143,8 +143,8 @@
           "MW"
         ], 
         "ne:SUBUNIT": "Malawi", 
-        "ne:ISO_N3": 454.0, 
         "ne:ADM0_A3": "MWI", 
+        "ne:SOVEREIGNT": "Malawi", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u62c9\u5a01"
@@ -164,9 +164,8 @@
           "Malaui"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 32.68816531752313, 
         "ne:SOV_A3": "MWI", 
-        "sw_longitude": 32.674, 
-        "ne:GDP_MD_EST": 11810.0, 
         "ne:SU_A3": "MWI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -13.246, 
@@ -175,6 +174,7 @@
         "ne:ISO_A2": "MW", 
         "date_indexed": "2010-12-02T17:40:29Z", 
         "ne:NAME_FORMA": "Republic of Malawi", 
+        "fullname": "Malawi", 
         "ne:GU_A3": "MWI", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Malawi", 
@@ -186,7 +186,7 @@
         "alias_GER_Q": [
           "Republik Malawi"
         ], 
-        "ne:SOVEREIGNT": "Malawi", 
+        "ne:ISO_N3": 454.0, 
         "lang": "ENG", 
         "name": "Malawi", 
         "ne:TYPE": "Sovereign country", 
@@ -195,15 +195,21 @@
           "Republika Malavi"
         ], 
         "ne:POSTAL": "MW", 
-        "ne_longitude": 35.917, 
+        "ne:NAME_SORT": "Malawi", 
         "longitude": 34.295, 
         "ne:POP_EST": 14268711.0, 
         "iso": "MW", 
-        "sw_latitude": -17.125, 
+        "sw_latitude": -16.801299737213093, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Malawi", 
+        "ne:GDP_MD_EST": 11810.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        32.68816531752313, 
+        -16.801299737213093, 
+        35.77190473810836, 
+        -9.23059905358906
+      ], 
       "id": 23424889
     }
   ]

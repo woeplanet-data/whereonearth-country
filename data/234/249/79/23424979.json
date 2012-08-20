@@ -104,8 +104,8 @@
         "alias_POL_Q": [
           "Urugwaj"
         ], 
-        "ne_latitude": -30.082, 
-        "ne_longitude": -53.074, 
+        "ne_latitude": -30.109686374636127, 
+        "ne:NAME_SORT": "Uruguay", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Uruguai"
@@ -114,8 +114,8 @@
           "\uc6b0\ub8e8\uacfc\uc774"
         ], 
         "ne:SUBUNIT": "Uruguay", 
-        "ne:ISO_N3": 858.0, 
         "ne:ADM0_A3": "URY", 
+        "ne:SOVEREIGNT": "Uruguay", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u62c9\u572d"
@@ -133,9 +133,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -58.42707414410439, 
         "ne:SOV_A3": "URY", 
-        "sw_longitude": -58.443, 
-        "ne:GDP_MD_EST": 43160.0, 
         "ne:SU_A3": "URY", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -32.532, 
@@ -143,19 +142,23 @@
         "ne:ISO_A3": "URY", 
         "ne:ISO_A2": "UY", 
         "date_indexed": "2010-12-02T17:58:27Z", 
-        "ne:NAME_SORT": "Uruguay", 
+        "ne:NAME_FORMA": "Oriental Republic of Uruguay", 
+        "fullname": "Uruguay", 
         "ne:GU_A3": "URY", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Uruguay", 
         "ne:GEOUNIT": "Uruguay", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Vzhodna republika Urugvaj"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Ury.", 
         "alias_GER_V": [
           "Republik \u00d6stlich des Uruguay"
         ], 
-        "ne:SOVEREIGNT": "Uruguay", 
+        "ne:ISO_N3": 858.0, 
         "alias_GER_S": [
           "Republik Ostlich des Uruguay"
         ], 
@@ -167,18 +170,21 @@
           "Urugvaj"
         ], 
         "ne:POSTAL": "UY", 
-        "alias_UNK_V": [
-          "Vzhodna republika Urugvaj"
-        ], 
+        "ne_longitude": -53.209588995971544, 
         "longitude": -55.758, 
         "ne:POP_EST": 3494382.0, 
         "iso": "UY", 
-        "sw_latitude": -35.048, 
+        "sw_latitude": -34.952646579733624, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Uruguay", 
-        "ne:NAME_FORMA": "Oriental Republic of Uruguay", 
+        "ne:GDP_MD_EST": 43160.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -58.42707414410439, 
+        -34.952646579733624, 
+        -53.209588995971544, 
+        -30.109686374636127
+      ], 
       "id": 23424979
     }
   ]

@@ -99,9 +99,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Arabic"
+        ], 
+        "alias_HUN_Q": [
+          "Egyes\u00fclt Arab Em\u00edrs\u00e9gek"
         ], 
         "alias_SWE_Q": [
           "F\u00f6renade Arabemiraten"
@@ -109,13 +111,12 @@
         "alias_SWE_S": [
           "Forenade Arabemiraten"
         ], 
-        "ne_latitude": 26.079, 
+        "ne_latitude": 26.05546417897398, 
         "ne:SUBUNIT": "United Arab Emirates", 
-        "ne:GU_A3": "ARE", 
         "alias_RUM_Q": [
           "Emiratele Arabe Unite"
         ], 
-        "ne_longitude": 56.384, 
+        "ne:NAME_SORT": "United Arab Emirates", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8\uc5f0\ud569"
@@ -132,12 +133,11 @@
         "alias_POR_S": [
           "Emirados Arabes Unidos"
         ], 
-        "ne:POSTAL": "AE", 
-        "ne:ISO_N3": 784.0, 
         "alias_ARA_V": [
           "Al-Imarat Al-'Arabiya El-Muttahida"
         ], 
         "ne:ADM0_A3": "ARE", 
+        "ne:SOVEREIGNT": "United Arab Emirates", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b"
@@ -146,8 +146,9 @@
           "Emirati Arabi Uniti"
         ], 
         "ne:NAME": "United Arab Emirates", 
-        "alias_CHI_V": [
-          "\u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b"
+        "ne:POSTAL": "AE", 
+        "alias_KOR_Q": [
+          "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"
         ], 
         "alias_JPN_Q": [
           "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6"
@@ -155,16 +156,14 @@
         "alias_POL_Q": [
           "Zjednoczone Emiraty Arabskie"
         ], 
+        "fullname": "United Arab Emirates", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Emiratos \u00c1rabes Unidos"
         ], 
-        "alias_FIN_Q": [
-          "Arabiemiirikunnat"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 51.57951867046327, 
         "ne:SOV_A3": "ARE", 
-        "sw_longitude": 51.113, 
-        "ne:GDP_MD_EST": 184300.0, 
         "alias_FIN_V": [
           "Yhdistyneet Arabiemiirikunnat"
         ], 
@@ -179,10 +178,11 @@
         ], 
         "ne:ISO_A2": "AE", 
         "date_indexed": "2010-12-02T08:58:41Z", 
-        "ne:NAME_SORT": "United Arab Emirates", 
-        "alias_KOR_Q": [
-          "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"
+        "ne:NAME_FORMA": null, 
+        "alias_FRE_V": [
+          "EAU"
         ], 
+        "ne:GU_A3": "ARE", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "United Arab Emirates", 
         "ne:SU_A3": "ARE", 
@@ -191,6 +191,9 @@
           "Emiratos Arabes Unidos"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Samein Arabafurstad"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Verenigde Arabische Emiraten"
@@ -200,39 +203,36 @@
         "alias_CZE_Q": [
           "Spojen\u00e9 Arabsk\u00e9 Emir\u00e1ty"
         ], 
+        "alias_FIN_Q": [
+          "Arabiemiirikunnat"
+        ], 
         "alias_DAN_Q": [
           "Forenede Arabiske Emirater"
         ], 
         "alias_GER_Q": [
           "Vereinigte Arabische Emirate"
         ], 
-        "ne:SOVEREIGNT": "United Arab Emirates", 
+        "ne:ISO_N3": 784.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "United Arab Emirates", 
         "name": "United Arab Emirates", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Egyes\u00fclt Arab Em\u00edrs\u00e9gek"
+        "alias_CHI_V": [
+          "\u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b"
         ], 
         "alias_HUN_V": [
           "Egyes\u00fclt Arab Emir\u00e1tus"
         ], 
-        "alias_UNK_V": [
-          "Samein Arabafurstad"
-        ], 
+        "ne_longitude": 56.396847365144005, 
         "longitude": 55.116, 
         "ne:POP_EST": 4798491.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "AE", 
-        "sw_latitude": 22.497, 
+        "sw_latitude": 22.496947536707136, 
         "ne:ISO_A3": "ARE", 
-        "alias_FRE_V": [
-          "EAU"
-        ], 
-        "fullname": "United Arab Emirates", 
-        "ne:NAME_FORMA": null, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 184300.0, 
         "alias_FRE_S": [
           "Emirats Arabes Unis"
         ], 
@@ -240,6 +240,12 @@
           "\u00c9mirats Arabes Unis"
         ]
       }, 
+      "bbox": [
+        51.57951867046327, 
+        22.496947536707136, 
+        56.396847365144005, 
+        26.05546417897398
+      ], 
       "id": 23424738
     }
   ]

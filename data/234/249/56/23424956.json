@@ -122,18 +122,19 @@
         "alias_ENG_V": [
           "Syrian Arab Republic"
         ], 
+        "alias_HUN_Q": [
+          "Sz\u00edria"
+        ], 
         "alias_SWE_Q": [
           "Syrien"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 37.319, 
-        "ne:GU_A3": "SYR", 
+        "ne_latitude": 37.2298725449041, 
         "alias_RUM_Q": [
           "Siria"
         ], 
-        "ne_longitude": 42.385, 
+        "ne:NAME_SORT": "Syria", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "S\u00edria"
         ], 
@@ -141,9 +142,8 @@
           "SY"
         ], 
         "ne:SUBUNIT": "Syria", 
-        "ne:POSTAL": "SYR", 
-        "ne:ISO_N3": 760.0, 
         "ne:ADM0_A3": "SYR", 
+        "ne:SOVEREIGNT": "Syria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6558\u5229\u4e9e"
@@ -151,12 +151,13 @@
         "alias_ITA_Q": [
           "Siria"
         ], 
-        "alias_DAN_Q": [
-          "Syrien"
+        "alias_GER_V": [
+          "Arabische Republik Syrien"
         ], 
         "ne:NAME": "Syria", 
-        "alias_CHI_V": [
-          "\u53d9\u5229\u4e9a"
+        "ne:POSTAL": "SYR", 
+        "alias_KOR_Q": [
+          "\uc2dc\ub9ac\uc544"
         ], 
         "alias_JPN_Q": [
           "\u30b7\u30ea\u30a2"
@@ -168,12 +169,9 @@
         "alias_SPA_Q": [
           "Siria"
         ], 
-        "alias_FIN_Q": [
-          "Syyria"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 35.70079796727475, 
         "ne:SOV_A3": "SYR", 
-        "sw_longitude": 35.727, 
-        "ne:GDP_MD_EST": 98830.0, 
         "alias_FIN_V": [
           "Syyriaan"
         ], 
@@ -183,10 +181,9 @@
         "ne:ISO_A3": "SYR", 
         "ne:ISO_A2": "SY", 
         "date_indexed": "2010-12-02T07:50:25Z", 
-        "ne:NAME_SORT": "Syria", 
-        "alias_KOR_Q": [
-          "\uc2dc\ub9ac\uc544"
-        ], 
+        "ne:NAME_FORMA": "Syrian Arab Republic", 
+        "fullname": "Syria", 
+        "ne:GU_A3": "SYR", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Syria", 
         "ne:SU_A3": "SYR", 
@@ -195,6 +192,9 @@
           "Siria, Republica Arabe"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Sirska arabska republika"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Syri\u00eb"
@@ -203,13 +203,16 @@
         "alias_CZE_Q": [
           "S\u00fdrie"
         ], 
-        "alias_GER_V": [
-          "Arabische Republik Syrien"
+        "alias_FIN_Q": [
+          "Syyria"
+        ], 
+        "alias_DAN_Q": [
+          "Syrien"
         ], 
         "alias_GER_Q": [
           "Syrien"
         ], 
-        "ne:SOVEREIGNT": "Syria", 
+        "ne:ISO_N3": 760.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Syria", 
         "name": "Syria", 
@@ -220,28 +223,31 @@
         "alias_UNK_Q": [
           "S\u00fdrland"
         ], 
-        "alias_HUN_Q": [
-          "Sz\u00edria"
+        "alias_CHI_V": [
+          "\u53d9\u5229\u4e9a"
         ], 
         "alias_HUN_V": [
           "Sz\u00edriai Arab K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Sirska arabska republika"
-        ], 
+        "ne_longitude": 42.34959109881177, 
         "longitude": 39.056, 
         "ne:POP_EST": 20178485.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "SY", 
-        "sw_latitude": 32.311, 
+        "sw_latitude": 32.312937526980775, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Syria", 
-        "ne:NAME_FORMA": "Syrian Arab Republic", 
+        "ne:GDP_MD_EST": 98830.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Syrie"
         ]
       }, 
+      "bbox": [
+        35.70079796727475, 
+        32.312937526980775, 
+        42.34959109881177, 
+        37.2298725449041
+      ], 
       "id": 23424956
     }
   ]

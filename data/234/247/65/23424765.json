@@ -187,9 +187,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Rep. Belarus"
+        ], 
+        "alias_HUN_Q": [
+          "Belorusszia"
         ], 
         "alias_SWE_Q": [
           "Vitryssland"
@@ -197,10 +199,9 @@
         "alias_POL_Q": [
           "Bia\u0142oru\u015b"
         ], 
-        "ne_latitude": 56.166, 
+        "ne_latitude": 56.169129950578814, 
         "ne:SUBUNIT": "Belarus", 
-        "ne:GU_A3": "BLR", 
-        "ne_longitude": 32.771, 
+        "ne:NAME_SORT": "Belarus", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubca0\ub77c\ub8e8\uc2a4"
@@ -214,9 +215,8 @@
         "alias_POR_S": [
           "Bielorrussia"
         ], 
-        "ne:POSTAL": "BY", 
-        "ne:ISO_N3": 112.0, 
         "ne:ADM0_A3": "BLR", 
+        "ne:SOVEREIGNT": "Belarus", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u767d\u4fc4\u7f85\u65af"
@@ -224,12 +224,13 @@
         "alias_ITA_Q": [
           "Bielorussia"
         ], 
-        "alias_DAN_Q": [
-          "Hviderusland"
+        "alias_GER_V": [
+          "Wei\u00dfru\u00dfland"
         ], 
         "ne:NAME": "Belarus", 
-        "alias_CHI_V": [
-          "\u767d\u4fc4\u7f57\u65af"
+        "ne:POSTAL": "BY", 
+        "alias_KOR_Q": [
+          "\ubca8\ub77c\ub8e8\uc2a4"
         ], 
         "alias_JPN_Q": [
           "\u30d9\u30e9\u30eb\u30fc\u30b7"
@@ -242,14 +243,12 @@
         "alias_SPA_Q": [
           "Belar\u00fas"
         ], 
-        "alias_FIN_Q": [
-          "Valko-Ven\u00e4j\u00e4"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Valko-Venaja"
         ], 
-        "sw_longitude": 23.177, 
-        "ne:GDP_MD_EST": 114100.0, 
+        "sw_longitude": 23.199493849386187, 
+        "ne:SOV_A3": "BLR", 
         "ne:SU_A3": "BLR", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 53.711, 
@@ -260,10 +259,12 @@
         "ne:ISO_A3": "BLR", 
         "ne:ISO_A2": "BY", 
         "date_indexed": "2010-12-02T16:32:57Z", 
-        "ne:NAME_SORT": "Belarus", 
-        "alias_KOR_Q": [
-          "\ubca8\ub77c\ub8e8\uc2a4"
+        "ne:NAME_FORMA": "Republic of Belarus", 
+        "fullname": "Belarus", 
+        "alias_FRE_V": [
+          "B\u00e9larus"
         ], 
+        "ne:GU_A3": "BLR", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Belarus", 
         "ne:GEOUNIT": "Belarus", 
@@ -271,8 +272,10 @@
         "alias_SPA_V": [
           "Bielorrusia"
         ], 
-        "ne:SOV_A3": "BLR", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Bielorusko"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Wit-Rusland"
@@ -281,53 +284,56 @@
         "alias_CZE_Q": [
           "B\u011blorusko"
         ], 
-        "alias_GER_V": [
-          "Wei\u00dfru\u00dfland"
+        "alias_FIN_Q": [
+          "Valko-Ven\u00e4j\u00e4"
+        ], 
+        "alias_DAN_Q": [
+          "Hviderusland"
         ], 
         "alias_GER_Q": [
           "Wei\u00dfrussland"
         ], 
-        "ne:SOVEREIGNT": "Belarus", 
+        "ne:ISO_N3": 112.0, 
         "alias_GER_S": [
           "Weissrussland"
         ], 
         "lang": "ENG", 
-        "ne:TYPE": "Sovereign country", 
         "name": "Belarus", 
-        "alias_UNK_S": [
-          "Hvita-Russland"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Belorusija"
         ], 
-        "alias_HUN_Q": [
-          "Belorusszia"
+        "alias_CHI_V": [
+          "\u767d\u4fc4\u7f57\u65af"
         ], 
         "alias_HUN_V": [
           "Feh\u00e9roroszorsz\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Bielorusko"
-        ], 
+        "ne_longitude": 32.69364301934604, 
         "longitude": 27.974, 
         "ne:POP_EST": 9648533.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Hvita-Russland"
+        ], 
         "iso": "BY", 
-        "sw_latitude": 51.256, 
+        "sw_latitude": 51.31950348571566, 
         "alias_HUN_S": [
           "Feheroroszorszag"
         ], 
-        "alias_FRE_V": [
-          "B\u00e9larus"
-        ], 
-        "fullname": "Belarus", 
-        "ne:NAME_FORMA": "Republic of Belarus", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 114100.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Bi\u00e9lorussie"
         ]
       }, 
+      "bbox": [
+        23.199493849386187, 
+        51.31950348571566, 
+        32.69364301934604, 
+        56.169129950578814
+      ], 
       "id": 23424765
     }
   ]

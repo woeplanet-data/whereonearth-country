@@ -230,14 +230,16 @@
         "alias_ENG_V": [
           "Turkmen"
         ], 
+        "alias_HUN_Q": [
+          "T\u00fcrkmeniszt\u00e1n"
+        ], 
         "alias_KOR_Q": [
           "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 42.796, 
+        "ne_latitude": 42.75155101172305, 
         "ne:SUBUNIT": "Turkmenistan", 
-        "ne:POSTAL": "TM", 
-        "ne:NAME_SORT": "Turkmenistan", 
+        "ne_longitude": 66.54615034370022, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud22c\ub974\ud06c\uba58"
@@ -254,27 +256,25 @@
         "alias_POR_S": [
           "Turquemenistao"
         ], 
-        "ne:ISO_N3": 795.0, 
         "ne:ADM0_A3": "TKM", 
+        "ne:SOVEREIGNT": "Turkmenistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u571f\u5eab\u66fc"
         ], 
         "ne:NAME": "Turkmenistan", 
-        "alias_CHI_V": [
-          "\u571f\u5e93\u66fc\u65af\u5766"
-        ], 
+        "ne:POSTAL": "TM", 
         "alias_JPN_Q": [
           "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
         ], 
+        "fullname": "Turkmenistan", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Turkmenist\u00e1n"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 52.50245975119615, 
         "ne:SOV_A3": "TKM", 
-        "sw_longitude": 52.441, 
-        "ne:GDP_MD_EST": 29780.0, 
         "alias_FIN_V": [
           "Turkmenistassa"
         ], 
@@ -297,26 +297,32 @@
           "Turkmenist\u00e1n"
         ], 
         "ne:GEOUNIT": "Turkmenistan", 
-        "ne:SOVEREIGNT": "Turkmenistan", 
+        "ne:ISO_N3": 795.0, 
         "lang": "ENG", 
         "name": "Turkmenistan", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "T\u00fcrkmeniszt\u00e1n"
+        "alias_CHI_V": [
+          "\u571f\u5e93\u66fc\u65af\u5766"
         ], 
-        "ne_longitude": 66.684, 
+        "ne:NAME_SORT": "Turkmenistan", 
         "longitude": 59.563, 
         "ne:POP_EST": 4884887.0, 
         "iso": "TM", 
-        "sw_latitude": 35.141, 
+        "sw_latitude": 35.270663967422294, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Turkmenistan", 
+        "ne:GDP_MD_EST": 29780.0, 
         "alias_FRE_Q": [
           "Turkm\u00e9nistan"
         ]
       }, 
+      "bbox": [
+        52.50245975119615, 
+        35.270663967422294, 
+        66.54615034370022, 
+        42.75155101172305
+      ], 
       "id": 23424972
     }
   ]

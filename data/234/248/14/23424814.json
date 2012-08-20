@@ -57,18 +57,21 @@
         "alias_ENG_V": [
           "Colony of the Falkland Islands"
         ], 
+        "alias_HUN_Q": [
+          "Falkland-Szigetek"
+        ], 
+        "longitude": -58.721, 
         "alias_SWE_Q": [
           "Falklands\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Falklandsoarna"
         ], 
-        "ne_latitude": -50.966, 
-        "ne:GU_A3": "FLK", 
+        "ne_latitude": -51.1, 
         "alias_RUM_Q": [
           "Insulele Falkland"
         ], 
-        "ne_longitude": -57.712, 
+        "ne:NAME_SORT": "Falkland Islands", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud3ec\ud074\ub79c\ub4dc\uc81c\ub3c4"
@@ -83,9 +86,8 @@
           "FK"
         ], 
         "ne:SUBUNIT": "Falkland Islands", 
-        "ne:POSTAL": "FK", 
-        "ne:ISO_N3": 238.0, 
         "ne:ADM0_A3": "FLK", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u798f\u514b\u862d\u7fa4\u5cf6"
@@ -93,15 +95,18 @@
         "alias_ITA_Q": [
           "Isole Falkland"
         ], 
-        "alias_DAN_Q": [
-          "Falklands\u00f8erne"
+        "alias_GER_V": [
+          "Falkland-Inseln"
         ], 
         "alias_ITA_V": [
           "Falkland, isole"
         ], 
-        "ne:TERR_": "U.K.", 
-        "alias_CHI_V": [
-          "\u798f\u514b\u5170\u7fa4\u5c9b"
+        "ne:POSTAL": "FK", 
+        "alias_KOR_Q": [
+          "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"
+        ], 
+        "alias_CZE_Q": [
+          "Falklandy"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6"
@@ -109,16 +114,14 @@
         "alias_POL_Q": [
           "Falklandy"
         ], 
+        "fullname": "Falkland Islands", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Malvinas"
         ], 
-        "alias_FIN_Q": [
-          "Falklandinsaaret"
-        ], 
+        "ne:TERR_": "U.K.", 
+        "sw_longitude": -61.2, 
         "ne:SOV_A3": "GB1", 
-        "sw_longitude": -61.434, 
-        "ne:GDP_MD_EST": 105.1, 
         "ne:SU_A3": "FLK", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -51.801, 
@@ -132,78 +135,81 @@
         "ne:ISO_A3": "FLK", 
         "ne:ISO_A2": "FK", 
         "date_indexed": "2010-12-02T16:12:16Z", 
-        "ne:NAME_SORT": "Falkland Islands", 
-        "alias_KOR_Q": [
-          "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"
+        "ne:NAME_FORMA": "Falkland Islands (Islas Malvinas)", 
+        "alias_FRE_V": [
+          "Falkland, \u00eeles (Malvinas)"
         ], 
+        "ne:GU_A3": "FLK", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Falkland Islands", 
         "ne:GEOUNIT": "Falkland Islands", 
-        "alias_DUT_V": [
-          "Falkland Eilanden"
-        ], 
         "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Islas Falkland (Malvinas)"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Falklands\u00f8erne"
+        ], 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Falklandeilanden"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Flk. Is.", 
-        "alias_CZE_Q": [
-          "Falklandy"
+        "alias_DUT_V": [
+          "Falkland Eilanden"
         ], 
-        "alias_DAN_S": [
-          "Falklandsoerne"
+        "alias_FRE_S": [
+          "Iles Falkland"
         ], 
-        "alias_GER_V": [
-          "Falkland-Inseln"
+        "alias_FIN_Q": [
+          "Falklandinsaaret"
+        ], 
+        "alias_DAN_Q": [
+          "Falklands\u00f8erne"
         ], 
         "alias_GER_Q": [
           "Falklandinseln"
         ], 
-        "ne:SOVEREIGNT": "United Kingdom", 
+        "ne:ISO_N3": 238.0, 
         "ne:NAME": "Falkland Is.", 
         "lang": "ENG", 
-        "ne:TYPE": "Dependency", 
         "name": "Falkland Islands", 
-        "alias_UNK_S": [
-          "Falklandsoyene"
-        ], 
+        "ne:TYPE": "Dependency", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Falklandseyjar"
         ], 
-        "alias_HUN_Q": [
-          "Falkland-Szigetek"
+        "alias_CHI_V": [
+          "\u798f\u514b\u5170\u7fa4\u5c9b"
         ], 
         "alias_HUN_V": [
           "Falkland szigetek"
         ], 
-        "alias_UNK_V": [
-          "Falklands\u00f8erne"
+        "ne_longitude": -57.75, 
+        "alias_DAN_S": [
+          "Falklandsoerne"
         ], 
-        "longitude": -58.721, 
         "ne:POP_EST": 3140.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Falklandsoyene"
+        ], 
         "iso": "FK", 
-        "sw_latitude": -52.901, 
-        "alias_FRE_V": [
-          "Falkland, \u00eeles (Malvinas)"
-        ], 
+        "sw_latitude": -52.3, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 105.1, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Falkland Islands", 
-        "ne:NAME_FORMA": "Falkland Islands (Islas Malvinas)", 
-        "alias_FRE_S": [
-          "Iles Falkland"
-        ], 
         "alias_FRE_Q": [
           "\u00celes Malouines"
         ]
       }, 
+      "bbox": [
+        -61.2, 
+        -52.3, 
+        -57.75, 
+        -51.1
+      ], 
       "id": 23424814
     }
   ]

@@ -189,18 +189,20 @@
         "alias_ENG_V": [
           "Southkorea"
         ], 
+        "alias_HUN_Q": [
+          "D\u00e9l-Korea"
+        ], 
         "alias_SWE_Q": [
           "Sydkorea"
         ], 
         "alias_ENG_P": [
           "South Korea"
         ], 
-        "ne_latitude": 38.612, 
-        "ne:POSTAL": "KP", 
+        "ne_latitude": 42.985386867843786, 
         "alias_RUM_Q": [
           "Coreea de Sud"
         ], 
-        "ne_longitude": 130.934, 
+        "ne:NAME_SORT": "Korea, North", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\u5927\u97d3\u6c11\u56fd"
@@ -215,8 +217,8 @@
           "KR"
         ], 
         "ne:SUBUNIT": "North Korea", 
-        "ne:ISO_N3": 408.0, 
         "ne:ADM0_A3": "PRK", 
+        "ne:SOVEREIGNT": "North Korea", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u97d3\u570b"
@@ -224,15 +226,15 @@
         "alias_ITA_Q": [
           "Corea del Sud"
         ], 
-        "alias_DAN_Q": [
-          "Sydkorea"
+        "alias_GER_V": [
+          "Korea (Republik Korea, S\u00fcdkorea)"
         ], 
         "alias_ITA_V": [
           "Corea"
         ], 
-        "ne:TERR_": null, 
-        "alias_CHI_V": [
-          "\u97d3\u570b"
+        "ne:POSTAL": "KP", 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Korea"
         ], 
         "alias_JPN_Q": [
           "\u5927\u97d3\u6c11\u56fd"
@@ -247,16 +249,12 @@
         "alias_SPA_Q": [
           "Corea del Sur"
         ], 
-        "alias_FIN_Q": [
-          "Korean Tasavalta"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Etela-Korea"
         ], 
-        "sw_longitude": 124.608, 
-        "alias_HUN_V": [
-          "Korea, D\u00e9l"
-        ], 
+        "sw_longitude": 124.26562462778531, 
+        "ne:SOV_A3": "PRK", 
         "alias_FIN_V": [
           "Etel\u00e4-Korea"
         ], 
@@ -274,77 +272,85 @@
         ], 
         "ne:ISO_A2": "KP", 
         "date_indexed": "2010-12-02T17:53:06Z", 
-        "ne:NAME_SORT": "Korea, North", 
+        "ne:NAME_FORMA": "Democratic People's Republic of Korea", 
+        "fullname": "\ud55c\uad6d, South Korea", 
+        "alias_FRE_V": [
+          "Cor\u00e9e"
+        ], 
         "ne:GU_A3": "PRK", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "North Korea", 
         "ne:SU_A3": "PRK", 
-        "alias_DUT_V": [
-          "Korea, Republiek"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:GDP_MD_EST": 40000.0, 
+        "alias_GER_Q": [
+          "S\u00fcdkorea"
+        ], 
         "alias_SPA_V": [
           "Corea, Rep\u00fablica de"
         ], 
-        "ne:SOV_A3": "PRK", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Etel\u00e4-Korea"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zuid-Korea"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "N. Kor.", 
-        "alias_CZE_Q": [
-          "Ji\u017en\u00ed Korea"
+        "alias_DUT_V": [
+          "Korea, Republiek"
         ], 
-        "alias_GER_V": [
-          "Korea (Republik Korea, S\u00fcdkorea)"
+        "alias_FRE_S": [
+          "Coree du Sud"
+        ], 
+        "alias_FIN_Q": [
+          "Korean Tasavalta"
+        ], 
+        "alias_DAN_Q": [
+          "Sydkorea"
         ], 
         "alias_DAN_V": [
           "Republikken Korea"
         ], 
-        "ne:SOVEREIGNT": "North Korea", 
+        "ne:ISO_N3": 408.0, 
         "ne:NAME": "N. Korea", 
         "lang": "KOR", 
-        "ne:TYPE": "Sovereign country", 
         "ne:GEOUNIT": "North Korea", 
         "name": "\ud55c\uad6d", 
-        "alias_UNK_S": [
-          "Sor-Korea"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Su\u00f0ur-K\u00f3rea"
         ], 
-        "alias_HUN_Q": [
-          "D\u00e9l-Korea"
+        "alias_CHI_V": [
+          "\u97d3\u570b"
         ], 
-        "alias_GER_Q": [
-          "S\u00fcdkorea"
+        "alias_HUN_V": [
+          "Korea, D\u00e9l"
         ], 
-        "alias_UNK_V": [
-          "Etel\u00e4-Korea"
-        ], 
+        "ne_longitude": 130.78000735893113, 
         "longitude": 127.85, 
         "ne:POP_EST": 22665345.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Sor-Korea"
+        ], 
         "iso": "KR", 
-        "sw_latitude": 33.106, 
+        "sw_latitude": 37.669070542952724, 
         "ne:ISO_A3": "PRK", 
-        "alias_FRE_V": [
-          "Cor\u00e9e"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 40000.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "\ud55c\uad6d, South Korea", 
-        "ne:NAME_FORMA": "Democratic People's Republic of Korea", 
-        "alias_FRE_S": [
-          "Coree du Sud"
-        ], 
         "alias_FRE_Q": [
           "Cor\u00e9e du Sud"
         ]
       }, 
+      "bbox": [
+        124.26562462778531, 
+        37.669070542952724, 
+        130.78000735893113, 
+        42.985386867843786
+      ], 
       "id": 23424868
     }
   ]

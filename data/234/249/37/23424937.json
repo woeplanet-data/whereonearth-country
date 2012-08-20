@@ -66,15 +66,16 @@
         "alias_ENG_V": [
           "Republic of Rwanda"
         ], 
+        "alias_HUN_Q": [
+          "Ruanda"
+        ], 
         "alias_ENG_A": [
           "RW"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -1.053, 
-        "ne:POSTAL": "RW", 
-        "ne_longitude": 30.896, 
+        "ne_latitude": -1.134659112150416, 
+        "ne:NAME_SORT": "Rwanda", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Ruanda"
         ], 
@@ -82,8 +83,8 @@
           "\ub974\uc644\ub2e4"
         ], 
         "ne:SUBUNIT": "Rwanda", 
-        "ne:ISO_N3": 646.0, 
         "ne:ADM0_A3": "RWA", 
+        "ne:SOVEREIGNT": "Rwanda", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u76e7\u5b89\u9054"
@@ -92,9 +93,7 @@
           "Ruanda"
         ], 
         "ne:NAME": "Rwanda", 
-        "alias_CHI_V": [
-          "\u76e7\u5b89\u9054"
-        ], 
+        "ne:POSTAL": "RW", 
         "alias_JPN_Q": [
           "\u30eb\u30ef\u30f3\u30c0"
         ], 
@@ -105,12 +104,9 @@
         "alias_SPA_Q": [
           "Ruanda"
         ], 
-        "alias_FIN_Q": [
-          "Ruanda"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 29.024926385216787, 
         "ne:SOV_A3": "RWA", 
-        "sw_longitude": 28.857, 
-        "ne:GDP_MD_EST": 9706.0, 
         "alias_FIN_V": [
           "Ruandasta"
         ], 
@@ -120,22 +116,29 @@
         "ne:ISO_A3": "RWA", 
         "ne:ISO_A2": "RW", 
         "date_indexed": "2010-12-02T09:35:48Z", 
-        "ne:NAME_SORT": "Rwanda", 
+        "ne:NAME_FORMA": "Rwandese Republic", 
+        "fullname": "Rwanda", 
         "ne:GU_A3": "RWA", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Rwanda", 
         "ne:SU_A3": "RWA", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Ruandska republika"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Rwa.", 
+        "alias_FIN_Q": [
+          "Ruanda"
+        ], 
         "alias_GER_V": [
           "Republik Ruanda"
         ], 
         "alias_GER_Q": [
           "Ruanda"
         ], 
-        "ne:SOVEREIGNT": "Rwanda", 
+        "ne:ISO_N3": 646.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Rwanda", 
         "name": "Rwanda", 
@@ -144,21 +147,24 @@
         "alias_UNK_Q": [
           "Rwandese Republic"
         ], 
-        "alias_HUN_Q": [
-          "Ruanda"
+        "alias_CHI_V": [
+          "\u76e7\u5b89\u9054"
         ], 
-        "alias_UNK_V": [
-          "Ruandska republika"
-        ], 
+        "ne_longitude": 30.816134881317712, 
         "longitude": 29.876, 
         "ne:POP_EST": 10473282.0, 
         "iso": "RW", 
-        "sw_latitude": -2.841, 
+        "sw_latitude": -2.917857761246097, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Rwanda", 
-        "ne:NAME_FORMA": "Rwandese Republic", 
+        "ne:GDP_MD_EST": 9706.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        29.024926385216787, 
+        -2.917857761246097, 
+        30.816134881317712, 
+        -1.134659112150416
+      ], 
       "id": 23424937
     }
   ]

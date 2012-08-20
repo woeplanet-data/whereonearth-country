@@ -318,9 +318,9 @@
           "IR"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 39.777, 
+        "ne_latitude": 39.71300263117705, 
         "ne:SUBUNIT": "Iran", 
-        "ne_longitude": 63.317, 
+        "ne:NAME_SORT": "Iran", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Ir\u00e3"
@@ -334,8 +334,8 @@
         "alias_POR_S": [
           "Irao"
         ], 
-        "ne:ISO_N3": 364.0, 
         "ne:ADM0_A3": "IRN", 
+        "ne:SOVEREIGNT": "Iran", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4f0a\u6717"
@@ -356,9 +356,8 @@
         "alias_SPA_S": [
           "Iran, Rep. Islamica"
         ], 
+        "sw_longitude": 44.10922529478234, 
         "ne:SOV_A3": "IRN", 
-        "sw_longitude": 44.047, 
-        "ne:GDP_MD_EST": 841700.0, 
         "ne:SU_A3": "IRN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.421, 
@@ -366,7 +365,8 @@
         "ne:ISO_A3": "IRN", 
         "ne:ISO_A2": "IR", 
         "date_indexed": "2010-12-02T08:53:52Z", 
-        "ne:NAME_SORT": "Iran", 
+        "ne:NAME_FORMA": "Islamic Republic of Iran", 
+        "fullname": "Iran", 
         "ne:GU_A3": "IRN", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Iran", 
@@ -376,6 +376,9 @@
           "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Islamska republika Iran"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Iran", 
         "alias_CZE_Q": [
@@ -384,7 +387,7 @@
         "alias_GER_V": [
           "Islamische Republik Iran"
         ], 
-        "ne:SOVEREIGNT": "Iran", 
+        "ne:ISO_N3": 364.0, 
         "lang": "ENG", 
         "name": "Iran", 
         "ne:TYPE": "Sovereign country", 
@@ -395,18 +398,21 @@
         "alias_HUN_Q": [
           "Ir\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Islamska republika Iran"
-        ], 
+        "ne_longitude": 63.31663170761959, 
         "longitude": 53.682, 
         "ne:POP_EST": 66429284.0, 
         "iso": "IR", 
-        "sw_latitude": 25.064, 
+        "sw_latitude": 25.0782370061185, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Iran", 
-        "ne:NAME_FORMA": "Islamic Republic of Iran", 
+        "ne:GDP_MD_EST": 841700.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        44.10922529478234, 
+        25.0782370061185, 
+        63.31663170761959, 
+        39.71300263117705
+      ], 
       "id": 23424851
     }
   ]

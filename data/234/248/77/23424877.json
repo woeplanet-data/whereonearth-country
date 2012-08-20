@@ -152,12 +152,11 @@
         "alias_POL_Q": [
           "S\u0142owacja"
         ], 
-        "ne_latitude": 49.603, 
-        "ne:GU_A3": "SVK", 
+        "ne_latitude": 49.571574001659194, 
         "alias_RUM_Q": [
           "Slovacia"
         ], 
-        "ne_longitude": 22.57, 
+        "ne:NAME_SORT": "Slovakia", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc2ac\ub85c\ubca0\ub2c8\uc544"
@@ -169,9 +168,8 @@
           "SK"
         ], 
         "ne:SUBUNIT": "Slovakia", 
-        "ne:POSTAL": "SK", 
-        "ne:ISO_N3": 703.0, 
         "ne:ADM0_A3": "SVK", 
+        "ne:SOVEREIGNT": "Slovakia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u6d1b\u4f10\u514b"
@@ -179,11 +177,14 @@
         "alias_ITA_Q": [
           "Slovacchia"
         ], 
-        "alias_DAN_Q": [
-          "Slovakiet"
+        "alias_GER_V": [
+          "Slowakische Republik"
         ], 
         "ne:NAME": "Slovakia", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "SK", 
+        "alias_KOR_Q": [
+          "\uc2ac\ub85c\ubc14\ud0a4\uc544"
+        ], 
         "alias_JPN_Q": [
           "\u30b9\u30ed\u30d0\u30ad\u30a2"
         ], 
@@ -197,12 +198,9 @@
         "alias_SPA_Q": [
           "Eslovaquia"
         ], 
-        "alias_FIN_Q": [
-          "Slovakia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 16.879982944413, 
         "ne:SOV_A3": "SVK", 
-        "sw_longitude": 16.833, 
-        "ne:GDP_MD_EST": 119500.0, 
         "ne:SU_A3": "SVK", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 48.666, 
@@ -213,15 +211,20 @@
         "ne:ISO_A3": "SVK", 
         "ne:ISO_A2": "SK", 
         "date_indexed": "2010-12-02T08:50:42Z", 
-        "ne:NAME_SORT": "Slovakia", 
-        "alias_KOR_Q": [
-          "\uc2ac\ub85c\ubc14\ud0a4\uc544"
+        "ne:NAME_FORMA": "Slovak Republic", 
+        "fullname": "Slovensk\u00e1, Slovakia", 
+        "alias_FRE_V": [
+          "R\u00e9publique slovaque"
         ], 
+        "ne:GU_A3": "SVK", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Slovakia", 
         "ne:GEOUNIT": "Slovakia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Slovak\u00eda"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Slowakije"
@@ -231,19 +234,19 @@
         "alias_CZE_Q": [
           "Slovensko"
         ], 
-        "alias_GER_V": [
-          "Slowakische Republik"
+        "alias_FIN_Q": [
+          "Slovakia"
+        ], 
+        "alias_DAN_Q": [
+          "Slovakiet"
         ], 
         "alias_GER_Q": [
           "Slowakei"
         ], 
-        "ne:SOVEREIGNT": "Slovakia", 
+        "ne:ISO_N3": 703.0, 
         "lang": "UNK", 
-        "ne:TYPE": "Sovereign country", 
         "name": "Slovensk\u00e1", 
-        "alias_UNK_S": [
-          "Slovenska"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Eslov\u00e0quia"
@@ -251,27 +254,30 @@
         "alias_HUN_Q": [
           "Szlov\u00e1kia"
         ], 
-        "alias_UNK_V": [
-          "Slovak\u00eda"
-        ], 
+        "ne_longitude": 22.558137648211755, 
         "longitude": 19.702, 
         "ne:POP_EST": 5463046.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Slovenska"
+        ], 
         "iso": "SK", 
-        "sw_latitude": 47.728, 
+        "sw_latitude": 47.75842886005037, 
         "alias_HUN_S": [
           "Szlovakia"
         ], 
-        "alias_FRE_V": [
-          "R\u00e9publique slovaque"
-        ], 
-        "fullname": "Slovensk\u00e1, Slovakia", 
-        "ne:NAME_FORMA": "Slovak Republic", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 119500.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Slovaquie"
         ]
       }, 
+      "bbox": [
+        16.879982944413, 
+        47.75842886005037, 
+        22.558137648211755, 
+        49.571574001659194
+      ], 
       "id": 23424877
     }
   ]

@@ -152,8 +152,8 @@
         "alias_POL_Q": [
           "Ekwador"
         ], 
-        "ne_latitude": 1.65, 
-        "ne:NAME_SORT": "Ecuador", 
+        "ne_latitude": 1.380923773601822, 
+        "ne_longitude": -75.23372270374195, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc5d0\ucfe0\uc544\ub3c4\ub974"
@@ -165,8 +165,8 @@
           "\uc5d0\ucf70\ub3c4\ub974"
         ], 
         "ne:SUBUNIT": "Ecuador", 
-        "ne:ISO_N3": 218.0, 
         "ne:ADM0_A3": "ECU", 
+        "ne:SOVEREIGNT": "Ecuador", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5384\u74dc\u591a"
@@ -187,9 +187,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -80.96776546906436, 
         "ne:SOV_A3": "ECU", 
-        "sw_longitude": -92.0, 
-        "ne:GDP_MD_EST": 107700.0, 
         "ne:SU_A3": "ECU", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -1.79, 
@@ -198,6 +197,7 @@
         "ne:ISO_A2": "EC", 
         "date_indexed": "2010-12-02T17:51:45Z", 
         "ne:NAME_FORMA": "Republic of Ecuador", 
+        "fullname": "Ecuador", 
         "ne:GU_A3": "ECU", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Ecuador", 
@@ -209,10 +209,13 @@
         "alias_CZE_Q": [
           "Ekv\u00e1dor"
         ], 
+        "alias_FRE_S": [
+          "Equateur"
+        ], 
         "alias_GER_Q": [
           "Republik Ecuador"
         ], 
-        "ne:SOVEREIGNT": "Ecuador", 
+        "ne:ISO_N3": 218.0, 
         "lang": "ENG", 
         "name": "Ecuador", 
         "ne:TYPE": "Sovereign country", 
@@ -221,21 +224,24 @@
           "Ekvador"
         ], 
         "ne:POSTAL": "EC", 
-        "ne_longitude": -75.185, 
+        "ne:NAME_SORT": "Ecuador", 
         "longitude": -78.096, 
         "ne:POP_EST": 14573101.0, 
         "iso": "EC", 
-        "sw_latitude": -4.999, 
+        "sw_latitude": -4.959128513207389, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 107700.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Ecuador", 
-        "alias_FRE_S": [
-          "Equateur"
-        ], 
         "alias_FRE_Q": [
           "\u00c9quateur"
         ]
       }, 
+      "bbox": [
+        -80.96776546906436, 
+        -4.959128513207389, 
+        -75.23372270374195, 
+        1.380923773601822
+      ], 
       "id": 23424801
     }
   ]

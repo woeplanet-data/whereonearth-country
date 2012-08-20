@@ -222,12 +222,11 @@
         "alias_POL_Q": [
           "Kongo"
         ], 
-        "ne_latitude": 3.703, 
-        "ne:GU_A3": "COG", 
+        "ne_latitude": 3.728196519379452, 
         "alias_RUM_Q": [
           "Republica Congo"
         ], 
-        "ne:NAME_SORT": "Congo (Brazzaville)", 
+        "ne_longitude": 18.45306521980993, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucf69\uace0"
@@ -239,9 +238,8 @@
           "CG"
         ], 
         "ne:SUBUNIT": "Republic of the Congo", 
-        "ne:POSTAL": "CG", 
-        "ne:ISO_N3": 178.0, 
         "ne:ADM0_A3": "COG", 
+        "ne:SOVEREIGNT": "Republic of the Congo", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u525b\u679c"
@@ -249,11 +247,17 @@
         "alias_ITA_Q": [
           "Repubblica del Congo"
         ], 
-        "alias_DAN_Q": [
-          "Republikken Congo"
+        "alias_GER_V": [
+          "Republik Kongo"
         ], 
         "ne:NAME": "Congo (Brazzaville)", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "CG", 
+        "alias_KOR_Q": [
+          "\ucf69\uace0 \uacf5\ud654\uad6d"
+        ], 
+        "alias_GER_Q": [
+          "Kongo"
+        ], 
         "alias_JPN_Q": [
           "\u30b3\u30f3\u30b4\u5171\u548c\u56fd"
         ], 
@@ -265,14 +269,9 @@
         "alias_SPA_Q": [
           "Rep\u00fablica del Congo"
         ], 
-        "alias_FIN_Q": [
-          "Kongon tasavalta"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 11.093772820691925, 
         "ne:SOV_A3": "COG", 
-        "sw_longitude": 11.205, 
-        "alias_HUN_V": [
-          "Kong\u00f3"
-        ], 
         "alias_FIN_V": [
           "Kongo \u2013 Brazzaville"
         ], 
@@ -288,14 +287,15 @@
         "ne:ISO_A2": "CG", 
         "date_indexed": "2010-12-02T18:21:30Z", 
         "ne:NAME_FORMA": "Republic of the Congo", 
-        "alias_KOR_Q": [
-          "\ucf69\uace0 \uacf5\ud654\uad6d"
+        "fullname": "Congo", 
+        "alias_FRE_V": [
+          "Congo-Brazzaville"
         ], 
+        "ne:GU_A3": "COG", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Republic of the Congo", 
         "ne:SU_A3": "COG", 
         "ne:LabelRank": 1, 
-        "ne:GDP_MD_EST": 15350.0, 
         "ne:FeatureCla": "Admin-0 countries", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -305,13 +305,19 @@
         "alias_CZE_Q": [
           "Republika Kongo"
         ], 
-        "alias_GER_V": [
-          "Republik Kongo"
+        "alias_FRE_S": [
+          "Republique du Congo"
+        ], 
+        "alias_FIN_Q": [
+          "Kongon tasavalta"
+        ], 
+        "alias_DAN_Q": [
+          "Republikken Congo"
         ], 
         "alias_DAN_V": [
           "Congo-Brazzaville"
         ], 
-        "ne:SOVEREIGNT": "Republic of the Congo", 
+        "ne:ISO_N3": 178.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Republic of the Congo", 
         "name": "Congo", 
@@ -326,28 +332,28 @@
         "alias_HUN_Q": [
           "Kong\u00f3i K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "alias_GER_Q": [
-          "Kongo"
+        "alias_HUN_V": [
+          "Kong\u00f3"
         ], 
-        "ne_longitude": 18.65, 
+        "ne:NAME_SORT": "Congo (Brazzaville)", 
         "longitude": 14.927, 
         "ne:POP_EST": 4012809.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "CG", 
-        "sw_latitude": -5.028, 
+        "sw_latitude": -5.037986748884791, 
         "ne:ISO_A3": "COG", 
-        "alias_FRE_V": [
-          "Congo-Brazzaville"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 15350.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Congo", 
-        "alias_FRE_S": [
-          "Republique du Congo"
-        ], 
         "alias_FRE_Q": [
           "R\u00e9publique du Congo"
         ]
       }, 
+      "bbox": [
+        11.093772820691925, 
+        -5.037986748884791, 
+        18.45306521980993, 
+        3.728196519379452
+      ], 
       "id": 23424779
     }
   ]

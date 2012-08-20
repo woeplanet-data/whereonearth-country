@@ -42,20 +42,22 @@
         "alias_ENG_V": [
           "Luxembourgois"
         ], 
+        "alias_HUN_Q": [
+          "Luxemburg"
+        ], 
+        "longitude": 6.133, 
         "alias_SWE_Q": [
           "Luxemburg"
         ], 
         "alias_POL_Q": [
           "Luksemburg"
         ], 
-        "ne_latitude": 50.183, 
-        "ne:GU_A3": "LUX", 
+        "ne_latitude": 50.128051662794235, 
         "alias_RUM_Q": [
           "Luxemburg"
         ], 
-        "ne_longitude": 6.531, 
+        "ne:NAME_SORT": "Luxembourg", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Luxemburgo"
         ], 
@@ -63,9 +65,8 @@
           "LUX"
         ], 
         "ne:SUBUNIT": "Luxembourg", 
-        "ne:POSTAL": "L", 
-        "ne:ISO_N3": 442.0, 
         "ne:ADM0_A3": "LUX", 
+        "ne:SOVEREIGNT": "Luxembourg", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u76e7\u68ee\u5821"
@@ -74,8 +75,12 @@
           "Lussemburgo"
         ], 
         "ne:NAME": "Luxembourg", 
-        "alias_CHI_V": [
-          "\u5362\u68ee\u5821"
+        "ne:POSTAL": "L", 
+        "alias_KOR_Q": [
+          "\ub8e9\uc148\ubd80\ub974\ud06c"
+        ], 
+        "alias_GER_Q": [
+          "Luxemburg"
         ], 
         "alias_JPN_Q": [
           "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af"
@@ -88,12 +93,9 @@
         "alias_SPA_Q": [
           "Luxemburgo"
         ], 
-        "alias_FIN_Q": [
-          "Luxemburgin"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 5.674051954784829, 
         "ne:SOV_A3": "LUX", 
-        "sw_longitude": 5.736, 
-        "ne:GDP_MD_EST": 39370.0, 
         "alias_FIN_V": [
           "Luxemburgista"
         ], 
@@ -103,15 +105,20 @@
         "ne:ISO_A3": "LUX", 
         "ne:ISO_A2": "LU", 
         "date_indexed": "2010-12-02T08:54:20Z", 
-        "ne:NAME_SORT": "Luxembourg", 
-        "alias_KOR_Q": [
-          "\ub8e9\uc148\ubd80\ub974\ud06c"
+        "ne:NAME_FORMA": "Grand Duchy of Luxembourg", 
+        "fullname": "Luxembourg", 
+        "alias_FRE_V": [
+          "Grand-Duch\u00e9 de Luxembourg"
         ], 
+        "ne:GU_A3": "LUX", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Luxembourg", 
         "ne:SU_A3": "LUX", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Veliko vojvodstvo Luksemburg"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Luxemburg"
@@ -120,8 +127,8 @@
         "alias_CZE_Q": [
           "Lucemburk"
         ], 
-        "alias_DAN_S": [
-          "Storhertugdommet Luxemburg"
+        "alias_FIN_Q": [
+          "Luxemburgin"
         ], 
         "alias_GER_V": [
           "Gro\u00dfherzogtum Luxemburg"
@@ -129,45 +136,44 @@
         "alias_DAN_V": [
           "Storhertugd\u00f8mmet Luxemburg"
         ], 
-        "ne:SOVEREIGNT": "Luxembourg", 
+        "ne:ISO_N3": 442.0, 
         "alias_GER_S": [
           "Grossherzogtum Luxemburg"
         ], 
         "lang": "FRE", 
-        "ne:TYPE": "Sovereign country", 
         "ne:GEOUNIT": "Luxembourg", 
         "name": "Luxembourg", 
         "alias_CZE_V": [
           "Lucembursko"
         ], 
-        "alias_UNK_S": [
-          "Louxemvourgo"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Luksemburg"
         ], 
-        "alias_HUN_Q": [
-          "Luxemburg"
+        "alias_CHI_V": [
+          "\u5362\u68ee\u5821"
         ], 
-        "alias_GER_Q": [
-          "Luxemburg"
+        "ne_longitude": 6.242751092156993, 
+        "alias_DAN_S": [
+          "Storhertugdommet Luxemburg"
         ], 
-        "alias_UNK_V": [
-          "Veliko vojvodstvo Luksemburg"
-        ], 
-        "longitude": 6.133, 
         "ne:POP_EST": 491775.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "LU", 
-        "sw_latitude": 49.448, 
-        "alias_FRE_V": [
-          "Grand-Duch\u00e9 de Luxembourg"
+        "alias_UNK_S": [
+          "Louxemvourgo"
         ], 
-        "fullname": "Luxembourg", 
-        "ne:NAME_FORMA": "Grand Duchy of Luxembourg", 
+        "iso": "LU", 
+        "sw_latitude": 49.44266714130703, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 39370.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        5.674051954784829, 
+        49.44266714130703, 
+        6.242751092156993, 
+        50.128051662794235
+      ], 
       "id": 23424881
     }
   ]

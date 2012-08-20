@@ -118,8 +118,8 @@
           "BJ"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 12.418, 
-        "ne_longitude": 3.852, 
+        "ne_latitude": 12.235635891158267, 
+        "ne:NAME_SORT": "Benin", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubca0\ub139"
@@ -131,8 +131,8 @@
           "\ubca0\ub0c9"
         ], 
         "ne:SUBUNIT": "Benin", 
-        "ne:ISO_N3": 204.0, 
         "ne:ADM0_A3": "BEN", 
+        "ne:SOVEREIGNT": "Benin", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8c9d\u5357"
@@ -152,9 +152,8 @@
           "Ben\u00edn"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 0.772335646171484, 
         "ne:SOV_A3": "BEN", 
-        "sw_longitude": 0.775, 
-        "ne:GDP_MD_EST": 12830.0, 
         "ne:SU_A3": "BEN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.322, 
@@ -162,42 +161,49 @@
         "ne:ISO_A3": "BEN", 
         "ne:ISO_A2": "BJ", 
         "date_indexed": "2010-12-02T18:16:21Z", 
-        "ne:NAME_SORT": "Benin", 
+        "ne:NAME_FORMA": "Republic of Benin", 
+        "fullname": "Benin", 
         "ne:GU_A3": "BEN", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Benin", 
         "ne:GEOUNIT": "Benin", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Benin"
+        ], 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "R\u00e9publique du B\u00e9nin"
+        ], 
         "ne:ABBREV": "Benin", 
         "alias_GER_V": [
           "Republik Benin"
         ], 
-        "ne:SOVEREIGNT": "Benin", 
+        "ne:ISO_N3": 204.0, 
         "lang": "ENG", 
         "name": "Benin", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "BJ", 
-        "alias_UNK_V": [
-          "Republika Benin"
-        ], 
+        "ne_longitude": 3.797112257511714, 
         "longitude": 2.313, 
         "ne:POP_EST": 8791832.0, 
         "iso": "BJ", 
-        "sw_latitude": 6.226, 
-        "alias_FRE_V": [
-          "R\u00e9publique du B\u00e9nin"
-        ], 
-        "fullname": "Benin", 
-        "ne:NAME_FORMA": "Republic of Benin", 
+        "sw_latitude": 6.142157701029731, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 12830.0, 
         "alias_FRE_Q": [
           "B\u00e9nin"
         ]
       }, 
+      "bbox": [
+        0.772335646171484, 
+        6.142157701029731, 
+        3.797112257511714, 
+        12.235635891158267
+      ], 
       "id": 23424764
     }
   ]

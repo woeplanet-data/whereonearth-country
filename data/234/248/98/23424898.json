@@ -212,9 +212,9 @@
           "\uc624\ub9cc"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 26.5, 
+        "ne_latitude": 26.39593435312895, 
         "ne:SUBUNIT": "Oman", 
-        "ne:NAME_SORT": "Oman", 
+        "ne_longitude": 59.80806033716286, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Om\u00e3"
@@ -225,8 +225,8 @@
         "alias_POR_S": [
           "Oma"
         ], 
-        "ne:ISO_N3": 512.0, 
         "ne:ADM0_A3": "OMN", 
+        "ne:SOVEREIGNT": "Oman", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u66fc"
@@ -244,9 +244,8 @@
           "Om\u00e1n"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 52.00000980002224, 
         "ne:SOV_A3": "OMN", 
-        "sw_longitude": 51.882, 
-        "ne:GDP_MD_EST": 66980.0, 
         "ne:SU_A3": "OMN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 20.814, 
@@ -255,6 +254,7 @@
         "ne:ISO_A2": "OM", 
         "date_indexed": "2010-12-02T09:35:43Z", 
         "ne:NAME_FORMA": "Sultanate of Oman", 
+        "fullname": "Oman", 
         "ne:GU_A3": "OMN", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Oman", 
@@ -269,7 +269,7 @@
         "alias_GER_V": [
           "Sultanat Oman"
         ], 
-        "ne:SOVEREIGNT": "Oman", 
+        "ne:ISO_N3": 512.0, 
         "lang": "ENG", 
         "name": "Oman", 
         "ne:TYPE": "Sovereign country", 
@@ -280,15 +280,21 @@
         "alias_HUN_Q": [
           "Om\u00e1n"
         ], 
-        "ne_longitude": 59.837, 
+        "ne:NAME_SORT": "Oman", 
         "longitude": 55.859, 
         "ne:POP_EST": 3418085.0, 
         "iso": "OM", 
-        "sw_latitude": 16.646, 
+        "sw_latitude": 16.65105113368898, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Oman", 
+        "ne:GDP_MD_EST": 66980.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        52.00000980002224, 
+        16.65105113368898, 
+        59.80806033716286, 
+        26.39593435312895
+      ], 
       "id": 23424898
     }
   ]

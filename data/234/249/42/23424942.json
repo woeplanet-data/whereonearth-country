@@ -401,12 +401,11 @@
         "alias_POL_Q": [
           "Republika Po\u0142udniowej Afryki"
         ], 
-        "ne_latitude": -22.127, 
-        "ne:GU_A3": "ZAF", 
+        "ne_latitude": -22.091312758067588, 
         "alias_RUM_Q": [
           "Africa de Sud"
         ], 
-        "ne_longitude": 37.967, 
+        "ne:NAME_SORT": "South Africa", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub0a8\uc544\uacf5"
@@ -418,9 +417,8 @@
           "ZA"
         ], 
         "ne:SUBUNIT": "South Africa", 
-        "ne:POSTAL": "ZA", 
-        "ne:ISO_N3": 710.0, 
         "ne:ADM0_A3": "ZAF", 
+        "ne:SOVEREIGNT": "South Africa", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5357\u975e"
@@ -428,13 +426,19 @@
         "alias_ITA_Q": [
           "Sud Africa"
         ], 
-        "alias_DAN_Q": [
-          "Sydafrika"
+        "alias_GER_V": [
+          "Rep. S\u00fcdafrika"
         ], 
         "alias_ITA_V": [
           "Sudafrica"
         ], 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "ZA", 
+        "alias_KOR_Q": [
+          "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_CZE_Q": [
+          "Jihoafrick\u00e1 Republika"
+        ], 
         "alias_JPN_Q": [
           "\u5357\u30a2\u30d5\u30ea\u30ab"
         ], 
@@ -446,14 +450,12 @@
         "alias_SPA_Q": [
           "Sud\u00e1frica"
         ], 
-        "alias_FIN_Q": [
-          "Etel\u00e4-Afrikka"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Etela-Afrikka"
         ], 
-        "sw_longitude": 16.458, 
-        "ne:GDP_MD_EST": 491000.0, 
+        "sw_longitude": 16.344976840895242, 
+        "ne:SOV_A3": "ZAF", 
         "ne:SU_A3": "ZAF", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -28.483, 
@@ -467,34 +469,35 @@
         "ne:ISO_A3": "ZAF", 
         "ne:ISO_A2": "ZA", 
         "date_indexed": "2010-12-02T08:57:52Z", 
-        "ne:NAME_SORT": "South Africa", 
-        "alias_KOR_Q": [
-          "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
-        ], 
+        "ne:NAME_FORMA": "Republic of South Africa", 
+        "fullname": "South Africa", 
+        "ne:GU_A3": "ZAF", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "South Africa", 
         "ne:GEOUNIT": "South Africa", 
-        "alias_DUT_V": [
-          "Zuidafrika"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "ZAF", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Etel\u00e4-Afrikka"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zuid-Afrika"
         ], 
         "ne:ABBREV": "S.Af.", 
-        "alias_CZE_Q": [
-          "Jihoafrick\u00e1 Republika"
+        "alias_DUT_V": [
+          "Zuidafrika"
         ], 
-        "alias_GER_V": [
-          "Rep. S\u00fcdafrika"
+        "alias_FIN_Q": [
+          "Etel\u00e4-Afrikka"
+        ], 
+        "alias_DAN_Q": [
+          "Sydafrika"
         ], 
         "alias_GER_Q": [
           "S\u00fcdafrika"
         ], 
-        "ne:SOVEREIGNT": "South Africa", 
+        "ne:ISO_N3": 710.0, 
         "alias_GER_S": [
           "Republik Sudafrika"
         ], 
@@ -517,22 +520,25 @@
         "alias_HUN_V": [
           "D\u00e9l-Afrika"
         ], 
-        "alias_UNK_V": [
-          "Etel\u00e4-Afrikka"
-        ], 
+        "ne_longitude": 32.830120477028885, 
         "longitude": 24.677, 
         "ne:POP_EST": 49052489.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "ZA", 
-        "sw_latitude": -46.9, 
+        "sw_latitude": -34.81916635512371, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "South Africa", 
-        "ne:NAME_FORMA": "Republic of South Africa", 
+        "ne:GDP_MD_EST": 491000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Afrique du Sud"
         ]
       }, 
+      "bbox": [
+        16.344976840895242, 
+        -34.81916635512371, 
+        32.830120477028885, 
+        -22.091312758067588
+      ], 
       "id": 23424942
     }
   ]

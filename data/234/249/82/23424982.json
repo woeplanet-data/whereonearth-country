@@ -388,8 +388,8 @@
         "alias_POL_Q": [
           "Wenezuela"
         ], 
-        "ne_latitude": 12.202, 
-        "ne_longitude": -59.804, 
+        "ne_latitude": 12.162307033736099, 
+        "ne:NAME_SORT": "Venezuela", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubca0\ub124\uc8fc\uc5d8\ub77c"
@@ -398,8 +398,8 @@
           "\ubca0\ub124\uc218\uc5d8\ub77c"
         ], 
         "ne:SUBUNIT": "Venezuela", 
-        "ne:ISO_N3": 862.0, 
         "ne:ADM0_A3": "VEN", 
+        "ne:SOVEREIGNT": "Venezuela", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u59d4\u5167\u745e\u62c9"
@@ -415,9 +415,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -73.30495154488005, 
         "ne:SOV_A3": "VEN", 
-        "sw_longitude": -73.374, 
-        "ne:GDP_MD_EST": 357400.0, 
         "ne:SU_A3": "VEN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.473, 
@@ -425,20 +424,26 @@
         "ne:ISO_A3": "VEN", 
         "ne:ISO_A2": "VE", 
         "date_indexed": "2010-12-02T16:11:43Z", 
-        "ne:NAME_SORT": "Venezuela", 
+        "ne:NAME_FORMA": "Bolivarian Republic of Venezuela", 
+        "fullname": "Venezuela", 
         "ne:GU_A3": "VEN", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Venezuela", 
         "ne:GEOUNIT": "Venezuela", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Venezuela"
+        ], 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "V\u00e9n\u00e9zu\u00e9la"
+        ], 
         "ne:ABBREV": "Ven.", 
         "alias_GER_V": [
           "Bolivarische Republik Venezuela"
         ], 
-        "ne:SOVEREIGNT": "Venezuela", 
+        "ne:ISO_N3": 862.0, 
         "lang": "ENG", 
         "name": "Venezuela", 
         "alias_UNK_S": [
@@ -448,21 +453,22 @@
         "alias_UNK_Q": [
           "Venes\u00faela"
         ], 
-        "alias_UNK_V": [
-          "Republika Venezuela"
-        ], 
+        "ne_longitude": -59.758284878159195, 
         "longitude": -66.589, 
         "ne:POP_EST": 26814843.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "VE", 
-        "sw_latitude": 0.744, 
-        "alias_FRE_V": [
-          "V\u00e9n\u00e9zu\u00e9la"
-        ], 
-        "fullname": "Venezuela", 
-        "ne:NAME_FORMA": "Bolivarian Republic of Venezuela", 
+        "sw_latitude": 0.724452215982012, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 357400.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -73.30495154488005, 
+        0.724452215982012, 
+        -59.758284878159195, 
+        12.162307033736099
+      ], 
       "id": 23424982
     }
   ]

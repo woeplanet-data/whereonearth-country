@@ -162,28 +162,28 @@
         "alias_ENG_V": [
           "Republic of Laos"
         ], 
+        "alias_HUN_Q": [
+          "Laosz"
+        ], 
         "alias_ENG_A": [
           "LA"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 22.5, 
-        "ne:POSTAL": "LA", 
-        "ne:NAME_SORT": "Laos", 
+        "ne_latitude": 22.464753119389304, 
+        "ne_longitude": 107.5645251811039, 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\ub77c\uc624\uc2a4"
         ], 
         "ne:SUBUNIT": "Laos", 
-        "ne:ISO_N3": 418.0, 
         "ne:ADM0_A3": "LAO", 
+        "ne:SOVEREIGNT": "Laos", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5bee\u570b"
         ], 
         "ne:NAME": "Laos", 
-        "alias_CHI_V": [
-          "\u5bee\u570b"
-        ], 
+        "ne:POSTAL": "LA", 
         "alias_JPN_Q": [
           "\u30e9\u30aa\u30b9"
         ], 
@@ -192,9 +192,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 100.11598758341785, 
         "ne:SOV_A3": "LAO", 
-        "sw_longitude": 100.093, 
-        "ne:GDP_MD_EST": 13980.0, 
         "ne:SU_A3": "LAO", 
         "alias_SPA_V": [
           "Republica Democratica Popular de Lao"
@@ -205,6 +204,7 @@
         "ne:ISO_A2": "LA", 
         "date_indexed": "2010-12-02T16:42:51Z", 
         "ne:NAME_FORMA": "Lao People's Democratic Republic", 
+        "fullname": "Laos", 
         "ne:GU_A3": "LAO", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Laos", 
@@ -217,7 +217,7 @@
         "alias_GER_V": [
           "Volksrepublik Lao"
         ], 
-        "ne:SOVEREIGNT": "Laos", 
+        "ne:ISO_N3": 418.0, 
         "lang": "ENG", 
         "name": "Laos", 
         "ne:TYPE": "Sovereign country", 
@@ -225,21 +225,27 @@
         "alias_UNK_Q": [
           "Sathalanalat Paxathipatai Paxaxon Lao"
         ], 
-        "alias_HUN_Q": [
-          "Laosz"
+        "alias_CHI_V": [
+          "\u5bee\u570b"
         ], 
         "alias_HUN_V": [
           "Laoszi N\u00e9pi Demokratikus K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne_longitude": 107.697, 
+        "ne:NAME_SORT": "Laos", 
         "longitude": 105.451, 
         "ne:POP_EST": 6834942.0, 
         "iso": "LA", 
-        "sw_latitude": 13.91, 
+        "sw_latitude": 13.881091009979956, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Laos", 
+        "ne:GDP_MD_EST": 13980.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        100.11598758341785, 
+        13.881091009979956, 
+        107.5645251811039, 
+        22.464753119389304
+      ], 
       "id": 23424872
     }
   ]

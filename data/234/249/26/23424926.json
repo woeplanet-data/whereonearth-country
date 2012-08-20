@@ -355,19 +355,21 @@
         "alias_ENG_V": [
           "Papuanewguinea"
         ], 
+        "alias_HUN_Q": [
+          "P\u00e1pua \u00daj-Guinea"
+        ], 
         "alias_SWE_Q": [
           "Papua Nya Guinea"
         ], 
         "alias_POL_Q": [
           "Papua-Nowa Gwinea"
         ], 
-        "ne_latitude": -0.866, 
+        "ne_latitude": -2.500002129734028, 
         "ne:SUBUNIT": "Papua New Guinea", 
-        "ne:GU_A3": "PNG", 
         "alias_RUM_Q": [
           "Papua Noua Guinee"
         ], 
-        "ne:NAME_SORT": "Papua New Guinea", 
+        "ne_longitude": 156.01996544822478, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
@@ -384,9 +386,8 @@
         "alias_POR_S": [
           "Papuasia-Nova Guine"
         ], 
-        "ne:POSTAL": "PG", 
-        "ne:ISO_N3": 598.0, 
         "ne:ADM0_A3": "PNG", 
+        "ne:SOVEREIGNT": "Papua New Guinea", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
@@ -394,15 +395,18 @@
         "alias_ITA_Q": [
           "Papua Nuova Guinea"
         ], 
-        "alias_DAN_Q": [
-          "Papua Ny Guinea"
+        "alias_GER_V": [
+          "Unabh\u00e4ngiger Staat Papua-Neuguinea"
         ], 
         "alias_ITA_V": [
           "Papuasia-Nuova Guinea"
         ], 
-        "ne:TERR_": null, 
-        "alias_CHI_V": [
-          "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
+        "ne:POSTAL": "PG", 
+        "alias_KOR_Q": [
+          "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+        ], 
+        "alias_CZE_Q": [
+          "Papua-Nov\u00e1 Guinea"
         ], 
         "alias_JPN_Q": [
           "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
@@ -415,15 +419,12 @@
         "alias_SPA_Q": [
           "Pap\u00faa Nueva Guinea"
         ], 
-        "alias_FIN_Q": [
-          "Papua-Uusi-Guinea"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Papua Nueva Guinea"
         ], 
+        "sw_longitude": 141.00021040259188, 
         "ne:SOV_A3": "PNG", 
-        "sw_longitude": 140.843, 
-        "ne:GDP_MD_EST": 13210.0, 
         "ne:SU_A3": "PN1", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -6.656, 
@@ -435,15 +436,14 @@
         "ne:ISO_A2": "PG", 
         "date_indexed": "2010-12-02T09:57:28Z", 
         "ne:NAME_FORMA": "Independent State of Papua New Guinea", 
-        "alias_KOR_Q": [
-          "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+        "fullname": "Papua New Guinea", 
+        "alias_FRE_V": [
+          "Papouasie-Nouvelle Guin\u00e9e"
         ], 
+        "ne:GU_A3": "PNG", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Papua New Guinea", 
         "ne:GEOUNIT": "Papua New Guinea", 
-        "alias_DUT_V": [
-          "Papoea Nieuw Guinea"
-        ], 
         "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Pap\u00faa-Nueva Guinea"
@@ -457,16 +457,22 @@
           "Papua-Nova Guinea"
         ], 
         "ne:ABBREV": "P.N.G.", 
-        "alias_CZE_Q": [
-          "Papua-Nov\u00e1 Guinea"
+        "alias_DUT_V": [
+          "Papoea Nieuw Guinea"
         ], 
-        "alias_GER_V": [
-          "Unabh\u00e4ngiger Staat Papua-Neuguinea"
+        "alias_FRE_S": [
+          "Papouasie Nouvelle Guinee"
+        ], 
+        "alias_FIN_Q": [
+          "Papua-Uusi-Guinea"
+        ], 
+        "alias_DAN_Q": [
+          "Papua Ny Guinea"
         ], 
         "alias_GER_Q": [
           "Papua-Neuguinea"
         ], 
-        "ne:SOVEREIGNT": "Papua New Guinea", 
+        "ne:ISO_N3": 598.0, 
         "alias_GER_S": [
           "Unabhaengiger Staat Papua-Neuguinea"
         ], 
@@ -481,27 +487,27 @@
         "alias_UNK_Q": [
           "Papua Nova Gvineja"
         ], 
-        "alias_HUN_Q": [
-          "P\u00e1pua \u00daj-Guinea"
+        "alias_CHI_V": [
+          "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
         ], 
-        "ne_longitude": 159.484, 
+        "ne:NAME_SORT": "Papua New Guinea", 
         "longitude": 145.859, 
         "ne:POP_EST": 6057263.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "PG", 
-        "sw_latitude": -11.658, 
-        "alias_FRE_V": [
-          "Papouasie-Nouvelle Guin\u00e9e"
-        ], 
+        "sw_latitude": -10.652476088099931, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 13210.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Papua New Guinea", 
-        "alias_FRE_S": [
-          "Papouasie Nouvelle Guinee"
-        ], 
         "alias_FRE_Q": [
           "Papouasie-Nouvelle-Guin\u00e9e"
         ]
       }, 
+      "bbox": [
+        141.00021040259188, 
+        -10.652476088099931, 
+        156.01996544822478, 
+        -2.500002129734028
+      ], 
       "id": 23424926
     }
   ]

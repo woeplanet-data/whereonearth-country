@@ -250,8 +250,8 @@
           "\ub2c8\uc81c\ub974"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 23.525, 
-        "ne_longitude": 15.996, 
+        "ne_latitude": 23.471668402596435, 
+        "ne:NAME_SORT": "Niger", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "N\u00edger"
@@ -260,8 +260,8 @@
           "NE"
         ], 
         "ne:SUBUNIT": "Niger", 
-        "ne:ISO_N3": 562.0, 
         "ne:ADM0_A3": "NER", 
+        "ne:SOVEREIGNT": "Niger", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5c3c\u65e5"
@@ -281,9 +281,8 @@
           "N\u00edger"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 0.295646396495215, 
         "ne:SOV_A3": "NER", 
-        "sw_longitude": 0.166, 
-        "ne:GDP_MD_EST": 10040.0, 
         "ne:SU_A3": "NER", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.611, 
@@ -291,36 +290,43 @@
         "ne:ISO_A3": "NER", 
         "ne:ISO_A2": "NE", 
         "date_indexed": "2010-12-02T17:43:23Z", 
-        "ne:NAME_SORT": "Niger", 
+        "ne:NAME_FORMA": "Republic of Niger", 
+        "fullname": "Niger", 
         "ne:GU_A3": "NER", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Niger", 
         "ne:GEOUNIT": "Niger", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Niger"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Niger", 
         "alias_GER_V": [
           "Republik Niger"
         ], 
-        "ne:SOVEREIGNT": "Niger", 
+        "ne:ISO_N3": 562.0, 
         "lang": "ENG", 
         "name": "Niger", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "NE", 
-        "alias_UNK_V": [
-          "Republika Niger"
-        ], 
+        "ne_longitude": 15.903246697664315, 
         "longitude": 8.081, 
         "ne:POP_EST": 15306252.0, 
         "iso": "NE", 
-        "sw_latitude": 11.697, 
+        "sw_latitude": 11.660167141155966, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Niger", 
-        "ne:NAME_FORMA": "Republic of Niger"
+        "ne:GDP_MD_EST": 10040.0
       }, 
+      "bbox": [
+        0.295646396495215, 
+        11.660167141155966, 
+        15.903246697664315, 
+        23.471668402596435
+      ], 
       "id": 23424906
     }
   ]

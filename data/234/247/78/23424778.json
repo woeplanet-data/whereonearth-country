@@ -54,13 +54,15 @@
         "alias_ENG_V": [
           "Ceylon"
         ], 
+        "alias_HUN_Q": [
+          "Sr\u00ed Lanka"
+        ], 
         "alias_ENG_A": [
           "LK"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 9.831, 
-        "ne:POSTAL": "LK", 
-        "ne_longitude": 81.881, 
+        "ne_latitude": 9.824077663609557, 
+        "ne:NAME_SORT": "Sri Lanka", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Sri Lanca"
@@ -69,16 +71,14 @@
           "\uc2a4\ub9ac\ub791\uce74"
         ], 
         "ne:SUBUNIT": "Sri Lanka", 
-        "ne:ISO_N3": 144.0, 
         "ne:ADM0_A3": "LKA", 
+        "ne:SOVEREIGNT": "Sri Lanka", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u91cc\u862d\u5361"
         ], 
         "ne:NAME": "Sri Lanka", 
-        "alias_CHI_V": [
-          "\u65af\u91cc\u5170\u5361"
-        ], 
+        "ne:POSTAL": "LK", 
         "alias_JPN_Q": [
           "\u30b9\u30ea\u30e9\u30f3\u30ab"
         ], 
@@ -90,9 +90,8 @@
         "alias_SPA_S": [
           "Ceilan"
         ], 
+        "sw_longitude": 79.69516686393513, 
         "ne:SOV_A3": "LKA", 
-        "sw_longitude": 79.516, 
-        "ne:GDP_MD_EST": 91870.0, 
         "ne:SU_A3": "LKA", 
         "alias_SPA_V": [
           "Isla Trapobana"
@@ -102,7 +101,8 @@
         "ne:ISO_A3": "LKA", 
         "ne:ISO_A2": "LK", 
         "date_indexed": "2010-12-02T17:56:32Z", 
-        "ne:NAME_SORT": "Sri Lanka", 
+        "ne:NAME_FORMA": "Democratic Socialist Republic of Sri Lanka", 
+        "fullname": "Sri Lanka", 
         "ne:GU_A3": "LKA", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Sri Lanka", 
@@ -110,6 +110,9 @@
         "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Sr\u00ed-Lanka"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
           "Sr\u00ed Lanka"
@@ -121,7 +124,7 @@
         "alias_GER_V": [
           "Demokratische Sozialistische Republik Sri Lanka"
         ], 
-        "ne:SOVEREIGNT": "Sri Lanka", 
+        "ne:ISO_N3": 144.0, 
         "lang": "ENG", 
         "name": "Sri Lanka", 
         "alias_UNK_S": [
@@ -129,21 +132,24 @@
         ], 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Sr\u00ed Lanka"
+        "alias_CHI_V": [
+          "\u65af\u91cc\u5170\u5361"
         ], 
-        "alias_UNK_V": [
-          "Sr\u00ed-Lanka"
-        ], 
+        "ne_longitude": 81.7879590188914, 
         "longitude": 80.79, 
         "ne:POP_EST": 21324791.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "LK", 
-        "sw_latitude": 5.917, 
+        "sw_latitude": 5.968369859232155, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Sri Lanka", 
-        "ne:NAME_FORMA": "Democratic Socialist Republic of Sri Lanka"
+        "ne:GDP_MD_EST": 91870.0
       }, 
+      "bbox": [
+        79.69516686393513, 
+        5.968369859232155, 
+        81.7879590188914, 
+        9.824077663609557
+      ], 
       "id": 23424778
     }
   ]

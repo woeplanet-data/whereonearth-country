@@ -126,15 +126,15 @@
           "UGA"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 4.214, 
-        "ne:NAME_SORT": "Uganda", 
+        "ne_latitude": 4.249884947362148, 
+        "ne_longitude": 35.03599, 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc6b0\uac04\ub2e4"
         ], 
         "ne:SUBUNIT": "Uganda", 
-        "ne:ISO_N3": 800.0, 
         "ne:ADM0_A3": "UGA", 
+        "ne:SOVEREIGNT": "Uganda", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u5e72\u9054"
@@ -151,9 +151,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 29.579466180141026, 
         "ne:SOV_A3": "UGA", 
-        "sw_longitude": 29.573, 
-        "ne:GDP_MD_EST": 39380.0, 
         "ne:SU_A3": "UGA", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.365, 
@@ -162,6 +161,7 @@
         "ne:ISO_A2": "UG", 
         "date_indexed": "2010-12-02T10:22:43Z", 
         "ne:NAME_FORMA": null, 
+        "fullname": "Uganda", 
         "ne:GU_A3": "UGA", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Uganda", 
@@ -173,7 +173,7 @@
           "Oeganda"
         ], 
         "ne:ABBREV": "Uga.", 
-        "ne:SOVEREIGNT": "Uganda", 
+        "ne:ISO_N3": 800.0, 
         "lang": "ENG", 
         "name": "Uganda", 
         "ne:TYPE": "Sovereign country", 
@@ -182,18 +182,24 @@
           "\u00daganda"
         ], 
         "ne:POSTAL": "UG", 
-        "ne_longitude": 35.036, 
+        "ne:NAME_SORT": "Uganda", 
         "longitude": 32.305, 
         "ne:POP_EST": 32369558.0, 
         "iso": "UG", 
-        "sw_latitude": -1.484, 
+        "sw_latitude": -1.443322442229771, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Uganda", 
+        "ne:GDP_MD_EST": 39380.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ouganda"
         ]
       }, 
+      "bbox": [
+        29.579466180141026, 
+        -1.443322442229771, 
+        35.03599, 
+        4.249884947362148
+      ], 
       "id": 23424974
     }
   ]

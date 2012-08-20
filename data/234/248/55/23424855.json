@@ -140,12 +140,11 @@
         "alias_POL_Q": [
           "Irak"
         ], 
-        "ne_latitude": 37.378, 
-        "ne:GU_A3": "IRQ", 
+        "ne_latitude": 37.385263576805755, 
         "alias_RUM_Q": [
           "Irak"
         ], 
-        "ne_longitude": 48.576, 
+        "ne:NAME_SORT": "Iraq", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Iraque"
@@ -154,21 +153,23 @@
           "IQ"
         ], 
         "ne:SUBUNIT": "Iraq", 
-        "ne:POSTAL": "IRQ", 
-        "ne:ISO_N3": 368.0, 
         "alias_ARA_V": [
           "Al Iraq"
         ], 
         "ne:ADM0_A3": "IRQ", 
+        "ne:SOVEREIGNT": "Iraq", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4f0a\u62c9\u514b"
         ], 
-        "alias_DAN_Q": [
-          "Irak"
+        "alias_GER_V": [
+          "Republik Irak"
         ], 
         "ne:NAME": "Iraq", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "IRQ", 
+        "alias_KOR_Q": [
+          "\uc774\ub77c\ud06c"
+        ], 
         "alias_JPN_Q": [
           "\u30a4\u30e9\u30af"
         ], 
@@ -177,12 +178,9 @@
           "\u30a4\u30e9\u30af\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Irak"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 38.792340529136084, 
         "ne:SOV_A3": "IRQ", 
-        "sw_longitude": 38.804, 
-        "ne:GDP_MD_EST": 103900.0, 
         "alias_FIN_V": [
           "Irakista"
         ], 
@@ -195,15 +193,17 @@
         "ne:ISO_A3": "IRQ", 
         "ne:ISO_A2": "IQ", 
         "date_indexed": "2010-12-02T16:42:58Z", 
-        "ne:NAME_SORT": "Iraq", 
-        "alias_KOR_Q": [
-          "\uc774\ub77c\ud06c"
-        ], 
+        "ne:NAME_FORMA": "Republic of Iraq", 
+        "fullname": "Iraq", 
+        "ne:GU_A3": "IRQ", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Iraq", 
         "ne:SU_A3": "IRQ", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Irak"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Irak"
@@ -212,13 +212,16 @@
         "alias_CZE_Q": [
           "Ir\u00e1k"
         ], 
-        "alias_GER_V": [
-          "Republik Irak"
+        "alias_FIN_Q": [
+          "Irak"
+        ], 
+        "alias_DAN_Q": [
+          "Irak"
         ], 
         "alias_GER_Q": [
           "Irak"
         ], 
-        "ne:SOVEREIGNT": "Iraq", 
+        "ne:ISO_N3": 368.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Iraq", 
         "name": "Iraq", 
@@ -230,21 +233,24 @@
         "alias_HUN_Q": [
           "Irak"
         ], 
-        "alias_UNK_V": [
-          "Republika Irak"
-        ], 
+        "ne_longitude": 48.567971225789755, 
         "longitude": 43.69, 
         "ne:POP_EST": 28945657.0, 
         "iso": "IQ", 
-        "sw_latitude": 29.103, 
+        "sw_latitude": 29.09902517345229, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Iraq", 
-        "ne:NAME_FORMA": "Republic of Iraq", 
+        "ne:GDP_MD_EST": 103900.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Irak"
         ]
       }, 
+      "bbox": [
+        38.792340529136084, 
+        29.09902517345229, 
+        48.567971225789755, 
+        37.385263576805755
+      ], 
       "id": 23424855
     }
   ]

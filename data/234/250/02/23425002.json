@@ -190,18 +190,19 @@
         "alias_ENG_V": [
           "Republic of Yemen"
         ], 
+        "alias_HUN_Q": [
+          "Jemen"
+        ], 
         "alias_SWE_Q": [
           "Jemen"
         ], 
         "alias_POL_Q": [
           "Jemen"
         ], 
-        "ne_latitude": 19.002, 
+        "ne_latitude": 19.000003363516058, 
         "ne:SUBUNIT": "Yemen", 
-        "ne:GU_A3": "YEM", 
-        "ne:NAME_SORT": "Yemen", 
+        "ne_longitude": 53.10857262554751, 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_V": [
           "I\u00eamen"
         ], 
@@ -214,20 +215,17 @@
         "alias_POR_S": [
           "Iemen"
         ], 
-        "ne:POSTAL": "YE", 
-        "ne:ISO_N3": 887.0, 
-        "alias_ARA_Q": [
-          "Al Yaman"
-        ], 
+        "ne:ADM0_A3": "YEM", 
+        "ne:SOVEREIGNT": "Yemen", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8449\u9580"
         ], 
         "ne:NAME": "Yemen", 
-        "alias_CHI_V": [
-          "\u8449\u9580"
+        "ne:POSTAL": "YE", 
+        "alias_ARA_Q": [
+          "Al Yaman"
         ], 
-        "ne:ADM0_A3": "YEM", 
         "alias_JPN_Q": [
           "\u30a4\u30a8\u30e1\u30f3"
         ], 
@@ -236,12 +234,9 @@
           "\u30a4\u30a8\u30e1\u30f3\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Jemen"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 42.60487267433362, 
         "ne:SOV_A3": "YEM", 
-        "sw_longitude": 41.816, 
-        "ne:GDP_MD_EST": 55280.0, 
         "ne:SU_A3": "YEM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.797, 
@@ -253,9 +248,8 @@
         "ne:ISO_A2": "YE", 
         "date_indexed": "2010-12-02T16:39:41Z", 
         "ne:NAME_FORMA": "Republic of Yemen", 
-        "alias_ENG_A": [
-          "YE"
-        ], 
+        "fullname": "Yemen", 
+        "ne:GU_A3": "YEM", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Yemen", 
         "ne:GEOUNIT": "Yemen", 
@@ -269,13 +263,16 @@
         "alias_CZE_Q": [
           "Jemen"
         ], 
+        "alias_FIN_Q": [
+          "Jemen"
+        ], 
         "alias_GER_V": [
           "Republik Jemen"
         ], 
         "alias_GER_Q": [
           "Jemen"
         ], 
-        "ne:SOVEREIGNT": "Yemen", 
+        "ne:ISO_N3": 887.0, 
         "lang": "ENG", 
         "name": "Yemen", 
         "ne:TYPE": "Sovereign country", 
@@ -283,21 +280,30 @@
         "alias_UNK_Q": [
           "Republika Jemen"
         ], 
-        "alias_HUN_Q": [
-          "Jemen"
+        "alias_CHI_V": [
+          "\u8449\u9580"
         ], 
-        "ne_longitude": 54.531, 
+        "ne:NAME_SORT": "Yemen", 
         "longitude": 47.837, 
         "ne:POP_EST": 23822783.0, 
-        "iso": "YE", 
-        "sw_latitude": 12.111, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Yemen", 
+        "iso": "YE", 
+        "sw_latitude": 12.585950425664876, 
+        "alias_ENG_A": [
+          "YE"
+        ], 
+        "ne:GDP_MD_EST": 55280.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Y\u00e9men"
         ]
       }, 
+      "bbox": [
+        42.60487267433362, 
+        12.585950425664876, 
+        53.10857262554751, 
+        19.000003363516058
+      ], 
       "id": 23425002
     }
   ]

@@ -241,18 +241,20 @@
         "alias_ENG_V": [
           "Libyan Arab Jamahiriya"
         ], 
+        "alias_HUN_Q": [
+          "L\u00edbia"
+        ], 
         "alias_SWE_Q": [
           "Libyen"
         ], 
         "alias_POL_Q": [
           "Libia"
         ], 
-        "ne_latitude": 33.169, 
-        "ne:GU_A3": "LBY", 
+        "ne_latitude": 33.13699575452324, 
         "alias_RUM_Q": [
           "Libia"
         ], 
-        "ne_longitude": 25.151, 
+        "ne:NAME_SORT": "Libya", 
         "placetype": "Country", 
         "alias_POR_V": [
           "L\u00edbia \u00c1rabe Jamahiriya"
@@ -264,9 +266,8 @@
           "LY"
         ], 
         "ne:SUBUNIT": "Libya", 
-        "ne:POSTAL": "LY", 
-        "ne:ISO_N3": 434.0, 
         "ne:ADM0_A3": "LBY", 
+        "ne:SOVEREIGNT": "Libya", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5229\u6bd4\u4e9e"
@@ -274,14 +275,18 @@
         "alias_ITA_Q": [
           "Libia"
         ], 
-        "alias_DAN_Q": [
-          "Libyen"
+        "alias_GER_V": [
+          "Libysch-Arabische Dschamahirija"
         ], 
         "alias_ITA_V": [
           "Libia, Repubblica Araba"
         ], 
-        "alias_CHI_V": [
-          "\u5229\u6bd4\u4e9a"
+        "ne:POSTAL": "LY", 
+        "alias_KOR_Q": [
+          "\ub9ac\ube44\uc544"
+        ], 
+        "alias_CZE_Q": [
+          "Libye"
         ], 
         "alias_JPN_Q": [
           "\u30ea\u30d3\u30a2"
@@ -295,37 +300,35 @@
           "Libia"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 9.31941084151822, 
         "ne:SOV_A3": "LBY", 
-        "sw_longitude": 9.387, 
-        "alias_HUN_V": [
-          "L\u00edbiai Arab Jamahiriya"
-        ], 
         "ne:SU_A3": "LBY", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 26.339, 
+        "alias_GER_Q": [
+          "Libyen"
+        ], 
         "woe:id": 23424882, 
         "ne:ISO_A3": "LBY", 
         "ne:ISO_A2": "LY", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "ne:NAME_SORT": "Libya", 
-        "alias_KOR_Q": [
-          "\ub9ac\ube44\uc544"
+        "ne:NAME_FORMA": "Great Socialist People's Libyan Arab Jamahiriya", 
+        "fullname": "Libya", 
+        "alias_FRE_V": [
+          "Jamahiriya arabe libyenne"
         ], 
+        "ne:GU_A3": "LBY", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Libya", 
         "ne:GEOUNIT": "Libya", 
-        "alias_DUT_V": [
-          "Libische Arabische Republiek"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:GDP_MD_EST": 88830.0, 
         "alias_SPA_V": [
           "Libia, Rep\u00fablica \u00c1rabe"
         ], 
-        "alias_RUM_V": [
-          "Libia, Jamahiriya Arab\u0103"
-        ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Libyan Arab Jamahirya"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Libi\u00eb"
@@ -334,45 +337,48 @@
           "Libie"
         ], 
         "ne:ABBREV": "Libya", 
-        "alias_CZE_Q": [
-          "Libye"
+        "alias_DUT_V": [
+          "Libische Arabische Republiek"
         ], 
-        "alias_GER_V": [
-          "Libysch-Arabische Dschamahirija"
+        "alias_DAN_Q": [
+          "Libyen"
         ], 
         "alias_DAN_V": [
           "Libyan Arab Jamahiriya"
         ], 
-        "ne:SOVEREIGNT": "Libya", 
+        "ne:ISO_N3": 434.0, 
         "ne:NAME": "Libya", 
         "lang": "ENG", 
         "name": "Libya", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "L\u00edbia"
+        "alias_CHI_V": [
+          "\u5229\u6bd4\u4e9a"
         ], 
-        "alias_GER_Q": [
-          "Libyen"
+        "alias_HUN_V": [
+          "L\u00edbiai Arab Jamahiriya"
         ], 
-        "alias_UNK_V": [
-          "Libyan Arab Jamahirya"
-        ], 
+        "ne_longitude": 25.16482, 
         "longitude": 17.269, 
         "ne:POP_EST": 6310434.0, 
         "ne:GEOU_DIF": 0.0, 
         "iso": "LY", 
-        "sw_latitude": 19.508, 
-        "alias_FRE_V": [
-          "Jamahiriya arabe libyenne"
+        "sw_latitude": 19.580470000000105, 
+        "alias_RUM_V": [
+          "Libia, Jamahiriya Arab\u0103"
         ], 
-        "fullname": "Libya", 
-        "ne:NAME_FORMA": "Great Socialist People's Libyan Arab Jamahiriya", 
+        "ne:GDP_MD_EST": 88830.0, 
         "alias_FRE_Q": [
           "Libye"
         ]
       }, 
+      "bbox": [
+        9.31941084151822, 
+        19.580470000000105, 
+        25.16482, 
+        33.13699575452324
+      ], 
       "id": 23424882
     }
   ]

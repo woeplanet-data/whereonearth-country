@@ -369,9 +369,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Republic of Italy"
+        ], 
+        "alias_HUN_Q": [
+          "Olaszorsz\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Italien"
@@ -379,9 +381,8 @@
         "alias_ENG_P": [
           "Italy"
         ], 
-        "ne_latitude": 47.092, 
-        "ne:GU_A3": "ITA", 
-        "ne_longitude": 18.52, 
+        "ne_latitude": 47.11539317482644, 
+        "ne:NAME_SORT": "Italy", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc774\ud0c8\ub9ac\uc544"
@@ -393,21 +394,21 @@
           "ITA"
         ], 
         "ne:SUBUNIT": "Italy", 
-        "ne:POSTAL": "I", 
-        "ne:ISO_N3": 380.0, 
         "ne:ADM0_A3": "ITA", 
+        "ne:SOVEREIGNT": "Italy", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7fa9\u5927\u5229"
         ], 
-        "alias_DAN_Q": [
-          "Italien"
+        "alias_GER_V": [
+          "Italienische Republik"
         ], 
         "alias_ITA_V": [
           "il Bel Paese"
         ], 
-        "alias_CHI_V": [
-          "\u7fa9\u5927\u5229"
+        "ne:POSTAL": "I", 
+        "alias_KOR_Q": [
+          "\uc774\ud0dc\ub9ac"
         ], 
         "alias_JPN_Q": [
           "\u30a4\u30bf\u30ea\u30a2"
@@ -419,12 +420,9 @@
           "\u30a4\u30bf\u30ea\u30a2\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Italia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 6.749955275101712, 
         "ne:SOV_A3": "ITA", 
-        "sw_longitude": 6.627, 
-        "ne:GDP_MD_EST": 1823000.0, 
         "alias_FIN_V": [
           "Italiasta"
         ], 
@@ -434,15 +432,17 @@
         "ne:ISO_A3": "ITA", 
         "ne:ISO_A2": "IT", 
         "date_indexed": "2010-12-02T16:30:51Z", 
-        "ne:NAME_SORT": "Italy", 
-        "alias_KOR_Q": [
-          "\uc774\ud0dc\ub9ac"
-        ], 
+        "ne:NAME_FORMA": "Italian Republic", 
+        "fullname": "Italia, Italy", 
+        "ne:GU_A3": "ITA", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Italy", 
         "ne:SU_A3": "ITA", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Taliansko"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Itali\u00eb"
@@ -452,13 +452,16 @@
         "alias_CZE_Q": [
           "It\u00e1lie"
         ], 
-        "alias_GER_V": [
-          "Italienische Republik"
+        "alias_FIN_Q": [
+          "Italia"
+        ], 
+        "alias_DAN_Q": [
+          "Italien"
         ], 
         "alias_GER_Q": [
           "Italien"
         ], 
-        "ne:SOVEREIGNT": "Italy", 
+        "ne:ISO_N3": 380.0, 
         "ne:NAME": "Italy", 
         "lang": "ITA", 
         "ne:GEOUNIT": "Italy", 
@@ -468,27 +471,30 @@
         "alias_UNK_Q": [
           "\u00cdtal\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Olaszorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u7fa9\u5927\u5229"
         ], 
-        "alias_UNK_V": [
-          "Taliansko"
-        ], 
+        "ne_longitude": 18.480247023195403, 
         "longitude": 12.573, 
         "ne:POP_EST": 58126212.0, 
         "iso": "IT", 
-        "sw_latitude": 35.493, 
+        "sw_latitude": 36.6199872909954, 
         "alias_HUN_S": [
           "Olaszorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Italia, Italy", 
-        "ne:NAME_FORMA": "Italian Republic", 
+        "ne:GDP_MD_EST": 1823000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Italie"
         ]
       }, 
+      "bbox": [
+        6.749955275101712, 
+        36.6199872909954, 
+        18.480247023195403, 
+        47.11539317482644
+      ], 
       "id": 23424853
     }
   ]

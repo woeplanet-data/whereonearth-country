@@ -175,9 +175,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Rep. Tajikistan"
+        ], 
+        "alias_HUN_Q": [
+          "T\u00e1dzsikiszt\u00e1n"
         ], 
         "alias_SWE_Q": [
           "Tadzjikistan"
@@ -185,13 +187,12 @@
         "alias_POL_Q": [
           "Tad\u017cykistan"
         ], 
-        "ne_latitude": 41.042, 
+        "ne_latitude": 40.960213324541414, 
         "ne:SUBUNIT": "Tajikistan", 
-        "ne:GU_A3": "TJK", 
         "alias_RUM_Q": [
           "Tadjikistan"
         ], 
-        "ne_longitude": 75.137, 
+        "ne:NAME_SORT": "Tajikistan", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
@@ -208,9 +209,8 @@
         "alias_POR_S": [
           "Tajiquistao"
         ], 
-        "ne:POSTAL": "TJ", 
-        "ne:ISO_N3": 762.0, 
         "ne:ADM0_A3": "TJK", 
+        "ne:SOVEREIGNT": "Tajikistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5854\u5409\u514b\u65af\u5766"
@@ -218,12 +218,16 @@
         "alias_ITA_Q": [
           "Tagikistan"
         ], 
-        "alias_DAN_Q": [
-          "Tadsjikistan"
+        "alias_GER_V": [
+          "Republik Tadschikistan"
         ], 
         "ne:NAME": "Tajikistan", 
-        "alias_CHI_V": [
-          "\u5854\u5409\u514b\u65af\u5766"
+        "ne:POSTAL": "TJ", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+        ], 
+        "alias_CZE_Q": [
+          "T\u00e1d\u017eikist\u00e1n"
         ], 
         "alias_JPN_Q": [
           "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
@@ -236,17 +240,15 @@
         "alias_SPA_Q": [
           "Tayikist\u00e1n"
         ], 
-        "alias_FIN_Q": [
-          "Tad\u017eikistan"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Tayikistan"
         ], 
         "alias_FIN_S": [
           "Tadzikistan"
         ], 
-        "sw_longitude": 67.387, 
-        "ne:GDP_MD_EST": 13160.0, 
+        "sw_longitude": 67.44221967964131, 
+        "ne:SOV_A3": "TJK", 
         "ne:SU_A3": "TJK", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.858, 
@@ -257,59 +259,63 @@
         "ne:ISO_A3": "TJK", 
         "ne:ISO_A2": "TJ", 
         "date_indexed": "2010-12-02T12:16:45Z", 
-        "ne:NAME_SORT": "Tajikistan", 
-        "alias_KOR_Q": [
-          "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
-        ], 
+        "ne:NAME_FORMA": "Republic of Tajikistan", 
+        "fullname": "Tajikistan", 
+        "ne:GU_A3": "TJK", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Tajikistan", 
         "ne:GEOUNIT": "Tajikistan", 
-        "alias_DUT_V": [
-          "Tadjzjikistan"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "TJK", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Tojikistan"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Tadzjikistan"
         ], 
         "ne:ABBREV": "Tjk.", 
-        "alias_CZE_Q": [
-          "T\u00e1d\u017eikist\u00e1n"
+        "alias_DUT_V": [
+          "Tadjzjikistan"
         ], 
-        "alias_GER_V": [
-          "Republik Tadschikistan"
+        "alias_FIN_Q": [
+          "Tad\u017eikistan"
+        ], 
+        "alias_DAN_Q": [
+          "Tadsjikistan"
         ], 
         "alias_GER_Q": [
           "Tadschikistan"
         ], 
-        "ne:SOVEREIGNT": "Tajikistan", 
+        "ne:ISO_N3": 762.0, 
         "lang": "ENG", 
         "name": "Tajikistan", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "T\u00e1dzsikiszt\u00e1n"
+        "alias_CHI_V": [
+          "\u5854\u5409\u514b\u65af\u5766"
         ], 
         "alias_HUN_V": [
           "Tadzsikiszt\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Tojikistan"
-        ], 
+        "ne_longitude": 74.98000247589542, 
         "longitude": 71.262, 
         "ne:POP_EST": 7349145.0, 
         "iso": "TJ", 
-        "sw_latitude": 36.674, 
+        "sw_latitude": 36.73817129164692, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Tajikistan", 
-        "ne:NAME_FORMA": "Republic of Tajikistan", 
+        "ne:GDP_MD_EST": 13160.0, 
         "alias_FRE_Q": [
           "Tadjikistan"
         ]
       }, 
+      "bbox": [
+        67.44221967964131, 
+        36.73817129164692, 
+        74.98000247589542, 
+        40.960213324541414
+      ], 
       "id": 23424961
     }
   ]

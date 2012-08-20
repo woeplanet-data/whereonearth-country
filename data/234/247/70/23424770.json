@@ -70,9 +70,9 @@
           "\ubd80\ud0c4"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 28.323, 
+        "ne_latitude": 28.296438503527217, 
         "ne:SUBUNIT": "Bhutan", 
-        "ne_longitude": 92.125, 
+        "ne:NAME_SORT": "Bhutan", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "But\u00e3o"
@@ -83,17 +83,14 @@
         "alias_POR_S": [
           "Butao"
         ], 
-        "ne:ISO_N3": 64.0, 
-        "alias_CZE_Q": [
-          "Bh\u00fat\u00e1n"
-        ], 
+        "ne:ADM0_A3": "BTN", 
+        "ne:SOVEREIGNT": "Bhutan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e0d\u4e39"
         ], 
         "ne:NAME": "Bhutan", 
         "ne:POSTAL": "BT", 
-        "ne:ADM0_A3": "BTN", 
         "alias_JPN_Q": [
           "\u30d6\u30fc\u30bf\u30f3"
         ], 
@@ -105,9 +102,8 @@
           "But\u00e1n"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 88.81424848832056, 
         "ne:SOV_A3": "BTN", 
-        "sw_longitude": 88.76, 
-        "ne:GDP_MD_EST": 3524.0, 
         "ne:SU_A3": "BTN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.515, 
@@ -115,25 +111,32 @@
         "ne:ISO_A3": "BTN", 
         "ne:ISO_A2": "BT", 
         "date_indexed": "2010-12-02T17:56:39Z", 
-        "ne:NAME_SORT": "Bhutan", 
+        "ne:NAME_FORMA": "Kingdom of Bhutan", 
+        "fullname": "Bhutan", 
         "ne:GU_A3": "BTN", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Bhutan", 
         "ne:GEOUNIT": "Bhutan", 
+        "alias_DUT_V": [
+          "Bhoetan"
+        ], 
         "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Bhut\u00e1n"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Kraljevina Butan"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Bhutan", 
-        "alias_DUT_V": [
-          "Bhoetan"
+        "alias_CZE_Q": [
+          "Bh\u00fat\u00e1n"
         ], 
         "alias_GER_V": [
           "K\u00f6nigreich Bhutan"
         ], 
-        "ne:SOVEREIGNT": "Bhutan", 
+        "ne:ISO_N3": 64.0, 
         "alias_GER_S": [
           "Koenigreich Bhutan"
         ], 
@@ -147,21 +150,24 @@
         "alias_HUN_Q": [
           "Bhut\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Butan"
-        ], 
+        "ne_longitude": 92.10371178585974, 
         "longitude": 90.442, 
         "ne:POP_EST": 691141.0, 
         "iso": "BT", 
-        "sw_latitude": 26.707, 
+        "sw_latitude": 26.719402981059957, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Bhutan", 
-        "ne:NAME_FORMA": "Kingdom of Bhutan", 
+        "ne:GDP_MD_EST": 3524.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Bhoutan"
         ]
       }, 
+      "bbox": [
+        88.81424848832056, 
+        26.719402981059957, 
+        92.10371178585974, 
+        28.296438503527217
+      ], 
       "id": 23424770
     }
   ]

@@ -152,8 +152,8 @@
         "alias_POL_Q": [
           "Paragwaj"
         ], 
-        "ne_latitude": -19.294, 
-        "ne_longitude": -54.259, 
+        "ne_latitude": -19.342746677327426, 
+        "ne:NAME_SORT": "Paraguay", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Paraguai"
@@ -162,8 +162,8 @@
           "PY"
         ], 
         "ne:SUBUNIT": "Paraguay", 
-        "ne:ISO_N3": 600.0, 
         "ne:ADM0_A3": "PRY", 
+        "ne:SOVEREIGNT": "Paraguay", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u62c9\u572d"
@@ -179,9 +179,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -62.685057135657885, 
         "ne:SOV_A3": "PRY", 
-        "sw_longitude": -62.647, 
-        "ne:GDP_MD_EST": 28890.0, 
         "ne:SU_A3": "PRY", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -23.451, 
@@ -189,19 +188,23 @@
         "ne:ISO_A3": "PRY", 
         "ne:ISO_A2": "PY", 
         "date_indexed": "2010-12-02T12:08:38Z", 
-        "ne:NAME_SORT": "Paraguay", 
+        "ne:NAME_FORMA": "Republic of Paraguay", 
+        "fullname": "Paraguay", 
         "ne:GU_A3": "PRY", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Paraguay", 
         "ne:GEOUNIT": "Paraguay", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Paragvaj"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Para.", 
         "alias_GER_V": [
           "Republik Paraguay"
         ], 
-        "ne:SOVEREIGNT": "Paraguay", 
+        "ne:ISO_N3": 600.0, 
         "lang": "ENG", 
         "name": "Paraguay", 
         "ne:TYPE": "Sovereign country", 
@@ -209,18 +212,21 @@
         "alias_UNK_Q": [
           "Paragvaj"
         ], 
-        "alias_UNK_V": [
-          "Republika Paragvaj"
-        ], 
+        "ne_longitude": -54.29295956075452, 
         "longitude": -58.453, 
         "ne:POP_EST": 6995655.0, 
         "iso": "PY", 
-        "sw_latitude": -27.609, 
+        "sw_latitude": -27.548499037386293, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Paraguay", 
-        "ne:NAME_FORMA": "Republic of Paraguay", 
+        "ne:GDP_MD_EST": 28890.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -62.685057135657885, 
+        -27.548499037386293, 
+        -54.29295956075452, 
+        -19.342746677327426
+      ], 
       "id": 23424917
     }
   ]

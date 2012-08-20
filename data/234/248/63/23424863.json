@@ -168,11 +168,10 @@
         "alias_POL_Q": [
           "Kenia"
         ], 
-        "ne_latitude": 4.629, 
+        "ne_latitude": 5.506, 
         "ne:SUBUNIT": "Kenya", 
-        "ne_longitude": 41.899, 
+        "ne:NAME_SORT": "Kenya", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_V": [
           "Qu\u00eania"
         ], 
@@ -185,8 +184,8 @@
         "alias_POR_S": [
           "Quenia"
         ], 
-        "ne:ISO_N3": 404.0, 
         "ne:ADM0_A3": "KEN", 
+        "ne:SOVEREIGNT": "Kenya", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u80af\u4e9e"
@@ -206,12 +205,9 @@
         "alias_SPA_Q": [
           "Kenia"
         ], 
-        "alias_FIN_Q": [
-          "Kenian"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 33.893568969666944, 
         "ne:SOV_A3": "KEN", 
-        "sw_longitude": 33.909, 
-        "ne:GDP_MD_EST": 61510.0, 
         "alias_FIN_V": [
           "Keniasta"
         ], 
@@ -221,13 +217,17 @@
         "ne:ISO_A3": "KEN", 
         "ne:ISO_A2": "KE", 
         "date_indexed": "2010-12-02T08:53:57Z", 
-        "ne:NAME_SORT": "Kenya", 
+        "ne:NAME_FORMA": "Republic of Kenya", 
+        "fullname": "Kenya", 
         "ne:GU_A3": "KEN", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Kenya", 
         "ne:SU_A3": "KEN", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Kenija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Kenia"
@@ -236,13 +236,16 @@
         "alias_CZE_Q": [
           "Ke\u0148a"
         ], 
+        "alias_FIN_Q": [
+          "Kenian"
+        ], 
         "alias_GER_V": [
           "Republik Kenia"
         ], 
         "alias_GER_Q": [
           "Kenia"
         ], 
-        "ne:SOVEREIGNT": "Kenya", 
+        "ne:ISO_N3": 404.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Kenya", 
         "name": "Kenya", 
@@ -252,18 +255,21 @@
           "Kenija"
         ], 
         "ne:POSTAL": "KE", 
-        "alias_UNK_V": [
-          "Republika Kenija"
-        ], 
+        "ne_longitude": 41.85508309264397, 
         "longitude": 37.904, 
         "ne:POP_EST": 39002772.0, 
         "iso": "KE", 
-        "sw_latitude": -4.717, 
+        "sw_latitude": -4.67677, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Kenya", 
-        "ne:NAME_FORMA": "Republic of Kenya", 
+        "ne:GDP_MD_EST": 61510.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        33.893568969666944, 
+        -4.67677, 
+        41.85508309264397, 
+        5.506
+      ], 
       "id": 23424863
     }
   ]

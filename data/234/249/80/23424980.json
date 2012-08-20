@@ -230,14 +230,16 @@
         "alias_ENG_V": [
           "Uzbek"
         ], 
+        "alias_HUN_Q": [
+          "\u00dczbegiszt\u00e1n"
+        ], 
         "alias_KOR_Q": [
           "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 45.605, 
+        "ne_latitude": 45.58680430763283, 
         "ne:SUBUNIT": "Uzbekistan", 
-        "ne:POSTAL": "UZ", 
-        "ne_longitude": 73.132, 
+        "ne:NAME_SORT": "Uzbekistan", 
         "placetype": "Country", 
         "alias_POR_V": [
           "Usbequist\u00e3o"
@@ -251,19 +253,17 @@
         "alias_POR_S": [
           "Usbequistao"
         ], 
-        "ne:ISO_N3": 860.0, 
         "ne:ADM0_A3": "UZB", 
+        "ne:SOVEREIGNT": "Uzbekistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u8332\u5225\u514b"
         ], 
-        "alias_DAN_Q": [
-          "Usbekistan"
+        "alias_GER_V": [
+          "Republik Usbekistan"
         ], 
         "ne:NAME": "Uzbekistan", 
-        "alias_CHI_V": [
-          "\u70cf\u8332\u5225\u514b"
-        ], 
+        "ne:POSTAL": "UZ", 
         "alias_JPN_Q": [
           "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3"
         ], 
@@ -278,9 +278,8 @@
         "alias_SPA_S": [
           "Uzbequistan"
         ], 
+        "sw_longitude": 55.928917270741096, 
         "ne:SOV_A3": "UZB", 
-        "sw_longitude": 55.997, 
-        "ne:GDP_MD_EST": 71670.0, 
         "ne:SU_A3": "UZB", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.395, 
@@ -291,7 +290,11 @@
         "ne:ISO_A3": "UZB", 
         "ne:ISO_A2": "UZ", 
         "date_indexed": "2010-12-02T18:18:54Z", 
-        "ne:NAME_SORT": "Uzbekistan", 
+        "ne:NAME_FORMA": "Republic of Uzbekistan", 
+        "fullname": "Uzbekistan", 
+        "alias_FRE_V": [
+          "Ouzbekistan"
+        ], 
         "ne:GU_A3": "UZB", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Uzbekistan", 
@@ -301,6 +304,9 @@
           "Uzbequist\u00e1n"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Uzbekistan"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Oezbekistan"
@@ -309,13 +315,13 @@
         "alias_CZE_Q": [
           "Uzbekist\u00e1n"
         ], 
-        "alias_GER_V": [
-          "Republik Usbekistan"
+        "alias_DAN_Q": [
+          "Usbekistan"
         ], 
         "alias_GER_Q": [
           "Usbekistan"
         ], 
-        "ne:SOVEREIGNT": "Uzbekistan", 
+        "ne:ISO_N3": 860.0, 
         "lang": "ENG", 
         "name": "Uzbekistan", 
         "ne:TYPE": "Sovereign country", 
@@ -323,27 +329,27 @@
         "alias_UNK_Q": [
           "Uzbekiston Respublikasi"
         ], 
-        "alias_HUN_Q": [
-          "\u00dczbegiszt\u00e1n"
+        "alias_CHI_V": [
+          "\u70cf\u8332\u5225\u514b"
         ], 
-        "alias_UNK_V": [
-          "Republika Uzbekistan"
-        ], 
+        "ne_longitude": 73.05541710804917, 
         "longitude": 64.564, 
         "ne:POP_EST": 27606007.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "UZ", 
-        "sw_latitude": 37.184, 
-        "alias_FRE_V": [
-          "Ouzbekistan"
-        ], 
-        "fullname": "Uzbekistan", 
-        "ne:NAME_FORMA": "Republic of Uzbekistan", 
+        "sw_latitude": 37.144994004864685, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 71670.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ouzb\u00e9kistan"
         ]
       }, 
+      "bbox": [
+        55.928917270741096, 
+        37.144994004864685, 
+        73.05541710804917, 
+        45.58680430763283
+      ], 
       "id": 23424980
     }
   ]

@@ -129,20 +129,21 @@
         "alias_SWE_V": [
           "V\u00e4stsahara"
         ], 
+        "alias_HUN_Q": [
+          "Nyugat-Szahara"
+        ], 
         "alias_SWE_Q": [
           "Spanska Sahara"
         ], 
         "alias_SWE_S": [
           "Vaestsahara"
         ], 
-        "ne_latitude": 27.703, 
-        "ne:GU_A3": "SAH", 
+        "ne_latitude": 27.656425889592356, 
         "alias_RUM_Q": [
           "Sahara Occidental\u0103"
         ], 
-        "ne_longitude": -8.669, 
+        "ne:NAME_SORT": "Western Sahara", 
         "placetype": "Country", 
-        "ne:TERR_": "Disputed", 
         "alias_POR_V": [
           "Sara Ocidental"
         ], 
@@ -153,9 +154,8 @@
           "EH"
         ], 
         "ne:SUBUNIT": "Western Sahara", 
-        "ne:POSTAL": "WS", 
-        "ne:ISO_N3": -99.0, 
         "ne:ADM0_A3": "SAH", 
+        "ne:SOVEREIGNT": "Western Sahara", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u897f\u6492\u54c8\u62c9"
@@ -164,8 +164,12 @@
           "Sahara Occidentale"
         ], 
         "ne:NAME": "W. Sahara", 
-        "alias_CHI_V": [
-          "\u897f\u6492\u54c8\u62c9"
+        "ne:POSTAL": "WS", 
+        "alias_KOR_Q": [
+          "\uc11c\uc0ac\ud558\ub77c"
+        ], 
+        "alias_CZE_Q": [
+          "Z\u00e1padn\u00ed Sahara"
         ], 
         "alias_JPN_Q": [
           "\u897f\u30b5\u30cf\u30e9"
@@ -173,18 +177,17 @@
         "alias_POL_Q": [
           "Sahara Zachodnia"
         ], 
+        "fullname": "Western Sahara", 
         "ne:FIPS_10_": -99.0, 
         "alias_SPA_Q": [
           "Sahara Occidental"
         ], 
-        "alias_FIN_Q": [
-          "L\u00e4nsi-Sahara"
-        ], 
+        "ne:TERR_": "Disputed", 
         "alias_FIN_S": [
           "Lansi-Sahara"
         ], 
-        "sw_longitude": -17.103, 
-        "ne:GDP_MD_EST": 900.0, 
+        "sw_longitude": -17.06342322434257, 
+        "ne:SOV_A3": "SAH", 
         "ne:SU_A3": "SAH", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 24.238, 
@@ -195,27 +198,27 @@
         "ne:ISO_A3": "-99", 
         "ne:ISO_A2": "-99", 
         "date_indexed": "2010-12-02T16:12:23Z", 
-        "ne:NAME_SORT": "Western Sahara", 
-        "alias_KOR_Q": [
-          "\uc11c\uc0ac\ud558\ub77c"
-        ], 
+        "ne:NAME_FORMA": null, 
+        "ne:GU_A3": "SAH", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Western Sahara", 
         "ne:GEOUNIT": "Western Sahara", 
-        "alias_DUT_V": [
-          "Sahara Westelijke"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "SAH", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Vestsahara"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Westelijke Sahara"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "W. Sah.", 
-        "alias_CZE_Q": [
-          "Z\u00e1padn\u00ed Sahara"
+        "alias_DUT_V": [
+          "Sahara Westelijke"
+        ], 
+        "alias_FIN_Q": [
+          "L\u00e4nsi-Sahara"
         ], 
         "alias_DAN_Q": [
           "Vestsahara"
@@ -223,7 +226,7 @@
         "alias_GER_Q": [
           "Westsahara"
         ], 
-        "ne:SOVEREIGNT": "Western Sahara", 
+        "ne:ISO_N3": -99.0, 
         "lang": "ENG", 
         "name": "Western Sahara", 
         "ne:TYPE": "Disputed", 
@@ -231,24 +234,27 @@
         "alias_UNK_Q": [
           "Zahodna Sahara"
         ], 
-        "alias_HUN_Q": [
-          "Nyugat-Szahara"
+        "alias_CHI_V": [
+          "\u897f\u6492\u54c8\u62c9"
         ], 
-        "alias_UNK_V": [
-          "Vestsahara"
-        ], 
+        "ne_longitude": -8.665124477564191, 
         "longitude": -12.886, 
         "ne:POP_EST": -99.0, 
         "iso": "EH", 
-        "sw_latitude": 20.774, 
+        "sw_latitude": 20.999752102130827, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Western Sahara", 
-        "ne:NAME_FORMA": null, 
+        "ne:GDP_MD_EST": 900.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Sahara Occidental"
         ]
       }, 
+      "bbox": [
+        -17.06342322434257, 
+        20.999752102130827, 
+        -8.665124477564191, 
+        27.656425889592356
+      ], 
       "id": 23424990
     }
   ]

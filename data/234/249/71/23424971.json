@@ -59,12 +59,11 @@
         "alias_ENG_P": [
           "Taiwan"
         ], 
-        "ne_latitude": 26.392, 
-        "ne:GU_A3": "TWN", 
+        "ne_latitude": 25.295458889257386, 
         "alias_RUM_Q": [
           "Taiwan"
         ], 
-        "ne:NAME_SORT": "Taiwan", 
+        "ne_longitude": 121.95124393116146, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub300\ub9cc"
@@ -76,11 +75,10 @@
           "\ud0c0\uc774\uc644 \uc12c"
         ], 
         "ne:SUBUNIT": "Taiwan", 
-        "ne:ISO_N3": 158.0, 
         "ne:ADM0_A3": "TWN", 
+        "ne:SOVEREIGNT": "Taiwan", 
         "ne:ScaleRank": 1, 
         "ne:NAME": "Taiwan", 
-        "ne:TERR_": null, 
         "alias_CHI_V": [
           "\u53f0\u7063"
         ], 
@@ -90,16 +88,15 @@
         "alias_POL_Q": [
           "Tajwan"
         ], 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "\u81fa\u7063, Taiwan", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Isla de Taiw\u00e1n"
         ], 
-        "alias_FIN_Q": [
-          "Taiwan"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 120.1061885926124, 
         "ne:SOV_A3": "TWN", 
-        "sw_longitude": 118.214, 
-        "ne:GDP_MD_EST": 712000.0, 
         "ne:SU_A3": "TWN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 23.6, 
@@ -111,9 +108,7 @@
         "ne:ISO_A2": "TW", 
         "date_indexed": "2010-12-02T16:16:00Z", 
         "ne:NAME_FORMA": null, 
-        "alias_ENG_A": [
-          "ROC"
-        ], 
+        "ne:GU_A3": "TWN", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Taiwan", 
         "ne:GEOUNIT": "Taiwan", 
@@ -131,13 +126,16 @@
         "alias_CZE_Q": [
           "Tchaj-wan"
         ], 
+        "alias_FIN_Q": [
+          "Taiwan"
+        ], 
         "alias_DAN_Q": [
           "Taiwan"
         ], 
         "alias_GER_Q": [
           "Taiwan"
         ], 
-        "ne:SOVEREIGNT": "Taiwan", 
+        "ne:ISO_N3": 158.0, 
         "lang": "CHI", 
         "name": "\u81fa\u7063", 
         "alias_CZE_V": [
@@ -151,19 +149,27 @@
           "Ta\u00edvan"
         ], 
         "ne:POSTAL": "TW", 
-        "ne_longitude": 122.101, 
+        "ne:NAME_SORT": "Taiwan", 
         "longitude": 121.024, 
         "ne:POP_EST": 22974347.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "TW", 
-        "sw_latitude": 21.902, 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "\u81fa\u7063, Taiwan", 
+        "sw_latitude": 21.970571397382113, 
+        "alias_ENG_A": [
+          "ROC"
+        ], 
+        "ne:GDP_MD_EST": 712000.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ta\u00efwan"
         ]
       }, 
+      "bbox": [
+        120.1061885926124, 
+        21.970571397382113, 
+        121.95124393116146, 
+        25.295458889257386
+      ], 
       "id": 23424971
     }
   ]

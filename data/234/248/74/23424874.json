@@ -102,20 +102,21 @@
         "alias_ENG_V": [
           "Republic of Latvia"
         ], 
+        "alias_HUN_Q": [
+          "Lettorsz\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Lettland"
         ], 
         "alias_ENG_P": [
           "Latvia"
         ], 
-        "ne_latitude": 58.082, 
-        "ne:GU_A3": "LVA", 
+        "ne_latitude": 57.97015696881519, 
         "alias_RUM_Q": [
           "Letonia"
         ], 
-        "ne:NAME_SORT": "Latvia", 
+        "ne_longitude": 28.176709425577997, 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_V": [
           "Let\u00f4nia"
         ], 
@@ -126,9 +127,8 @@
           "LV"
         ], 
         "ne:SUBUNIT": "Latvia", 
-        "ne:POSTAL": "LV", 
-        "ne:ISO_N3": 428.0, 
         "ne:ADM0_A3": "LVA", 
+        "ne:SOVEREIGNT": "Latvia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u62c9\u812b\u7dad\u4e9e"
@@ -136,12 +136,13 @@
         "alias_ITA_Q": [
           "Lettonia"
         ], 
-        "alias_DAN_Q": [
-          "Letland"
+        "alias_GER_V": [
+          "Republik Lettland"
         ], 
         "ne:NAME": "Latvia", 
-        "alias_CHI_V": [
-          "\u62c9\u8131\u7ef4\u4e9a"
+        "ne:POSTAL": "LV", 
+        "alias_KOR_Q": [
+          "\ub77c\ud2b8\ube44\uc544"
         ], 
         "alias_JPN_Q": [
           "\u30e9\u30c8\u30d3\u30a2"
@@ -156,12 +157,9 @@
         "alias_SPA_Q": [
           "Letonia"
         ], 
-        "alias_FIN_Q": [
-          "Latvia"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 21.055800408622417, 
         "ne:SOV_A3": "LVA", 
-        "sw_longitude": 20.974, 
-        "ne:GDP_MD_EST": 38860.0, 
         "alias_FIN_V": [
           "Latvian"
         ], 
@@ -175,9 +173,8 @@
         "ne:ISO_A2": "LV", 
         "date_indexed": "2010-12-02T08:49:48Z", 
         "ne:NAME_FORMA": "Republic of Latvia", 
-        "alias_KOR_Q": [
-          "\ub77c\ud2b8\ube44\uc544"
-        ], 
+        "fullname": "Latvija, Latvia", 
+        "ne:GU_A3": "LVA", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Latvia", 
         "ne:SU_A3": "LVA", 
@@ -192,13 +189,16 @@
         "alias_CZE_Q": [
           "Loty\u0161sko"
         ], 
-        "alias_GER_V": [
-          "Republik Lettland"
+        "alias_FIN_Q": [
+          "Latvia"
+        ], 
+        "alias_DAN_Q": [
+          "Letland"
         ], 
         "alias_GER_Q": [
           "Lettland"
         ], 
-        "ne:SOVEREIGNT": "Latvia", 
+        "ne:ISO_N3": 428.0, 
         "lang": "UNK", 
         "ne:GEOUNIT": "Latvia", 
         "name": "Latvija", 
@@ -207,24 +207,30 @@
         "alias_UNK_Q": [
           "Republika Latvija"
         ], 
-        "alias_HUN_Q": [
-          "Lettorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u62c9\u8131\u7ef4\u4e9a"
         ], 
-        "ne_longitude": 28.241, 
+        "ne:NAME_SORT": "Latvia", 
         "longitude": 24.608, 
         "ne:POP_EST": 2231503.0, 
         "iso": "LV", 
-        "sw_latitude": 55.669, 
+        "sw_latitude": 55.615106919977634, 
         "alias_HUN_S": [
           "Lettorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Latvija, Latvia", 
+        "ne:GDP_MD_EST": 38860.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Lettonie"
         ]
       }, 
+      "bbox": [
+        21.055800408622417, 
+        55.615106919977634, 
+        28.176709425577997, 
+        57.97015696881519
+      ], 
       "id": 23424874
     }
   ]

@@ -169,18 +169,20 @@
         "alias_SWE_V": [
           "Republiken Finland"
         ], 
+        "alias_HUN_Q": [
+          "Finnorsz\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Finland"
         ], 
         "alias_ENG_P": [
           "Finland"
         ], 
-        "ne_latitude": 70.092, 
-        "ne:GU_A3": "FIN", 
+        "ne_latitude": 70.16419302029625, 
         "alias_RUM_Q": [
           "Finlanda"
         ], 
-        "ne_longitude": 31.586, 
+        "ne:NAME_SORT": "Finland", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Finl\u00e2ndia"
@@ -189,9 +191,8 @@
           "FI"
         ], 
         "ne:SUBUNIT": "Finland", 
-        "ne:POSTAL": "FIN", 
-        "ne:ISO_N3": 246.0, 
         "ne:ADM0_A3": "FIN", 
+        "ne:SOVEREIGNT": "Finland", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u82ac\u862d"
@@ -199,12 +200,13 @@
         "alias_ITA_Q": [
           "Finlandia"
         ], 
-        "alias_DAN_Q": [
-          "Finland"
+        "alias_GER_V": [
+          "Republik Finnland"
         ], 
         "ne:NAME": "Finland", 
-        "alias_CHI_V": [
-          "\u82ac\u5170"
+        "ne:POSTAL": "FIN", 
+        "alias_KOR_Q": [
+          "\ud540\ub780\ub4dc"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9"
@@ -220,9 +222,8 @@
           "Finlandia"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 20.645592889089528, 
         "ne:SOV_A3": "FI1", 
-        "sw_longitude": 20.549, 
-        "ne:GDP_MD_EST": 193500.0, 
         "alias_FIN_V": [
           "Suomen Tasavalta"
         ], 
@@ -235,15 +236,17 @@
         "ne:ISO_A3": "FIN", 
         "ne:ISO_A2": "FI", 
         "date_indexed": "2010-12-02T16:41:19Z", 
-        "ne:NAME_SORT": "Finland", 
-        "alias_KOR_Q": [
-          "\ud540\ub780\ub4dc"
-        ], 
+        "ne:NAME_FORMA": "Republic of Finland", 
+        "fullname": "Suomi, Finland", 
+        "ne:GU_A3": "FIN", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Finland", 
         "ne:SU_A3": "FIN", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Finljandija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Finland"
@@ -253,13 +256,13 @@
         "alias_CZE_Q": [
           "Finsko"
         ], 
-        "alias_GER_V": [
-          "Republik Finnland"
+        "alias_DAN_Q": [
+          "Finland"
         ], 
         "alias_GER_Q": [
           "Finnland"
         ], 
-        "ne:SOVEREIGNT": "Finland", 
+        "ne:ISO_N3": 246.0, 
         "lang": "FIN", 
         "ne:GEOUNIT": "Finland", 
         "name": "Suomi", 
@@ -268,27 +271,30 @@
         "alias_UNK_Q": [
           "Finsko"
         ], 
-        "alias_HUN_Q": [
-          "Finnorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u82ac\u5170"
         ], 
-        "alias_UNK_V": [
-          "Finljandija"
-        ], 
+        "ne_longitude": 31.516092156711125, 
         "longitude": 26.067, 
         "ne:POP_EST": 5250275.0, 
         "iso": "FI", 
-        "sw_latitude": 59.765, 
+        "sw_latitude": 59.846373196036225, 
         "alias_HUN_S": [
           "Finnorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Suomi, Finland", 
-        "ne:NAME_FORMA": "Republic of Finland", 
+        "ne:GDP_MD_EST": 193500.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Finlande"
         ]
       }, 
+      "bbox": [
+        20.645592889089528, 
+        59.846373196036225, 
+        31.516092156711125, 
+        70.16419302029625
+      ], 
       "id": 23424812
     }
   ]

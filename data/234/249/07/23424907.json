@@ -72,15 +72,15 @@
           "\ubc14\ub204\uc544\ud22c"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -13.073, 
-        "ne_longitude": 170.235, 
+        "ne_latitude": -14.626497084209603, 
+        "ne:NAME_SORT": "Vanuatu", 
         "placetype": "Country", 
         "alias_ENG_A": [
           "VU"
         ], 
         "ne:SUBUNIT": "Vanuatu", 
-        "ne:ISO_N3": 548.0, 
         "ne:ADM0_A3": "VUT", 
+        "ne:SOVEREIGNT": "Vanuatu", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u842c\u90a3\u675c"
@@ -97,49 +97,55 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 166.62913699774649, 
         "ne:SOV_A3": "VUT", 
-        "sw_longitude": 166.525, 
-        "ne:GDP_MD_EST": 988.5, 
         "ne:SU_A3": "VUT", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -15.147, 
         "woe:id": 23424907, 
         "ne:ISO_A3": "VUT", 
         "ne:ISO_A2": "VU", 
-        "sw_latitude": -20.25, 
-        "ne:NAME_SORT": "Vanuatu", 
+        "sw_latitude": -16.59784962327997, 
+        "ne:NAME_FORMA": "Republic of Vanuatu", 
+        "fullname": "Vanuatu", 
         "ne:GU_A3": "VUT", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Vanuatu", 
         "ne:GEOUNIT": "Vanuatu", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Vanuatu"
+        ], 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "R\u00e9publique de Vanuatu"
+        ], 
         "ne:ABBREV": "Van.", 
-        "ne:SOVEREIGNT": "Vanuatu", 
+        "ne:ISO_N3": 548.0, 
         "lang": "ENG", 
         "name": "Vanuatu", 
         "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "VU", 
-        "alias_UNK_V": [
-          "Republika Vanuatu"
-        ], 
+        "ne_longitude": 167.8448767438451, 
         "longitude": 167.038, 
         "ne:POP_EST": 218519.0, 
         "iso": "VU", 
         "date_indexed": "2010-12-02T17:52:20Z", 
-        "alias_FRE_V": [
-          "R\u00e9publique de Vanuatu"
-        ], 
-        "fullname": "Vanuatu", 
-        "ne:NAME_FORMA": "Republic of Vanuatu", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 988.5, 
         "alias_FRE_S": [
           "Iles Vanuatu"
         ]
       }, 
+      "bbox": [
+        166.62913699774649, 
+        -16.59784962327997, 
+        167.8448767438451, 
+        -14.626497084209603
+      ], 
       "id": 23424907
     }
   ]

@@ -480,20 +480,21 @@
         "alias_ENG_V": [
           "Rep. the Philippines"
         ], 
+        "alias_HUN_Q": [
+          "F\u00fcl\u00f6p-Szigetek"
+        ], 
         "alias_SWE_Q": [
           "Filippinerna"
         ], 
         "alias_POL_Q": [
           "Filipiny"
         ], 
-        "ne_latitude": 21.234, 
-        "ne:GU_A3": "PHL", 
+        "ne_latitude": 18.50522736253754, 
         "alias_RUM_Q": [
           "Filipine"
         ], 
-        "ne_longitude": 126.857, 
+        "ne:NAME_SORT": "Philippines", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Filipinas"
         ], 
@@ -501,9 +502,8 @@
           "PH"
         ], 
         "ne:SUBUNIT": "Philippines", 
-        "ne:POSTAL": "PH", 
-        "ne:ISO_N3": 608.0, 
         "ne:ADM0_A3": "PHL", 
+        "ne:SOVEREIGNT": "Philippines", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u83f2\u5f8b\u8cd3"
@@ -511,12 +511,16 @@
         "alias_ITA_Q": [
           "Filippine"
         ], 
-        "alias_DAN_Q": [
-          "Philippinerne"
+        "alias_GER_V": [
+          "Republik der Philippinen"
         ], 
         "ne:NAME": "Philippines", 
-        "alias_CHI_V": [
-          "\u83f2\u5f8b\u5bbe"
+        "ne:POSTAL": "PH", 
+        "alias_KOR_Q": [
+          "\ud544\ub9ac\ud540"
+        ], 
+        "alias_CZE_Q": [
+          "Filip\u00edny"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a3\u30ea\u30d4\u30f3"
@@ -529,14 +533,12 @@
         "alias_SPA_Q": [
           "Filipinas"
         ], 
-        "alias_FIN_Q": [
-          "Filippiineill\u00e4"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Filippiineilta"
         ], 
-        "sw_longitude": 116.813, 
-        "ne:GDP_MD_EST": 317500.0, 
+        "sw_longitude": 117.17427453010069, 
+        "ne:SOV_A3": "PHL", 
         "alias_FIN_V": [
           "Filippiineilt\u00e4"
         ], 
@@ -549,34 +551,41 @@
         "ne:ISO_A3": "PHL", 
         "ne:ISO_A2": "PH", 
         "date_indexed": "2010-12-02T09:56:58Z", 
-        "ne:NAME_SORT": "Philippines", 
-        "alias_KOR_Q": [
-          "\ud544\ub9ac\ud540"
+        "ne:NAME_FORMA": "Republic of the Philippines", 
+        "fullname": "Philippines", 
+        "alias_FRE_V": [
+          "\u00celes Philippines"
         ], 
+        "ne:GU_A3": "PHL", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Philippines", 
         "ne:SU_A3": "PHL", 
-        "alias_DUT_V": [
-          "Filippijnen"
-        ], 
         "ne:LabelRank": 1, 
-        "ne:SOV_A3": "PHL", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Filippinene"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Filipijnen"
         ], 
         "ne:ABBREV": "Phil.", 
-        "alias_CZE_Q": [
-          "Filip\u00edny"
+        "alias_DUT_V": [
+          "Filippijnen"
         ], 
-        "alias_GER_V": [
-          "Republik der Philippinen"
+        "alias_FRE_S": [
+          "Iles Philippines"
+        ], 
+        "alias_FIN_Q": [
+          "Filippiineill\u00e4"
+        ], 
+        "alias_DAN_Q": [
+          "Philippinerne"
         ], 
         "alias_DAN_V": [
           "Filippinerne"
         ], 
-        "ne:SOVEREIGNT": "Philippines", 
+        "ne:ISO_N3": 608.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Philippines", 
         "name": "Philippines", 
@@ -585,30 +594,27 @@
         "alias_UNK_Q": [
           "Filipini"
         ], 
-        "alias_HUN_Q": [
-          "F\u00fcl\u00f6p-Szigetek"
+        "alias_CHI_V": [
+          "\u83f2\u5f8b\u5bbe"
         ], 
         "alias_GER_Q": [
           "Philippinen"
         ], 
-        "alias_UNK_V": [
-          "Filippinene"
-        ], 
+        "ne_longitude": 126.53742394420064, 
         "longitude": 120.739, 
         "ne:POP_EST": 97976603.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "PH", 
-        "sw_latitude": 4.468, 
-        "alias_FRE_V": [
-          "\u00celes Philippines"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Philippines", 
-        "ne:NAME_FORMA": "Republic of the Philippines", 
-        "alias_FRE_S": [
-          "Iles Philippines"
-        ]
+        "sw_latitude": 5.58100332277229, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 317500.0, 
+        "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        117.17427453010069, 
+        5.58100332277229, 
+        126.53742394420064, 
+        18.50522736253754
+      ], 
       "id": 23424934
     }
   ]

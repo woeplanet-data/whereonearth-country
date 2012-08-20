@@ -246,15 +246,15 @@
           "HN"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 17.45, 
-        "ne_longitude": -82.5, 
+        "ne_latitude": 16.00540578863439, 
+        "ne:NAME_SORT": "Honduras", 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc628\ub450\ub77c\uc2a4"
         ], 
         "ne:SUBUNIT": "Honduras", 
-        "ne:ISO_N3": 340.0, 
         "ne:ADM0_A3": "HND", 
+        "ne:SOVEREIGNT": "Honduras", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b8f\u90fd\u62c9\u65af"
@@ -271,9 +271,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -89.35332597528281, 
         "ne:SOV_A3": "HND", 
-        "sw_longitude": -89.351, 
-        "ne:GDP_MD_EST": 33720.0, 
         "ne:SU_A3": "HND", 
         "alias_SPA_V": [
           "Rep\u00fablica de Honduras"
@@ -283,7 +282,8 @@
         "ne:ISO_A3": "HND", 
         "ne:ISO_A2": "HN", 
         "date_indexed": "2010-12-02T19:21:06Z", 
-        "ne:NAME_SORT": "Honduras", 
+        "ne:NAME_FORMA": "Republic of Honduras", 
+        "fullname": "Honduras", 
         "ne:GU_A3": "HND", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Honduras", 
@@ -291,12 +291,15 @@
         "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Honduras"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Hond.", 
         "alias_GER_V": [
           "Republik Honduras"
         ], 
-        "ne:SOVEREIGNT": "Honduras", 
+        "ne:ISO_N3": 340.0, 
         "lang": "ENG", 
         "name": "Honduras", 
         "ne:TYPE": "Sovereign country", 
@@ -305,18 +308,21 @@
           "Hond\u00faras"
         ], 
         "ne:POSTAL": "HN", 
-        "alias_UNK_V": [
-          "Republika Honduras"
-        ], 
+        "ne_longitude": -83.14721900097413, 
         "longitude": -86.253, 
         "ne:POP_EST": 7792854.0, 
         "iso": "HN", 
-        "sw_latitude": 12.982, 
+        "sw_latitude": 12.984685777229004, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Honduras", 
-        "ne:NAME_FORMA": "Republic of Honduras", 
+        "ne:GDP_MD_EST": 33720.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        -89.35332597528281, 
+        12.984685777229004, 
+        -83.14721900097413, 
+        16.00540578863439
+      ], 
       "id": 23424841
     }
   ]

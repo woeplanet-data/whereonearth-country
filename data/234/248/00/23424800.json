@@ -121,18 +121,20 @@
         "alias_ENG_V": [
           "Dominicanrepublic"
         ], 
+        "alias_HUN_Q": [
+          "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Dominikanska republiken"
         ], 
         "alias_POL_Q": [
           "Dominikana"
         ], 
-        "ne_latitude": 19.93, 
-        "ne:GU_A3": "DOM", 
+        "ne_latitude": 19.8849105900821, 
         "alias_RUM_Q": [
           "Republica Dominican\u0103"
         ], 
-        "ne_longitude": -68.32, 
+        "ne:NAME_SORT": "Dominican Republic", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub3c4\ubbf8\ub2c8\uce74\uacf5\ud654\uad6d"
@@ -144,9 +146,8 @@
           "DO"
         ], 
         "ne:SUBUNIT": "Dominican Republic", 
-        "ne:POSTAL": "DO", 
-        "ne:ISO_N3": 214.0, 
         "ne:ADM0_A3": "DOM", 
+        "ne:SOVEREIGNT": "Dominican Republic", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u591a\u660e\u5c3c\u52a0"
@@ -154,28 +155,29 @@
         "alias_ITA_Q": [
           "Repubblica Dominicana"
         ], 
-        "alias_DAN_Q": [
-          "Dominikanske Republik"
+        "alias_GER_V": [
+          "Dominikanische Rep."
         ], 
         "ne:NAME": "Dominican Rep.", 
-        "ne:TERR_": null, 
-        "alias_CHI_V": [
-          "\u591a\u7c73\u5c3c\u52a0"
+        "ne:POSTAL": "DO", 
+        "alias_KOR_Q": [
+          "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+        ], 
+        "alias_GER_Q": [
+          "Dominikanische Republik"
         ], 
         "alias_JPN_Q": [
           "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Dominican Republic", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Rep\u00fablica Dominicana"
         ], 
-        "alias_FIN_Q": [
-          "Dominikaaninen tasavalta"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -71.94511206733556, 
         "ne:SOV_A3": "DOM", 
-        "sw_longitude": -72.003, 
-        "ne:GDP_MD_EST": 78000.0, 
         "ne:SU_A3": "DOM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.768, 
@@ -186,10 +188,11 @@
         "ne:ISO_A3": "DOM", 
         "ne:ISO_A2": "DO", 
         "date_indexed": "2010-12-02T16:32:46Z", 
-        "ne:NAME_SORT": "Dominican Republic", 
-        "alias_KOR_Q": [
-          "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+        "ne:NAME_FORMA": null, 
+        "alias_FRE_V": [
+          "Dominicaine, r\u00e9publique"
         ], 
+        "ne:GU_A3": "DOM", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Dominican Republic", 
         "ne:GEOUNIT": "Dominican Republic", 
@@ -198,6 +201,9 @@
           "Quisqueya"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Dominikaaninen tasavalta"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Dominicaanse republiek"
@@ -206,50 +212,50 @@
         "alias_CZE_Q": [
           "Dominik\u00e1nsk\u00e1 republika"
         ], 
-        "alias_GER_V": [
-          "Dominikanische Rep."
+        "alias_FRE_S": [
+          "Republique Dominicaine"
+        ], 
+        "alias_FIN_Q": [
+          "Dominikaaninen tasavalta"
+        ], 
+        "alias_DAN_Q": [
+          "Dominikanske Republik"
         ], 
         "alias_DAN_V": [
           "Den Dominikanske Republik"
         ], 
-        "ne:SOVEREIGNT": "Dominican Republic", 
+        "ne:ISO_N3": 214.0, 
         "lang": "ENG", 
-        "ne:TYPE": "Sovereign country", 
         "name": "Dominican Republic", 
-        "alias_UNK_S": [
-          "Dominiska lydveldid"
-        ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Dominikanska republika"
         ], 
-        "alias_HUN_Q": [
-          "Dominikai K\u00f6zt\u00e1rsas\u00e1g"
+        "alias_CHI_V": [
+          "\u591a\u7c73\u5c3c\u52a0"
         ], 
-        "alias_GER_Q": [
-          "Dominikanische Republik"
-        ], 
-        "alias_UNK_V": [
-          "Dominikaaninen tasavalta"
-        ], 
+        "ne_longitude": -68.31794328476897, 
         "longitude": -70.162, 
         "ne:POP_EST": 9650054.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Dominiska lydveldid"
+        ], 
         "iso": "DO", 
-        "sw_latitude": 17.469, 
-        "alias_FRE_V": [
-          "Dominicaine, r\u00e9publique"
-        ], 
+        "sw_latitude": 17.5985643579766, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 78000.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Dominican Republic", 
-        "ne:NAME_FORMA": null, 
-        "alias_FRE_S": [
-          "Republique Dominicaine"
-        ], 
         "alias_FRE_Q": [
           "R\u00e9publique Dominicaine"
         ]
       }, 
+      "bbox": [
+        -71.94511206733556, 
+        17.5985643579766, 
+        -68.31794328476897, 
+        19.8849105900821
+      ], 
       "id": 23424800
     }
   ]

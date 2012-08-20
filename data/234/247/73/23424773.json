@@ -50,15 +50,15 @@
           "\ube0c\ub8e8\ub098\uc774"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 5.047, 
-        "ne:NAME_SORT": "Brunei", 
+        "ne_latitude": 5.447729803891534, 
+        "ne_longitude": 115.45071048386981, 
         "placetype": "Country", 
         "alias_ENG_A": [
           "BN"
         ], 
         "ne:SUBUNIT": "Brunei", 
-        "ne:ISO_N3": 96.0, 
         "ne:ADM0_A3": "BRN", 
+        "ne:SOVEREIGNT": "Brunei", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6c76\u840a"
@@ -78,9 +78,8 @@
           "Brun\u00e9i"
         ], 
         "ne:TERR_": null, 
+        "sw_longitude": 114.20401655482837, 
         "ne:SOV_A3": "BRN", 
-        "sw_longitude": 114.071, 
-        "ne:GDP_MD_EST": 20250.0, 
         "ne:SU_A3": "BRN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 4.525, 
@@ -89,6 +88,10 @@
         "ne:ISO_A2": "BN", 
         "date_indexed": "2010-12-02T17:58:12Z", 
         "ne:NAME_FORMA": "Negara Brunei Darussalam", 
+        "fullname": "Brunei", 
+        "alias_FRE_V": [
+          "Brun\u00e9i Darussalam"
+        ], 
         "ne:GU_A3": "BRN", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Brunei", 
@@ -106,7 +109,7 @@
         "alias_GER_V": [
           "Brunei Darussalam"
         ], 
-        "ne:SOVEREIGNT": "Brunei", 
+        "ne:ISO_N3": 96.0, 
         "lang": "ENG", 
         "name": "Brunei", 
         "ne:TYPE": "Sovereign country", 
@@ -115,18 +118,21 @@
           "Negara Brunei Darussalam"
         ], 
         "ne:POSTAL": "BN", 
-        "ne_longitude": 115.359, 
+        "ne:NAME_SORT": "Brunei", 
         "longitude": 114.599, 
         "ne:POP_EST": 388190.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "BN", 
-        "sw_latitude": 4.003, 
-        "alias_FRE_V": [
-          "Brun\u00e9i Darussalam"
-        ], 
-        "fullname": "Brunei", 
+        "sw_latitude": 4.007636826997754, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 20250.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        114.20401655482837, 
+        4.007636826997754, 
+        115.45071048386981, 
+        5.447729803891534
+      ], 
       "id": 23424773
     }
   ]

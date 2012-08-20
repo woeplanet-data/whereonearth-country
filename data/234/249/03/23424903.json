@@ -63,9 +63,11 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": "Fr.", 
         "alias_ENG_V": [
           "New Caledonian"
+        ], 
+        "alias_HUN_Q": [
+          "\u00daj-Kaled\u00f3nia"
         ], 
         "alias_SWE_Q": [
           "Nya Kaledonien"
@@ -73,13 +75,12 @@
         "alias_POL_Q": [
           "Nowa Kaledonia"
         ], 
-        "ne_latitude": -18.016, 
+        "ne_latitude": -20.105645847252354, 
         "ne:SUBUNIT": "New Caledonia", 
-        "ne:GU_A3": "NCL", 
         "alias_RUM_Q": [
           "Noua Caledonie"
         ], 
-        "ne_longitude": 172.061, 
+        "ne:NAME_SORT": "New Caledonia", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub274 \uce7c\ub808\ub3c4\ub2c8\uc544"
@@ -93,9 +94,8 @@
         "alias_POR_S": [
           "Nova Caledonia"
         ], 
-        "ne:POSTAL": "NC", 
-        "ne:ISO_N3": 540.0, 
         "ne:ADM0_A3": "NCL", 
+        "ne:SOVEREIGNT": "France", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9e"
@@ -104,23 +104,22 @@
           "Nuova Caledonia"
         ], 
         "ne:NAME": "New Caledonia", 
-        "alias_CHI_V": [
-          "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
+        "ne:POSTAL": "NC", 
+        "alias_KOR_Q": [
+          "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
         ], 
         "alias_JPN_Q": [
           "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "New Caledonia", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Nueva Caledonia"
         ], 
-        "alias_FIN_Q": [
-          "Uusi-Kaledonia"
-        ], 
+        "ne:TERR_": "Fr.", 
+        "sw_longitude": 164.029605747736, 
         "ne:SOV_A3": "FR1", 
-        "sw_longitude": 158.333, 
-        "ne:GDP_MD_EST": 3158.0, 
         "ne:SU_A3": "NCL", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -21.242, 
@@ -131,15 +130,19 @@
         "ne:ISO_A3": "NCL", 
         "ne:ISO_A2": "NC", 
         "date_indexed": "2010-12-02T17:02:10Z", 
-        "ne:NAME_SORT": "New Caledonia", 
-        "alias_KOR_Q": [
-          "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
+        "ne:NAME_FORMA": "Territory of New Caledonia and Dependencies", 
+        "alias_FRE_V": [
+          "Territoire des Nouvelle-Cal\u00e9donie et D\u00e9pendances"
         ], 
+        "ne:GU_A3": "NCL", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "New Caledonia", 
         "ne:GEOUNIT": "New Caledonia", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Ny-Caledonia"
+        ], 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Nieuw-Caledoni\u00eb"
@@ -151,34 +154,31 @@
         "alias_CZE_Q": [
           "Nov\u00e1 Kaledonie"
         ], 
+        "alias_FIN_Q": [
+          "Uusi-Kaledonia"
+        ], 
         "alias_DAN_Q": [
           "Ny Kaledonien"
         ], 
         "alias_GER_Q": [
           "Neukaledonien"
         ], 
-        "ne:SOVEREIGNT": "France", 
+        "ne:ISO_N3": 540.0, 
         "lang": "ENG", 
         "name": "New Caledonia", 
         "ne:TYPE": "Dependency", 
         "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "\u00daj-Kaled\u00f3nia"
+        "alias_CHI_V": [
+          "\u65b0\u5580\u91cc\u591a\u5c3c\u4e9a"
         ], 
-        "alias_UNK_V": [
-          "Ny-Caledonia"
-        ], 
+        "ne_longitude": 167.1200114280869, 
         "longitude": 165.507, 
         "ne:POP_EST": 227436.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "NC", 
-        "sw_latitude": -22.9, 
-        "alias_FRE_V": [
-          "Territoire des Nouvelle-Cal\u00e9donie et D\u00e9pendances"
-        ], 
-        "fullname": "New Caledonia", 
-        "ne:NAME_FORMA": "Territory of New Caledonia and Dependencies", 
+        "sw_latitude": -22.39997608814695, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 3158.0, 
         "alias_FRE_S": [
           "Nouvelle-Caledonie"
         ], 
@@ -186,6 +186,12 @@
           "Nouvelle-Cal\u00e9donie"
         ]
       }, 
+      "bbox": [
+        164.029605747736, 
+        -22.39997608814695, 
+        167.1200114280869, 
+        -20.105645847252354
+      ], 
       "id": 23424903
     }
   ]

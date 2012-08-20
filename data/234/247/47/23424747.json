@@ -510,22 +510,21 @@
         "alias_POL_Q": [
           "Argentyna"
         ], 
-        "ne_latitude": -21.781, 
-        "ne:POSTAL": "AR", 
-        "ne_longitude": -53.592, 
+        "ne_latitude": -21.832310479420684, 
+        "ne:NAME_SORT": "Argentina", 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc544\ub974\ud5e8\ud2f0\ub098"
         ], 
         "ne:SUBUNIT": "Argentina", 
-        "ne:ISO_N3": 32.0, 
         "ne:ADM0_A3": "ARG", 
+        "ne:SOVEREIGNT": "Argentina", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u6839\u5ef7"
         ], 
         "ne:NAME": "Argentina", 
-        "ne:TERR_": null, 
+        "ne:POSTAL": "AR", 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
         ], 
@@ -534,12 +533,9 @@
           "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Argentiina"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": -73.41543575712004, 
         "ne:SOV_A3": "ARG", 
-        "sw_longitude": -73.578, 
-        "ne:GDP_MD_EST": 573900.0, 
         "ne:SU_A3": "ARG", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -37.091, 
@@ -547,13 +543,17 @@
         "ne:ISO_A3": "ARG", 
         "ne:ISO_A2": "AR", 
         "date_indexed": "2010-12-02T17:41:29Z", 
-        "ne:NAME_SORT": "Argentina", 
+        "ne:NAME_FORMA": "Argentine Republic", 
+        "fullname": "Argentina", 
         "ne:GU_A3": "ARG", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Argentina", 
         "ne:GEOUNIT": "Argentina", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Argentinska Republika"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Argentini\u00eb"
@@ -562,13 +562,16 @@
           "Argentinie"
         ], 
         "ne:ABBREV": "Arg.", 
+        "alias_FIN_Q": [
+          "Argentiina"
+        ], 
         "alias_GER_V": [
           "Argentinische Republik"
         ], 
         "alias_GER_Q": [
           "Argentinien"
         ], 
-        "ne:SOVEREIGNT": "Argentina", 
+        "ne:ISO_N3": 32.0, 
         "lang": "ENG", 
         "name": "Argentina", 
         "ne:TYPE": "Sovereign country", 
@@ -579,21 +582,24 @@
         "alias_HUN_Q": [
           "Argent\u00edna"
         ], 
-        "alias_UNK_V": [
-          "Argentinska Republika"
-        ], 
+        "ne_longitude": -53.62834896504873, 
         "longitude": -63.585, 
         "ne:POP_EST": 40913584.0, 
         "iso": "AR", 
-        "sw_latitude": -55.067, 
+        "sw_latitude": -55.25, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Argentina", 
-        "ne:NAME_FORMA": "Argentine Republic", 
+        "ne:GDP_MD_EST": 573900.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Argentine"
         ]
       }, 
+      "bbox": [
+        -73.41543575712004, 
+        -55.25, 
+        -53.62834896504873, 
+        -21.832310479420684
+      ], 
       "id": 23424747
     }
   ]

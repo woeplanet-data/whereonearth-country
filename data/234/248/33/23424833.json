@@ -236,20 +236,22 @@
         "alias_ENG_V": [
           "Hellenic Republic"
         ], 
+        "alias_HUN_Q": [
+          "G\u00f6r\u00f6gorsz\u00e1g"
+        ], 
+        "longitude": 21.846, 
         "alias_SWE_Q": [
           "Grekland"
         ], 
         "alias_ENG_P": [
           "Greece"
         ], 
-        "ne_latitude": 41.757, 
-        "ne:GU_A3": "GRC", 
+        "ne_latitude": 41.82690460872473, 
         "alias_RUM_Q": [
           "Grecia"
         ], 
-        "ne_longitude": 29.701, 
+        "ne:NAME_SORT": "Greece", 
         "placetype": "Country", 
-        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Gr\u00e9cia"
         ], 
@@ -257,9 +259,8 @@
           "GR"
         ], 
         "ne:SUBUNIT": "Greece", 
-        "ne:POSTAL": "GR", 
-        "ne:ISO_N3": 300.0, 
         "ne:ADM0_A3": "GRC", 
+        "ne:SOVEREIGNT": "Greece", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e0c\u81d8"
@@ -267,12 +268,13 @@
         "alias_ITA_Q": [
           "Grecia"
         ], 
-        "alias_DAN_Q": [
-          "Gr\u00e6kenland"
+        "alias_GER_V": [
+          "Hellenische Republik"
         ], 
         "ne:NAME": "Greece", 
-        "alias_CHI_V": [
-          "\u5e0c\u814a"
+        "ne:POSTAL": "GR", 
+        "alias_KOR_Q": [
+          "\uadf8\ub9ac\uc2a4"
         ], 
         "alias_JPN_Q": [
           "\u30ae\u30ea\u30b7\u30e3"
@@ -287,12 +289,9 @@
         "alias_SPA_Q": [
           "Grecia"
         ], 
-        "alias_FIN_Q": [
-          "Creece"
-        ], 
+        "ne:TERR_": null, 
+        "sw_longitude": 20.15001590341052, 
         "ne:SOV_A3": "GRC", 
-        "sw_longitude": 19.374, 
-        "ne:GDP_MD_EST": 343000.0, 
         "alias_FIN_V": [
           "Kreikka"
         ], 
@@ -305,10 +304,9 @@
         "ne:ISO_A3": "GRC", 
         "ne:ISO_A2": "GR", 
         "date_indexed": "2010-12-02T16:52:21Z", 
-        "ne:NAME_SORT": "Greece", 
-        "alias_KOR_Q": [
-          "\uadf8\ub9ac\uc2a4"
-        ], 
+        "ne:NAME_FORMA": "Hellenic Republic", 
+        "fullname": "Ell\u00e1s, Greece", 
+        "ne:GU_A3": "GRC", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Greece", 
         "ne:SU_A3": "GRC", 
@@ -317,6 +315,9 @@
           "Gr\u00e8cia"
         ], 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Helenska republika"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Griekenland"
@@ -326,16 +327,19 @@
         "alias_CZE_Q": [
           "\u0158ecko"
         ], 
-        "alias_DAN_S": [
-          "Graekenland"
+        "alias_FRE_S": [
+          "Grece"
         ], 
-        "alias_GER_V": [
-          "Hellenische Republik"
+        "alias_FIN_Q": [
+          "Creece"
+        ], 
+        "alias_DAN_Q": [
+          "Gr\u00e6kenland"
         ], 
         "alias_GER_Q": [
           "Griechenland"
         ], 
-        "ne:SOVEREIGNT": "Greece", 
+        "ne:ISO_N3": 300.0, 
         "lang": "UNK", 
         "ne:GEOUNIT": "Greece", 
         "name": "Ell\u00e1s", 
@@ -346,31 +350,33 @@
         "alias_UNK_Q": [
           "Grikkland"
         ], 
-        "alias_HUN_Q": [
-          "G\u00f6r\u00f6gorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u5e0c\u814a"
         ], 
-        "alias_UNK_V": [
-          "Helenska republika"
+        "ne_longitude": 26.604195590936285, 
+        "alias_DAN_S": [
+          "Graekenland"
         ], 
-        "longitude": 21.846, 
         "ne:POP_EST": 10737428.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "GR", 
-        "sw_latitude": 34.81, 
+        "sw_latitude": 34.91998769788961, 
         "alias_HUN_S": [
           "Gorogorszag"
         ], 
         "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 343000.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Ell\u00e1s, Greece", 
-        "ne:NAME_FORMA": "Hellenic Republic", 
-        "alias_FRE_S": [
-          "Grece"
-        ], 
         "alias_FRE_Q": [
           "Gr\u00e8ce"
         ]
       }, 
+      "bbox": [
+        20.15001590341052, 
+        34.91998769788961, 
+        26.604195590936285, 
+        41.82690460872473
+      ], 
       "id": 23424833
     }
   ]

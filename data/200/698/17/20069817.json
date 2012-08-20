@@ -81,6 +81,7 @@
           ]
         ]
       }, 
+      "id": 20069817, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -90,12 +91,13 @@
         "alias_POL_Q": [
           "Czarnog\u00f3ra"
         ], 
-        "ne_latitude": 43.543, 
-        "ne:POSTAL": "ME", 
+        "ne_latitude": 43.52384, 
         "alias_RUM_Q": [
           "Muntenegru"
         ], 
-        "ne_longitude": 20.416, 
+        "alias_UNK_V": [
+          "Republika Crna Gora"
+        ], 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\ubaac\ud14c\ub124\uadf8\ub85c"
@@ -106,19 +108,17 @@
         "alias_CHI_Q": [
           "\u8499\u7279\u5167\u54e5\u7f85"
         ], 
+        "ne:GDP_MD_EST": 6816.0, 
         "ne:NAME": "Montenegro", 
-        "alias_CHI_V": [
-          "\u8499\u7279\u5167\u54e5\u7f85"
-        ], 
+        "ne:POSTAL": "ME", 
         "alias_JPN_Q": [
           "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 18.45, 
         "ne:SOV_A3": "MNE", 
-        "sw_longitude": 18.437, 
-        "ne:GDP_MD_EST": 6816.0, 
         "ne:SU_A3": "MNE", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.698, 
@@ -126,7 +126,10 @@
         "ne:ISO_A3": "MNE", 
         "ne:ISO_A2": "ME", 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "ne:NAME_SORT": "Montenegro", 
+        "ne:NAME_FORMA": null, 
+        "alias_CHI_V": [
+          "\u8499\u7279\u5167\u54e5\u7f85"
+        ], 
         "ne:GU_A3": "MNE", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Montenegro", 
@@ -139,7 +142,7 @@
         "alias_CZE_Q": [
           "\u010cern\u00e1 Hora"
         ], 
-        "ne:SOVEREIGNT": "Montenegro", 
+        "fullname": "Montenegro", 
         "lang": "ENG", 
         "name": "Montenegro", 
         "ne:TYPE": "Sovereign country", 
@@ -150,24 +153,27 @@
         "alias_HUN_Q": [
           "Montenegr\u00f3"
         ], 
-        "alias_UNK_V": [
-          "Republika Crna Gora"
-        ], 
+        "ne:NAME_SORT": "Montenegro", 
         "longitude": 19.432, 
         "ne:POP_EST": 672180.0, 
+        "ne_longitude": 20.3398, 
         "iso": "ME", 
-        "sw_latitude": 41.848, 
+        "sw_latitude": 41.87755, 
         "alias_FRE_V": [
           "R\u00e9publique du Mont\u00e9n\u00e9gro"
         ], 
-        "fullname": "Montenegro", 
-        "ne:NAME_FORMA": null, 
+        "ne:SOVEREIGNT": "Montenegro", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Mont\u00e9n\u00e9gro"
         ]
       }, 
-      "id": 20069817
+      "bbox": [
+        18.45, 
+        41.87755, 
+        20.3398, 
+        43.52384
+      ]
     }
   ]
 }

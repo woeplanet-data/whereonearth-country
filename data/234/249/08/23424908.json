@@ -246,13 +246,15 @@
         "alias_ENG_V": [
           "Nigerian"
         ], 
+        "alias_HUN_Q": [
+          "Nig\u00e9ria"
+        ], 
         "alias_ENG_A": [
           "NG"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 13.892, 
-        "ne:POSTAL": "NG", 
-        "ne_longitude": 14.68, 
+        "ne_latitude": 13.865923977102298, 
+        "ne:NAME_SORT": "Nigeria", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Nig\u00e9ria"
@@ -261,16 +263,14 @@
           "\ub098\uc774\uc9c0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Nigeria", 
-        "ne:ISO_N3": 566.0, 
         "ne:ADM0_A3": "NGA", 
+        "ne:SOVEREIGNT": "Nigeria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5948\u53ca\u5229\u4e9e"
         ], 
         "ne:NAME": "Nigeria", 
-        "alias_CHI_V": [
-          "\u5948\u53ca\u5229\u4e9e"
-        ], 
+        "ne:POSTAL": "NG", 
         "alias_JPN_Q": [
           "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2"
         ], 
@@ -279,9 +279,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": 2.691701694356254, 
         "ne:SOV_A3": "NGA", 
-        "sw_longitude": 2.668, 
-        "ne:GDP_MD_EST": 335400.0, 
         "ne:SU_A3": "NGA", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 9.085, 
@@ -289,13 +288,17 @@
         "ne:ISO_A3": "NGA", 
         "ne:ISO_A2": "NG", 
         "date_indexed": "2010-12-02T09:35:13Z", 
-        "ne:NAME_SORT": "Nigeria", 
+        "ne:NAME_FORMA": "Federal Republic of Nigeria", 
+        "fullname": "Nigeria", 
         "ne:GU_A3": "NGA", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Nigeria", 
         "ne:GEOUNIT": "Nigeria", 
         "ne:LabelRank": 1, 
         "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Zvezna republika Nigerija"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Nigeria", 
         "alias_CZE_Q": [
@@ -304,7 +307,7 @@
         "alias_GER_V": [
           "Bundesrepublik Nigeria"
         ], 
-        "ne:SOVEREIGNT": "Nigeria", 
+        "ne:ISO_N3": 566.0, 
         "lang": "ENG", 
         "name": "Nigeria", 
         "ne:TYPE": "Sovereign country", 
@@ -312,21 +315,24 @@
         "alias_UNK_Q": [
           "Nigerija"
         ], 
-        "alias_HUN_Q": [
-          "Nig\u00e9ria"
+        "alias_CHI_V": [
+          "\u5948\u53ca\u5229\u4e9e"
         ], 
-        "alias_UNK_V": [
-          "Zvezna republika Nigerija"
-        ], 
+        "ne_longitude": 14.577177768622533, 
         "longitude": 8.674, 
         "ne:POP_EST": 149229090.0, 
         "iso": "NG", 
-        "sw_latitude": 4.277, 
+        "sw_latitude": 4.240594183769517, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Nigeria", 
-        "ne:NAME_FORMA": "Federal Republic of Nigeria", 
+        "ne:GDP_MD_EST": 335400.0, 
         "ne:SU_DIF": 0.0
       }, 
+      "bbox": [
+        2.691701694356254, 
+        4.240594183769517, 
+        14.577177768622533, 
+        13.865923977102298
+      ], 
       "id": 23424908
     }
   ]

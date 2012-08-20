@@ -254,15 +254,17 @@
         "alias_ENG_V": [
           "Republic of Bolivia"
         ], 
+        "alias_HUN_Q": [
+          "Bol\u00edvia"
+        ], 
         "alias_KOR_Q": [
           "\ubcfc\ub9ac\ube44\uc544"
         ], 
         "alias_POL_Q": [
           "Boliwia"
         ], 
-        "ne_latitude": -9.681, 
-        "ne:POSTAL": "BO", 
-        "ne_longitude": -57.458, 
+        "ne_latitude": -9.761987806846392, 
+        "ne:NAME_SORT": "Bolivia", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Bol\u00edvia"
@@ -271,19 +273,14 @@
           "BO"
         ], 
         "ne:SUBUNIT": "Bolivia", 
-        "ne:ISO_N3": 68.0, 
-        "alias_CZE_Q": [
-          "Bol\u00edvie"
-        ], 
+        "ne:ADM0_A3": "BOL", 
+        "ne:SOVEREIGNT": "Bolivia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u73bb\u5229\u7dad\u4e9e"
         ], 
         "ne:NAME": "Bolivia", 
-        "alias_CHI_V": [
-          "\u73bb\u5229\u7ef4\u4e9a"
-        ], 
-        "ne:ADM0_A3": "BOL", 
+        "ne:POSTAL": "BO", 
         "alias_JPN_Q": [
           "\u30dc\u30ea\u30d3\u30a2"
         ], 
@@ -293,9 +290,8 @@
         ], 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
+        "sw_longitude": -69.59042375352405, 
         "ne:SOV_A3": "BOL", 
-        "sw_longitude": -69.641, 
-        "ne:GDP_MD_EST": 43270.0, 
         "ne:SU_A3": "BOL", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -16.288, 
@@ -303,17 +299,24 @@
         "ne:ISO_A3": "BOL", 
         "ne:ISO_A2": "BO", 
         "date_indexed": "2010-12-02T17:57:50Z", 
-        "ne:NAME_SORT": "Bolivia", 
+        "ne:NAME_FORMA": "Republic of Bolivia", 
+        "fullname": "Bolivia", 
         "ne:GU_A3": "BOL", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Bolivia", 
         "ne:GEOUNIT": "Bolivia", 
-        "ne:LabelRank": 1, 
-        "ne:FeatureCla": "Admin-0 countries", 
-        "ne:ADM0_DIF": 0.0, 
-        "ne:ABBREV": "Bolivia", 
         "alias_DUT_V": [
           "Bolivi\u00eb"
+        ], 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "alias_UNK_V": [
+          "Republika Bolivija"
+        ], 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Bolivia", 
+        "alias_CZE_Q": [
+          "Bol\u00edvie"
         ], 
         "alias_GER_V": [
           "Republik Bolivien"
@@ -321,7 +324,7 @@
         "alias_GER_Q": [
           "Bolivien"
         ], 
-        "ne:SOVEREIGNT": "Bolivia", 
+        "ne:ISO_N3": 68.0, 
         "lang": "ENG", 
         "name": "Bolivia", 
         "ne:TYPE": "Sovereign country", 
@@ -329,24 +332,27 @@
         "alias_UNK_Q": [
           "B\u00f3liv\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Bol\u00edvia"
+        "alias_CHI_V": [
+          "\u73bb\u5229\u7ef4\u4e9a"
         ], 
-        "alias_UNK_V": [
-          "Republika Bolivija"
-        ], 
+        "ne_longitude": -57.49837114117099, 
         "longitude": -63.549, 
         "ne:POP_EST": 9775246.0, 
         "iso": "BO", 
-        "sw_latitude": -22.896, 
+        "sw_latitude": -22.872918796482175, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Bolivia", 
-        "ne:NAME_FORMA": "Republic of Bolivia", 
+        "ne:GDP_MD_EST": 43270.0, 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Bolivie"
         ]
       }, 
+      "bbox": [
+        -69.59042375352405, 
+        -22.872918796482175, 
+        -57.49837114117099, 
+        -9.761987806846392
+      ], 
       "id": 23424762
     }
   ]
