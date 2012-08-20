@@ -4,7 +4,8 @@ whereonearth-country
 tl;dr
 --
 
-WOE data for countries smushed up with Natural Earth data for countries. That's fancy talk for "polygons".
+Where On Earth (WOE) data for countries smushed up with Natural Earth data for
+countries. That's fancy talk for "polygons".
 
 The longer version
 --
