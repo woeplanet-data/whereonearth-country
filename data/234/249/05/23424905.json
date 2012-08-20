@@ -40,8 +40,8 @@
         "alias_SWE_Q": [
           "Norfolk\u00f6n"
         ], 
-        "alias_POL_Q": [
-          "Norfolk"
+        "alias_SWE_S": [
+          "Norfolkon"
         ], 
         "ne_latitude": -28.995, 
         "alias_RUM_Q": [
@@ -57,9 +57,6 @@
         "alias_ENG_A": [
           "NF"
         ], 
-        "alias_CZE_Q": [
-          "Norfolk"
-        ], 
         "alias_CHI_Q": [
           "\u8afe\u798f\u514b\u5cf6"
         ], 
@@ -72,12 +69,11 @@
         "alias_CHI_V": [
           "\u8bfa\u798f\u514b\u5c9b"
         ], 
-        "woeid": 23424905, 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Norfolkon"
+        "alias_POL_Q": [
+          "Norfolk"
         ], 
         "alias_SPA_Q": [
           "Isla Norfolk"
@@ -91,6 +87,7 @@
         "alias_NOR_S": [
           "Norfolkoya"
         ], 
+        "woe:id": 23424905, 
         "alias_NOR_Q": [
           "Norfolk\u00f8ya"
         ], 
@@ -98,11 +95,14 @@
         "alias_KOR_Q": [
           "\ub178\ud37d \uc12c"
         ], 
+        "alias_DUT_V": [
+          "Norfolk eiland"
+        ], 
         "alias_DUT_Q": [
           "Norfolk"
         ], 
-        "alias_DUT_V": [
-          "Norfolk eiland"
+        "alias_CZE_Q": [
+          "Norfolk"
         ], 
         "alias_GER_V": [
           "Norfolk-Insel"
@@ -126,7 +126,7 @@
           "Norfolk-Sziget"
         ], 
         "ne_longitude": 168.092, 
-        "longitude": 168.050, 
+        "longitude": 168.05, 
         "iso": "NF", 
         "sw_latitude": -29.119, 
         "alias_FRE_V": [

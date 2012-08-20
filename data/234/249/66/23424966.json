@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              5.600, 
+              5.6, 
               -0.014
             ], 
             [
-              5.600, 
+              5.6, 
               1.734
             ], 
             [
@@ -23,7 +23,7 @@
               -0.014
             ], 
             [
-              5.600, 
+              5.6, 
               -0.014
             ]
           ]
@@ -31,6 +31,9 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_RUM_V": [
+          "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"
+        ], 
         "alias_ENG_V": [
           "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
         ], 
@@ -40,16 +43,14 @@
         "alias_SWE_Q": [
           "Sao Tom\u00e9 och Principe"
         ], 
-        "alias_POL_Q": [
-          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
+        "alias_SWE_S": [
+          "Sao Tome och Principe"
         ], 
         "ne_latitude": 1.734, 
         "alias_RUM_Q": [
           "S\u00e3o Tom\u00e9 \u015ei Pr\u00edncipe"
         ], 
-        "alias_UNK_V": [
-          "Sao Tome ja Principe"
-        ], 
+        "ne_longitude": 7.466, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc0c1\ud1a0\uba54 \ud504\ub9b0\uc2a4\ud398"
@@ -66,17 +67,14 @@
         "alias_POR_S": [
           "Sao Tome e Principe"
         ], 
-        "alias_CZE_Q": [
-          "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv Ostrov"
-        ], 
         "alias_ITA_S": [
           "Sao Tome e Principe"
         ], 
         "alias_ITA_Q": [
           "S\u00e3o Tom\u00e9 E Pr\u00edncipe"
         ], 
-        "alias_GER_V": [
-          "Sao Tom\u00e9 und Principe"
+        "alias_DAN_Q": [
+          "Sao Tome og Principe"
         ], 
         "alias_ITA_V": [
           "Sao Tom\u00e8 e Principe"
@@ -84,12 +82,11 @@
         "alias_CHI_V": [
           "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
         ], 
-        "woeid": 23424966, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"
         ], 
-        "alias_SWE_S": [
-          "Sao Tome och Principe"
+        "alias_POL_Q": [
+          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
         ], 
         "alias_JPN_V": [
           "\u30b5\u30f3\u30c8\u30e1 \u30d7\u30ea\u30f3\u30b7\u30da"
@@ -103,12 +100,16 @@
         "alias_SPA_S": [
           "Santo Tome y Principe"
         ], 
-        "sw_longitude": 5.600, 
+        "sw_longitude": 5.6, 
+        "alias_HUN_V": [
+          "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
+        ], 
         "alias_FIN_V": [
           "Sao Tom\u00e9 ja Principe"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 0.220, 
+        "latitude": 0.22, 
+        "woe:id": 23424966, 
         "alias_NOR_Q": [
           "S\u00e3o Tom\u00e9 Og Pr\u00edncipe"
         ], 
@@ -122,8 +123,8 @@
         "alias_KOR_Q": [
           "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
         ], 
-        "alias_DAN_V": [
-          "Sao Tom\u00e9 og Principe"
+        "alias_DUT_V": [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
         ], 
         "alias_DUT_Q": [
           "Sao Tom\u00e9 en Principe"
@@ -131,17 +132,14 @@
         "alias_DUT_S": [
           "Sao Tome-en-Principe"
         ], 
-        "alias_DUT_V": [
-          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        "alias_CZE_Q": [
+          "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv Ostrov"
         ], 
-        "alias_DAN_Q": [
-          "Sao Tome og Principe"
+        "alias_GER_V": [
+          "Sao Tom\u00e9 und Principe"
         ], 
-        "alias_GER_Q": [
-          "S\u00e3o Tom\u00e9 und Pr\u00edncipe"
-        ], 
-        "alias_FRE_V": [
-          "S\u00e3o Tom\u00e9-et-Pr\u00edncipe"
+        "alias_DAN_V": [
+          "Sao Tom\u00e9 og Principe"
         ], 
         "alias_GER_S": [
           "Demokratische Republik Sao Tome und Principe"
@@ -161,15 +159,17 @@
         "alias_HUN_Q": [
           "S\u00e3o Tom\u00e9 \u00c9s Pr\u00edncipe"
         ], 
-        "alias_HUN_V": [
-          "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
+        "alias_GER_Q": [
+          "S\u00e3o Tom\u00e9 und Pr\u00edncipe"
         ], 
-        "ne_longitude": 7.466, 
+        "alias_UNK_V": [
+          "Sao Tome ja Principe"
+        ], 
         "longitude": 6.619, 
         "iso": "ST", 
         "sw_latitude": -0.014, 
-        "alias_RUM_V": [
-          "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"
+        "alias_FRE_V": [
+          "S\u00e3o Tom\u00e9-et-Pr\u00edncipe"
         ], 
         "fullname": "Sao Tome and Principe", 
         "alias_FRE_S": [

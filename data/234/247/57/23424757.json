@@ -7,24 +7,64 @@
         "coordinates": [
           [
             [
-              2.546, 
-              49.497
+              3.314971144228537, 
+              51.345780951536085
             ], 
             [
-              2.546, 
-              51.505
+              4.047071160507528, 
+              51.26725861266857
             ], 
             [
-              6.408, 
-              51.505
+              4.973991326526914, 
+              51.47502370869813
             ], 
             [
-              6.408, 
-              49.497
+              5.606975945670001, 
+              51.03729848896978
             ], 
             [
-              2.546, 
-              49.497
+              6.15665815595878, 
+              50.80372101501058
+            ], 
+            [
+              6.043073357781111, 
+              50.128051662794235
+            ], 
+            [
+              5.782417433300907, 
+              50.09032786722122
+            ], 
+            [
+              5.674051954784829, 
+              49.529483547557504
+            ], 
+            [
+              4.79922163251581, 
+              49.985373033236385
+            ], 
+            [
+              4.286022983425084, 
+              49.907496649772554
+            ], 
+            [
+              3.588184441755686, 
+              50.37899241800358
+            ], 
+            [
+              3.123251580425801, 
+              50.780363267614575
+            ], 
+            [
+              2.658422071960274, 
+              50.796848049515745
+            ], 
+            [
+              2.513573032246143, 
+              51.14850617126183
+            ], 
+            [
+              3.314971144228537, 
+              51.345780951536085
             ]
           ]
         ]
@@ -37,17 +77,17 @@
         "alias_SWE_Q": [
           "Belgien"
         ], 
-        "alias_POL_Q": [
-          "Belgia"
+        "alias_ENG_P": [
+          "Belgium"
         ], 
         "ne_latitude": 51.505, 
+        "ne:GU_A3": "BEL", 
         "alias_RUM_Q": [
           "Belgia"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Belgija"
-        ], 
+        "ne_longitude": 6.408, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_V": [
           "Belgia"
         ], 
@@ -57,31 +97,34 @@
         "alias_ENG_A": [
           "BEL"
         ], 
-        "alias_CZE_Q": [
-          "Belgie"
-        ], 
+        "ne:SUBUNIT": "Belgium", 
+        "ne:POSTAL": "B", 
+        "ne:ISO_N3": 56.0, 
+        "ne:ADM0_A3": "BEL", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6bd4\u5229\u6642"
         ], 
         "alias_ITA_Q": [
           "Belgio"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Belgien"
+        "alias_DAN_Q": [
+          "Belgien"
         ], 
+        "ne:NAME": "Belgium", 
         "alias_CHI_V": [
           "\u6bd4\u5229\u65f6"
         ], 
-        "woeid": 23424757, 
         "alias_JPN_Q": [
           "\u30d9\u30eb\u30ae\u30fc"
         ], 
-        "alias_ENG_P": [
-          "Belgium"
+        "alias_POL_Q": [
+          "Belgia"
         ], 
         "alias_JPN_V": [
           "\u30d9\u30eb\u30ae\u30fc\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "B\u00e9lgica"
         ], 
@@ -91,32 +134,52 @@
         "alias_SPA_S": [
           "Belgica"
         ], 
+        "ne:SOV_A3": "BEL", 
         "sw_longitude": 2.546, 
+        "ne:GDP_MD_EST": 389300.0, 
         "alias_FIN_V": [
           "Belgiasta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 50.501, 
+        "woe:id": 23424757, 
         "alias_NOR_Q": [
           "Belgia"
         ], 
+        "ne:ISO_A3": "BEL", 
+        "ne:ISO_A2": "BE", 
         "date_indexed": "2010-12-02T16:32:27Z", 
+        "ne:NAME_SORT": "Belgium", 
         "alias_KOR_Q": [
           "\ubca8\uae30\uc5d0"
         ], 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "Belgium", 
+        "ne:SU_A3": "BEL", 
         "alias_DUT_V": [
           "Koninkrijk Belgi\u00eb"
         ], 
-        "alias_DAN_Q": [
-          "Belgien"
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Belg.", 
+        "alias_CZE_Q": [
+          "Belgie"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich Belgien"
         ], 
         "alias_GER_Q": [
           "Belgien"
         ], 
+        "ne:SOVEREIGNT": "Belgium", 
         "alias_GER_S": [
           "Konigreich Belgien"
         ], 
         "lang": "DUT", 
+        "ne:GEOUNIT": "Belgium", 
         "name": "Belgi\u00eb", 
         "alias_UNK_S": [
           "Velgio"
@@ -128,14 +191,20 @@
         "alias_HUN_Q": [
           "Belgium"
         ], 
-        "ne_longitude": 6.408, 
+        "alias_UNK_V": [
+          "Kraljevina Belgija"
+        ], 
         "longitude": 4.477, 
+        "ne:POP_EST": 10414336.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "BE", 
         "sw_latitude": 49.497, 
         "alias_FRE_V": [
           "Royaume de Belgique"
         ], 
         "fullname": "Belgi\u00eb, Belgium", 
+        "ne:NAME_FORMA": "Kingdom of Belgium", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Belgique"
         ]

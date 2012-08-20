@@ -7,24 +7,64 @@
         "coordinates": [
           [
             [
-              41.773, 
-              10.910
+              43.08122602720016, 
+              12.699638576707116
             ], 
             [
-              41.773, 
-              12.707
+              43.31785241066467, 
+              12.390148423711025
             ], 
             [
-              43.450, 
-              12.707
+              43.286381463398925, 
+              11.974928290245884
             ], 
             [
-              43.450, 
-              10.910
+              42.715873650896526, 
+              11.735640570518342
             ], 
             [
-              41.773, 
-              10.910
+              43.14530480324214, 
+              11.462039699748857
+            ], 
+            [
+              42.77685184100096, 
+              10.92687856693442
+            ], 
+            [
+              42.55493000000013, 
+              11.105110000000195
+            ], 
+            [
+              42.31414000000012, 
+              11.0342
+            ], 
+            [
+              41.755570000000205, 
+              11.050910000000101
+            ], 
+            [
+              41.73959000000019, 
+              11.355110000000138
+            ], 
+            [
+              41.66176000000013, 
+              11.6312
+            ], 
+            [
+              42.000000000000114, 
+              12.100000000000136
+            ], 
+            [
+              42.35156000000012, 
+              12.542230000000131
+            ], 
+            [
+              42.77964236834475, 
+              12.455415757695675
+            ], 
+            [
+              43.08122602720016, 
+              12.699638576707116
             ]
           ]
         ]
@@ -41,9 +81,8 @@
           "D\u017cibuti"
         ], 
         "ne_latitude": 12.707, 
-        "alias_UNK_V": [
-          "D\u00edb\u00fat\u00ed"
-        ], 
+        "ne:POSTAL": "DJ", 
+        "ne_longitude": 43.45, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Djibuti"
@@ -51,35 +90,57 @@
         "alias_KOR_Q": [
           "\uc9c0\ubd80\ud2f0"
         ], 
+        "ne:SUBUNIT": "Djibouti", 
+        "ne:ISO_N3": 262.0, 
+        "ne:ADM0_A3": "DJI", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5409\u5e03\u5730"
         ], 
         "alias_ITA_Q": [
           "Gibuti"
         ], 
+        "ne:NAME": "Djibouti", 
         "alias_CHI_V": [
           "\u5409\u5e03\u5730"
         ], 
-        "woeid": 23424797, 
         "alias_JPN_Q": [
           "\u30b8\u30d6\u30c1"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30b8\u30d6\u30c1\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Yibuti"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "DJI", 
         "sw_longitude": 41.773, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 11.808, 
-        "date_indexed": "2010-12-02T16:14:08Z", 
+        "ne:GDP_MD_EST": 1885.0, 
+        "ne:SU_A3": "DJI", 
         "alias_SPA_V": [
           "Djibuti"
         ], 
+        "latitude": 11.808, 
+        "woe:id": 23424797, 
+        "ne:ISO_A3": "DJI", 
+        "ne:ISO_A2": "DJ", 
+        "date_indexed": "2010-12-02T16:14:08Z", 
+        "ne:NAME_SORT": "Djibouti", 
+        "ne:GU_A3": "DJI", 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "Djibouti", 
+        "ne:GEOUNIT": "Djibouti", 
+        "ne:LabelRank": 1, 
+        "provider": "geoplanet 7.6.0", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
           "D\u017eibuti"
         ], 
+        "ne:ABBREV": "Dji.", 
         "alias_CZE_Q": [
           "D\u017eibutsko"
         ], 
@@ -89,20 +150,28 @@
         "alias_GER_Q": [
           "Dschibuti"
         ], 
+        "ne:SOVEREIGNT": "Djibouti", 
         "lang": "ENG", 
         "name": "Djibouti", 
         "alias_UNK_S": [
           "Dibuti"
         ], 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Dzsibuti"
         ], 
-        "ne_longitude": 43.450, 
+        "alias_UNK_V": [
+          "D\u00edb\u00fat\u00ed"
+        ], 
         "longitude": 42.595, 
+        "ne:POP_EST": 516055.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "DJ", 
-        "sw_latitude": 10.910, 
-        "fullname": "Djibouti"
+        "sw_latitude": 10.91, 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Djibouti", 
+        "ne:NAME_FORMA": "Republic of Djibouti"
       }, 
       "id": 23424797
     }

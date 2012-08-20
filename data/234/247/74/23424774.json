@@ -7,24 +7,56 @@
         "coordinates": [
           [
             [
-              28.993, 
-              -4.466
+              29.339997592900346, 
+              -4.499983412294092
             ], 
             [
-              28.993, 
-              -2.310
+              29.276383904749053, 
+              -3.293907159034063
             ], 
             [
-              30.848, 
-              -2.310
+              29.024926385216787, 
+              -2.839257907730158
             ], 
             [
-              30.848, 
-              -4.466
+              29.632176141078588, 
+              -2.917857761246097
             ], 
             [
-              28.993, 
-              -4.466
+              29.93835900240794, 
+              -2.348486830254238
+            ], 
+            [
+              30.46969607923299, 
+              -2.413857517103459
+            ], 
+            [
+              30.527677036264464, 
+              -2.807631931167535
+            ], 
+            [
+              30.7430127296247, 
+              -3.034284763199686
+            ], 
+            [
+              30.752262811004954, 
+              -3.35932952231557
+            ], 
+            [
+              30.505559523243566, 
+              -3.568567396665365
+            ], 
+            [
+              30.11633263522117, 
+              -4.090137627787243
+            ], 
+            [
+              29.753512404099922, 
+              -4.452389418153281
+            ], 
+            [
+              29.339997592900346, 
+              -4.499983412294092
             ]
           ]
         ]
@@ -34,45 +66,74 @@
         "alias_ENG_V": [
           "Burundian"
         ], 
-        "alias_ENG_A": [
-          "BI"
-        ], 
-        "ne_latitude": -2.310, 
-        "ne_longitude": 30.848, 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ubd80\ub8ec\ub514"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": -2.31, 
+        "ne_longitude": 30.848, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "BI"
+        ], 
+        "ne:SUBUNIT": "Burundi", 
+        "ne:ISO_N3": 108.0, 
+        "ne:ADM0_A3": "BDI", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u84b2\u9686\u5730"
         ], 
+        "ne:NAME": "Burundi", 
         "alias_CHI_V": [
           "\u84b2\u9686\u5730"
         ], 
-        "woeid": 23424774, 
         "alias_JPN_Q": [
           "\u30d6\u30eb\u30f3\u30b8"
         ], 
         "alias_JPN_V": [
           "\u30d6\u30eb\u30f3\u30b8\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "BDI", 
         "sw_longitude": 28.993, 
+        "ne:GDP_MD_EST": 3102.0, 
+        "ne:SU_A3": "BDI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -3.388, 
+        "woe:id": 23424774, 
+        "ne:ISO_A3": "BDI", 
+        "ne:ISO_A2": "BI", 
         "date_indexed": "2010-12-02T08:58:52Z", 
+        "ne:NAME_SORT": "Burundi", 
+        "ne:GU_A3": "BDI", 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "Burundi", 
+        "ne:GEOUNIT": "Burundi", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Bur.", 
         "alias_GER_V": [
           "Republik Burundi"
         ], 
+        "ne:SOVEREIGNT": "Burundi", 
         "lang": "ENG", 
         "name": "Burundi", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "BI", 
         "alias_UNK_V": [
           "B\u00farund\u00ed"
         ], 
-        "longitude": 29.920, 
+        "longitude": 29.92, 
+        "ne:POP_EST": 8988091.0, 
         "iso": "BI", 
         "sw_latitude": -4.466, 
-        "fullname": "Burundi"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Burundi", 
+        "ne:NAME_FORMA": "Republic of Burundi"
       }, 
       "id": 23424774
     }

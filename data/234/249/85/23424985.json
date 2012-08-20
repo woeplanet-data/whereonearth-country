@@ -40,8 +40,8 @@
         "alias_SWE_Q": [
           "Amerikanska Jungfru\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Dziewicze Stan\u00f3w Zjednoczonych"
+        "alias_SWE_S": [
+          "Amerikanska Jungfruoarna"
         ], 
         "ne_latitude": 18.458, 
         "alias_RUM_Q": [
@@ -60,17 +60,14 @@
         "alias_ENG_A": [
           "VI"
         ], 
-        "alias_CZE_Q": [
-          "Americk\u00e9 Panensk\u00e9 Ostrovy"
-        ], 
         "alias_CHI_Q": [
           "\u7f8e\u5c6c\u7dad\u4eac\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Vergini Americane"
         ], 
-        "alias_GER_V": [
-          "Jungfern-Inseln (USA)"
+        "alias_DAN_Q": [
+          "Amerikanske Jomfru\u00f8er"
         ], 
         "alias_ITA_V": [
           "Isole Vergini"
@@ -78,12 +75,11 @@
         "alias_CHI_V": [
           "\u7f8e\u5c5e\u7ef4\u4eac\u7fa4\u5c9b"
         ], 
-        "woeid": 23424985, 
         "alias_JPN_Q": [
           "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Amerikanska Jungfruoarna"
+        "alias_POL_Q": [
+          "Wyspy Dziewicze Stan\u00f3w Zjednoczonych"
         ], 
         "alias_JPN_V": [
           "\u7c73\u9818\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6"
@@ -98,41 +94,45 @@
           "Islas Virgenes de Estados Unidos"
         ], 
         "sw_longitude": -65.086, 
+        "alias_HUN_V": [
+          "U.S. Virgin-szigetek"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.737, 
         "alias_NOR_S": [
           "De Amerikanske Jomfruoyene"
         ], 
+        "woe:id": 23424985, 
         "alias_NOR_Q": [
           "De Amerikanske Jomfru\u00f8yene"
         ], 
         "date_indexed": "2010-12-02T16:14:08Z", 
-        "alias_FRE_V": [
-          "Iles Vierges des \u00c9tats-Unis"
-        ], 
         "alias_KOR_Q": [
           "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
-        ], 
-        "alias_DAN_V": [
-          "De Amerikanske Jomfru\u00f8er"
-        ], 
-        "alias_SPA_V": [
-          "Islas V\u00edrgenes, EE.UU."
-        ], 
-        "alias_DUT_Q": [
-          "Amerikaanse Maagdeneilanden"
         ], 
         "alias_DUT_V": [
           "Maagdeneilanden Amerikaanse"
         ], 
+        "alias_SPA_V": [
+          "Islas V\u00edrgenes, EE.UU."
+        ], 
+        "alias_RUM_V": [
+          "Insulele Virgine, SUA"
+        ], 
+        "alias_DUT_Q": [
+          "Amerikaanse Maagdeneilanden"
+        ], 
+        "alias_CZE_Q": [
+          "Americk\u00e9 Panensk\u00e9 Ostrovy"
+        ], 
         "alias_DAN_S": [
           "De Amerikanske Jomfruoer"
         ], 
-        "alias_DAN_Q": [
-          "Amerikanske Jomfru\u00f8er"
+        "alias_GER_V": [
+          "Jungfern-Inseln (USA)"
         ], 
-        "alias_GER_Q": [
-          "Amerikanische Jungferninseln"
+        "alias_DAN_V": [
+          "De Amerikanske Jomfru\u00f8er"
         ], 
         "lang": "ENG", 
         "name": "US Virgin Islands", 
@@ -140,15 +140,15 @@
         "alias_HUN_Q": [
           "Amerikai Virgin-Szigetek"
         ], 
-        "alias_HUN_V": [
-          "U.S. Virgin-szigetek"
+        "alias_GER_Q": [
+          "Amerikanische Jungferninseln"
         ], 
         "ne_longitude": -64.565, 
         "longitude": -64.736, 
         "iso": "VI", 
         "sw_latitude": 17.682, 
-        "alias_RUM_V": [
-          "Insulele Virgine, SUA"
+        "alias_FRE_V": [
+          "Iles Vierges des \u00c9tats-Unis"
         ], 
         "fullname": "US Virgin Islands", 
         "alias_FRE_S": [

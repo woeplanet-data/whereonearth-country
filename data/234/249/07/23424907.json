@@ -3,28 +3,62 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              166.525, 
-              -20.250
-            ], 
+              [
+                167.8448767438451, 
+                -16.466333103097156
+              ], 
+              [
+                167.5151811058229, 
+                -16.59784962327997
+              ], 
+              [
+                167.18000776597782, 
+                -16.15999521247096
+              ], 
+              [
+                167.21680138576963, 
+                -15.891846205308454
+              ], 
+              [
+                167.8448767438451, 
+                -16.466333103097156
+              ]
+            ]
+          ], 
+          [
             [
-              166.525, 
-              -13.073
-            ], 
-            [
-              170.235, 
-              -13.073
-            ], 
-            [
-              170.235, 
-              -20.250
-            ], 
-            [
-              166.525, 
-              -20.250
+              [
+                167.1077124372015, 
+                -14.933920179913954
+              ], 
+              [
+                167.27002811103026, 
+                -15.740020847234874
+              ], 
+              [
+                167.00120731024796, 
+                -15.614602146062495
+              ], 
+              [
+                166.79315799384088, 
+                -15.668810723536723
+              ], 
+              [
+                166.64985924709558, 
+                -15.392703545801197
+              ], 
+              [
+                166.62913699774649, 
+                -14.626497084209603
+              ], 
+              [
+                167.1077124372015, 
+                -14.933920179913954
+              ]
             ]
           ]
         ]
@@ -34,45 +68,74 @@
         "alias_ENG_V": [
           "Ni-Vanuatu"
         ], 
-        "alias_ENG_A": [
-          "VU"
-        ], 
-        "ne_latitude": -13.073, 
-        "ne_longitude": 170.235, 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ubc14\ub204\uc544\ud22c"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": -13.073, 
+        "ne_longitude": 170.235, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "VU"
+        ], 
+        "ne:SUBUNIT": "Vanuatu", 
+        "ne:ISO_N3": 548.0, 
+        "ne:ADM0_A3": "VUT", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u842c\u90a3\u675c"
         ], 
+        "ne:NAME": "Vanuatu", 
         "alias_CHI_V": [
           "\u842c\u90a3\u675c"
         ], 
-        "woeid": 23424907, 
         "alias_JPN_Q": [
           "\u30d0\u30cc\u30a2\u30c4"
         ], 
         "alias_JPN_V": [
           "\u30f4\u30a1\u30cc\u30a2\u30c4"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "VUT", 
         "sw_longitude": 166.525, 
+        "ne:GDP_MD_EST": 988.5, 
+        "ne:SU_A3": "VUT", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -15.147, 
-        "date_indexed": "2010-12-02T17:52:20Z", 
+        "woe:id": 23424907, 
+        "ne:ISO_A3": "VUT", 
+        "ne:ISO_A2": "VU", 
+        "sw_latitude": -20.25, 
+        "ne:NAME_SORT": "Vanuatu", 
+        "ne:GU_A3": "VUT", 
+        "ne:MAP_COLOR": 3.0, 
+        "ne:ADMIN": "Vanuatu", 
+        "ne:GEOUNIT": "Vanuatu", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:ABBREV": "Van.", 
+        "ne:SOVEREIGNT": "Vanuatu", 
         "lang": "ENG", 
         "name": "Vanuatu", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "VU", 
         "alias_UNK_V": [
           "Republika Vanuatu"
         ], 
         "longitude": 167.038, 
+        "ne:POP_EST": 218519.0, 
         "iso": "VU", 
-        "sw_latitude": -20.250, 
+        "date_indexed": "2010-12-02T17:52:20Z", 
         "alias_FRE_V": [
           "R\u00e9publique de Vanuatu"
         ], 
         "fullname": "Vanuatu", 
+        "ne:NAME_FORMA": "Republic of Vanuatu", 
         "alias_FRE_S": [
           "Iles Vanuatu"
         ]

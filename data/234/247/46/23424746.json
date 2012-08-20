@@ -12,11 +12,11 @@
             ], 
             [
               -171.092, 
-              -11.050
+              -11.05
             ], 
             [
               -169.416, 
-              -11.050
+              -11.05
             ], 
             [
               -169.416, 
@@ -37,10 +37,10 @@
         "alias_SWE_Q": [
           "Amerikanska Samoa"
         ], 
-        "alias_POL_Q": [
-          "Samoa Ameryka\u0144skie"
+        "alias_SWE_S": [
+          "Amerikanska Jungfruoarna"
         ], 
-        "ne_latitude": -11.050, 
+        "ne_latitude": -11.05, 
         "alias_RUM_Q": [
           "Samoa American\u0103"
         ], 
@@ -54,27 +54,23 @@
         "alias_ENG_A": [
           "AS"
         ], 
-        "alias_CZE_Q": [
-          "Americk\u00e1 Samoa"
-        ], 
         "alias_CHI_Q": [
           "\u7f8e\u5c6c\u85a9\u6469\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Samoa Americane"
         ], 
-        "alias_GER_V": [
-          "Amerikanisch Samoa"
+        "alias_DAN_Q": [
+          "Amerikansk Samoa"
         ], 
         "alias_CHI_V": [
           "\u7f8e\u5c5e\u8428\u6469\u4e9a"
         ], 
-        "woeid": 23424746, 
         "alias_JPN_Q": [
           "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2"
         ], 
-        "alias_SWE_S": [
-          "Amerikanska Jungfruoarna"
+        "alias_POL_Q": [
+          "Samoa Ameryka\u0144skie"
         ], 
         "alias_JPN_V": [
           "\u7c73\u30b5\u30e2\u30a2"
@@ -87,10 +83,11 @@
         ], 
         "sw_longitude": -171.092, 
         "provider": "geoplanet 7.6.0", 
-        "latitude": -14.310, 
+        "latitude": -14.31, 
         "alias_NOR_S": [
           "Amerikanske Jomfruoyene"
         ], 
+        "woe:id": 23424746, 
         "alias_NOR_Q": [
           "Amerikansk Samoa"
         ], 
@@ -101,20 +98,20 @@
         "alias_KOR_Q": [
           "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
         ], 
-        "alias_DAN_V": [
-          "Amerikanske Jomfruoeer"
+        "alias_DUT_V": [
+          "Amerikaans Samoa"
         ], 
         "alias_DUT_Q": [
           "Amerikaans-Samoa"
         ], 
-        "alias_DUT_V": [
-          "Amerikaans Samoa"
+        "alias_CZE_Q": [
+          "Americk\u00e1 Samoa"
         ], 
-        "alias_DAN_Q": [
-          "Amerikansk Samoa"
+        "alias_GER_V": [
+          "Amerikanisch Samoa"
         ], 
-        "alias_GER_Q": [
-          "Amerikanisch-Samoa"
+        "alias_DAN_V": [
+          "Amerikanske Jomfruoeer"
         ], 
         "lang": "ENG", 
         "name": "American Samoa", 
@@ -124,6 +121,9 @@
         ], 
         "alias_HUN_Q": [
           "Amerikai Szamoa"
+        ], 
+        "alias_GER_Q": [
+          "Amerikanisch-Samoa"
         ], 
         "ne_longitude": -169.416, 
         "longitude": -170.702, 

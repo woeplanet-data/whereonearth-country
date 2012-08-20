@@ -31,6 +31,9 @@
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_RUM_V": [
+          "Pitcairn"
+        ], 
         "alias_ENG_V": [
           "Pitcairn"
         ], 
@@ -40,8 +43,8 @@
         "alias_SWE_Q": [
           "Pitcairn\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Pitcairn"
+        "alias_SWE_S": [
+          "Pitcairnoarna"
         ], 
         "ne_latitude": -23.917, 
         "alias_RUM_Q": [
@@ -60,16 +63,13 @@
         "alias_ENG_A": [
           "PN"
         ], 
-        "alias_CZE_Q": [
-          "Pitcairnovy Ostrovy"
-        ], 
         "alias_CHI_Q": [
           "\u76ae\u7279\u958b\u6069\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Pitcairn"
         ], 
-        "alias_GER_V": [
+        "alias_DAN_Q": [
           "Pitcairn"
         ], 
         "alias_ITA_V": [
@@ -78,12 +78,11 @@
         "alias_CHI_V": [
           "\u76ae\u7279\u5f00\u6069\u7fa4\u5c9b"
         ], 
-        "woeid": 23424918, 
         "alias_JPN_Q": [
           "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Pitcairnoarna"
+        "alias_POL_Q": [
+          "Pitcairn"
         ], 
         "alias_SPA_Q": [
           "Islas Pitcairn"
@@ -97,15 +96,16 @@
         "alias_NOR_S": [
           "Pitcairnoyene"
         ], 
+        "woe:id": 23424918, 
         "alias_NOR_Q": [
           "Pitcairn\u00f8yene"
         ], 
         "date_indexed": "2010-12-02T10:22:50Z", 
-        "alias_FRE_V": [
-          "Pitcairn"
-        ], 
         "alias_KOR_Q": [
           "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
+        ], 
+        "alias_DUT_V": [
+          "Pitcairn"
         ], 
         "alias_SPA_V": [
           "Pitcairn"
@@ -113,10 +113,10 @@
         "alias_DUT_Q": [
           "Pitcairneilanden"
         ], 
-        "alias_DUT_V": [
-          "Pitcairn"
+        "alias_CZE_Q": [
+          "Pitcairnovy Ostrovy"
         ], 
-        "alias_DAN_Q": [
+        "alias_GER_V": [
           "Pitcairn"
         ], 
         "alias_GER_Q": [
@@ -144,7 +144,7 @@
         "longitude": -128.316, 
         "iso": "PN", 
         "sw_latitude": -25.078, 
-        "alias_RUM_V": [
+        "alias_FRE_V": [
           "Pitcairn"
         ], 
         "fullname": "Pitcairn Islands", 

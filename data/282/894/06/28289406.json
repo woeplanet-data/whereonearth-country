@@ -8,23 +8,23 @@
           [
             [
               39.493, 
-              -51.490
+              -51.49
             ], 
             [
               39.493, 
-              -11.500
+              -11.5
             ], 
             [
-              70.690, 
-              -11.500
+              70.69, 
+              -11.5
             ], 
             [
-              70.690, 
-              -51.490
+              70.69, 
+              -51.49
             ], 
             [
               39.493, 
-              -51.490
+              -51.49
             ]
           ]
         ]
@@ -43,7 +43,7 @@
         "alias_POL_Q": [
           "Francuskie Terytoria Po\u0142udniowe I Antarktyczne"
         ], 
-        "ne_latitude": -11.500, 
+        "ne_latitude": -11.5, 
         "alias_RUM_Q": [
           "Teritoriile Australe \u015ei Antarctice Franceze"
         ], 
@@ -60,19 +60,15 @@
         "alias_ENG_A": [
           "TF"
         ], 
-        "alias_CZE_Q": [
-          "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
-        ], 
         "alias_ITA_Q": [
           "Terre Australi E Antartiche Francesi"
         ], 
-        "alias_GER_V": [
-          "Franz\u00f6sische S\u00fcdgebiete"
+        "alias_DAN_Q": [
+          "Franske Sydlige Territorier"
         ], 
         "alias_ITA_V": [
           "Territori Francesi Meridionali"
         ], 
-        "woeid": 28289406, 
         "alias_JPN_Q": [
           "\u30d5\u30e9\u30f3\u30b9\u9818\u6975\u5357\u8af8\u5cf6"
         ], 
@@ -89,6 +85,9 @@
           "Ranskan ulkopuoliset etelaiset alueet"
         ], 
         "sw_longitude": 39.493, 
+        "alias_HUN_V": [
+          "Francia D\u00e9li Ter\u00fcletek"
+        ], 
         "alias_FIN_V": [
           "Ranskan etel\u00e4iset alueet"
         ], 
@@ -97,33 +96,34 @@
         "alias_NOR_S": [
           "De Franske Sorterritorier"
         ], 
+        "woe:id": 28289406, 
         "alias_NOR_Q": [
           "De Franske S\u00f8rterritorier"
         ], 
         "date_indexed": "2010-12-02T08:53:34Z", 
-        "alias_FRE_V": [
-          "Territoires d\u2019Outre-mer (France)"
-        ], 
         "alias_KOR_Q": [
           "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
-        ], 
-        "alias_DAN_V": [
-          "Franske overs\u00f8iske omr\u00e5der"
-        ], 
-        "alias_SPA_V": [
-          "Territorios Australes Franceses"
-        ], 
-        "alias_DUT_Q": [
-          "Franse Zuidelijke en Antarctische Gebieden"
         ], 
         "alias_DUT_V": [
           "Franse Gebieden in de zuidelijke Indische Oceaan"
         ], 
-        "alias_DAN_Q": [
-          "Franske Sydlige Territorier"
+        "alias_SPA_V": [
+          "Territorios Australes Franceses"
         ], 
-        "alias_GER_Q": [
-          "Franz\u00f6sische S\u00fcd- Und Antarktisgebiete"
+        "alias_RUM_V": [
+          "Teritoriile Franceze de Sud"
+        ], 
+        "alias_DUT_Q": [
+          "Franse Zuidelijke en Antarctische Gebieden"
+        ], 
+        "alias_CZE_Q": [
+          "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
+        ], 
+        "alias_GER_V": [
+          "Franz\u00f6sische S\u00fcdgebiete"
+        ], 
+        "alias_DAN_V": [
+          "Franske overs\u00f8iske omr\u00e5der"
         ], 
         "lang": "ENG", 
         "name": "French Southern Territories", 
@@ -134,15 +134,15 @@
         "alias_HUN_Q": [
           "Francia D\u00e9li \u00c9s Antarktiszi Ter\u00fcletek"
         ], 
-        "alias_HUN_V": [
-          "Francia D\u00e9li Ter\u00fcletek"
+        "alias_GER_Q": [
+          "Franz\u00f6sische S\u00fcd- Und Antarktisgebiete"
         ], 
-        "ne_longitude": 70.690, 
+        "ne_longitude": 70.69, 
         "longitude": 40.386, 
         "iso": "TF", 
-        "sw_latitude": -51.490, 
-        "alias_RUM_V": [
-          "Teritoriile Franceze de Sud"
+        "sw_latitude": -51.49, 
+        "alias_FRE_V": [
+          "Territoires d\u2019Outre-mer (France)"
         ], 
         "fullname": "French Southern Territories", 
         "alias_FRE_Q": [

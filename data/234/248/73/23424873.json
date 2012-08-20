@@ -7,24 +7,48 @@
         "coordinates": [
           [
             [
-              35.114, 
-              33.054
+              35.82110070165024, 
+              33.2774264592763
             ], 
             [
-              35.114, 
-              34.691
+              35.55279666519081, 
+              33.26427480725802
             ], 
             [
-              36.639, 
-              34.691
+              35.460709262846706, 
+              33.08904002535628
             ], 
             [
-              36.639, 
-              33.054
+              35.126052687324545, 
+              33.09090037691878
             ], 
             [
-              35.114, 
-              33.054
+              35.48220665868013, 
+              33.90545014091944
+            ], 
+            [
+              35.9795923194894, 
+              34.61005829521913
+            ], 
+            [
+              35.99840254084364, 
+              34.644914048800004
+            ], 
+            [
+              36.4481942075121, 
+              34.59393524834407
+            ], 
+            [
+              36.61175011571589, 
+              34.20178864189718
+            ], 
+            [
+              36.066460402172055, 
+              33.82491242119255
+            ], 
+            [
+              35.82110070165024, 
+              33.2774264592763
             ]
           ]
         ]
@@ -41,77 +65,100 @@
           "Liban"
         ], 
         "ne_latitude": 34.691, 
+        "ne:GU_A3": "LBN", 
         "alias_RUM_Q": [
           "Liban"
         ], 
-        "alias_UNK_V": [
-          "Libanonska republika"
-        ], 
+        "ne_longitude": 36.639, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_Q": [
           "L\u00edbano"
         ], 
         "alias_ENG_A": [
           "LB"
         ], 
+        "ne:SUBUNIT": "Lebanon", 
+        "ne:POSTAL": "LB", 
+        "ne:ISO_N3": 422.0, 
         "alias_ARA_V": [
           "Al Lubn"
         ], 
+        "ne:ADM0_A3": "LBN", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u9ece\u5df4\u5ae9"
         ], 
         "alias_ITA_Q": [
           "Libano"
         ], 
-        "alias_GER_V": [
-          "Libanesische Republik"
+        "alias_DAN_Q": [
+          "Libanon"
         ], 
+        "ne:NAME": "Lebanon", 
         "alias_CHI_V": [
           "\u9ece\u5df4\u5ae9"
         ], 
-        "woeid": 23424873, 
         "alias_JPN_Q": [
           "\u30ec\u30d0\u30ce\u30f3"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30ec\u30d0\u30ce\u30f3\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "L\u00edbano"
         ], 
         "alias_FIN_Q": [
           "Libanonista"
         ], 
+        "ne:SOV_A3": "LBN", 
         "sw_longitude": 35.114, 
+        "ne:GDP_MD_EST": 44060.0, 
         "alias_FIN_V": [
           "Libanoniin"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 33.872, 
+        "woe:id": 23424873, 
         "alias_NOR_Q": [
           "Libanon"
         ], 
+        "ne:ISO_A3": "LBN", 
+        "ne:ISO_A2": "LB", 
         "date_indexed": "2010-12-02T16:50:08Z", 
+        "ne:NAME_SORT": "Lebanon", 
         "alias_KOR_Q": [
           "\ub808\ubc14\ub17c"
         ], 
+        "ne:MAP_COLOR": 12.0, 
+        "ne:ADMIN": "Lebanon", 
+        "ne:SU_A3": "LBN", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "el pa\u00eds del cedro"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Libanon"
         ], 
+        "ne:ABBREV": "Leb.", 
         "alias_CZE_Q": [
           "Libanon"
         ], 
-        "alias_DAN_Q": [
-          "Libanon"
+        "alias_GER_V": [
+          "Libanesische Republik"
         ], 
         "alias_GER_Q": [
           "Libanon"
         ], 
+        "ne:SOVEREIGNT": "Lebanon", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Lebanon", 
         "name": "Lebanon", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Lubnan"
@@ -119,14 +166,20 @@
         "alias_HUN_Q": [
           "Libanon"
         ], 
-        "ne_longitude": 36.639, 
+        "alias_UNK_V": [
+          "Libanonska republika"
+        ], 
         "longitude": 35.877, 
+        "ne:POP_EST": 4017095.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "LB", 
         "sw_latitude": 33.054, 
         "alias_FRE_V": [
           "R\u00e9publique Libanaise"
         ], 
         "fullname": "Lebanon", 
+        "ne:NAME_FORMA": "Lebanese Republic", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Liban"
         ]

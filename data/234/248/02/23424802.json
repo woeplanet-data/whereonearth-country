@@ -7,24 +7,172 @@
         "coordinates": [
           [
             [
-              24.698, 
-              21.725
+              34.9226, 
+              29.50133
             ], 
             [
-              24.698, 
-              31.667
+              34.64174, 
+              29.09942
             ], 
             [
-              36.234, 
-              31.667
+              34.42655, 
+              28.34399
             ], 
             [
-              36.234, 
-              21.725
+              34.15451, 
+              27.8233
             ], 
             [
-              24.698, 
-              21.725
+              33.92136, 
+              27.6487
+            ], 
+            [
+              33.58811, 
+              27.97136
+            ], 
+            [
+              33.13676, 
+              28.41765
+            ], 
+            [
+              32.42323, 
+              29.85108
+            ], 
+            [
+              32.32046, 
+              29.76043
+            ], 
+            [
+              32.73482, 
+              28.70523
+            ], 
+            [
+              33.34876, 
+              27.69989
+            ], 
+            [
+              34.10455, 
+              26.14227
+            ], 
+            [
+              34.47387, 
+              25.59856
+            ], 
+            [
+              34.79507, 
+              25.03375
+            ], 
+            [
+              35.69241, 
+              23.92671
+            ], 
+            [
+              35.49372, 
+              23.75237
+            ], 
+            [
+              35.52598, 
+              23.10244
+            ], 
+            [
+              36.69069, 
+              22.20485
+            ], 
+            [
+              36.86623, 
+              22.0
+            ], 
+            [
+              32.9, 
+              22.0
+            ], 
+            [
+              29.02, 
+              22.0
+            ], 
+            [
+              25.0, 
+              22.0
+            ], 
+            [
+              25.0, 
+              25.682499996361
+            ], 
+            [
+              25.0, 
+              29.23865452953346
+            ], 
+            [
+              24.70007, 
+              30.04419
+            ], 
+            [
+              24.95762, 
+              30.6616
+            ], 
+            [
+              24.80287, 
+              31.08929
+            ], 
+            [
+              25.16482, 
+              31.56915
+            ], 
+            [
+              26.49533, 
+              31.58568
+            ], 
+            [
+              27.45762, 
+              31.32126
+            ], 
+            [
+              28.45048, 
+              31.02577
+            ], 
+            [
+              28.91353, 
+              30.87005
+            ], 
+            [
+              29.68342, 
+              31.18686
+            ], 
+            [
+              30.09503, 
+              31.4734
+            ], 
+            [
+              30.97693, 
+              31.55586
+            ], 
+            [
+              31.68796, 
+              31.4296
+            ], 
+            [
+              31.96041, 
+              30.9336
+            ], 
+            [
+              32.19247, 
+              31.26034
+            ], 
+            [
+              32.99392, 
+              31.02407
+            ], 
+            [
+              33.7734, 
+              30.96746
+            ], 
+            [
+              34.26544, 
+              31.21936
+            ], 
+            [
+              34.9226, 
+              29.50133
             ]
           ]
         ]
@@ -41,12 +189,11 @@
           "Egipt"
         ], 
         "ne_latitude": 31.667, 
+        "ne:GU_A3": "EGY", 
         "alias_RUM_Q": [
           "Egipt"
         ], 
-        "alias_UNK_V": [
-          "\u00c6gypten"
-        ], 
+        "ne_longitude": 36.234, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Egipto"
@@ -57,54 +204,74 @@
         "alias_ENG_A": [
           "EG"
         ], 
+        "ne:SUBUNIT": "Egypt", 
+        "ne:POSTAL": "EG", 
+        "ne:ISO_N3": 818.0, 
+        "ne:ADM0_A3": "EGY", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u57c3\u53ca"
         ], 
         "alias_ITA_Q": [
           "Egitto"
         ], 
-        "alias_GER_V": [
-          "Arabische Republik \u00c4gypten"
+        "alias_DAN_Q": [
+          "Egypten"
         ], 
-        "woeid": 23424802, 
+        "ne:NAME": "Egypt", 
+        "ne:TERR_": null, 
         "alias_JPN_Q": [
           "\u30a8\u30b8\u30d7\u30c8"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Egipto"
         ], 
         "alias_FIN_Q": [
           "Egypti"
         ], 
+        "ne:SOV_A3": "EGY", 
         "sw_longitude": 24.698, 
+        "ne:GDP_MD_EST": 443700.0, 
         "alias_FIN_V": [
           "Egyptista"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 26.696, 
+        "woe:id": 23424802, 
+        "ne:ISO_A3": "EGY", 
+        "ne:ISO_A2": "EG", 
         "date_indexed": "2010-12-02T12:16:51Z", 
+        "ne:NAME_SORT": "Egypt", 
         "alias_KOR_Q": [
           "\uc774\uc9d1\ud2b8"
+        ], 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Egypt", 
+        "ne:SU_A3": "EGY", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_DUT_Q": [
+          "Egypte"
+        ], 
+        "ne:ABBREV": "Egypt", 
+        "alias_GER_V": [
+          "Arabische Republik \u00c4gypten"
         ], 
         "alias_DAN_V": [
           "\u00c6gypten"
         ], 
-        "alias_DUT_Q": [
-          "Egypte"
-        ], 
-        "alias_DAN_Q": [
-          "Egypten"
-        ], 
-        "alias_GER_Q": [
-          "\u00c4gypten"
-        ], 
+        "ne:SOVEREIGNT": "Egypt", 
         "alias_GER_S": [
           "Agypten"
         ], 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Egypt", 
         "name": "Egypt", 
         "alias_UNK_S": [
           "AEgypten"
@@ -116,11 +283,21 @@
         "alias_HUN_Q": [
           "Egyiptom"
         ], 
-        "ne_longitude": 36.234, 
+        "alias_GER_Q": [
+          "\u00c4gypten"
+        ], 
+        "alias_UNK_V": [
+          "\u00c6gypten"
+        ], 
         "longitude": 30.246, 
+        "ne:POP_EST": 83082869.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "EG", 
         "sw_latitude": 21.725, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Egypt", 
+        "ne:NAME_FORMA": "Arab Republic of Egypt", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "\u00c9gypte"
         ]

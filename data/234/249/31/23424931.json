@@ -37,7 +37,7 @@
         "alias_KOR_Q": [
           "\ub808\uc704\ub2c8\uc639"
         ], 
-        "alias_POL_Q": [
+        "alias_ENG_P": [
           "Reunion"
         ], 
         "ne_latitude": -20.857, 
@@ -63,11 +63,10 @@
         "alias_CHI_V": [
           "\u7559\u5c3c\u65fa"
         ], 
-        "woeid": 23424931, 
         "alias_JPN_Q": [
           "\u30ec\u30e6\u30cb\u30aa\u30f3"
         ], 
-        "alias_ENG_P": [
+        "alias_POL_Q": [
           "Reunion"
         ], 
         "alias_JPN_V": [
@@ -79,6 +78,7 @@
         "sw_longitude": 55.219, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -21.115, 
+        "woe:id": 23424931, 
         "date_indexed": "2010-12-02T09:35:31Z", 
         "alias_DUT_S": [
           "La Reunion"

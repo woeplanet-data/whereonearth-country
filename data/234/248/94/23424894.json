@@ -38,9 +38,7 @@
           "MU"
         ], 
         "ne_latitude": -10.319, 
-        "alias_UNK_V": [
-          "Republika Mauritius"
-        ], 
+        "ne_longitude": 63.525, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Maur\u00edcio"
@@ -63,7 +61,6 @@
         "alias_CHI_V": [
           "\u6a21\u91cc\u897f\u65af"
         ], 
-        "woeid": 23424894, 
         "alias_JPN_Q": [
           "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
         ], 
@@ -76,6 +73,7 @@
         "sw_longitude": 56.513, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -20.255, 
+        "woe:id": 23424894, 
         "date_indexed": "2010-12-02T08:58:29Z", 
         "alias_SPA_V": [
           "Rep\u00fablica de Mauricio"
@@ -95,7 +93,9 @@
         "alias_UNK_Q": [
           "M\u00e1rit\u00edus"
         ], 
-        "ne_longitude": 63.525, 
+        "alias_UNK_V": [
+          "Republika Mauritius"
+        ], 
         "longitude": 57.552, 
         "iso": "MU", 
         "sw_latitude": -20.526, 

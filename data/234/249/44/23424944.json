@@ -8,7 +8,7 @@
           [
             [
               -14.442, 
-              -40.400
+              -40.4
             ], 
             [
               -14.442, 
@@ -20,11 +20,11 @@
             ], 
             [
               -5.633, 
-              -40.400
+              -40.4
             ], 
             [
               -14.442, 
-              -40.400
+              -40.4
             ]
           ]
         ]
@@ -66,13 +66,12 @@
         "alias_ITA_Q": [
           "Sant'Elena"
         ], 
-        "alias_GER_V": [
+        "alias_DAN_Q": [
           "Sankt Helena"
         ], 
         "alias_CHI_V": [
           "\u8056\u8d6b\u502b\u90a3"
         ], 
-        "woeid": 23424944, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
         ], 
@@ -82,6 +81,7 @@
         "sw_longitude": -14.442, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -7.947, 
+        "woe:id": 23424944, 
         "alias_NOR_Q": [
           "St. Helena"
         ], 
@@ -95,7 +95,7 @@
         "alias_DUT_Q": [
           "Sint-Helena"
         ], 
-        "alias_DAN_Q": [
+        "alias_GER_V": [
           "Sankt Helena"
         ], 
         "alias_GER_Q": [
@@ -116,7 +116,7 @@
         "ne_longitude": -5.633, 
         "longitude": -14.342, 
         "iso": "SH", 
-        "sw_latitude": -40.400, 
+        "sw_latitude": -40.4, 
         "alias_FRE_V": [
           "\u00cele Sainte-H\u00e9l\u00e8ne"
         ], 

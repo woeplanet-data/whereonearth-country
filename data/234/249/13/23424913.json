@@ -7,24 +7,108 @@
         "coordinates": [
           [
             [
-              -58.087, 
-              1.831
+              -57.14743648947689, 
+              5.973149929219161
             ], 
             [
-              -58.087, 
-              6.005
+              -55.9493184067898, 
+              5.772877915872002
             ], 
             [
-              -53.977, 
-              6.005
+              -55.841779751190415, 
+              5.95312531170606
             ], 
             [
-              -53.977, 
-              1.831
+              -55.033250291551774, 
+              6.025291449401664
             ], 
             [
-              -58.087, 
-              1.831
+              -53.9580446030709, 
+              5.756548163267765
+            ], 
+            [
+              -54.47863298197923, 
+              4.896755682795586
+            ], 
+            [
+              -54.399542202356514, 
+              4.212611395683467
+            ], 
+            [
+              -54.00693050801901, 
+              3.620037746592558
+            ], 
+            [
+              -54.181726040246275, 
+              3.189779771330421
+            ], 
+            [
+              -54.2697051662232, 
+              2.732391669115046
+            ], 
+            [
+              -54.524754197799716, 
+              2.311848863123785
+            ], 
+            [
+              -55.09758744975514, 
+              2.523748073736613
+            ], 
+            [
+              -55.569755011606, 
+              2.421506252447131
+            ], 
+            [
+              -55.973322109589375, 
+              2.510363877773017
+            ], 
+            [
+              -56.0733418442903, 
+              2.220794989425499
+            ], 
+            [
+              -55.905600145070885, 
+              2.02199575439866
+            ], 
+            [
+              -55.995698004771754, 
+              1.817667141116601
+            ], 
+            [
+              -56.539385748914555, 
+              1.899522609866921
+            ], 
+            [
+              -57.15009782573991, 
+              2.768926906745406
+            ], 
+            [
+              -57.28143347840971, 
+              3.333491929534119
+            ], 
+            [
+              -57.60156897645787, 
+              3.334654649260685
+            ], 
+            [
+              -58.04469438336068, 
+              4.060863552258382
+            ], 
+            [
+              -57.8602095200787, 
+              4.57680105226045
+            ], 
+            [
+              -57.91428890647214, 
+              4.812626451024414
+            ], 
+            [
+              -57.307245856339506, 
+              5.073566595882227
+            ], 
+            [
+              -57.14743648947689, 
+              5.973149929219161
             ]
           ]
         ]
@@ -41,62 +125,91 @@
           "Surinam"
         ], 
         "ne_latitude": 6.005, 
+        "ne:ScaleRank": 1, 
         "alias_RUM_Q": [
           "Surinam"
         ], 
-        "alias_UNK_V": [
-          "Republika Surinam"
-        ], 
+        "ne_longitude": -53.977, 
         "placetype": "Country", 
         "alias_KOR_Q": [
           "\uc218\ub9ac\ub0a8"
         ], 
+        "ne:SUBUNIT": "Suriname", 
+        "ne:ISO_N3": 740.0, 
+        "ne:ADM0_A3": "SUR", 
         "alias_SWE_Q": [
           "Surinam"
         ], 
         "alias_CHI_Q": [
           "\u8607\u5229\u5357"
         ], 
-        "alias_GER_V": [
-          "Republik Suriname"
+        "alias_DAN_Q": [
+          "Surinam"
         ], 
+        "ne:NAME": "Suriname", 
         "alias_CHI_V": [
           "\u8607\u5229\u5357"
         ], 
-        "woeid": 23424913, 
         "alias_JPN_Q": [
           "\u30b9\u30ea\u30ca\u30e0"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30b9\u30ea\u30ca\u30e0\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Surinam"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "SUR", 
         "sw_longitude": -58.087, 
+        "ne:GDP_MD_EST": 4254.0, 
         "alias_FIN_V": [
           "Surinamista"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 3.918, 
+        "woe:id": 23424913, 
         "alias_NOR_Q": [
           "Surinam"
         ], 
+        "ne:ISO_A3": "SUR", 
+        "ne:ISO_A2": "SR", 
         "date_indexed": "2010-12-02T12:16:16Z", 
+        "ne:NAME_SORT": "Suriname", 
+        "ne:GU_A3": "SUR", 
+        "ne:MAP_COLOR": 6.0, 
+        "ne:ADMIN": "Suriname", 
+        "ne:SU_A3": "SUR", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Sur.", 
         "alias_CZE_Q": [
           "Surinam"
         ], 
-        "alias_DAN_Q": [
-          "Surinam"
+        "alias_GER_V": [
+          "Republik Suriname"
         ], 
+        "ne:SOVEREIGNT": "Suriname", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Suriname", 
         "name": "Suriname", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
-        "ne_longitude": -53.977, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "SR", 
+        "alias_UNK_V": [
+          "Republika Surinam"
+        ], 
         "longitude": -56.032, 
+        "ne:POP_EST": 481267.0, 
         "iso": "SR", 
         "sw_latitude": 1.831, 
-        "fullname": "Suriname"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Suriname", 
+        "ne:NAME_FORMA": "Republic of Suriname"
       }, 
       "id": 23424913
     }

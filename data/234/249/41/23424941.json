@@ -41,9 +41,7 @@
           "Seszele"
         ], 
         "ne_latitude": -3.712, 
-        "alias_UNK_V": [
-          "Seychellerne"
-        ], 
+        "ne_longitude": 56.279, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc138\uc774\uc258"
@@ -57,8 +55,8 @@
         "alias_CHI_Q": [
           "\u585e\u5e2d\u723e"
         ], 
-        "alias_GER_V": [
-          "Republik Seychellen"
+        "alias_DAN_Q": [
+          "Seychellerne"
         ], 
         "alias_ITA_V": [
           "Seicelle"
@@ -66,7 +64,6 @@
         "alias_CHI_V": [
           "\u585e\u5e2d\u723e"
         ], 
-        "woeid": 23424941, 
         "alias_JPN_Q": [
           "\u30bb\u30fc\u30b7\u30a7\u30eb"
         ], 
@@ -79,6 +76,7 @@
         "sw_longitude": 46.199, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -4.684, 
+        "woe:id": 23424941, 
         "alias_NOR_Q": [
           "Seychellene"
         ], 
@@ -92,8 +90,8 @@
         "alias_CZE_Q": [
           "Seychely"
         ], 
-        "alias_DAN_Q": [
-          "Seychellerne"
+        "alias_GER_V": [
+          "Republik Seychellen"
         ], 
         "alias_GER_Q": [
           "Seychellen"
@@ -104,7 +102,9 @@
         "alias_HUN_Q": [
           "Seychelle-Szigetek"
         ], 
-        "ne_longitude": 56.279, 
+        "alias_UNK_V": [
+          "Seychellerne"
+        ], 
         "longitude": 55.487, 
         "iso": "SC", 
         "sw_latitude": -10.217, 

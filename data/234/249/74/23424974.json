@@ -7,24 +7,112 @@
         "coordinates": [
           [
             [
-              29.573, 
-              -1.484
+              31.86617, 
+              -1.02736
             ], 
             [
-              29.573, 
-              4.214
+              30.769860000000108, 
+              -1.01455
             ], 
             [
-              35.036, 
-              4.214
+              30.419104852019302, 
+              -1.134659112150416
             ], 
             [
-              35.036, 
-              -1.484
+              29.821518588996128, 
+              -1.443322442229771
             ], 
             [
-              29.573, 
-              -1.484
+              29.579466180141026, 
+              -1.341313164885605
+            ], 
+            [
+              29.58783776217217, 
+              -0.587405694179381
+            ], 
+            [
+              29.8195, 
+              -0.2053
+            ], 
+            [
+              29.875778842902434, 
+              0.597379868976361
+            ], 
+            [
+              30.08615359876279, 
+              1.062312730306417
+            ], 
+            [
+              30.46850752129029, 
+              1.583805446779706
+            ], 
+            [
+              30.85267011894814, 
+              1.849396470543752
+            ], 
+            [
+              31.17414920423596, 
+              2.204465236821306
+            ], 
+            [
+              30.77332, 
+              2.339890000000139
+            ], 
+            [
+              30.83385, 
+              3.50917
+            ], 
+            [
+              31.24556, 
+              3.7819
+            ], 
+            [
+              31.88145, 
+              3.55827
+            ], 
+            [
+              32.68642, 
+              3.79232
+            ], 
+            [
+              33.3900000000001, 
+              3.79
+            ], 
+            [
+              34.005, 
+              4.249884947362148
+            ], 
+            [
+              34.47913, 
+              3.5556
+            ], 
+            [
+              34.59607, 
+              3.053740000000118
+            ], 
+            [
+              35.03599, 
+              1.90584
+            ], 
+            [
+              34.6721, 
+              1.17694
+            ], 
+            [
+              34.18, 
+              0.515
+            ], 
+            [
+              33.893568969667, 
+              0.109813537861839
+            ], 
+            [
+              33.9037111971046, 
+              -0.95
+            ], 
+            [
+              31.86617, 
+              -1.02736
             ]
           ]
         ]
@@ -34,45 +122,74 @@
         "alias_ENG_V": [
           "Ugandan"
         ], 
-        "alias_KOR_Q": [
-          "\uc6b0\uac04\ub2e4"
-        ], 
-        "ne_latitude": 4.214, 
-        "placetype": "Country", 
         "alias_ENG_A": [
           "UGA"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 4.214, 
+        "ne:NAME_SORT": "Uganda", 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\uc6b0\uac04\ub2e4"
+        ], 
+        "ne:SUBUNIT": "Uganda", 
+        "ne:ISO_N3": 800.0, 
+        "ne:ADM0_A3": "UGA", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u5e72\u9054"
         ], 
+        "ne:NAME": "Uganda", 
         "alias_CHI_V": [
           "\u4e4c\u5e72\u8fbe"
         ], 
-        "woeid": 23424974, 
         "alias_JPN_Q": [
           "\u30a6\u30ac\u30f3\u30c0"
         ], 
         "alias_JPN_V": [
           "\u30a6\u30ac\u30f3\u30c0\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "UGA", 
         "sw_longitude": 29.573, 
+        "ne:GDP_MD_EST": 39380.0, 
+        "ne:SU_A3": "UGA", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.365, 
+        "woe:id": 23424974, 
+        "ne:ISO_A3": "UGA", 
+        "ne:ISO_A2": "UG", 
         "date_indexed": "2010-12-02T10:22:43Z", 
+        "ne:NAME_FORMA": null, 
+        "ne:GU_A3": "UGA", 
+        "ne:MAP_COLOR": 4.0, 
+        "ne:ADMIN": "Uganda", 
+        "ne:GEOUNIT": "Uganda", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Oeganda"
         ], 
+        "ne:ABBREV": "Uga.", 
+        "ne:SOVEREIGNT": "Uganda", 
         "lang": "ENG", 
         "name": "Uganda", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "\u00daganda"
         ], 
+        "ne:POSTAL": "UG", 
         "ne_longitude": 35.036, 
         "longitude": 32.305, 
+        "ne:POP_EST": 32369558.0, 
         "iso": "UG", 
         "sw_latitude": -1.484, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Uganda", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ouganda"
         ]

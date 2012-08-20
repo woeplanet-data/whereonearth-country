@@ -7,30 +7,63 @@
         "coordinates": [
           [
             [
-              -10.651, 
-              51.425
+              -6.197884894220991, 
+              53.867565009163364
             ], 
             [
-              -10.651, 
-              55.436
+              -6.032985398777611, 
+              53.15316417094435
             ], 
             [
-              -6.003, 
-              55.436
+              -6.788856573910849, 
+              52.260117906292336
             ], 
             [
-              -6.003, 
-              51.425
+              -8.56161658368356, 
+              51.669301255899356
             ], 
             [
-              -10.651, 
-              51.425
+              -9.977085740590269, 
+              51.82045482035308
+            ], 
+            [
+              -9.166282517930782, 
+              52.86462881124268
+            ], 
+            [
+              -9.688524542672454, 
+              53.8813626165853
+            ], 
+            [
+              -8.327987433292009, 
+              54.66451894796863
+            ], 
+            [
+              -7.572167934591064, 
+              55.13162221945487
+            ], 
+            [
+              -7.366030646178785, 
+              54.59584096945272
+            ], 
+            [
+              -7.572167934591064, 
+              54.059956366586
+            ], 
+            [
+              -6.953730231138067, 
+              54.073702297575636
+            ], 
+            [
+              -6.197884894220991, 
+              53.867565009163364
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Ireland Republic Of"
         ], 
@@ -41,12 +74,12 @@
           "Irlandia"
         ], 
         "ne_latitude": 55.436, 
+        "ne:ISO_A3": "IRL", 
+        "ne:GU_A3": "IRL", 
         "alias_RUM_Q": [
           "Irlanda"
         ], 
-        "alias_UNK_V": [
-          "Irlandia"
-        ], 
+        "ne_longitude": -6.003, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc544\uc77c\ub79c\ub4dc"
@@ -60,14 +93,19 @@
         "alias_ENG_A": [
           "IE"
         ], 
+        "ne:SUBUNIT": "Ireland", 
+        "ne:POSTAL": "IRL", 
+        "ne:ISO_N3": 372.0, 
+        "ne:ADM0_A3": "IRL", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u611b\u723e\u862d"
         ], 
         "alias_ITA_Q": [
           "Irlanda"
         ], 
-        "alias_GER_V": [
-          "Republik Irland"
+        "alias_DAN_Q": [
+          "Irland"
         ], 
         "alias_ITA_V": [
           "Repubblica d'Irlanda"
@@ -75,55 +113,72 @@
         "alias_CHI_V": [
           "\u7231\u5c14\u5170"
         ], 
-        "woeid": 23424803, 
         "alias_JPN_Q": [
           "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Irlanda"
         ], 
         "alias_FIN_Q": [
           "Irlannin"
         ], 
+        "ne:SOV_A3": "IRL", 
         "sw_longitude": -10.651, 
+        "ne:GDP_MD_EST": 188400.0, 
         "alias_FIN_V": [
           "Irlannista"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 53.420, 
+        "latitude": 53.42, 
+        "woe:id": 23424803, 
         "alias_NOR_Q": [
           "Irland"
         ], 
         "alias_NOR_V": [
           "Republikken Irland"
         ], 
+        "ne:ISO_A2": "IE", 
         "date_indexed": "2010-12-02T12:08:06Z", 
+        "ne:NAME_SORT": "Ireland", 
         "alias_KOR_Q": [
           "\uc544\uc77c\ub79c\ub4dc \uc12c"
         ], 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Ireland", 
+        "ne:SU_A3": "IRL", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Rep\u00fablica de Irlanda"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Ierland"
         ], 
+        "ne:ABBREV": "Ire.", 
         "alias_CZE_Q": [
           "Irsko"
         ], 
-        "alias_DAN_Q": [
-          "Irland"
+        "alias_GER_V": [
+          "Republik Irland"
         ], 
         "alias_GER_Q": [
           "Irland"
         ], 
+        "ne:SOVEREIGNT": "Ireland", 
+        "ne:NAME": "Ireland", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Ireland", 
         "name": "Ireland", 
         "alias_CZE_V": [
           "Irsk\u00e1 republika"
         ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Irska"
@@ -134,8 +189,12 @@
         "alias_HUN_V": [
           "\u00cdrorsz\u00e1g"
         ], 
-        "ne_longitude": -6.003, 
+        "alias_UNK_V": [
+          "Irlandia"
+        ], 
         "longitude": -8.241, 
+        "ne:POP_EST": 4203200.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "IE", 
         "sw_latitude": 51.425, 
         "alias_HUN_S": [
@@ -145,6 +204,8 @@
           "Republica Irlanda"
         ], 
         "fullname": "Ireland", 
+        "ne:NAME_FORMA": null, 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Irlande"
         ]

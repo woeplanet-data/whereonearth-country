@@ -8,7 +8,7 @@
           [
             [
               -63.435, 
-              18.150
+              18.15
             ], 
             [
               -63.435, 
@@ -20,11 +20,11 @@
             ], 
             [
               -62.916, 
-              18.150
+              18.15
             ], 
             [
               -63.435, 
-              18.150
+              18.15
             ]
           ]
         ]
@@ -51,7 +51,6 @@
         "alias_CHI_Q": [
           "\u5b89\u572d\u62c9"
         ], 
-        "woeid": 23424751, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30b0\u30a3\u30e9"
         ], 
@@ -64,6 +63,7 @@
         "sw_longitude": -63.435, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.225, 
+        "woe:id": 23424751, 
         "date_indexed": "2010-12-02T17:43:23Z", 
         "lang": "ENG", 
         "name": "Anguilla", 
@@ -71,7 +71,7 @@
         "ne_longitude": -62.916, 
         "longitude": -63.072, 
         "iso": "AI", 
-        "sw_latitude": 18.150, 
+        "sw_latitude": 18.15, 
         "fullname": "Anguilla"
       }, 
       "id": 23424751

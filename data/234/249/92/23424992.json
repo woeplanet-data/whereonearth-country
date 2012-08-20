@@ -34,13 +34,13 @@
         "alias_ENG_V": [
           "Western Samoa"
         ], 
-        "alias_ENG_A": [
-          "WS"
+        "alias_KOR_Q": [
+          "\uc0ac\ubaa8\uc544"
         ], 
         "ne_latitude": -13.432, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\uc0ac\ubaa8\uc544"
+        "alias_ENG_A": [
+          "WS"
         ], 
         "alias_CHI_Q": [
           "\u85a9\u6469\u4e9e"
@@ -51,7 +51,6 @@
         "alias_CHI_V": [
           "\u8428\u6469\u4e9a"
         ], 
-        "woeid": 23424992, 
         "alias_JPN_Q": [
           "\u30b5\u30e2\u30a2"
         ], 
@@ -63,6 +62,7 @@
           "Samoa Occidental"
         ], 
         "latitude": -13.617, 
+        "woe:id": 23424992, 
         "date_indexed": "2010-12-02T16:50:25Z", 
         "provider": "geoplanet 7.6.0", 
         "alias_GER_V": [

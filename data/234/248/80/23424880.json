@@ -7,24 +7,52 @@
         "coordinates": [
           [
             [
-              27.029, 
-              -30.669
+              28.978262566857243, 
+              -28.95559661226171
             ], 
             [
-              27.029, 
-              -28.572
+              29.32516645683259, 
+              -29.257386976846256
             ], 
             [
-              29.466, 
-              -28.572
+              29.018415154748027, 
+              -29.74376555757737
             ], 
             [
-              29.466, 
-              -30.669
+              28.84839969250774, 
+              -30.070050551068256
             ], 
             [
-              27.029, 
-              -30.669
+              28.29106937023991, 
+              -30.2262167294543
+            ], 
+            [
+              28.107204624145425, 
+              -30.54573211031495
+            ], 
+            [
+              27.749397006956485, 
+              -30.645105889612225
+            ], 
+            [
+              26.999261915807637, 
+              -29.875953871379984
+            ], 
+            [
+              27.532511020627478, 
+              -29.24271087007536
+            ], 
+            [
+              28.074338413207784, 
+              -28.851468601193588
+            ], 
+            [
+              28.541700066855498, 
+              -28.64750172293757
+            ], 
+            [
+              28.978262566857243, 
+              -28.95559661226171
             ]
           ]
         ]
@@ -37,10 +65,9 @@
         "alias_ENG_A": [
           "LS"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": -28.572, 
-        "alias_UNK_V": [
-          "Kraljevina Lesoto"
-        ], 
+        "ne_longitude": 29.466, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Lesoto"
@@ -48,43 +75,73 @@
         "alias_KOR_Q": [
           "\ub808\uc18c\ud1a0"
         ], 
+        "ne:SUBUNIT": "Lesotho", 
+        "ne:ISO_N3": 426.0, 
+        "ne:ADM0_A3": "LSO", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cf4\u7d22\u6258"
         ], 
+        "ne:NAME": "Lesotho", 
         "alias_CHI_V": [
           "\u8cf4\u7d22\u6258"
         ], 
-        "woeid": 23424880, 
         "alias_JPN_Q": [
           "\u30ec\u30bd\u30c8"
         ], 
         "alias_JPN_V": [
           "\u30ec\u30bd\u30c8\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Lesoto"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "LSO", 
         "sw_longitude": 27.029, 
+        "ne:GDP_MD_EST": 3293.0, 
+        "ne:SU_A3": "LSO", 
         "alias_SPA_V": [
           "Lesoto o Lesotho"
         ], 
         "latitude": -29.621, 
+        "woe:id": 23424880, 
+        "ne:ISO_A3": "LSO", 
+        "ne:ISO_A2": "LS", 
         "date_indexed": "2010-12-02T08:57:23Z", 
+        "ne:NAME_SORT": "Lesotho", 
+        "ne:GU_A3": "LSO", 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "Lesotho", 
+        "ne:GEOUNIT": "Lesotho", 
+        "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Les.", 
         "alias_GER_V": [
           "K\u00f6nigreich Lesotho"
         ], 
+        "ne:SOVEREIGNT": "Lesotho", 
         "alias_GER_S": [
           "Konigreich Lesotho"
         ], 
         "lang": "ENG", 
         "name": "Lesotho", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
-        "ne_longitude": 29.466, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "LS", 
+        "alias_UNK_V": [
+          "Kraljevina Lesoto"
+        ], 
         "longitude": 28.247, 
+        "ne:POP_EST": 2130819.0, 
         "iso": "LS", 
         "sw_latitude": -30.669, 
-        "fullname": "Lesotho"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Lesotho", 
+        "ne:NAME_FORMA": "Republic of Lesotho"
       }, 
       "id": 23424880
     }

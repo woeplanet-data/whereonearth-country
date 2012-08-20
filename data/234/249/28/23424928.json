@@ -39,10 +39,9 @@
         ], 
         "ne_latitude": 35.985, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ubd84\uc7c1\uc9c0\uc5ed"
+        "alias_ENG_A": [
+          "XX"
         ], 
-        "woeid": 23424928, 
         "alias_JPN_Q": [
           "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
         ], 
@@ -55,12 +54,13 @@
         "alias_NOR_S": [
           "Omstridt omrade"
         ], 
+        "woe:id": 23424928, 
         "alias_NOR_Q": [
           "Omstridt omr\u00e5de"
         ], 
-        "date_indexed": "2010-12-02T10:19:56Z", 
-        "alias_ENG_A": [
-          "XX"
+        "sw_latitude": 30.579, 
+        "alias_KOR_Q": [
+          "\ubd84\uc7c1\uc9c0\uc5ed"
         ], 
         "lang": "ENG", 
         "name": "Disputed Territory", 
@@ -68,7 +68,7 @@
         "ne_longitude": 80.343, 
         "longitude": 79.099, 
         "iso": "XX", 
-        "sw_latitude": 30.579, 
+        "date_indexed": "2010-12-02T10:19:56Z", 
         "fullname": "Disputed Territory"
       }, 
       "id": 23424928

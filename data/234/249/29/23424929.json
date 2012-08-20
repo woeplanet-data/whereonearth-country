@@ -8,7 +8,7 @@
           [
             [
               -16.718, 
-              10.860
+              10.86
             ], 
             [
               -16.718, 
@@ -20,11 +20,11 @@
             ], 
             [
               -13.637, 
-              10.860
+              10.86
             ], 
             [
               -16.718, 
-              10.860
+              10.86
             ]
           ]
         ]
@@ -66,7 +66,6 @@
         "alias_CHI_V": [
           "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
         ], 
-        "woeid": 23424929, 
         "alias_JPN_Q": [
           "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6"
         ], 
@@ -76,6 +75,7 @@
         "sw_longitude": -16.718, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 11.803, 
+        "woe:id": 23424929, 
         "date_indexed": "2010-12-02T09:57:34Z", 
         "alias_DUT_Q": [
           "Guinee-Bissau"
@@ -95,7 +95,7 @@
         "ne_longitude": -13.637, 
         "longitude": -15.177, 
         "iso": "GW", 
-        "sw_latitude": 10.860, 
+        "sw_latitude": 10.86, 
         "fullname": "Guinea-Bissau", 
         "alias_FRE_Q": [
           "Guin\u00e9e-Bissau"

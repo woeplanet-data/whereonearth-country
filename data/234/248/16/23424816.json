@@ -40,16 +40,14 @@
         "alias_SWE_Q": [
           "F\u00e4r\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Owcze"
+        "alias_SWE_S": [
+          "Faroarna"
         ], 
         "ne_latitude": 62.401, 
         "alias_RUM_Q": [
           "Insulele Feroe"
         ], 
-        "alias_UNK_V": [
-          "Farers'ki ostrovy"
-        ], 
+        "ne_longitude": -6.259, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud30c\ub85c\uc5d0 \uad70\ub3c4"
@@ -66,17 +64,14 @@
         "alias_POR_S": [
           "Faroe"
         ], 
-        "alias_CZE_Q": [
-          "Faersk\u00e9 Ostrovy"
-        ], 
         "alias_ITA_S": [
           "Isole Faeroeer"
         ], 
         "alias_ITA_Q": [
           "Isole F\u00e6r \u00d8er"
         ], 
-        "alias_GER_V": [
-          "F\u00e4r\u00f6er-Inseln"
+        "alias_DAN_Q": [
+          "F\u00e6r\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Faroe, isole"
@@ -84,12 +79,11 @@
         "alias_CHI_V": [
           "\u6cd5\u7f57\u7fa4\u5c9b"
         ], 
-        "woeid": 23424816, 
         "alias_JPN_Q": [
           "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Faroarna"
+        "alias_POL_Q": [
+          "Wyspy Owcze"
         ], 
         "alias_SPA_Q": [
           "Islas Feroe"
@@ -106,6 +100,7 @@
         "alias_NOR_S": [
           "Faeroyene"
         ], 
+        "woe:id": 23424816, 
         "alias_NOR_Q": [
           "F\u00e6r\u00f8yene"
         ], 
@@ -116,26 +111,29 @@
         "alias_KOR_Q": [
           "\ud398\ub85c \uc81c\ub3c4"
         ], 
+        "alias_DUT_V": [
+          "Faero\u00ebr eilanden"
+        ], 
+        "alias_RUM_V": [
+          "Insulele Faroe"
+        ], 
         "alias_DUT_Q": [
           "Faer\u00f6er"
         ], 
         "alias_DUT_S": [
           "Faeroer eilanden"
         ], 
-        "alias_DUT_V": [
-          "Faero\u00ebr eilanden"
+        "alias_CZE_Q": [
+          "Faersk\u00e9 Ostrovy"
         ], 
         "alias_DAN_S": [
           "Faeroerne"
         ], 
-        "alias_DAN_Q": [
-          "F\u00e6r\u00f8erne"
+        "alias_GER_V": [
+          "F\u00e4r\u00f6er-Inseln"
         ], 
         "alias_GER_Q": [
           "F\u00e4r\u00f6er"
-        ], 
-        "alias_FRE_V": [
-          "Iles F\u00e9ro\u00e9"
         ], 
         "alias_GER_S": [
           "Faeroeer"
@@ -155,12 +153,14 @@
         "alias_HUN_V": [
           "F\u00e1ra\u00f3-szigetek"
         ], 
-        "ne_longitude": -6.259, 
-        "longitude": -6.990, 
+        "alias_UNK_V": [
+          "Farers'ki ostrovy"
+        ], 
+        "longitude": -6.99, 
         "iso": "FO", 
         "sw_latitude": 61.395, 
-        "alias_RUM_V": [
-          "Insulele Faroe"
+        "alias_FRE_V": [
+          "Iles F\u00e9ro\u00e9"
         ], 
         "fullname": "F\u00f8royar, Faroe Islands", 
         "alias_FRE_S": [

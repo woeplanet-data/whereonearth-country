@@ -3,50 +3,197 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              155.509, 
-              -12.292
-            ], 
+              [
+                162.11902469304087, 
+                -10.482719008021135
+              ], 
+              [
+                162.39864586817222, 
+                -10.82636728276212
+              ], 
+              [
+                161.70003218001838, 
+                -10.820011081590224
+              ], 
+              [
+                161.31979699121476, 
+                -10.204751478723125
+              ], 
+              [
+                161.917383254238, 
+                -10.446700534713656
+              ], 
+              [
+                162.11902469304087, 
+                -10.482719008021135
+              ]
+            ]
+          ], 
+          [
             [
-              155.509, 
-              -5.166
-            ], 
+              [
+                160.85222863183796, 
+                -9.872937106977005
+              ], 
+              [
+                160.46258833235729, 
+                -9.895209649294841
+              ], 
+              [
+                159.8494474632142, 
+                -9.794027194867368
+              ], 
+              [
+                159.64000288313517, 
+                -9.63997975020527
+              ], 
+              [
+                159.70294477766666, 
+                -9.242949720906779
+              ], 
+              [
+                160.36295617089846, 
+                -9.400304457235535
+              ], 
+              [
+                160.6885176943372, 
+                -9.610162448772812
+              ], 
+              [
+                160.85222863183796, 
+                -9.872937106977005
+              ]
+            ]
+          ], 
+          [
             [
-              170.200, 
-              -5.166
-            ], 
+              [
+                161.67998172428915, 
+                -9.599982191611375
+              ], 
+              [
+                161.52939660059056, 
+                -9.784312025596435
+              ], 
+              [
+                160.78825320866056, 
+                -8.91754322676492
+              ], 
+              [
+                160.57999718652437, 
+                -8.320008640173967
+              ], 
+              [
+                160.92002811100494, 
+                -8.320008640173967
+              ], 
+              [
+                161.28000613835, 
+                -9.120011488484451
+              ], 
+              [
+                161.67998172428915, 
+                -9.599982191611375
+              ]
+            ]
+          ], 
+          [
             [
-              170.200, 
-              -12.292
-            ], 
+              [
+                159.8750272971986, 
+                -8.337320244991716
+              ], 
+              [
+                159.917401971678, 
+                -8.538289890174866
+              ], 
+              [
+                159.1336771995394, 
+                -8.1141814103554
+              ], 
+              [
+                158.58611372297472, 
+                -7.754823500197716
+              ], 
+              [
+                158.21114953026486, 
+                -7.421872246941149
+              ], 
+              [
+                158.35997765526545, 
+                -7.320017998893917
+              ], 
+              [
+                158.82000125552773, 
+                -7.560003350457393
+              ], 
+              [
+                159.64000288313517, 
+                -8.020026950719569
+              ], 
+              [
+                159.8750272971986, 
+                -8.337320244991716
+              ]
+            ]
+          ], 
+          [
             [
-              155.509, 
-              -12.292
+              [
+                157.5384257346893, 
+                -7.347819919466929
+              ], 
+              [
+                157.33941979393327, 
+                -7.404767347852555
+              ], 
+              [
+                156.9020304710148, 
+                -7.176874281445393
+              ], 
+              [
+                156.49135786359133, 
+                -6.765943291860395
+              ], 
+              [
+                156.54282759015396, 
+                -6.59933847415148
+              ], 
+              [
+                157.1400004417189, 
+                -7.021638278840655
+              ], 
+              [
+                157.5384257346893, 
+                -7.347819919466929
+              ]
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Solomon Islander"
         ], 
         "alias_SWE_Q": [
           "Salomon\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Salomona"
+        "alias_SWE_S": [
+          "Salomonoarna"
         ], 
         "ne_latitude": -5.166, 
+        "ne:SUBUNIT": "Solomon Islands", 
+        "ne:GU_A3": "SLB", 
         "alias_RUM_Q": [
           "Insulele Solomon"
         ], 
-        "alias_UNK_V": [
-          "Salomon\u00f8erne"
-        ], 
+        "ne_longitude": 170.2, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc194\ub85c\ubaac"
@@ -60,17 +207,18 @@
         "alias_POR_S": [
           "Ilhas Salomao"
         ], 
-        "alias_CZE_Q": [
-          "\u0160alamounovy Ostrovy"
-        ], 
+        "ne:POSTAL": "SB", 
+        "ne:ISO_N3": 90.0, 
+        "ne:ADM0_A3": "SLB", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d22\u7f85\u9580\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Salomone"
         ], 
-        "alias_GER_V": [
-          "Solomon-Inseln"
+        "alias_DAN_Q": [
+          "Salomon\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Salomone, isole"
@@ -78,13 +226,13 @@
         "alias_CHI_V": [
           "\u7d22\u7f85\u9580\u7fa4\u5cf6"
         ], 
-        "woeid": 23424766, 
         "alias_JPN_Q": [
           "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Salomonoarna"
+        "alias_POL_Q": [
+          "Wyspy Salomona"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Salom\u00f3n"
         ], 
@@ -94,7 +242,9 @@
         "alias_SPA_S": [
           "Islas Salomon"
         ], 
+        "ne:SOV_A3": "SLB", 
         "sw_longitude": 155.509, 
+        "ne:GDP_MD_EST": 1078.0, 
         "alias_FIN_V": [
           "Solomonsaaret"
         ], 
@@ -103,32 +253,51 @@
         "alias_NOR_S": [
           "Salomonoyene"
         ], 
+        "woe:id": 23424766, 
         "alias_NOR_Q": [
           "Salomon\u00f8yene"
         ], 
+        "ne:ISO_A3": "SLB", 
+        "ne:ISO_A2": "SB", 
         "date_indexed": "2010-12-02T09:35:31Z", 
+        "ne:NAME_SORT": "Solomon Islands", 
         "alias_KOR_Q": [
           "\uc194\ub85c\ubaac \uc81c\ub3c4"
         ], 
+        "ne:MAP_COLOR": 6.0, 
+        "ne:ADMIN": "Solomon Islands", 
+        "ne:SU_A3": "SLB", 
+        "alias_DUT_V": [
+          "Salomoneilanden"
+        ], 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Salom\u00f3n"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Salomonseilanden"
         ], 
-        "alias_DUT_V": [
-          "Salomoneilanden"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "S. Is.", 
+        "alias_CZE_Q": [
+          "\u0160alamounovy Ostrovy"
         ], 
         "alias_DAN_S": [
           "Salomonoerne"
         ], 
-        "alias_DAN_Q": [
-          "Salomon\u00f8erne"
+        "alias_GER_V": [
+          "Solomon-Inseln"
         ], 
         "alias_GER_Q": [
           "Salomonen"
         ], 
+        "ne:SOVEREIGNT": "Solomon Islands", 
+        "ne:NAME": "Solomon Is.", 
         "lang": "ENG", 
+        "ne:TYPE": "Sovereign country", 
+        "ne:GEOUNIT": "Solomon Islands", 
         "name": "Solomon Islands", 
         "alias_UNK_S": [
           "Salomonoerne"
@@ -140,14 +309,20 @@
         "alias_HUN_Q": [
           "Salamon-Szigetek"
         ], 
-        "ne_longitude": 170.200, 
+        "alias_UNK_V": [
+          "Salomon\u00f8erne"
+        ], 
         "longitude": 160.209, 
+        "ne:POP_EST": 595613.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "SB", 
         "sw_latitude": -12.292, 
         "alias_FRE_V": [
           "\u00celes Salomon"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Solomon Islands", 
+        "ne:NAME_FORMA": null, 
         "alias_FRE_S": [
           "Iles Salomon"
         ], 

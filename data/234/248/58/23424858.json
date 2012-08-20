@@ -7,24 +7,48 @@
         "coordinates": [
           [
             [
-              -78.367, 
-              16.950
+              -77.56960079619921, 
+              18.490525417550487
             ], 
             [
-              -78.367, 
-              18.527
+              -76.89661861846213, 
+              18.400866807524082
             ], 
             [
-              -75.983, 
-              18.527
+              -76.36535905628554, 
+              18.160700588447597
             ], 
             [
-              -75.983, 
-              16.950
+              -76.19965857614164, 
+              17.886867173732966
             ], 
             [
-              -78.367, 
-              16.950
+              -76.9025614081757, 
+              17.868237819891746
+            ], 
+            [
+              -77.20634131540348, 
+              17.70111623785982
+            ], 
+            [
+              -77.76602291534061, 
+              17.86159739834224
+            ], 
+            [
+              -78.33771928578561, 
+              18.225967922432233
+            ], 
+            [
+              -78.21772661000388, 
+              18.454532782459196
+            ], 
+            [
+              -77.79736467152563, 
+              18.524218451404778
+            ], 
+            [
+              -77.56960079619921, 
+              18.490525417550487
             ]
           ]
         ]
@@ -34,59 +58,88 @@
         "alias_ENG_V": [
           "Jamaican"
         ], 
-        "alias_KOR_Q": [
-          "\uc790\uba54\uc774\uce74"
+        "alias_ENG_A": [
+          "JM"
         ], 
         "alias_POL_Q": [
           "Jamajka"
         ], 
         "ne_latitude": 18.527, 
+        "ne:NAME_SORT": "Jamaica", 
         "placetype": "Country", 
-        "alias_ENG_A": [
-          "JM"
+        "ne:TERR_": null, 
+        "alias_KOR_Q": [
+          "\uc790\uba54\uc774\uce74"
         ], 
+        "ne:SUBUNIT": "Jamaica", 
+        "ne:ISO_N3": 388.0, 
         "alias_CZE_Q": [
           "Jamajka"
         ], 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7259\u8cb7\u52a0"
         ], 
         "alias_ITA_Q": [
           "Giamaica"
         ], 
+        "ne:NAME": "Jamaica", 
         "alias_CHI_V": [
           "\u7259\u4e70\u52a0"
         ], 
-        "woeid": 23424858, 
+        "ne:ADM0_A3": "JAM", 
         "alias_JPN_Q": [
           "\u30b8\u30e3\u30de\u30a4\u30ab"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:FIPS_10_": 0.0, 
         "alias_FIN_Q": [
           "Jamaika"
         ], 
+        "ne:SOV_A3": "JAM", 
         "sw_longitude": -78.367, 
+        "ne:GDP_MD_EST": 20910.0, 
         "alias_FIN_V": [
           "Jamaikan"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.115, 
+        "woe:id": 23424858, 
+        "ne:ISO_A3": "JAM", 
+        "ne:ISO_A2": "JM", 
         "date_indexed": "2010-12-02T08:59:07Z", 
+        "ne:NAME_FORMA": null, 
+        "ne:GU_A3": "JAM", 
+        "ne:MAP_COLOR": 10.0, 
+        "ne:ADMIN": "Jamaica", 
+        "ne:SU_A3": "JAM", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Jam.", 
         "alias_DUT_V": [
           "Jama\u00efca"
         ], 
+        "ne:GEOUNIT": "Jamaica", 
         "alias_GER_Q": [
           "Jamaika"
         ], 
+        "ne:SOVEREIGNT": "Jamaica", 
         "lang": "ENG", 
         "name": "Jamaica", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Jama\u00edka"
         ], 
+        "ne:POSTAL": "J", 
         "ne_longitude": -75.983, 
         "longitude": -77.273, 
+        "ne:POP_EST": 2825928.0, 
         "iso": "JM", 
-        "sw_latitude": 16.950, 
+        "sw_latitude": 16.95, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Jamaica", 
         "alias_FRE_S": [
           "Jamaique"

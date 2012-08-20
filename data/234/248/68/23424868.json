@@ -7,24 +7,176 @@
         "coordinates": [
           [
             [
-              124.608, 
-              33.106
+              130.64001590385243, 
+              42.39500946712528
             ], 
             [
-              124.608, 
-              38.612
+              130.78000735893113, 
+              42.22000722916885
             ], 
             [
-              130.934, 
-              38.612
+              130.40003055228902, 
+              42.28000356705971
             ], 
             [
-              130.934, 
-              33.106
+              129.96594852103726, 
+              41.94136790625106
             ], 
             [
-              124.608, 
-              33.106
+              129.66736209525482, 
+              41.60110443782523
+            ], 
+            [
+              129.70518924369247, 
+              40.88282786718433
+            ], 
+            [
+              129.18811486218, 
+              40.66180776627199
+            ], 
+            [
+              129.01039961152821, 
+              40.485436102859815
+            ], 
+            [
+              128.63336836152672, 
+              40.18984691015031
+            ], 
+            [
+              127.96741417858135, 
+              40.02541250259756
+            ], 
+            [
+              127.53343550019417, 
+              39.7568500839767
+            ], 
+            [
+              127.5021195822253, 
+              39.32393077245153
+            ], 
+            [
+              127.38543419811027, 
+              39.213472398427655
+            ], 
+            [
+              127.78334272675772, 
+              39.05089834243742
+            ], 
+            [
+              128.34971642467661, 
+              38.61224294692785
+            ], 
+            [
+              128.20574588431145, 
+              38.37039724380189
+            ], 
+            [
+              127.78003543509101, 
+              38.30453563084589
+            ], 
+            [
+              127.07330854706737, 
+              38.2561148137884
+            ], 
+            [
+              126.68371992401893, 
+              37.80477285415118
+            ], 
+            [
+              126.23733890188176, 
+              37.84037791600028
+            ], 
+            [
+              126.17475874237624, 
+              37.74968577732804
+            ], 
+            [
+              125.68910363169721, 
+              37.94001007745902
+            ], 
+            [
+              125.5684391622957, 
+              37.75208873142962
+            ], 
+            [
+              125.2753304383362, 
+              37.669070542952724
+            ], 
+            [
+              125.24008711151316, 
+              37.85722443292744
+            ], 
+            [
+              124.98103315643397, 
+              37.94882090916478
+            ], 
+            [
+              124.71216067921938, 
+              38.10834605564979
+            ], 
+            [
+              124.98599409393398, 
+              38.54847422947968
+            ], 
+            [
+              125.2219486837787, 
+              38.66585724543067
+            ], 
+            [
+              125.13285851450752, 
+              38.84855927179859
+            ], 
+            [
+              125.3865897970606, 
+              39.387957872061165
+            ], 
+            [
+              125.32111575734682, 
+              39.55138458918421
+            ], 
+            [
+              124.7374821310424, 
+              39.66034434667162
+            ], 
+            [
+              124.26562462778531, 
+              39.928493353834156
+            ], 
+            [
+              125.07994184784064, 
+              40.56982371679245
+            ], 
+            [
+              126.18204511932943, 
+              41.10733612727637
+            ], 
+            [
+              126.86908328664987, 
+              41.81656932226619
+            ], 
+            [
+              127.34378299368302, 
+              41.50315176041597
+            ], 
+            [
+              128.20843305879066, 
+              41.46677155208249
+            ], 
+            [
+              128.0522152039723, 
+              41.99428457291795
+            ], 
+            [
+              129.59666873587952, 
+              42.42498179785456
+            ], 
+            [
+              129.99426720593323, 
+              42.985386867843786
+            ], 
+            [
+              130.64001590385243, 
+              42.39500946712528
             ]
           ]
         ]
@@ -40,16 +192,15 @@
         "alias_SWE_Q": [
           "Sydkorea"
         ], 
-        "alias_POL_Q": [
-          "Korea Po\u0142udniowa"
+        "alias_ENG_P": [
+          "South Korea"
         ], 
         "ne_latitude": 38.612, 
+        "ne:POSTAL": "KP", 
         "alias_RUM_Q": [
           "Coreea de Sud"
         ], 
-        "alias_UNK_V": [
-          "Etel\u00e4-Korea"
-        ], 
+        "ne_longitude": 130.934, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\u5927\u97d3\u6c11\u56fd"
@@ -63,34 +214,36 @@
         "alias_ENG_A": [
           "KR"
         ], 
-        "alias_CZE_Q": [
-          "Ji\u017en\u00ed Korea"
-        ], 
+        "ne:SUBUNIT": "North Korea", 
+        "ne:ISO_N3": 408.0, 
+        "ne:ADM0_A3": "PRK", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u97d3\u570b"
         ], 
         "alias_ITA_Q": [
           "Corea del Sud"
         ], 
-        "alias_GER_V": [
-          "Korea (Republik Korea, S\u00fcdkorea)"
+        "alias_DAN_Q": [
+          "Sydkorea"
         ], 
         "alias_ITA_V": [
           "Corea"
         ], 
+        "ne:TERR_": null, 
         "alias_CHI_V": [
           "\u97d3\u570b"
         ], 
-        "woeid": 23424868, 
         "alias_JPN_Q": [
           "\u5927\u97d3\u6c11\u56fd"
         ], 
-        "alias_ENG_P": [
-          "South Korea"
+        "alias_POL_Q": [
+          "Korea Po\u0142udniowa"
         ], 
         "alias_JPN_V": [
           "\u97d3\u56fd\u3001\u5927\u97d3\u6c11\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Corea del Sur"
         ], 
@@ -101,6 +254,9 @@
           "Etela-Korea"
         ], 
         "sw_longitude": 124.608, 
+        "alias_HUN_V": [
+          "Korea, D\u00e9l"
+        ], 
         "alias_FIN_V": [
           "Etel\u00e4-Korea"
         ], 
@@ -109,32 +265,50 @@
         "alias_NOR_S": [
           "Sor-Korea"
         ], 
+        "woe:id": 23424868, 
         "alias_NOR_Q": [
           "S\u00f8r-Korea"
         ], 
         "alias_NOR_V": [
           "Syd-Korea"
         ], 
+        "ne:ISO_A2": "KP", 
         "date_indexed": "2010-12-02T17:53:06Z", 
-        "alias_DAN_V": [
-          "Republikken Korea"
-        ], 
-        "alias_SPA_V": [
-          "Corea, Rep\u00fablica de"
-        ], 
-        "alias_DUT_Q": [
-          "Zuid-Korea"
-        ], 
+        "ne:NAME_SORT": "Korea, North", 
+        "ne:GU_A3": "PRK", 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "North Korea", 
+        "ne:SU_A3": "PRK", 
         "alias_DUT_V": [
           "Korea, Republiek"
         ], 
-        "alias_DAN_Q": [
-          "Sydkorea"
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 40000.0, 
+        "alias_SPA_V": [
+          "Corea, Rep\u00fablica de"
         ], 
-        "alias_GER_Q": [
-          "S\u00fcdkorea"
+        "ne:SOV_A3": "PRK", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_DUT_Q": [
+          "Zuid-Korea"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "N. Kor.", 
+        "alias_CZE_Q": [
+          "Ji\u017en\u00ed Korea"
+        ], 
+        "alias_GER_V": [
+          "Korea (Republik Korea, S\u00fcdkorea)"
+        ], 
+        "alias_DAN_V": [
+          "Republikken Korea"
+        ], 
+        "ne:SOVEREIGNT": "North Korea", 
+        "ne:NAME": "N. Korea", 
         "lang": "KOR", 
+        "ne:TYPE": "Sovereign country", 
+        "ne:GEOUNIT": "North Korea", 
         "name": "\ud55c\uad6d", 
         "alias_UNK_S": [
           "Sor-Korea"
@@ -146,17 +320,24 @@
         "alias_HUN_Q": [
           "D\u00e9l-Korea"
         ], 
-        "alias_HUN_V": [
-          "Korea, D\u00e9l"
+        "alias_GER_Q": [
+          "S\u00fcdkorea"
         ], 
-        "ne_longitude": 130.934, 
-        "longitude": 127.850, 
+        "alias_UNK_V": [
+          "Etel\u00e4-Korea"
+        ], 
+        "longitude": 127.85, 
+        "ne:POP_EST": 22665345.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "KR", 
         "sw_latitude": 33.106, 
+        "ne:ISO_A3": "PRK", 
         "alias_FRE_V": [
           "Cor\u00e9e"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "\ud55c\uad6d, South Korea", 
+        "ne:NAME_FORMA": "Democratic People's Republic of Korea", 
         "alias_FRE_S": [
           "Coree du Sud"
         ], 

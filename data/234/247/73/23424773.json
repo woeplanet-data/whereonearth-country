@@ -7,24 +7,36 @@
         "coordinates": [
           [
             [
-              114.071, 
-              4.003
+              114.20401655482837, 
+              4.525873928236805
             ], 
             [
-              114.071, 
-              5.047
+              114.59996137904872, 
+              4.900011298029966
             ], 
             [
-              115.359, 
-              5.047
+              115.45071048386981, 
+              5.447729803891534
             ], 
             [
-              115.359, 
-              4.003
+              115.40570031134361, 
+              4.955227565933839
             ], 
             [
-              114.071, 
-              4.003
+              115.34746097215066, 
+              4.316636053887009
+            ], 
+            [
+              114.8695573263154, 
+              4.348313706881925
+            ], 
+            [
+              114.65959598191353, 
+              4.007636826997754
+            ], 
+            [
+              114.20401655482837, 
+              4.525873928236805
             ]
           ]
         ]
@@ -34,57 +46,86 @@
         "alias_ENG_V": [
           "Brunei, Sultanate Of"
         ], 
-        "alias_ENG_A": [
-          "BN"
-        ], 
-        "ne_latitude": 5.047, 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ube0c\ub8e8\ub098\uc774"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 5.047, 
+        "ne:NAME_SORT": "Brunei", 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "BN"
+        ], 
+        "ne:SUBUNIT": "Brunei", 
+        "ne:ISO_N3": 96.0, 
+        "ne:ADM0_A3": "BRN", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6c76\u840a"
         ], 
+        "ne:NAME": "Brunei", 
         "alias_CHI_V": [
           "\u6c76\u840a"
         ], 
-        "woeid": 23424773, 
         "alias_JPN_Q": [
           "\u30d6\u30eb\u30cd\u30a4"
         ], 
         "alias_JPN_V": [
           "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30c3\u30b5\u30e9\u30fc\u30e0\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Brun\u00e9i"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "BRN", 
         "sw_longitude": 114.071, 
+        "ne:GDP_MD_EST": 20250.0, 
+        "ne:SU_A3": "BRN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 4.525, 
+        "woe:id": 23424773, 
+        "ne:ISO_A3": "BRN", 
+        "ne:ISO_A2": "BN", 
         "date_indexed": "2010-12-02T17:58:12Z", 
+        "ne:NAME_FORMA": "Negara Brunei Darussalam", 
+        "ne:GU_A3": "BRN", 
+        "ne:MAP_COLOR": 12.0, 
+        "ne:ADMIN": "Brunei", 
+        "ne:GEOUNIT": "Brunei", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
           "Brunej Darussalam"
         ], 
+        "ne:ABBREV": "Brunei", 
         "alias_CZE_Q": [
           "Brunej"
         ], 
         "alias_GER_V": [
           "Brunei Darussalam"
         ], 
+        "ne:SOVEREIGNT": "Brunei", 
         "lang": "ENG", 
         "name": "Brunei", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Negara Brunei Darussalam"
         ], 
+        "ne:POSTAL": "BN", 
         "ne_longitude": 115.359, 
         "longitude": 114.599, 
+        "ne:POP_EST": 388190.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "BN", 
         "sw_latitude": 4.003, 
         "alias_FRE_V": [
           "Brun\u00e9i Darussalam"
         ], 
-        "fullname": "Brunei"
+        "fullname": "Brunei", 
+        "ne:SU_DIF": 0.0
       }, 
       "id": 23424773
     }

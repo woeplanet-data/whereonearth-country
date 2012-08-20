@@ -7,24 +7,80 @@
         "coordinates": [
           [
             [
-              -0.147, 
-              6.104
+              1.865240512712319, 
+              6.142157701029731
             ], 
             [
-              -0.147, 
-              11.139
+              1.060121697604927, 
+              5.928837388528876
             ], 
             [
-              1.807, 
-              11.139
+              0.836931186536333, 
+              6.279978745952149
             ], 
             [
-              1.807, 
-              6.104
+              0.570384148774849, 
+              6.914358628767189
             ], 
             [
-              -0.147, 
-              6.104
+              0.490957472342245, 
+              7.411744289576475
+            ], 
+            [
+              0.712029249686879, 
+              8.31246450442383
+            ], 
+            [
+              0.461191847342121, 
+              8.677222601756014
+            ], 
+            [
+              0.365900506195885, 
+              9.465003973829482
+            ], 
+            [
+              0.367579990245389, 
+              10.19121287682718
+            ], 
+            [
+              -0.049784715159944, 
+              10.706917832883931
+            ], 
+            [
+              0.023802524423701, 
+              11.018681748900804
+            ], 
+            [
+              0.899563022474069, 
+              10.99733938236426
+            ], 
+            [
+              0.772335646171484, 
+              10.470808213742359
+            ], 
+            [
+              1.077795037448738, 
+              10.175606594275024
+            ], 
+            [
+              1.425060662450136, 
+              9.825395412633
+            ], 
+            [
+              1.46304284018467, 
+              9.334624335157088
+            ], 
+            [
+              1.664477573258381, 
+              9.12859039960938
+            ], 
+            [
+              1.618950636409238, 
+              6.832038072126238
+            ], 
+            [
+              1.865240512712319, 
+              6.142157701029731
             ]
           ]
         ]
@@ -34,42 +90,71 @@
         "alias_ENG_V": [
           "Togolese"
         ], 
-        "alias_ENG_A": [
-          "TG"
-        ], 
-        "ne_latitude": 11.139, 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ud1a0\uace0"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 11.139, 
+        "ne:NAME_SORT": "Togo", 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "TG"
+        ], 
+        "ne:SUBUNIT": "Togo", 
+        "ne:ISO_N3": 768.0, 
+        "ne:ADM0_A3": "TGO", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u591a\u54e5"
         ], 
-        "woeid": 23424965, 
+        "ne:NAME": "Togo", 
+        "ne:POSTAL": "TG", 
         "alias_JPN_Q": [
           "\u30c8\u30fc\u30b4"
         ], 
         "alias_JPN_V": [
           "\u30c8\u30fc\u30b4\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "TGO", 
         "sw_longitude": -0.147, 
+        "ne:GDP_MD_EST": 5118.0, 
+        "ne:SU_A3": "TGO", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.622, 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 23424965, 
+        "ne:ISO_A3": "TGO", 
+        "ne:ISO_A2": "TG", 
+        "sw_latitude": 6.104, 
+        "ne:NAME_FORMA": "Togolese Republic", 
+        "ne:GU_A3": "TGO", 
+        "ne:MAP_COLOR": 5.0, 
+        "ne:ADMIN": "Togo", 
+        "ne:GEOUNIT": "Togo", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Togo", 
         "alias_GER_V": [
           "Republik Togo"
         ], 
+        "ne:SOVEREIGNT": "Togo", 
         "lang": "ENG", 
         "name": "Togo", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Togolese Republic"
         ], 
         "ne_longitude": 1.807, 
-        "longitude": 0.830, 
+        "longitude": 0.83, 
+        "ne:POP_EST": 6019877.0, 
         "iso": "TG", 
-        "sw_latitude": 6.104, 
-        "fullname": "Togo"
+        "date_indexed": "2010-12-02T17:04:11Z", 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Togo", 
+        "ne:SU_DIF": 0.0
       }, 
       "id": 23424965
     }

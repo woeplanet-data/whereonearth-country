@@ -7,24 +7,92 @@
         "coordinates": [
           [
             [
-              19.276, 
-              39.648
+              20.59024743010491, 
+              41.855404161133606
             ], 
             [
-              19.276, 
-              42.666
+              20.463175083099202, 
+              41.51508901627534
             ], 
             [
-              21.068, 
-              42.666
+              20.605181919037364, 
+              41.086226304685226
             ], 
             [
-              21.068, 
-              39.648
+              21.0200403174764, 
+              40.84272695572588
             ], 
             [
-              19.276, 
-              39.648
+              20.999989861747224, 
+              40.58000397395398
+            ], 
+            [
+              20.674996779063633, 
+              40.43499990494303
+            ], 
+            [
+              20.615000441172754, 
+              40.11000682225938
+            ], 
+            [
+              20.15001590341052, 
+              39.62499766698397
+            ], 
+            [
+              19.980000441170148, 
+              39.69499339452341
+            ], 
+            [
+              19.960001661873207, 
+              39.91500580500605
+            ], 
+            [
+              19.406081984136733, 
+              40.250773423822466
+            ], 
+            [
+              19.319058872157143, 
+              40.72723012955356
+            ], 
+            [
+              19.40354983895429, 
+              41.40956574153546
+            ], 
+            [
+              19.540027296637106, 
+              41.71998607031276
+            ], 
+            [
+              19.37176883309496, 
+              41.877547512370654
+            ], 
+            [
+              19.304486118250793, 
+              42.19574514420782
+            ], 
+            [
+              19.73805138517963, 
+              42.68824738216557
+            ], 
+            [
+              19.801613396898688, 
+              42.50009349219084
+            ], 
+            [
+              20.0707, 
+              42.58863
+            ], 
+            [
+              20.283754510181893, 
+              42.32025950781508
+            ], 
+            [
+              20.52295, 
+              42.21787
+            ], 
+            [
+              20.59024743010491, 
+              41.855404161133606
             ]
           ]
         ]
@@ -37,73 +105,95 @@
         "alias_SWE_Q": [
           "Albanien"
         ], 
-        "alias_POL_Q": [
+        "alias_ENG_P": [
           "Albania"
         ], 
         "ne_latitude": 42.666, 
+        "ne:GU_A3": "ALB", 
         "alias_RUM_Q": [
           "Albania"
         ], 
-        "alias_UNK_V": [
-          "Arubania"
-        ], 
+        "ne_longitude": 21.068, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Alb\u00e2nia"
         ], 
         "alias_ENG_A": [
           "ALB"
         ], 
+        "ne:SUBUNIT": "Albania", 
+        "ne:POSTAL": "AL", 
+        "ne:ISO_N3": 8.0, 
+        "ne:ADM0_A3": "ALB", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u5df4\u5c3c\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Albania"
         ], 
-        "alias_GER_V": [
-          "Republik Albanien"
+        "alias_DAN_Q": [
+          "Albanien"
         ], 
+        "ne:NAME": "Albania", 
         "alias_CHI_V": [
           "\u963f\u5c14\u5df4\u5c3c\u4e9a"
         ], 
-        "woeid": 23424742, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0\u30cb\u30a2"
         ], 
-        "alias_ENG_P": [
+        "alias_POL_Q": [
           "Albania"
         ], 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30d0\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Albania"
         ], 
         "alias_FIN_Q": [
           "Albania"
         ], 
+        "ne:SOV_A3": "ALB", 
         "sw_longitude": 19.276, 
+        "ne:GDP_MD_EST": 21810.0, 
+        "ne:SU_A3": "ALB", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.153, 
+        "woe:id": 23424742, 
         "alias_NOR_Q": [
           "Albania"
         ], 
+        "ne:ISO_A3": "ALB", 
+        "ne:ISO_A2": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
+        "ne:NAME_SORT": "Albania", 
         "alias_KOR_Q": [
           "\uc54c\ubc14\ub2c8\uc544"
         ], 
+        "ne:MAP_COLOR": 6.0, 
+        "ne:ADMIN": "Albania", 
+        "ne:GEOUNIT": "Albania", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Albani\u00eb"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Alb.", 
         "alias_CZE_Q": [
           "Alb\u00e1nie"
         ], 
-        "alias_DAN_Q": [
-          "Albanien"
+        "alias_GER_V": [
+          "Republik Albanien"
         ], 
         "alias_GER_Q": [
           "Albanien"
         ], 
+        "ne:SOVEREIGNT": "Albania", 
         "lang": "UNK", 
         "name": "Shqip\u00ebri", 
         "alias_UNK_S": [
@@ -116,11 +206,18 @@
         "alias_HUN_Q": [
           "Alb\u00e1nia"
         ], 
-        "ne_longitude": 21.068, 
-        "longitude": 20.170, 
+        "alias_UNK_V": [
+          "Arubania"
+        ], 
+        "longitude": 20.17, 
+        "ne:POP_EST": 3639453.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "AL", 
         "sw_latitude": 39.648, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Shqip\u00ebri, Albania", 
+        "ne:NAME_FORMA": "Republic of Albania", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Albanie"
         ]

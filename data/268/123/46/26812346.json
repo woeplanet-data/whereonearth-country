@@ -7,30 +7,71 @@
         "coordinates": [
           [
             [
-              32.273, 
-              34.564
+              33.97361657078346, 
+              35.058506374648005
             ], 
             [
-              32.273, 
-              35.702
+              34.00488081232004, 
+              34.97809784600186
             ], 
             [
-              34.598, 
-              35.702
+              32.97982710137845, 
+              34.57186941175544
             ], 
             [
-              34.598, 
-              34.564
+              32.49029625827754, 
+              34.701654771456475
             ], 
             [
-              32.273, 
-              34.564
+              32.25666710788596, 
+              35.10323232679663
+            ], 
+            [
+              32.73178022637745, 
+              35.14002594658844
+            ], 
+            [
+              32.919572381326134, 
+              35.08783274997364
+            ], 
+            [
+              33.19097700372305, 
+              35.17312470147138
+            ], 
+            [
+              33.3838334490363, 
+              35.16271190036457
+            ], 
+            [
+              33.45592207208347, 
+              35.10142365166641
+            ], 
+            [
+              33.47581749851585, 
+              35.000344550103506
+            ], 
+            [
+              33.5256852556775, 
+              35.03868846286407
+            ], 
+            [
+              33.675391880027064, 
+              35.01786286065045
+            ], 
+            [
+              33.86643965021011, 
+              35.09359467217419
+            ], 
+            [
+              33.97361657078346, 
+              35.058506374648005
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Republic of Cyprus"
         ], 
@@ -41,12 +82,11 @@
           "Cypr"
         ], 
         "ne_latitude": 35.702, 
+        "ne:GU_A3": "CYP", 
         "alias_RUM_Q": [
           "Cipru"
         ], 
-        "alias_UNK_V": [
-          "Republika Ciper"
-        ], 
+        "ne_longitude": 34.598, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc0ac\uc774\ud504\ub7ec\uc2a4"
@@ -57,55 +97,78 @@
         "alias_ENG_A": [
           "CY"
         ], 
+        "ne:SUBUNIT": "Cyprus", 
+        "ne:POSTAL": "CY", 
+        "ne:ISO_N3": 196.0, 
+        "ne:ADM0_A3": "CYP", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cfd\u666e\u52d2\u65af"
         ], 
         "alias_ITA_Q": [
           "Cipro"
         ], 
-        "alias_GER_V": [
-          "Republik Zypern"
+        "alias_DAN_Q": [
+          "Cypern"
         ], 
+        "ne:NAME": "Cyprus", 
         "alias_CHI_V": [
           "\u8cfd\u666e\u52d2\u65af"
         ], 
-        "woeid": 26812346, 
         "alias_JPN_Q": [
           "\u30ad\u30d7\u30ed\u30b9"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30ad\u30d7\u30ed\u30b9\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Chipre"
         ], 
         "alias_FIN_Q": [
           "Kyproksen Tasavalta"
         ], 
+        "ne:SOV_A3": "CYP", 
         "sw_longitude": 32.273, 
+        "ne:GDP_MD_EST": 22700.0, 
         "alias_FIN_V": [
           "Kyproksesta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.133, 
+        "woe:id": 26812346, 
         "alias_NOR_Q": [
           "Kypros"
         ], 
+        "ne:ISO_A3": "CYP", 
+        "ne:ISO_A2": "CY", 
         "date_indexed": "2010-12-02T09:35:25Z", 
+        "ne:NAME_SORT": "Cyprus", 
         "alias_KOR_Q": [
           "\ud0a4\ud504\ub85c\uc2a4"
         ], 
+        "ne:MAP_COLOR": 7.0, 
+        "ne:ADMIN": "Cyprus", 
+        "ne:SU_A3": "CYP", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Cyp.", 
         "alias_CZE_Q": [
           "Kypr"
         ], 
-        "alias_DAN_Q": [
-          "Cypern"
+        "alias_GER_V": [
+          "Republik Zypern"
         ], 
         "alias_GER_Q": [
           "Zypern"
         ], 
+        "ne:SOVEREIGNT": "Cyprus", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Cyprus", 
         "name": "Cyprus", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ciper"
@@ -113,11 +176,17 @@
         "alias_HUN_Q": [
           "Ciprus"
         ], 
-        "ne_longitude": 34.598, 
+        "alias_UNK_V": [
+          "Republika Ciper"
+        ], 
         "longitude": 33.436, 
+        "ne:POP_EST": 531640.0, 
         "iso": "CY", 
         "sw_latitude": 34.564, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Cyprus", 
+        "ne:NAME_FORMA": "Republic of Cyprus", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Chypre"
         ]

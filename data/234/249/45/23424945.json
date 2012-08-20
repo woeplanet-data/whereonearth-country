@@ -7,24 +7,76 @@
         "coordinates": [
           [
             [
-              13.376, 
-              45.416
+              13.806475457421527, 
+              46.509306138691215
             ], 
             [
-              13.376, 
-              46.878
+              14.63247155117483, 
+              46.43181732846955
             ], 
             [
-              16.597, 
-              46.878
+              15.137091912504985, 
+              46.65870270444703
             ], 
             [
-              16.597, 
-              45.416
+              16.011663852612656, 
+              46.6836107448117
             ], 
             [
-              13.376, 
-              45.416
+              16.202298211337364, 
+              46.85238597267696
+            ], 
+            [
+              16.370504998447416, 
+              46.841327216166505
+            ], 
+            [
+              16.564808383864857, 
+              46.50375092221983
+            ], 
+            [
+              15.768732944408553, 
+              46.23810822202345
+            ], 
+            [
+              15.671529575267556, 
+              45.83415355079788
+            ], 
+            [
+              15.323953891672405, 
+              45.73178253842768
+            ], 
+            [
+              15.327674594797429, 
+              45.45231639259323
+            ], 
+            [
+              14.935243767972935, 
+              45.471695054702685
+            ], 
+            [
+              14.595109490627806, 
+              45.634940904312714
+            ], 
+            [
+              14.411968214585414, 
+              45.46616567644746
+            ], 
+            [
+              13.715059848697223, 
+              45.500323798192376
+            ], 
+            [
+              13.937630242578308, 
+              45.59101593686462
+            ], 
+            [
+              13.698109978905478, 
+              46.01677806251735
+            ], 
+            [
+              13.806475457421527, 
+              46.509306138691215
             ]
           ]
         ]
@@ -37,17 +89,17 @@
         "alias_SWE_Q": [
           "Slovenien"
         ], 
-        "alias_POL_Q": [
-          "S\u0142owenia"
+        "alias_ENG_P": [
+          "Slovenia"
         ], 
         "ne_latitude": 46.878, 
+        "ne:GU_A3": "SVN", 
         "alias_RUM_Q": [
           "Slovenia"
         ], 
-        "alias_UNK_V": [
-          "Republika Slovenija"
-        ], 
+        "ne_longitude": 16.597, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_V": [
           "Eslov\u00eania"
         ], 
@@ -57,47 +109,68 @@
         "alias_ENG_A": [
           "SI"
         ], 
+        "ne:SUBUNIT": "Slovenia", 
+        "ne:POSTAL": "SLO", 
+        "ne:ISO_N3": 705.0, 
+        "ne:ADM0_A3": "SVN", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Slovenia"
         ], 
+        "ne:NAME": "Slovenia", 
         "alias_CHI_V": [
           "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
         ], 
-        "woeid": 23424945, 
         "alias_JPN_Q": [
           "\u30b9\u30ed\u30d9\u30cb\u30a2"
         ], 
-        "alias_ENG_P": [
-          "Slovenia"
+        "alias_POL_Q": [
+          "S\u0142owenia"
         ], 
         "alias_JPN_V": [
           "\u30b9\u30ed\u30d9\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Eslovenia"
         ], 
         "alias_FIN_Q": [
           "Slovenia"
         ], 
+        "ne:SOV_A3": "SVN", 
         "sw_longitude": 13.376, 
+        "ne:GDP_MD_EST": 59340.0, 
+        "ne:SU_A3": "SVN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.147, 
+        "woe:id": 23424945, 
         "alias_NOR_Q": [
           "Slovenia"
         ], 
+        "ne:ISO_A3": "SVN", 
+        "ne:ISO_A2": "SI", 
         "date_indexed": "2010-12-02T09:58:07Z", 
+        "ne:NAME_SORT": "Slovenia", 
         "alias_KOR_Q": [
           "\uc2ac\ub85c\ubca0\ub2c8\uc544"
         ], 
+        "ne:MAP_COLOR": 12.0, 
+        "ne:ADMIN": "Slovenia", 
+        "ne:GEOUNIT": "Slovenia", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Sloveni\u00eb"
         ], 
         "alias_DUT_S": [
           "Slovenie"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Slo.", 
         "alias_CZE_Q": [
           "Slovinsko"
         ], 
@@ -107,8 +180,10 @@
         "alias_GER_Q": [
           "Slowenien"
         ], 
+        "ne:SOVEREIGNT": "Slovenia", 
         "lang": "UNK", 
         "name": "Slovenija", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Sl\u00f3ven\u00eda"
@@ -116,14 +191,20 @@
         "alias_HUN_Q": [
           "Szlov\u00e9nia"
         ], 
-        "ne_longitude": 16.597, 
+        "alias_UNK_V": [
+          "Republika Slovenija"
+        ], 
         "longitude": 14.955, 
+        "ne:POP_EST": 2005692.0, 
         "iso": "SI", 
         "sw_latitude": 45.416, 
         "alias_HUN_S": [
           "Szlovenia"
         ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Slovenija, Slovenia", 
+        "ne:NAME_FORMA": "Republic of Slovenia", 
         "alias_FRE_S": [
           "Slovenie"
         ], 

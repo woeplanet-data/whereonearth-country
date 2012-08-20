@@ -37,16 +37,14 @@
         "alias_SWE_Q": [
           "Cook\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Cooka"
+        "alias_SWE_S": [
+          "Cookoarna"
         ], 
         "ne_latitude": -8.944, 
         "alias_RUM_Q": [
           "Insulele Cook"
         ], 
-        "alias_UNK_V": [
-          "Cook\u00f8yene"
-        ], 
+        "ne_longitude": -157.312, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucfe1 \uc544\uc77c\ub79c\ub4dc"
@@ -57,17 +55,14 @@
         "alias_ENG_A": [
           "CK"
         ], 
-        "alias_CZE_Q": [
-          "Cookovy Ostrovy"
-        ], 
         "alias_CHI_Q": [
           "\u5eab\u514b\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Arcipelago di Cook"
         ], 
-        "alias_GER_V": [
-          "Cook-Inseln"
+        "alias_DAN_Q": [
+          "Cook\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Cook, isole"
@@ -75,12 +70,11 @@
         "alias_CHI_V": [
           "\u5e93\u514b\u7fa4\u5c9b"
         ], 
-        "woeid": 23424795, 
         "alias_JPN_Q": [
           "\u30af\u30c3\u30af\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Cookoarna"
+        "alias_POL_Q": [
+          "Wyspy Cooka"
         ], 
         "alias_SPA_Q": [
           "Islas Cook"
@@ -94,6 +88,7 @@
         "alias_NOR_S": [
           "Cookoyene"
         ], 
+        "woe:id": 23424795, 
         "alias_NOR_Q": [
           "Cook\u00f8yene"
         ], 
@@ -101,14 +96,17 @@
         "alias_KOR_Q": [
           "\ucfe1 \uc81c\ub3c4"
         ], 
-        "alias_DUT_Q": [
-          "Cookeilanden"
-        ], 
         "alias_DUT_V": [
           "Cook Eilanden"
         ], 
-        "alias_DAN_Q": [
-          "Cook\u00f8erne"
+        "alias_DUT_Q": [
+          "Cookeilanden"
+        ], 
+        "alias_CZE_Q": [
+          "Cookovy Ostrovy"
+        ], 
+        "alias_GER_V": [
+          "Cook-Inseln"
         ], 
         "alias_GER_Q": [
           "Cookinseln"
@@ -122,7 +120,9 @@
         "alias_HUN_Q": [
           "Cook-Szigetek"
         ], 
-        "ne_longitude": -157.312, 
+        "alias_UNK_V": [
+          "Cook\u00f8yene"
+        ], 
         "longitude": -159.771, 
         "iso": "CK", 
         "sw_latitude": -21.944, 

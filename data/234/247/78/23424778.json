@@ -7,24 +7,44 @@
         "coordinates": [
           [
             [
-              79.516, 
-              5.917
+              81.7879590188914, 
+              7.523055324733164
             ], 
             [
-              79.516, 
-              9.831
+              81.63732221876059, 
+              6.481775214051922
             ], 
             [
-              81.881, 
-              9.831
+              81.21801964714433, 
+              6.197141424988288
             ], 
             [
-              81.881, 
-              5.917
+              80.34835696810441, 
+              5.968369859232155
             ], 
             [
-              79.516, 
-              5.917
+              79.87246870312853, 
+              6.76346344647493
+            ], 
+            [
+              79.69516686393513, 
+              8.200843410673386
+            ], 
+            [
+              80.14780073437964, 
+              9.824077663609557
+            ], 
+            [
+              80.83881798698656, 
+              9.268426825391188
+            ], 
+            [
+              81.30431928907177, 
+              8.56420624433369
+            ], 
+            [
+              81.7879590188914, 
+              7.523055324733164
             ]
           ]
         ]
@@ -37,10 +57,10 @@
         "alias_ENG_A": [
           "LK"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": 9.831, 
-        "alias_UNK_V": [
-          "Sr\u00ed-Lanka"
-        ], 
+        "ne:POSTAL": "LK", 
+        "ne_longitude": 81.881, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Sri Lanca"
@@ -48,52 +68,81 @@
         "alias_KOR_Q": [
           "\uc2a4\ub9ac\ub791\uce74"
         ], 
+        "ne:SUBUNIT": "Sri Lanka", 
+        "ne:ISO_N3": 144.0, 
+        "ne:ADM0_A3": "LKA", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u91cc\u862d\u5361"
         ], 
+        "ne:NAME": "Sri Lanka", 
         "alias_CHI_V": [
           "\u65af\u91cc\u5170\u5361"
         ], 
-        "woeid": 23424778, 
         "alias_JPN_Q": [
           "\u30b9\u30ea\u30e9\u30f3\u30ab"
         ], 
         "alias_JPN_V": [
           "\u30b9\u30ea\u30e9\u30f3\u30ab\u6c11\u4e3b\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Ceilan"
         ], 
+        "ne:SOV_A3": "LKA", 
         "sw_longitude": 79.516, 
+        "ne:GDP_MD_EST": 91870.0, 
+        "ne:SU_A3": "LKA", 
         "alias_SPA_V": [
           "Isla Trapobana"
         ], 
         "latitude": 7.874, 
+        "woe:id": 23424778, 
+        "ne:ISO_A3": "LKA", 
+        "ne:ISO_A2": "LK", 
         "date_indexed": "2010-12-02T17:56:32Z", 
+        "ne:NAME_SORT": "Sri Lanka", 
+        "ne:GU_A3": "LKA", 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "Sri Lanka", 
+        "ne:GEOUNIT": "Sri Lanka", 
+        "ne:LabelRank": 1, 
         "provider": "geoplanet 7.6.0", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
           "Sr\u00ed Lanka"
         ], 
+        "ne:ABBREV": "Sri L.", 
         "alias_CZE_Q": [
           "\u0160r\u00ed Lanka"
         ], 
         "alias_GER_V": [
           "Demokratische Sozialistische Republik Sri Lanka"
         ], 
+        "ne:SOVEREIGNT": "Sri Lanka", 
         "lang": "ENG", 
         "name": "Sri Lanka", 
         "alias_UNK_S": [
           "Sri-Lanka"
         ], 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Sr\u00ed Lanka"
         ], 
-        "ne_longitude": 81.881, 
-        "longitude": 80.790, 
+        "alias_UNK_V": [
+          "Sr\u00ed-Lanka"
+        ], 
+        "longitude": 80.79, 
+        "ne:POP_EST": 21324791.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "LK", 
         "sw_latitude": 5.917, 
-        "fullname": "Sri Lanka"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Sri Lanka", 
+        "ne:NAME_FORMA": "Democratic Socialist Republic of Sri Lanka"
       }, 
       "id": 23424778
     }

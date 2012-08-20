@@ -34,25 +34,25 @@
         "alias_ENG_V": [
           "Niuean"
         ], 
-        "alias_ENG_A": [
-          "NU"
+        "alias_KOR_Q": [
+          "\ub2c8\uc6b0\uc5d0"
         ], 
         "ne_latitude": -18.951, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ub2c8\uc6b0\uc5d0"
+        "alias_ENG_A": [
+          "NU"
         ], 
         "alias_CHI_Q": [
           "\u7ebd\u57c3"
         ], 
-        "woeid": 23424904, 
         "alias_JPN_Q": [
           "\u30cb\u30a6\u30a8"
         ], 
         "sw_longitude": -169.951, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -19.052, 
-        "date_indexed": "2010-12-02T18:19:13Z", 
+        "woe:id": 23424904, 
+        "sw_latitude": -19.152, 
         "alias_DUT_Q": [
           "Niu\u00e9"
         ], 
@@ -62,7 +62,7 @@
         "ne_longitude": -169.775, 
         "longitude": -169.863, 
         "iso": "NU", 
-        "sw_latitude": -19.152, 
+        "date_indexed": "2010-12-02T18:19:13Z", 
         "fullname": "Niue", 
         "alias_FRE_S": [
           "Nioue"

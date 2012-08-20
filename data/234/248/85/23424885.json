@@ -7,24 +7,112 @@
         "coordinates": [
           [
             [
-              26.619, 
-              45.468
+              26.619336785597795, 
+              48.22072622333347
             ], 
             [
-              26.619, 
-              48.490
+              26.857823520624805, 
+              48.368210761094495
             ], 
             [
-              30.164, 
-              48.490
+              27.522537469195157, 
+              48.467119452501116
             ], 
             [
-              30.164, 
-              45.468
+              28.259546746541844, 
+              48.15556224221342
             ], 
             [
-              26.619, 
-              45.468
+              28.670891147585166, 
+              48.1181485052341
+            ], 
+            [
+              29.12269819511303, 
+              47.849095160506465
+            ], 
+            [
+              29.05086795422733, 
+              47.5102269557525
+            ], 
+            [
+              29.415135125452736, 
+              47.34664520933258
+            ], 
+            [
+              29.559674106573112, 
+              46.928582872091326
+            ], 
+            [
+              29.908851759569302, 
+              46.67436066343146
+            ], 
+            [
+              29.838210076626297, 
+              46.52532583270169
+            ], 
+            [
+              30.024658644335375, 
+              46.42393667254504
+            ], 
+            [
+              29.759971958136394, 
+              46.34998769793536
+            ], 
+            [
+              29.170653924279886, 
+              46.3792623968287
+            ], 
+            [
+              29.07210696789929, 
+              46.517677720722496
+            ], 
+            [
+              28.862972446414062, 
+              46.43788930926383
+            ], 
+            [
+              28.933717482221624, 
+              46.2588304713725
+            ], 
+            [
+              28.65998742037158, 
+              45.93998688413164
+            ], 
+            [
+              28.485269402792767, 
+              45.5969070501459
+            ], 
+            [
+              28.233553501099042, 
+              45.488283189468376
+            ], 
+            [
+              28.0544429867754, 
+              45.944586086605625
+            ], 
+            [
+              28.160017937947714, 
+              46.37156260841722
+            ], 
+            [
+              28.128030226359044, 
+              46.810476386088254
+            ], 
+            [
+              27.551166212684848, 
+              47.40511709247083
+            ], 
+            [
+              27.233872918412743, 
+              47.82677094175638
+            ], 
+            [
+              26.924176059687568, 
+              48.123264472030996
+            ], 
+            [
+              26.619336785597795, 
+              48.22072622333347
             ]
           ]
         ]
@@ -43,13 +131,12 @@
         "alias_POL_Q": [
           "Mo\u0142dawia"
         ], 
-        "ne_latitude": 48.490, 
+        "ne_latitude": 48.49, 
+        "ne:GU_A3": "MDA", 
         "alias_RUM_Q": [
           "Republica Moldova"
         ], 
-        "alias_UNK_V": [
-          "Moldavsko"
-        ], 
+        "ne_longitude": 30.164, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Moldova, Rep\u00fablica de"
@@ -60,43 +147,64 @@
         "alias_ENG_A": [
           "MD"
         ], 
-        "alias_CZE_Q": [
-          "Moldavsko"
-        ], 
+        "ne:SUBUNIT": "Moldova", 
+        "ne:ISO_N3": 498.0, 
+        "ne:ADM0_A3": "MDA", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6469\u723e\u591a\u74e6"
         ], 
         "alias_ITA_Q": [
           "Moldavia"
         ], 
+        "ne:NAME": "Moldova", 
         "alias_CHI_V": [
           "\u6469\u723e\u591a\u74e6"
         ], 
-        "woeid": 23424885, 
         "alias_JPN_Q": [
           "\u30e2\u30eb\u30c9\u30d0"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Moldavia"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "MDA", 
         "sw_longitude": 26.619, 
+        "ne:GDP_MD_EST": 10670.0, 
+        "ne:SU_A3": "MDA", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.979, 
+        "woe:id": 23424885, 
+        "ne:ISO_A3": "MDA", 
+        "ne:ISO_A2": "MD", 
         "date_indexed": "2010-12-02T17:58:04Z", 
-        "alias_FRE_V": [
-          "Moldovie"
-        ], 
+        "ne:NAME_SORT": "Moldova", 
         "alias_KOR_Q": [
           "\ubab0\ub3c4\ubc14"
         ], 
+        "ne:MAP_COLOR": 12.0, 
+        "ne:ADMIN": "Moldova", 
+        "ne:GEOUNIT": "Moldova", 
+        "alias_DUT_V": [
+          "Republiek Moldavi\u00eb"
+        ], 
+        "ne:LabelRank": 1, 
+        "alias_RUM_V": [
+          "Moldova, Republica"
+        ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Moldavi\u00eb"
         ], 
-        "alias_DUT_V": [
-          "Republiek Moldavi\u00eb"
+        "ne:ABBREV": "Mda.", 
+        "alias_CZE_Q": [
+          "Moldavsko"
         ], 
         "alias_GER_V": [
           "Moldau, Republik"
@@ -104,23 +212,32 @@
         "alias_GER_Q": [
           "Moldawien"
         ], 
+        "ne:SOVEREIGNT": "Moldova", 
         "lang": "ENG", 
         "name": "Moldova", 
         "alias_CZE_V": [
           "Moldavsk\u00e1 republika"
         ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Moldavija"
         ], 
-        "ne_longitude": 30.164, 
+        "ne:POSTAL": "MD", 
+        "alias_UNK_V": [
+          "Moldavsko"
+        ], 
         "longitude": 28.391, 
+        "ne:POP_EST": 4320748.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "MD", 
         "sw_latitude": 45.468, 
-        "alias_RUM_V": [
-          "Moldova, Republica"
+        "alias_FRE_V": [
+          "Moldovie"
         ], 
         "fullname": "Moldova", 
+        "ne:NAME_FORMA": "Republic of Moldova", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Moldavie"
         ]

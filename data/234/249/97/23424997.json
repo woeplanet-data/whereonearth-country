@@ -39,10 +39,9 @@
         ], 
         "ne_latitude": 33.434, 
         "placetype": "Country", 
-        "alias_ENG_A": [
-          "XD"
+        "alias_KOR_Q": [
+          "\uad6d\uc81c\uc5f0\ud569 \uc911\ub9bd\uc9c0\ub300"
         ], 
-        "woeid": 23424997, 
         "alias_FIN_Q": [
           "Yhdistyneet kansakunnat (neutraali vy\u00f6hyke)"
         ], 
@@ -55,12 +54,13 @@
         "alias_NOR_S": [
           "FNs noytrale sone"
         ], 
+        "woe:id": 23424997, 
         "alias_NOR_Q": [
           "FNs n\u00f8ytrale sone"
         ], 
         "date_indexed": "2010-12-02T08:50:01Z", 
-        "alias_KOR_Q": [
-          "\uad6d\uc81c\uc5f0\ud569 \uc911\ub9bd\uc9c0\ub300"
+        "alias_ENG_A": [
+          "XD"
         ], 
         "alias_DAN_Q": [
           "Forenede Nationer Neutral Zone"

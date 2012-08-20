@@ -54,16 +54,12 @@
         "alias_ENG_A": [
           "UM"
         ], 
-        "alias_CZE_Q": [
-          "Men\u0161\u00ed Odlehl\u00e9 Ostrovy Usa"
-        ], 
         "alias_ITA_Q": [
           "Isole Minori Esterne Degli Stati Uniti"
         ], 
         "alias_ITA_V": [
           "Isole minori degli Stati Uniti"
         ], 
-        "woeid": 28289407, 
         "alias_JPN_Q": [
           "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6"
         ], 
@@ -85,6 +81,7 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 5.875, 
+        "woe:id": 28289407, 
         "alias_NOR_Q": [
           "Usas Ytre Sm\u00e5\u00f8yer"
         ], 
@@ -92,14 +89,17 @@
         "alias_KOR_Q": [
           "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4"
         ], 
+        "alias_DUT_V": [
+          "Amerikaanse ondergeschikte afgelegen eilanden"
+        ], 
         "alias_SPA_V": [
           "Islas menores alejadas de los Estados Unidos"
         ], 
         "alias_DUT_Q": [
           "Kleine Afgelegen Eilanden Van de Verenigde Staten"
         ], 
-        "alias_DUT_V": [
-          "Amerikaanse ondergeschikte afgelegen eilanden"
+        "alias_CZE_Q": [
+          "Men\u0161\u00ed Odlehl\u00e9 Ostrovy Usa"
         ], 
         "lang": "ENG", 
         "name": "United States Minor Outlying Islands", 

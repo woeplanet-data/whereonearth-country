@@ -7,24 +7,84 @@
         "coordinates": [
           [
             [
-              43.450, 
-              38.831
+              43.58274580259273, 
+              41.09214325618257
             ], 
             [
-              43.450, 
-              41.302
+              44.97248009621808, 
+              41.248128567055595
             ], 
             [
-              46.630, 
-              41.302
+              45.17949588397934, 
+              40.98535390885141
             ], 
             [
-              46.630, 
-              38.831
+              45.56035118997045, 
+              40.812289537105926
             ], 
             [
-              43.450, 
-              38.831
+              45.35917483905817, 
+              40.56150381119346
+            ], 
+            [
+              45.89190717955509, 
+              40.21847565364
+            ], 
+            [
+              45.61001224140293, 
+              39.89999380142518
+            ], 
+            [
+              46.034534132680676, 
+              39.628020738273065
+            ], 
+            [
+              46.48349897643246, 
+              39.464154771475535
+            ], 
+            [
+              46.50571984231797, 
+              38.770605373686294
+            ], 
+            [
+              46.14362308124882, 
+              38.74120148371222
+            ], 
+            [
+              45.73537926614301, 
+              39.31971914321974
+            ], 
+            [
+              45.73997846861698, 
+              39.47399913182713
+            ], 
+            [
+              45.29814497252146, 
+              39.471751207022436
+            ], 
+            [
+              45.00198733905675, 
+              39.740003567049555
+            ], 
+            [
+              44.79398969908195, 
+              39.71300263117705
+            ], 
+            [
+              44.4000085792887, 
+              40.00500031184228
+            ], 
+            [
+              43.65643639504094, 
+              40.253563951166186
+            ], 
+            [
+              43.75265791196841, 
+              40.74020091405876
+            ], 
+            [
+              43.58274580259273, 
+              41.09214325618257
             ]
           ]
         ]
@@ -37,10 +97,10 @@
         "alias_SWE_Q": [
           "Armenien"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": 41.302, 
-        "alias_UNK_V": [
-          "Republika Armenija"
-        ], 
+        "ne:GU_A3": "ARM", 
+        "ne_longitude": 46.63, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Arm\u00eania"
@@ -48,35 +108,56 @@
         "alias_POR_Q": [
           "Arm\u00e9nia"
         ], 
-        "alias_ENG_A": [
-          "AM"
+        "alias_KOR_Q": [
+          "\uc544\ub974\uba54\ub2c8\uc544"
         ], 
+        "ne:SUBUNIT": "Armenia", 
+        "ne:POSTAL": "ARM", 
+        "ne:ISO_N3": 51.0, 
+        "ne:ADM0_A3": "ARM", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e9e\u7f8e\u5c3c\u4e9e"
         ], 
+        "ne:NAME": "Armenia", 
         "alias_CHI_V": [
           "\u4e9a\u7f8e\u5c3c\u4e9a"
         ], 
-        "woeid": 23424743, 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30e1\u30cb\u30a2"
         ], 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30e1\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
-        "sw_longitude": 43.450, 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "ARM", 
+        "sw_longitude": 43.45, 
+        "ne:GDP_MD_EST": 18770.0, 
+        "ne:SU_A3": "ARM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.066, 
+        "woe:id": 23424743, 
+        "ne:ISO_A3": "ARM", 
+        "ne:ISO_A2": "AM", 
         "date_indexed": "2010-12-02T12:16:10Z", 
-        "alias_KOR_Q": [
-          "\uc544\ub974\uba54\ub2c8\uc544"
+        "ne:NAME_SORT": "Armenia", 
+        "alias_ENG_A": [
+          "AM"
         ], 
+        "ne:MAP_COLOR": 10.0, 
+        "ne:ADMIN": "Armenia", 
+        "ne:GEOUNIT": "Armenia", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Armeni\u00eb"
         ], 
         "alias_DUT_S": [
           "Armenie"
         ], 
+        "ne:ABBREV": "Arm.", 
         "alias_CZE_Q": [
           "Arm\u00e9nie"
         ], 
@@ -86,8 +167,10 @@
         "alias_GER_Q": [
           "Armenien"
         ], 
+        "ne:SOVEREIGNT": "Armenia", 
         "lang": "ENG", 
         "name": "Armenia", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Armen\u00eda"
@@ -95,11 +178,17 @@
         "alias_HUN_Q": [
           "\u00d6rm\u00e9nyorsz\u00e1g"
         ], 
-        "ne_longitude": 46.630, 
-        "longitude": 45.040, 
+        "alias_UNK_V": [
+          "Republika Armenija"
+        ], 
+        "longitude": 45.04, 
+        "ne:POP_EST": 2967004.0, 
         "iso": "AM", 
         "sw_latitude": 38.831, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Armenia", 
+        "ne:NAME_FORMA": "Republic of Armenia", 
         "alias_FRE_S": [
           "Armenie"
         ], 

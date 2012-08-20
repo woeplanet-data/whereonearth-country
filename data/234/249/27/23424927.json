@@ -34,16 +34,14 @@
         "alias_ENG_V": [
           "Republic of Palau"
         ], 
-        "alias_ENG_A": [
-          "PW"
-        ], 
-        "ne_latitude": 8.093, 
-        "alias_UNK_V": [
-          "Republika Palau"
-        ], 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ud314\ub77c\uc6b0"
+        ], 
+        "ne_latitude": 8.093, 
+        "ne_longitude": 134.724, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "PW"
         ], 
         "alias_CHI_Q": [
           "\u5e1b\u7409"
@@ -54,7 +52,6 @@
         "alias_CHI_V": [
           "\u5e15\u52b3"
         ], 
-        "woeid": 23424927, 
         "alias_JPN_Q": [
           "\u30d1\u30e9\u30aa"
         ], 
@@ -67,6 +64,7 @@
         "sw_longitude": 131.169, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.531, 
+        "woe:id": 23424927, 
         "alias_NOR_V": [
           "Belau"
         ], 
@@ -77,7 +75,9 @@
         "lang": "ENG", 
         "name": "Palau", 
         "parent_woeid": 1, 
-        "ne_longitude": 134.724, 
+        "alias_UNK_V": [
+          "Republika Palau"
+        ], 
         "longitude": 134.564, 
         "iso": "PW", 
         "sw_latitude": 3.001, 

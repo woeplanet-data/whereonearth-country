@@ -48,14 +48,14 @@
         "alias_KOR_V": [
           "\uc548\ud2f0\uac00 \ubc14\ubd80\ub2e4"
         ], 
+        "alias_RUM_V": [
+          "Antigua \u015fi Barbuda"
+        ], 
         "alias_POR_Q": [
           "Ant\u00edgua e Barbuda"
         ], 
         "alias_ENG_A": [
           "AG"
-        ], 
-        "alias_CZE_Q": [
-          "Antigua a Barbuda"
         ], 
         "alias_CHI_Q": [
           "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
@@ -66,7 +66,6 @@
         "alias_CHI_V": [
           "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
         ], 
-        "woeid": 23424737, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30c1\u30b0\u30a2\u30d0\u30fc\u30d6\u30fc\u30c0"
         ], 
@@ -82,21 +81,22 @@
         "sw_longitude": -62.352, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.086, 
+        "woe:id": 23424737, 
         "alias_NOR_Q": [
           "Antigua og Barbuda"
         ], 
         "date_indexed": "2010-12-02T08:58:52Z", 
-        "alias_FRE_V": [
-          "Antigua et Barbuda"
-        ], 
         "alias_KOR_Q": [
           "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+        ], 
+        "alias_DUT_V": [
+          "Antigua-en-Barbuda"
         ], 
         "alias_DUT_Q": [
           "Antigua en Barbuda"
         ], 
-        "alias_DUT_V": [
-          "Antigua-en-Barbuda"
+        "alias_CZE_Q": [
+          "Antigua a Barbuda"
         ], 
         "alias_DAN_Q": [
           "Antigua og Barbuda"
@@ -120,8 +120,8 @@
         "longitude": -61.789, 
         "iso": "AG", 
         "sw_latitude": 16.927, 
-        "alias_RUM_V": [
-          "Antigua \u015fi Barbuda"
+        "alias_FRE_V": [
+          "Antigua et Barbuda"
         ], 
         "fullname": "Antigua and Barbuda", 
         "alias_FRE_Q": [

@@ -7,24 +7,72 @@
         "coordinates": [
           [
             [
-              102.340, 
-              9.283
+              103.4972799011397, 
+              10.632555446815928
             ], 
             [
-              102.340, 
-              14.686
+              103.09068973186726, 
+              11.153660590047165
             ], 
             [
-              107.628, 
-              14.686
+              102.5849324890267, 
+              12.186594956913282
             ], 
             [
-              107.628, 
-              9.283
+              102.34809939983302, 
+              13.394247341358223
             ], 
             [
-              102.340, 
-              9.283
+              102.98842207236163, 
+              14.225721136934467
+            ], 
+            [
+              104.28141808473661, 
+              14.416743068901367
+            ], 
+            [
+              105.21877689007889, 
+              14.273211778210694
+            ], 
+            [
+              106.04394616091552, 
+              13.881091009979956
+            ], 
+            [
+              106.49637332563088, 
+              14.570583807834282
+            ], 
+            [
+              107.38272749230109, 
+              14.202440904186972
+            ], 
+            [
+              107.61454796756243, 
+              13.535530707244206
+            ], 
+            [
+              107.49140302941089, 
+              12.337205918827948
+            ], 
+            [
+              105.81052371625313, 
+              11.567614650921229
+            ], 
+            [
+              106.24967003786946, 
+              10.961811835163587
+            ], 
+            [
+              105.19991499229235, 
+              10.889309800658097
+            ], 
+            [
+              104.33433475140347, 
+              10.48654368737523
+            ], 
+            [
+              103.4972799011397, 
+              10.632555446815928
             ]
           ]
         ]
@@ -41,12 +89,11 @@
           "Kambod\u017ca"
         ], 
         "ne_latitude": 14.686, 
+        "ne:GU_A3": "KHM", 
         "alias_RUM_Q": [
           "Cambodgia"
         ], 
-        "alias_UNK_V": [
-          "K\u00e2mpuch\u00e9a"
-        ], 
+        "ne_longitude": 107.628, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Camboja"
@@ -54,22 +101,30 @@
         "alias_ENG_A": [
           "KH"
         ], 
+        "ne:SUBUNIT": "Cambodia", 
+        "ne:POSTAL": "KH", 
+        "ne:ISO_N3": 116.0, 
+        "ne:ADM0_A3": "KHM", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u67ec\u57d4\u5be8"
         ], 
         "alias_ITA_Q": [
           "Cambogia"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Kambodscha"
+        "alias_DAN_Q": [
+          "Cambodja"
         ], 
-        "woeid": 23424776, 
+        "ne:NAME": "Cambodia", 
+        "ne:TERR_": null, 
         "alias_JPN_Q": [
           "\u30ab\u30f3\u30dc\u30b8\u30a2"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30ab\u30f3\u30dc\u30b8\u30a2\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Camboya"
         ], 
@@ -79,35 +134,51 @@
         "alias_FIN_S": [
           "Kambodza"
         ], 
-        "sw_longitude": 102.340, 
+        "sw_longitude": 102.34, 
+        "ne:GDP_MD_EST": 27940.0, 
+        "ne:SU_A3": "KHM", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 12.548, 
+        "woe:id": 23424776, 
         "alias_NOR_Q": [
           "Kambodsja"
         ], 
+        "ne:ISO_A3": "KHM", 
+        "ne:ISO_A2": "KH", 
         "date_indexed": "2010-12-02T16:11:23Z", 
+        "ne:NAME_SORT": "Cambodia", 
         "alias_KOR_Q": [
           "\uce84\ubcf4\ub514\uc544"
         ], 
+        "ne:MAP_COLOR": 5.0, 
+        "ne:ADMIN": "Cambodia", 
+        "ne:GEOUNIT": "Cambodia", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Reino de Camboya"
         ], 
+        "ne:SOV_A3": "KHM", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Cambodja"
         ], 
+        "ne:ABBREV": "Camb.", 
         "alias_CZE_Q": [
           "Kambod\u017ea"
         ], 
-        "alias_DAN_Q": [
-          "Cambodja"
+        "alias_GER_V": [
+          "K\u00f6nigreich Kambodscha"
         ], 
         "alias_GER_Q": [
           "Kambodscha"
         ], 
+        "ne:SOVEREIGNT": "Cambodia", 
         "alias_GER_S": [
           "Konigreich Kambodscha"
         ], 
         "lang": "ENG", 
+        "ne:TYPE": "Sovereign country", 
         "name": "Cambodia", 
         "alias_UNK_S": [
           "Kampuchea"
@@ -119,14 +190,20 @@
         "alias_HUN_Q": [
           "Kambodzsa"
         ], 
-        "ne_longitude": 107.628, 
+        "alias_UNK_V": [
+          "K\u00e2mpuch\u00e9a"
+        ], 
         "longitude": 104.984, 
+        "ne:POP_EST": 14494293.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "KH", 
         "sw_latitude": 9.283, 
         "alias_FRE_V": [
           "Kampuchea D\u00e9mocratique"
         ], 
         "fullname": "Cambodia", 
+        "ne:NAME_FORMA": "Kingdom of Cambodia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Cambodge"
         ]

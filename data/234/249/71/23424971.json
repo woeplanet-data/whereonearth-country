@@ -7,24 +7,40 @@
         "coordinates": [
           [
             [
-              118.214, 
-              21.902
+              121.77781782438993, 
+              24.3942735865194
             ], 
             [
-              118.214, 
-              26.392
+              121.17563235889274, 
+              22.790857245367167
             ], 
             [
-              122.101, 
-              26.392
+              120.74707970589623, 
+              21.970571397382113
             ], 
             [
-              122.101, 
-              21.902
+              120.22008344938368, 
+              22.81486094816674
             ], 
             [
-              118.214, 
-              21.902
+              120.1061885926124, 
+              23.556262722258236
+            ], 
+            [
+              120.69467980355225, 
+              24.538450832613737
+            ], 
+            [
+              121.49504438688878, 
+              25.295458889257386
+            ], 
+            [
+              121.95124393116146, 
+              24.997595933527037
+            ], 
+            [
+              121.77781782438993, 
+              24.3942735865194
             ]
           ]
         ]
@@ -40,13 +56,15 @@
         "alias_SWE_Q": [
           "Taiwan"
         ], 
-        "alias_POL_Q": [
-          "Tajwan"
+        "alias_ENG_P": [
+          "Taiwan"
         ], 
         "ne_latitude": 26.392, 
+        "ne:GU_A3": "TWN", 
         "alias_RUM_Q": [
           "Taiwan"
         ], 
+        "ne:NAME_SORT": "Taiwan", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub300\ub9cc"
@@ -54,41 +72,62 @@
         "alias_POR_Q": [
           "Ilha de Formosa"
         ], 
-        "alias_ENG_A": [
-          "ROC"
+        "alias_KOR_Q": [
+          "\ud0c0\uc774\uc644 \uc12c"
         ], 
+        "ne:SUBUNIT": "Taiwan", 
+        "ne:ISO_N3": 158.0, 
+        "ne:ADM0_A3": "TWN", 
+        "ne:ScaleRank": 1, 
+        "ne:NAME": "Taiwan", 
+        "ne:TERR_": null, 
         "alias_CHI_V": [
           "\u53f0\u7063"
         ], 
-        "woeid": 23424971, 
         "alias_JPN_Q": [
           "\u53f0\u6e7e"
         ], 
-        "alias_ENG_P": [
-          "Taiwan"
+        "alias_POL_Q": [
+          "Tajwan"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Isla de Taiw\u00e1n"
         ], 
         "alias_FIN_Q": [
           "Taiwan"
         ], 
+        "ne:SOV_A3": "TWN", 
         "sw_longitude": 118.214, 
+        "ne:GDP_MD_EST": 712000.0, 
+        "ne:SU_A3": "TWN", 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 23.600, 
+        "latitude": 23.6, 
+        "woe:id": 23424971, 
         "alias_NOR_Q": [
           "Taiwan"
         ], 
+        "ne:ISO_A3": "TWN", 
+        "ne:ISO_A2": "TW", 
         "date_indexed": "2010-12-02T16:16:00Z", 
-        "alias_KOR_Q": [
-          "\ud0c0\uc774\uc644 \uc12c"
+        "ne:NAME_FORMA": null, 
+        "alias_ENG_A": [
+          "ROC"
         ], 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Taiwan", 
+        "ne:GEOUNIT": "Taiwan", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Taiw\u00e1n"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Taiwan"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Taiwan", 
         "alias_CZE_Q": [
           "Tchaj-wan"
         ], 
@@ -98,6 +137,7 @@
         "alias_GER_Q": [
           "Taiwan"
         ], 
+        "ne:SOVEREIGNT": "Taiwan", 
         "lang": "CHI", 
         "name": "\u81fa\u7063", 
         "alias_CZE_V": [
@@ -110,11 +150,16 @@
         "alias_UNK_Q": [
           "Ta\u00edvan"
         ], 
+        "ne:POSTAL": "TW", 
         "ne_longitude": 122.101, 
         "longitude": 121.024, 
+        "ne:POP_EST": 22974347.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "TW", 
         "sw_latitude": 21.902, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "\u81fa\u7063, Taiwan", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ta\u00efwan"
         ]

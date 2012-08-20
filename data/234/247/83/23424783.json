@@ -8,7 +8,7 @@
           [
             [
               -81.433, 
-              19.250
+              19.25
             ], 
             [
               -81.433, 
@@ -20,11 +20,11 @@
             ], 
             [
               -79.716, 
-              19.250
+              19.25
             ], 
             [
               -81.433, 
-              19.250
+              19.25
             ]
           ]
         ]
@@ -37,16 +37,14 @@
         "alias_SWE_Q": [
           "Cayman\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Kajmany"
+        "alias_SWE_S": [
+          "Caymanoarna"
         ], 
         "ne_latitude": 19.762, 
         "alias_RUM_Q": [
           "Insulele Cayman"
         ], 
-        "alias_UNK_V": [
-          "Cayman\u00f8yene"
-        ], 
+        "ne_longitude": -79.716, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucf00\uc774\ub9cc \uad70\ub3c4"
@@ -63,17 +61,14 @@
         "alias_POR_S": [
           "Ilhas Caimao"
         ], 
-        "alias_CZE_Q": [
-          "Kajmansk\u00e9 Ostrovy"
-        ], 
         "alias_CHI_Q": [
           "\u958b\u66fc\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Cayman"
         ], 
-        "alias_GER_V": [
-          "Cayman-Inseln"
+        "alias_DAN_Q": [
+          "cayman\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Cayman, isole"
@@ -81,12 +76,11 @@
         "alias_CHI_V": [
           "\u5f00\u66fc\u7fa4\u5c9b"
         ], 
-        "woeid": 23424783, 
         "alias_JPN_Q": [
           "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Caymanoarna"
+        "alias_POL_Q": [
+          "Kajmany"
         ], 
         "alias_JPN_V": [
           "\u30a4\u30ae\u30ea\u30b9\u9818\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6"
@@ -106,6 +100,7 @@
         "alias_NOR_S": [
           "Caymanoyene"
         ], 
+        "woe:id": 23424783, 
         "alias_NOR_Q": [
           "Cayman\u00f8yene"
         ], 
@@ -113,20 +108,23 @@
         "alias_KOR_Q": [
           "\ucf00\uc774\ub9e8 \uc81c\ub3c4"
         ], 
+        "alias_DUT_V": [
+          "Caymaneilanden"
+        ], 
         "alias_SPA_V": [
           "Caim\u00e1n"
         ], 
         "alias_DUT_Q": [
           "Kaaimaneilanden"
         ], 
-        "alias_DUT_V": [
-          "Caymaneilanden"
+        "alias_CZE_Q": [
+          "Kajmansk\u00e9 Ostrovy"
         ], 
         "alias_DAN_S": [
           "caymanoerne"
         ], 
-        "alias_DAN_Q": [
-          "cayman\u00f8erne"
+        "alias_GER_V": [
+          "Cayman-Inseln"
         ], 
         "alias_GER_Q": [
           "Kaimaninseln"
@@ -140,10 +138,12 @@
         "alias_HUN_Q": [
           "Kajm\u00e1n-Szigetek"
         ], 
-        "ne_longitude": -79.716, 
+        "alias_UNK_V": [
+          "Cayman\u00f8yene"
+        ], 
         "longitude": -81.262, 
         "iso": "KY", 
-        "sw_latitude": 19.250, 
+        "sw_latitude": 19.25, 
         "alias_FRE_V": [
           "Iles Ca\u00efmanes"
         ], 

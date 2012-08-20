@@ -7,24 +7,88 @@
         "coordinates": [
           [
             [
-              -74.479, 
-              18.021
+              -73.18979061551762, 
+              19.915683905511912
             ], 
             [
-              -74.479, 
-              20.088
+              -72.57967281766362, 
+              19.871500555902358
             ], 
             [
-              -71.613, 
-              20.088
+              -71.71236141629296, 
+              19.714455878167357
             ], 
             [
-              -71.613, 
-              18.021
+              -71.62487321642283, 
+              19.169837958243306
             ], 
             [
-              -74.479, 
-              18.021
+              -71.7013026597825, 
+              18.785416978424053
+            ], 
+            [
+              -71.94511206733556, 
+              18.61690013272026
+            ], 
+            [
+              -71.68773759630588, 
+              18.31666006110447
+            ], 
+            [
+              -71.70830481635805, 
+              18.044997056546094
+            ], 
+            [
+              -72.37247616238935, 
+              18.21496084235406
+            ], 
+            [
+              -72.84441118029488, 
+              18.145611070218365
+            ], 
+            [
+              -73.45455481636503, 
+              18.2179063989947
+            ], 
+            [
+              -73.92243323433566, 
+              18.030992743395004
+            ], 
+            [
+              -74.45803361682478, 
+              18.342549953682706
+            ], 
+            [
+              -74.36992529976713, 
+              18.66490753831941
+            ], 
+            [
+              -73.44954220243272, 
+              18.526052964751145
+            ], 
+            [
+              -72.69493709989064, 
+              18.445799465401862
+            ], 
+            [
+              -72.334881557897, 
+              18.668421535715254
+            ], 
+            [
+              -72.79164954292489, 
+              19.10162506761803
+            ], 
+            [
+              -72.78410478381028, 
+              19.48359141690341
+            ], 
+            [
+              -73.41502234566175, 
+              19.639550889560283
+            ], 
+            [
+              -73.18979061551762, 
+              19.915683905511912
             ]
           ]
         ]
@@ -37,10 +101,9 @@
         "alias_ENG_A": [
           "HT"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": 20.088, 
-        "alias_UNK_V": [
-          "Republika Haiti"
-        ], 
+        "ne_longitude": -71.613, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud558\uc774\ud2f0"
@@ -48,40 +111,70 @@
         "alias_KOR_Q": [
           "\uc544\uc774\ud2f0"
         ], 
+        "ne:SUBUNIT": "Haiti", 
+        "ne:ISO_N3": 332.0, 
+        "ne:ADM0_A3": "HTI", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6d77\u5730"
         ], 
-        "woeid": 23424839, 
+        "ne:NAME": "Haiti", 
+        "ne:POSTAL": "HT", 
         "alias_JPN_Q": [
           "\u30cf\u30a4\u30c1"
         ], 
         "alias_JPN_V": [
           "\u30cf\u30a4\u30c1\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Hait\u00ed"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "HTI", 
         "sw_longitude": -74.479, 
+        "ne:GDP_MD_EST": 11500.0, 
+        "ne:SU_A3": "HTI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.986, 
+        "woe:id": 23424839, 
+        "ne:ISO_A3": "HTI", 
+        "ne:ISO_A2": "HT", 
         "date_indexed": "2010-12-02T17:52:09Z", 
+        "ne:NAME_SORT": "Haiti", 
+        "ne:GU_A3": "HTI", 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Haiti", 
+        "ne:GEOUNIT": "Haiti", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Ha\u00efti"
         ], 
+        "ne:ABBREV": "Haiti", 
         "alias_GER_V": [
           "Republik Haiti"
         ], 
+        "ne:SOVEREIGNT": "Haiti", 
         "lang": "ENG", 
         "name": "Haiti", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
-        "ne_longitude": -71.613, 
+        "ne:SU_DIF": 0.0, 
+        "alias_UNK_V": [
+          "Republika Haiti"
+        ], 
         "longitude": -72.292, 
+        "ne:POP_EST": 9035536.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "HT", 
         "sw_latitude": 18.021, 
         "alias_FRE_V": [
           "R\u00e9publique d\u2019Ha\u00efti"
         ], 
         "fullname": "Haiti", 
+        "ne:NAME_FORMA": "Republic of Haiti", 
         "alias_FRE_Q": [
           "Ha\u00efti"
         ]

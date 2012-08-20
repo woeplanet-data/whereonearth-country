@@ -7,24 +7,128 @@
         "coordinates": [
           [
             [
-              16.113, 
-              45.737
+              16.202298211337364, 
+              46.85238597267696
             ], 
             [
-              16.113, 
-              48.585
+              16.534267612380376, 
+              47.49617096616912
             ], 
             [
-              22.897, 
-              48.585
+              16.340584344150415, 
+              47.71290192320123
             ], 
             [
-              22.897, 
-              45.737
+              16.90375410326726, 
+              47.71486562762833
             ], 
             [
-              16.113, 
-              45.737
+              16.979666782304037, 
+              48.123497015976305
+            ], 
+            [
+              17.48847293464982, 
+              47.867466132186216
+            ], 
+            [
+              17.857132602620027, 
+              47.75842886005037
+            ], 
+            [
+              18.696512892336926, 
+              47.880953681014404
+            ], 
+            [
+              18.77702477384767, 
+              48.081768296900634
+            ], 
+            [
+              19.17436486173989, 
+              48.11137889260387
+            ], 
+            [
+              19.661363559658497, 
+              48.26661489520866
+            ], 
+            [
+              19.769470656013112, 
+              48.202691148463614
+            ], 
+            [
+              20.239054396249347, 
+              48.32756724709692
+            ], 
+            [
+              20.473562045989866, 
+              48.562850043321816
+            ], 
+            [
+              20.801293979584926, 
+              48.623854071642384
+            ], 
+            [
+              21.872236362401736, 
+              48.31997081155002
+            ], 
+            [
+              22.085608351334855, 
+              48.42226430927179
+            ], 
+            [
+              22.640819939878753, 
+              48.15023956968736
+            ], 
+            [
+              22.710531447040495, 
+              47.88219391538941
+            ], 
+            [
+              22.099767693782837, 
+              47.6724392767167
+            ], 
+            [
+              21.626514926853872, 
+              46.99423777931816
+            ], 
+            [
+              21.02195234547125, 
+              46.3160879583519
+            ], 
+            [
+              20.220192498462836, 
+              46.127468980486555
+            ], 
+            [
+              19.596044549241583, 
+              46.17172984474454
+            ], 
+            [
+              18.82983808764996, 
+              45.90887767189193
+            ], 
+            [
+              18.45606245288286, 
+              45.759481106136136
+            ], 
+            [
+              17.630066359129557, 
+              45.95176911069419
+            ], 
+            [
+              16.8825150895953, 
+              46.38063182228444
+            ], 
+            [
+              16.564808383864857, 
+              46.50375092221983
+            ], 
+            [
+              16.370504998447416, 
+              46.841327216166505
+            ], 
+            [
+              16.202298211337364, 
+              46.85238597267696
             ]
           ]
         ]
@@ -41,12 +145,11 @@
           "W\u0119gry"
         ], 
         "ne_latitude": 48.585, 
+        "ne:GU_A3": "HUN", 
         "alias_RUM_Q": [
           "Ungaria"
         ], 
-        "alias_UNK_V": [
-          "Magyar Koztarsasag"
-        ], 
+        "ne_longitude": 22.897, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Hungria"
@@ -54,16 +157,21 @@
         "alias_ENG_A": [
           "HU"
         ], 
+        "ne:SUBUNIT": "Hungary", 
+        "ne:ISO_N3": 348.0, 
+        "ne:ADM0_A3": "HUN", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5308\u7259\u5229"
         ], 
         "alias_ITA_Q": [
           "Ungheria"
         ], 
-        "alias_GER_V": [
-          "Republik Ungarn"
+        "alias_DAN_Q": [
+          "Ungarn"
         ], 
-        "woeid": 23424844, 
+        "ne:NAME": "Hungary", 
+        "ne:TERR_": null, 
         "alias_JPN_Q": [
           "\u30cf\u30f3\u30ac\u30ea\u30fc"
         ], 
@@ -73,6 +181,7 @@
         "alias_JPN_V": [
           "\u30cf\u30f3\u30ac\u30ea\u30fc\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Hungr\u00eda"
         ], 
@@ -82,35 +191,51 @@
         "alias_SPA_S": [
           "Republica Hungria"
         ], 
+        "ne:SOV_A3": "HUN", 
         "sw_longitude": 16.113, 
+        "ne:GDP_MD_EST": 196600.0, 
         "alias_FIN_V": [
           "Unkarista"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 47.161, 
+        "woe:id": 23424844, 
         "alias_NOR_Q": [
           "Ungarn"
         ], 
+        "ne:ISO_A3": "HUN", 
+        "ne:ISO_A2": "HU", 
         "date_indexed": "2010-12-02T09:56:22Z", 
+        "ne:NAME_SORT": "Hungary", 
         "alias_KOR_Q": [
           "\ud5dd\uac00\ub9ac"
         ], 
+        "ne:MAP_COLOR": 5.0, 
+        "ne:ADMIN": "Hungary", 
+        "ne:SU_A3": "HUN", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Republica Hungr\u00eda"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Hongarije"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Hun.", 
         "alias_CZE_Q": [
           "Ma\u010farsko"
         ], 
-        "alias_DAN_Q": [
-          "Ungarn"
+        "alias_GER_V": [
+          "Republik Ungarn"
         ], 
         "alias_GER_Q": [
           "Ungarn"
         ], 
+        "ne:SOVEREIGNT": "Hungary", 
         "lang": "HUN", 
+        "ne:GEOUNIT": "Hungary", 
         "name": "Magyarorsz\u00e1g", 
         "alias_UNK_S": [
           "Ouggaria"
@@ -119,17 +244,25 @@
         "alias_UNK_Q": [
           "Ungverjaland"
         ], 
+        "ne:POSTAL": "HU", 
         "alias_HUN_V": [
           "A Magyar K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne_longitude": 22.897, 
+        "alias_UNK_V": [
+          "Magyar Koztarsasag"
+        ], 
         "longitude": 19.505, 
+        "ne:POP_EST": 9905596.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "HU", 
         "sw_latitude": 45.737, 
         "alias_HUN_S": [
           "Magyarorszag"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Magyarorsz\u00e1g, Hungary", 
+        "ne:NAME_FORMA": "Republic of Hungary", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Hongrie"
         ]

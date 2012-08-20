@@ -31,39 +31,39 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "lang": "ENG", 
-        "woeid": 23424736, 
-        "alias_KOR_Q": [
-          "\uc544\ub8e8\ubc14"
-        ], 
-        "name": "Aruba", 
         "alias_ENG_V": [
           "Aruban"
         ], 
+        "alias_KOR_Q": [
+          "\uc544\ub8e8\ubc14"
+        ], 
         "ne_latitude": 12.631, 
-        "alias_UNK_Q": [
-          "Ar\u00faba"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "ne_longitude": -69.867, 
-        "longitude": -69.964, 
-        "alias_CHI_Q": [
-          "\u963f\u9c81\u5df4"
-        ], 
         "placetype": "Country", 
-        "iso": "AW", 
-        "date_indexed": "2010-12-02T12:16:27Z", 
         "alias_ENG_A": [
           "AW"
         ], 
-        "parent_woeid": 1, 
-        "latitude": 12.518, 
-        "sw_longitude": -70.061, 
-        "fullname": "Aruba", 
+        "alias_CHI_Q": [
+          "\u963f\u9c81\u5df4"
+        ], 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0"
         ], 
-        "sw_latitude": 12.406
+        "sw_longitude": -70.061, 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 12.518, 
+        "woe:id": 23424736, 
+        "sw_latitude": 12.406, 
+        "lang": "ENG", 
+        "name": "Aruba", 
+        "parent_woeid": 1, 
+        "alias_UNK_Q": [
+          "Ar\u00faba"
+        ], 
+        "ne_longitude": -69.867, 
+        "longitude": -69.964, 
+        "iso": "AW", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "fullname": "Aruba"
       }, 
       "id": 23424736
     }

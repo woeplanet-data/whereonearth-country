@@ -41,9 +41,7 @@
           "Singapur"
         ], 
         "ne_latitude": 1.471, 
-        "alias_UNK_V": [
-          "Republika Singapur"
-        ], 
+        "ne_longitude": 104.408, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Cingapura"
@@ -57,7 +55,6 @@
         "alias_CHI_Q": [
           "\u65b0\u52a0\u5761"
         ], 
-        "woeid": 23424948, 
         "alias_JPN_Q": [
           "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"
         ], 
@@ -73,6 +70,7 @@
         "sw_longitude": 103.618, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 1.366, 
+        "woe:id": 23424948, 
         "date_indexed": "2010-12-02T08:53:28Z", 
         "alias_SPA_V": [
           "Rep\u00fablica de Singapur"
@@ -95,7 +93,9 @@
         "alias_HUN_Q": [
           "Szingap\u00far"
         ], 
-        "ne_longitude": 104.408, 
+        "alias_UNK_V": [
+          "Republika Singapur"
+        ], 
         "longitude": 103.828, 
         "iso": "SG", 
         "sw_latitude": 1.116, 

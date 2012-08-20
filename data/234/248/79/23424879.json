@@ -38,9 +38,7 @@
           "LI"
         ], 
         "ne_latitude": 47.271, 
-        "alias_UNK_V": [
-          "Lichtenst\u00e1in"
-        ], 
+        "ne_longitude": 9.636, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Lichtenstein"
@@ -54,7 +52,6 @@
         "alias_CHI_V": [
           "\u5217\u652f\u6566\u65af\u767b"
         ], 
-        "woeid": 23424879, 
         "alias_JPN_Q": [
           "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"
         ], 
@@ -63,7 +60,8 @@
         ], 
         "sw_longitude": 9.472, 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 47.160, 
+        "latitude": 47.16, 
+        "woe:id": 23424879, 
         "date_indexed": "2010-12-02T08:51:00Z", 
         "alias_CZE_Q": [
           "Lichten\u0161tejnsko"
@@ -83,7 +81,9 @@
         "alias_HUN_V": [
           "Lichtenstein"
         ], 
-        "ne_longitude": 9.636, 
+        "alias_UNK_V": [
+          "Lichtenst\u00e1in"
+        ], 
         "longitude": 9.554, 
         "iso": "LI", 
         "sw_latitude": 47.048, 

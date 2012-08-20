@@ -54,7 +54,6 @@
         "alias_CZE_Q": [
           "Svat\u00fd Martin"
         ], 
-        "woeid": 56042305, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30fb\u30de\u30fc\u30c1\u30f3\u5cf6"
         ], 
@@ -64,6 +63,7 @@
         "sw_longitude": -63.153, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.091, 
+        "woe:id": 56042305, 
         "alias_NOR_Q": [
           "Saint Martin"
         ], 

@@ -7,30 +7,175 @@
         "coordinates": [
           [
             [
-              67.387, 
-              36.674
+              71.01419803252017, 
+              40.24436554621823
             ], 
             [
-              67.387, 
-              41.042
+              70.64801883329997, 
+              39.93575389257117
             ], 
             [
-              75.137, 
-              41.042
+              69.55960981636852, 
+              40.10321137141298
             ], 
             [
-              75.137, 
-              36.674
+              69.46488691597753, 
+              39.5266832545487
             ], 
             [
-              67.387, 
-              36.674
+              70.54916181832562, 
+              39.6041979029865
+            ], 
+            [
+              71.784693637992, 
+              39.27946320246437
+            ], 
+            [
+              73.6753792662548, 
+              39.4312368841056
+            ], 
+            [
+              73.92885216664644, 
+              38.50581533462274
+            ], 
+            [
+              74.25751427602273, 
+              38.60650686294345
+            ], 
+            [
+              74.86481570831683, 
+              38.3788463404816
+            ], 
+            [
+              74.8299857929521, 
+              37.9900070257014
+            ], 
+            [
+              74.98000247589542, 
+              37.419990139305895
+            ], 
+            [
+              73.9486959166465, 
+              37.4215662704908
+            ], 
+            [
+              73.26005577992501, 
+              37.495256862939
+            ], 
+            [
+              72.63688968291729, 
+              37.047558091778356
+            ], 
+            [
+              72.1930408059624, 
+              36.948287665345674
+            ], 
+            [
+              71.8446382994506, 
+              36.73817129164692
+            ], 
+            [
+              71.44869347523024, 
+              37.06564484308052
+            ], 
+            [
+              71.54191775908478, 
+              37.905774441065645
+            ], 
+            [
+              71.23940392444817, 
+              37.953265082341886
+            ], 
+            [
+              71.34813113799026, 
+              38.25890534113216
+            ], 
+            [
+              70.80682050973289, 
+              38.486281643216415
+            ], 
+            [
+              70.3763041523093, 
+              38.13839590102752
+            ], 
+            [
+              70.27057417184014, 
+              37.735164699854025
+            ], 
+            [
+              70.11657840361033, 
+              37.58822276463209
+            ], 
+            [
+              69.51878543485796, 
+              37.60899669041342
+            ], 
+            [
+              69.19627282092438, 
+              37.15114350030743
+            ], 
+            [
+              68.85944583524594, 
+              37.344335842430596
+            ], 
+            [
+              68.13556237170138, 
+              37.02311513930431
+            ], 
+            [
+              67.82999962755952, 
+              37.144994004864685
+            ], 
+            [
+              68.39203250516596, 
+              38.15702525486874
+            ], 
+            [
+              68.17602501818592, 
+              38.901553453113905
+            ], 
+            [
+              67.44221967964131, 
+              39.140143541005486
+            ], 
+            [
+              67.70142866401736, 
+              39.58047842056453
+            ], 
+            [
+              68.53641645698943, 
+              39.53345286717894
+            ], 
+            [
+              69.0116329283455, 
+              40.08615814875667
+            ], 
+            [
+              69.32949466337283, 
+              40.72782440852485
+            ], 
+            [
+              70.66662234892505, 
+              40.960213324541414
+            ], 
+            [
+              70.45815962105962, 
+              40.49649485937029
+            ], 
+            [
+              70.60140669137269, 
+              40.21852733007229
+            ], 
+            [
+              71.01419803252017, 
+              40.24436554621823
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Rep. Tajikistan"
         ], 
@@ -41,12 +186,12 @@
           "Tad\u017cykistan"
         ], 
         "ne_latitude": 41.042, 
+        "ne:SUBUNIT": "Tajikistan", 
+        "ne:GU_A3": "TJK", 
         "alias_RUM_Q": [
           "Tadjikistan"
         ], 
-        "alias_UNK_V": [
-          "Tojikistan"
-        ], 
+        "ne_longitude": 75.137, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
@@ -63,28 +208,31 @@
         "alias_POR_S": [
           "Tajiquistao"
         ], 
-        "alias_CZE_Q": [
-          "T\u00e1d\u017eikist\u00e1n"
-        ], 
+        "ne:POSTAL": "TJ", 
+        "ne:ISO_N3": 762.0, 
+        "ne:ADM0_A3": "TJK", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5854\u5409\u514b\u65af\u5766"
         ], 
         "alias_ITA_Q": [
           "Tagikistan"
         ], 
-        "alias_GER_V": [
-          "Republik Tadschikistan"
+        "alias_DAN_Q": [
+          "Tadsjikistan"
         ], 
+        "ne:NAME": "Tajikistan", 
         "alias_CHI_V": [
           "\u5854\u5409\u514b\u65af\u5766"
         ], 
-        "woeid": 23424961, 
         "alias_JPN_Q": [
           "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Tayikist\u00e1n"
         ], 
@@ -98,41 +246,66 @@
           "Tadzikistan"
         ], 
         "sw_longitude": 67.387, 
+        "ne:GDP_MD_EST": 13160.0, 
+        "ne:SU_A3": "TJK", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 38.858, 
+        "woe:id": 23424961, 
         "alias_NOR_Q": [
           "Tadsjikistan"
         ], 
+        "ne:ISO_A3": "TJK", 
+        "ne:ISO_A2": "TJ", 
         "date_indexed": "2010-12-02T12:16:45Z", 
+        "ne:NAME_SORT": "Tajikistan", 
         "alias_KOR_Q": [
           "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
         ], 
-        "alias_DUT_Q": [
-          "Tadzjikistan"
-        ], 
+        "ne:MAP_COLOR": 5.0, 
+        "ne:ADMIN": "Tajikistan", 
+        "ne:GEOUNIT": "Tajikistan", 
         "alias_DUT_V": [
           "Tadjzjikistan"
         ], 
-        "alias_DAN_Q": [
-          "Tadsjikistan"
+        "ne:LabelRank": 1, 
+        "ne:SOV_A3": "TJK", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_DUT_Q": [
+          "Tadzjikistan"
+        ], 
+        "ne:ABBREV": "Tjk.", 
+        "alias_CZE_Q": [
+          "T\u00e1d\u017eikist\u00e1n"
+        ], 
+        "alias_GER_V": [
+          "Republik Tadschikistan"
         ], 
         "alias_GER_Q": [
           "Tadschikistan"
         ], 
+        "ne:SOVEREIGNT": "Tajikistan", 
         "lang": "ENG", 
         "name": "Tajikistan", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "T\u00e1dzsikiszt\u00e1n"
         ], 
         "alias_HUN_V": [
           "Tadzsikiszt\u00e1n"
         ], 
-        "ne_longitude": 75.137, 
+        "alias_UNK_V": [
+          "Tojikistan"
+        ], 
         "longitude": 71.262, 
+        "ne:POP_EST": 7349145.0, 
         "iso": "TJ", 
         "sw_latitude": 36.674, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Tajikistan", 
+        "ne:NAME_FORMA": "Republic of Tajikistan", 
         "alias_FRE_Q": [
           "Tadjikistan"
         ]

@@ -7,24 +7,72 @@
         "coordinates": [
           [
             [
-              21.772, 
-              57.509
+              24.312862583114622, 
+              57.79342357037697
             ], 
             [
-              21.772, 
-              59.686
+              24.42892785004216, 
+              58.38341339785329
             ], 
             [
-              28.210, 
-              59.686
+              24.061198357853186, 
+              58.25737457949341
             ], 
             [
-              28.210, 
-              57.509
+              23.426560092876684, 
+              58.612753404364625
             ], 
             [
-              21.772, 
-              57.509
+              23.339795363058645, 
+              59.187240302153384
+            ], 
+            [
+              24.604214308376186, 
+              59.46585378685502
+            ], 
+            [
+              25.86418908051664, 
+              59.61109039981133
+            ], 
+            [
+              26.949135776484525, 
+              59.445803331125774
+            ], 
+            [
+              27.981114129353244, 
+              59.475388088612874
+            ], 
+            [
+              28.13169925305175, 
+              59.300825100330925
+            ], 
+            [
+              27.420166456824944, 
+              58.72458120384424
+            ], 
+            [
+              27.71668582531572, 
+              57.79189911562436
+            ], 
+            [
+              27.288184848751513, 
+              57.47452830670383
+            ], 
+            [
+              26.463532342237787, 
+              57.47638865826633
+            ], 
+            [
+              25.60280968598437, 
+              57.84752879498657
+            ], 
+            [
+              25.16459354014927, 
+              57.97015696881519
+            ], 
+            [
+              24.312862583114622, 
+              57.79342357037697
             ]
           ]
         ]
@@ -37,17 +85,17 @@
         "alias_SWE_Q": [
           "Estland"
         ], 
-        "alias_POL_Q": [
+        "alias_ENG_P": [
           "Estonia"
         ], 
         "ne_latitude": 59.686, 
+        "ne:GU_A3": "EST", 
         "alias_RUM_Q": [
           "Estonia"
         ], 
-        "alias_UNK_V": [
-          "Republika Estonija"
-        ], 
+        "ne_longitude": 28.21, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_V": [
           "Est\u00f4nia"
         ], 
@@ -57,56 +105,78 @@
         "alias_ENG_A": [
           "EE"
         ], 
+        "ne:SUBUNIT": "Estonia", 
+        "ne:POSTAL": "EST", 
+        "ne:ISO_N3": 233.0, 
+        "ne:ADM0_A3": "EST", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u611b\u6c99\u5c3c\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Estonia"
         ], 
-        "alias_GER_V": [
-          "Republik Estland"
+        "alias_DAN_Q": [
+          "Estland"
         ], 
+        "ne:NAME": "Estonia", 
         "alias_CHI_V": [
           "\u7231\u6c99\u5c3c\u4e9a"
         ], 
-        "woeid": 23424805, 
         "alias_JPN_Q": [
           "\u30a8\u30b9\u30c8\u30cb\u30a2"
         ], 
-        "alias_ENG_P": [
+        "alias_POL_Q": [
           "Estonia"
         ], 
         "alias_JPN_V": [
           "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Estonia"
         ], 
         "alias_FIN_Q": [
           "Viro"
         ], 
+        "ne:SOV_A3": "EST", 
         "sw_longitude": 21.772, 
+        "ne:GDP_MD_EST": 27410.0, 
+        "ne:SU_A3": "EST", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 58.592, 
+        "woe:id": 23424805, 
         "alias_NOR_Q": [
           "Estland"
         ], 
+        "ne:ISO_A3": "EST", 
+        "ne:ISO_A2": "EE", 
         "date_indexed": "2010-12-02T16:43:34Z", 
+        "ne:NAME_SORT": "Estonia", 
         "alias_KOR_Q": [
           "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
         ], 
+        "ne:MAP_COLOR": 10.0, 
+        "ne:ADMIN": "Estonia", 
+        "ne:GEOUNIT": "Estonia", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Estland"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Est.", 
         "alias_CZE_Q": [
           "Estonsko"
         ], 
-        "alias_DAN_Q": [
-          "Estland"
+        "alias_GER_V": [
+          "Republik Estland"
         ], 
         "alias_GER_Q": [
           "Estland"
         ], 
+        "ne:SOVEREIGNT": "Estonia", 
         "lang": "UNK", 
         "name": "Eesti", 
         "alias_UNK_S": [
@@ -119,14 +189,21 @@
         "alias_HUN_Q": [
           "\u00c9sztorsz\u00e1g"
         ], 
-        "ne_longitude": 28.210, 
+        "alias_UNK_V": [
+          "Republika Estonija"
+        ], 
         "longitude": 25.807, 
+        "ne:POP_EST": 1299371.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "EE", 
         "sw_latitude": 57.509, 
         "alias_HUN_S": [
           "Esztorszag"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Eesti, Estonia", 
+        "ne:NAME_FORMA": "Republic of Estonia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Estonie"
         ]

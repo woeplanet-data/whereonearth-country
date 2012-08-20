@@ -12,11 +12,11 @@
             ], 
             [
               158.418, 
-              4.720
+              4.72
             ], 
             [
               -150.208, 
-              4.720
+              4.72
             ], 
             [
               -150.208, 
@@ -37,7 +37,7 @@
         "alias_KOR_Q": [
           "\ud0a4\ub9ac\ubc14\uc2dc"
         ], 
-        "ne_latitude": 4.720, 
+        "ne_latitude": 4.72, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud0a4\ub9ac\ubc14\ud2f0"
@@ -54,7 +54,6 @@
         "alias_CHI_V": [
           "\u5409\u91cc\u5df4\u65af"
         ], 
-        "woeid": 23424867, 
         "alias_JPN_Q": [
           "\u30ad\u30ea\u30d0\u30b9"
         ], 
@@ -64,6 +63,7 @@
         "sw_longitude": 158.418, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -8.046, 
+        "woe:id": 23424867, 
         "date_indexed": "2010-12-02T17:42:25Z", 
         "alias_GER_V": [
           "Republik Kiribati"

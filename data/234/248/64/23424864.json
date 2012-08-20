@@ -7,30 +7,151 @@
         "coordinates": [
           [
             [
-              69.277, 
-              39.173
+              70.96231489449914, 
+              42.266154283205495
             ], 
             [
-              69.277, 
-              43.238
+              71.18628055205212, 
+              42.70429291439214
             ], 
             [
-              80.283, 
-              43.238
+              71.8446382994506, 
+              42.8453954127651
             ], 
             [
-              80.283, 
-              39.173
+              73.48975752146237, 
+              42.50089447689132
             ], 
             [
-              69.277, 
-              39.173
+              73.64530358266092, 
+              43.09127187760983
+            ], 
+            [
+              74.21286583852256, 
+              43.29833934180337
+            ], 
+            [
+              75.63696495962202, 
+              42.87789988867668
+            ], 
+            [
+              76.00035363149846, 
+              42.98802236589067
+            ], 
+            [
+              77.65839196158322, 
+              42.96068553320826
+            ], 
+            [
+              79.14217736197978, 
+              42.85609243424952
+            ], 
+            [
+              79.64364546094012, 
+              42.49668284765953
+            ], 
+            [
+              80.2599902688853, 
+              42.34999929459906
+            ], 
+            [
+              80.11943037305139, 
+              42.12394074153825
+            ], 
+            [
+              78.54366092317531, 
+              41.58224254003869
+            ], 
+            [
+              78.18719689322597, 
+              41.18531586360481
+            ], 
+            [
+              76.90448449087708, 
+              41.06648590754965
+            ], 
+            [
+              76.52636803579745, 
+              40.42794607193512
+            ], 
+            [
+              75.4678279967307, 
+              40.56207225194867
+            ], 
+            [
+              74.77686242055606, 
+              40.36642527929163
+            ], 
+            [
+              73.8222436868283, 
+              39.893973497063186
+            ], 
+            [
+              73.96001305531843, 
+              39.660008449861735
+            ], 
+            [
+              73.6753792662548, 
+              39.4312368841056
+            ], 
+            [
+              71.784693637992, 
+              39.27946320246437
+            ], 
+            [
+              70.54916181832562, 
+              39.6041979029865
+            ], 
+            [
+              69.46488691597753, 
+              39.5266832545487
+            ], 
+            [
+              69.55960981636852, 
+              40.10321137141298
+            ], 
+            [
+              70.64801883329997, 
+              39.93575389257117
+            ], 
+            [
+              71.01419803252017, 
+              40.24436554621823
+            ], 
+            [
+              71.77487511585656, 
+              40.14584442805378
+            ], 
+            [
+              73.05541710804917, 
+              40.866033026689465
+            ], 
+            [
+              71.87011478057047, 
+              41.392900092121266
+            ], 
+            [
+              71.1578585142916, 
+              41.14358714452912
+            ], 
+            [
+              70.42002241402821, 
+              41.51999827734314
+            ], 
+            [
+              71.25924767444823, 
+              42.16771067968946
+            ], 
+            [
+              70.96231489449914, 
+              42.266154283205495
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Kyrgyzstani"
         ], 
@@ -41,12 +162,12 @@
           "Kirgistan"
         ], 
         "ne_latitude": 43.238, 
+        "ne:SUBUNIT": "Kyrgyzstan", 
+        "ne:GU_A3": "KGZ", 
         "alias_RUM_Q": [
           "K\u00e2rg\u00e2zstan"
         ], 
-        "alias_UNK_V": [
-          "Kirgisia"
-        ], 
+        "ne_longitude": 80.283, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud0a4\ub974\uae30\uc2a4"
@@ -63,28 +184,31 @@
         "alias_POR_S": [
           "Quirguizistao"
         ], 
-        "alias_CZE_Q": [
-          "Kyrgyzst\u00e1n"
-        ], 
+        "ne:POSTAL": "KG", 
+        "ne:ISO_N3": 417.0, 
+        "ne:ADM0_A3": "KGZ", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5409\u723e\u5409\u65af"
         ], 
         "alias_ITA_Q": [
           "Kirghizistan"
         ], 
-        "alias_GER_V": [
-          "Kirgistan"
+        "alias_DAN_Q": [
+          "Kirgisistan"
         ], 
+        "ne:NAME": "Kyrgyzstan", 
         "alias_CHI_V": [
           "\u5409\u723e\u5409\u65af"
         ], 
-        "woeid": 23424864, 
         "alias_JPN_Q": [
           "\u30ad\u30eb\u30ae\u30b9"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30af\u30eb\u30b0\u30ba\u30b9\u30bf\u30f3"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Kirguist\u00e1n"
         ], 
@@ -94,39 +218,58 @@
         "alias_SPA_S": [
           "Kirguistan"
         ], 
+        "ne:SOV_A3": "KGZ", 
         "sw_longitude": 69.277, 
+        "ne:GDP_MD_EST": 11610.0, 
         "alias_FIN_V": [
           "Kirgiisia"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 41.206, 
+        "woe:id": 23424864, 
         "alias_NOR_Q": [
           "Kirgisistan"
         ], 
+        "ne:ISO_A3": "KGZ", 
+        "ne:ISO_A2": "KG", 
         "date_indexed": "2010-12-02T08:58:47Z", 
+        "ne:NAME_SORT": "Kyrgyzstan", 
         "alias_KOR_Q": [
           "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
         ], 
+        "ne:MAP_COLOR": 6.0, 
+        "ne:ADMIN": "Kyrgyzstan", 
+        "ne:SU_A3": "KGZ", 
+        "alias_DUT_V": [
+          "Kirgizstan"
+        ], 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Kirgizist\u00e1n"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Kirgizi\u00eb"
         ], 
         "alias_DUT_S": [
           "Kirgizie"
         ], 
-        "alias_DUT_V": [
-          "Kirgizstan"
+        "ne:ABBREV": "Kgz.", 
+        "alias_CZE_Q": [
+          "Kyrgyzst\u00e1n"
         ], 
-        "alias_DAN_Q": [
-          "Kirgisistan"
+        "alias_GER_V": [
+          "Kirgistan"
         ], 
         "alias_GER_Q": [
           "Kirgisistan"
         ], 
+        "ne:SOVEREIGNT": "Kyrgyzstan", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Kyrgyzstan", 
         "name": "Kyrgyzstan", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Kirgizistan"
@@ -134,14 +277,20 @@
         "alias_HUN_Q": [
           "Kirgiziszt\u00e1n"
         ], 
-        "ne_longitude": 80.283, 
-        "longitude": 74.780, 
+        "alias_UNK_V": [
+          "Kirgisia"
+        ], 
+        "longitude": 74.78, 
+        "ne:POP_EST": 5431747.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "KG", 
         "sw_latitude": 39.173, 
         "alias_RUM_V": [
           "Kirghizia"
         ], 
         "fullname": "Kyrgyzstan", 
+        "ne:NAME_FORMA": "Kyrgyz Republic", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Kirghizistan"
         ]

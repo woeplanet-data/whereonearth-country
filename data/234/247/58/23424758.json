@@ -3,28 +3,102 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              -80.499, 
-              20.916
-            ], 
+              [
+                -77.53466, 
+                23.75975
+              ], 
+              [
+                -77.78, 
+                23.71
+              ], 
+              [
+                -78.03405, 
+                24.28615
+              ], 
+              [
+                -78.40848, 
+                24.57564
+              ], 
+              [
+                -78.19087, 
+                25.2103
+              ], 
+              [
+                -77.89, 
+                25.17
+              ], 
+              [
+                -77.54, 
+                24.34
+              ], 
+              [
+                -77.53466, 
+                23.75975
+              ]
+            ]
+          ], 
+          [
             [
-              -80.499, 
-              27.934
-            ], 
+              [
+                -77.82, 
+                26.58
+              ], 
+              [
+                -78.91, 
+                26.42
+              ], 
+              [
+                -78.98, 
+                26.79
+              ], 
+              [
+                -78.51, 
+                26.87
+              ], 
+              [
+                -77.85, 
+                26.84
+              ], 
+              [
+                -77.82, 
+                26.58
+              ]
+            ]
+          ], 
+          [
             [
-              -72.650, 
-              27.934
-            ], 
-            [
-              -72.650, 
-              20.916
-            ], 
-            [
-              -80.499, 
-              20.916
+              [
+                -77.0, 
+                26.59
+              ], 
+              [
+                -77.17255, 
+                25.87918
+              ], 
+              [
+                -77.35641, 
+                26.00735
+              ], 
+              [
+                -77.34, 
+                26.53
+              ], 
+              [
+                -77.78802, 
+                26.92516
+              ], 
+              [
+                -77.79, 
+                27.04
+              ], 
+              [
+                -77.0, 
+                26.59
+              ]
             ]
           ]
         ]
@@ -41,13 +115,13 @@
           "Bahamy"
         ], 
         "ne_latitude": 27.934, 
+        "ne:GU_A3": "BHS", 
         "alias_RUM_Q": [
           "Bahamas"
         ], 
-        "alias_UNK_V": [
-          "Zveza Bahami"
-        ], 
+        "ne_longitude": -72.65, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_V": [
           "Baamas"
         ], 
@@ -57,17 +131,19 @@
         "alias_ENG_A": [
           "BS"
         ], 
-        "alias_CZE_Q": [
-          "Bahamy"
-        ], 
+        "ne:SUBUNIT": "The Bahamas", 
+        "ne:POSTAL": "BS", 
+        "ne:ISO_N3": 44.0, 
+        "ne:ADM0_A3": "BHS", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u54c8\u99ac"
         ], 
         "alias_ITA_Q": [
           "Bahamas"
         ], 
-        "alias_GER_V": [
-          "Commonwealth der Bahamas"
+        "alias_DAN_Q": [
+          "Bahamas"
         ], 
         "alias_ITA_V": [
           "Bahama"
@@ -75,46 +151,67 @@
         "alias_CHI_V": [
           "\u5df4\u54c8\u9a6c"
         ], 
-        "woeid": 23424758, 
         "alias_JPN_Q": [
           "\u30d0\u30cf\u30de"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30d0\u30cf\u30de\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Bahamas"
         ], 
         "alias_FIN_Q": [
           "Bahama"
         ], 
+        "ne:SOV_A3": "BHS", 
         "sw_longitude": -80.499, 
+        "ne:GDP_MD_EST": 9093.0, 
         "alias_FIN_V": [
           "Bahamasta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 24.741, 
+        "woe:id": 23424758, 
         "alias_NOR_Q": [
           "Bahamas"
         ], 
+        "ne:ISO_A3": "BHS", 
+        "ne:ISO_A2": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
+        "ne:NAME_SORT": "Bahamas, The", 
         "alias_KOR_Q": [
           "\ubc14\ud558\ub9c8"
         ], 
-        "alias_DUT_Q": [
-          "Bahama's"
-        ], 
+        "ne:MAP_COLOR": 5.0, 
+        "ne:ADMIN": "The Bahamas", 
+        "ne:SU_A3": "BHS", 
         "alias_DUT_V": [
           "Bahama\u2019s"
         ], 
-        "alias_DAN_Q": [
-          "Bahamas"
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_DUT_Q": [
+          "Bahama's"
+        ], 
+        "ne:ABBREV": "Bhs.", 
+        "alias_CZE_Q": [
+          "Bahamy"
+        ], 
+        "alias_GER_V": [
+          "Commonwealth der Bahamas"
         ], 
         "alias_GER_Q": [
           "Bahamas"
         ], 
+        "ne:SOVEREIGNT": "The Bahamas", 
+        "ne:NAME": "Bahamas", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "The Bahamas", 
         "name": "The Bahamas", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Bahami"
@@ -125,14 +222,20 @@
         "alias_HUN_V": [
           "Baham\u00e1k"
         ], 
-        "ne_longitude": -72.650, 
-        "longitude": -78.080, 
+        "alias_UNK_V": [
+          "Zveza Bahami"
+        ], 
+        "longitude": -78.08, 
+        "ne:POP_EST": 309156.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "BS", 
         "sw_latitude": 20.916, 
         "alias_FRE_V": [
           "Bahamas, \u00celes"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "The Bahamas", 
+        "ne:NAME_FORMA": "Commonwealth of the Bahamas", 
         "alias_FRE_S": [
           "Bahamas, Iles"
         ], 

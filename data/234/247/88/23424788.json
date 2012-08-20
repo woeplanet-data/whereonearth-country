@@ -47,9 +47,7 @@
         "alias_RUM_Q": [
           "Insulele Mariane de Nord"
         ], 
-        "alias_UNK_V": [
-          "Zveza Severni Marianski otoki"
-        ], 
+        "ne_longitude": 146.081, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubd81\ub9c8\ub9ac\uc544\ub098 \uad70\ub3c4"
@@ -63,17 +61,14 @@
         "alias_ENG_A": [
           "MP"
         ], 
-        "alias_CZE_Q": [
-          "Severn\u00ed Mariany"
-        ], 
         "alias_CHI_Q": [
           "\u5317\u99ac\u91cc\u4e9e\u7d0d\u7fa4\u5cf6\u90a6"
         ], 
         "alias_ITA_Q": [
           "Isole Marianne Settentrionali"
         ], 
-        "alias_GER_V": [
-          "N\u00f6rdliche Marianen"
+        "alias_DAN_Q": [
+          "Nordmarianerne"
         ], 
         "alias_ITA_V": [
           "Marianne Settentrionali, isole"
@@ -81,7 +76,6 @@
         "alias_CHI_V": [
           "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b\u90a6"
         ], 
-        "woeid": 23424788, 
         "alias_JPN_Q": [
           "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6"
         ], 
@@ -97,27 +91,31 @@
         "sw_longitude": 136.083, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.193, 
+        "woe:id": 23424788, 
         "alias_NOR_Q": [
           "Nord-Marianene"
         ], 
         "date_indexed": "2010-12-02T12:08:44Z", 
-        "alias_FRE_V": [
-          "Mariannes du Nord"
-        ], 
         "alias_KOR_Q": [
           "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"
-        ], 
-        "alias_SPA_V": [
-          "Islas Mariana del Norte"
-        ], 
-        "alias_DUT_Q": [
-          "Noordelijke Marianen"
         ], 
         "alias_DUT_V": [
           "Mariannen eilanden Noordelijke"
         ], 
-        "alias_DAN_Q": [
-          "Nordmarianerne"
+        "alias_SPA_V": [
+          "Islas Mariana del Norte"
+        ], 
+        "alias_RUM_V": [
+          "Insulele Northern Mariana"
+        ], 
+        "alias_DUT_Q": [
+          "Noordelijke Marianen"
+        ], 
+        "alias_CZE_Q": [
+          "Severn\u00ed Mariany"
+        ], 
+        "alias_GER_V": [
+          "N\u00f6rdliche Marianen"
         ], 
         "alias_GER_Q": [
           "N\u00f6rdlichen Marianen"
@@ -137,12 +135,14 @@
         "alias_HUN_V": [
           "\u00c9szaki Mariana-szigetek"
         ], 
-        "ne_longitude": 146.081, 
+        "alias_UNK_V": [
+          "Zveza Severni Marianski otoki"
+        ], 
         "longitude": 145.765, 
         "iso": "MP", 
         "sw_latitude": 14.107, 
-        "alias_RUM_V": [
-          "Insulele Northern Mariana"
+        "alias_FRE_V": [
+          "Mariannes du Nord"
         ], 
         "fullname": "Northern Mariana Islands", 
         "alias_FRE_S": [

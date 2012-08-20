@@ -7,24 +7,56 @@
         "coordinates": [
           [
             [
-              28.857, 
-              -2.841
+              30.419104852019245, 
+              -1.134659112150416
             ], 
             [
-              28.857, 
-              -1.053
+              30.816134881317712, 
+              -1.698914076345389
             ], 
             [
-              30.896, 
-              -1.053
+              30.75830895358311, 
+              -2.287250257988369
             ], 
             [
-              30.896, 
-              -2.841
+              30.46969607923299, 
+              -2.413857517103459
             ], 
             [
-              28.857, 
-              -2.841
+              29.93835900240794, 
+              -2.348486830254238
+            ], 
+            [
+              29.632176141078588, 
+              -2.917857761246097
+            ], 
+            [
+              29.024926385216787, 
+              -2.839257907730158
+            ], 
+            [
+              29.117478875451553, 
+              -2.292211195488385
+            ], 
+            [
+              29.254834832483343, 
+              -2.215109958508911
+            ], 
+            [
+              29.291886834436614, 
+              -1.620055840667987
+            ], 
+            [
+              29.579466180140884, 
+              -1.341313164885626
+            ], 
+            [
+              29.821518588996014, 
+              -1.443322442229785
+            ], 
+            [
+              30.419104852019245, 
+              -1.134659112150416
             ]
           ]
         ]
@@ -37,54 +69,77 @@
         "alias_ENG_A": [
           "RW"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": -1.053, 
-        "alias_UNK_V": [
-          "Ruandska republika"
-        ], 
+        "ne:POSTAL": "RW", 
+        "ne_longitude": 30.896, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Ruanda"
         ], 
         "alias_KOR_Q": [
           "\ub974\uc644\ub2e4"
         ], 
+        "ne:SUBUNIT": "Rwanda", 
+        "ne:ISO_N3": 646.0, 
+        "ne:ADM0_A3": "RWA", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u76e7\u5b89\u9054"
         ], 
         "alias_ITA_Q": [
           "Ruanda"
         ], 
+        "ne:NAME": "Rwanda", 
         "alias_CHI_V": [
           "\u76e7\u5b89\u9054"
         ], 
-        "woeid": 23424937, 
         "alias_JPN_Q": [
           "\u30eb\u30ef\u30f3\u30c0"
         ], 
         "alias_JPN_V": [
           "\u30eb\u30ef\u30f3\u30c0\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Ruanda"
         ], 
         "alias_FIN_Q": [
           "Ruanda"
         ], 
+        "ne:SOV_A3": "RWA", 
         "sw_longitude": 28.857, 
+        "ne:GDP_MD_EST": 9706.0, 
         "alias_FIN_V": [
           "Ruandasta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": -1.947, 
+        "woe:id": 23424937, 
+        "ne:ISO_A3": "RWA", 
+        "ne:ISO_A2": "RW", 
         "date_indexed": "2010-12-02T09:35:48Z", 
+        "ne:NAME_SORT": "Rwanda", 
+        "ne:GU_A3": "RWA", 
+        "ne:MAP_COLOR": 10.0, 
+        "ne:ADMIN": "Rwanda", 
+        "ne:SU_A3": "RWA", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Rwa.", 
         "alias_GER_V": [
           "Republik Ruanda"
         ], 
         "alias_GER_Q": [
           "Ruanda"
         ], 
+        "ne:SOVEREIGNT": "Rwanda", 
         "lang": "ENG", 
+        "ne:GEOUNIT": "Rwanda", 
         "name": "Rwanda", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Rwandese Republic"
@@ -92,11 +147,17 @@
         "alias_HUN_Q": [
           "Ruanda"
         ], 
-        "ne_longitude": 30.896, 
+        "alias_UNK_V": [
+          "Ruandska republika"
+        ], 
         "longitude": 29.876, 
+        "ne:POP_EST": 10473282.0, 
         "iso": "RW", 
         "sw_latitude": -2.841, 
-        "fullname": "Rwanda"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Rwanda", 
+        "ne:NAME_FORMA": "Rwandese Republic", 
+        "ne:SU_DIF": 0.0
       }, 
       "id": 23424937
     }

@@ -47,9 +47,7 @@
         "alias_RUM_Q": [
           "Republica Capului Verde"
         ], 
-        "alias_UNK_V": [
-          "Zelenortski otoki"
-        ], 
+        "ne_longitude": -22.666, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uae4c\ubf40\ubca0\ub974\ub370"
@@ -69,13 +67,12 @@
         "alias_ITA_Q": [
           "Capo Verde"
         ], 
-        "alias_GER_V": [
-          "Republik Kap Verde"
+        "alias_DAN_Q": [
+          "Kap Verde"
         ], 
         "alias_CHI_V": [
           "\u7dad\u5fb7\u89d2"
         ], 
-        "woeid": 23424794, 
         "alias_JPN_Q": [
           "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"
         ], 
@@ -91,18 +88,19 @@
         "sw_longitude": -25.359, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.112, 
+        "woe:id": 23424794, 
         "alias_NOR_Q": [
           "Kapp Verde"
         ], 
         "date_indexed": "2010-12-02T12:16:16Z", 
-        "alias_FRE_V": [
-          "Cap Vert"
-        ], 
         "alias_KOR_Q": [
           "\uce74\ubcf4\ubca0\ub974\ub370"
         ], 
         "alias_SPA_V": [
           "Caboverde"
+        ], 
+        "alias_RUM_V": [
+          "Capul Verde"
         ], 
         "alias_DUT_Q": [
           "Kaapverdi\u00eb"
@@ -113,8 +111,8 @@
         "alias_CZE_Q": [
           "Kapverdy"
         ], 
-        "alias_DAN_Q": [
-          "Kap Verde"
+        "alias_GER_V": [
+          "Republik Kap Verde"
         ], 
         "alias_GER_Q": [
           "Kap Verde"
@@ -131,12 +129,14 @@
         "alias_HUN_Q": [
           "Z\u00f6ld-Foki K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne_longitude": -22.666, 
+        "alias_UNK_V": [
+          "Zelenortski otoki"
+        ], 
         "longitude": -23.615, 
         "iso": "CV", 
         "sw_latitude": 14.802, 
-        "alias_RUM_V": [
-          "Capul Verde"
+        "alias_FRE_V": [
+          "Cap Vert"
         ], 
         "fullname": "Cape Verde", 
         "alias_FRE_S": [

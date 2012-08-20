@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              34.230, 
+              34.23, 
               31.223
             ], 
             [
-              34.230, 
-              33.340
+              34.23, 
+              33.34
             ], 
             [
               35.876, 
-              33.340
+              33.34
             ], 
             [
               35.876, 
               31.223
             ], 
             [
-              34.230, 
+              34.23, 
               31.223
             ]
           ]
@@ -43,7 +43,7 @@
         "alias_SWE_S": [
           "Palestinska Ockuperade Omraden"
         ], 
-        "ne_latitude": 33.340, 
+        "ne_latitude": 33.34, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Palestina"
@@ -54,7 +54,6 @@
         "alias_CHI_Q": [
           "\u5df4\u52d2\u65af\u5766"
         ], 
-        "woeid": 28289408, 
         "alias_JPN_Q": [
           "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730"
         ], 
@@ -64,7 +63,7 @@
         "alias_FIN_Q": [
           "Palestiinasta"
         ], 
-        "sw_longitude": 34.230, 
+        "sw_longitude": 34.23, 
         "alias_FIN_V": [
           "Palestiinaan"
         ], 
@@ -73,6 +72,7 @@
         "alias_NOR_S": [
           "Okkupert Palestinsk Omrade"
         ], 
+        "woe:id": 28289408, 
         "alias_NOR_Q": [
           "De Palestinske Territoriene"
         ], 
@@ -80,9 +80,6 @@
           "Okkupert Palestinsk Omr\u00e5de"
         ], 
         "date_indexed": "2010-12-02T12:08:30Z", 
-        "alias_DAN_V": [
-          "Pal\u00e6stina"
-        ], 
         "alias_DUT_Q": [
           "Palestijnse Gebieden"
         ], 
@@ -95,8 +92,8 @@
         "alias_DAN_Q": [
           "Pal\u00e6stinensiske Besatte Territorier"
         ], 
-        "alias_GER_Q": [
-          "Pal\u00e4stina"
+        "alias_DAN_V": [
+          "Pal\u00e6stina"
         ], 
         "alias_GER_S": [
           "Palastina"
@@ -104,8 +101,11 @@
         "lang": "ENG", 
         "name": "Palestinian Territories", 
         "parent_woeid": 1, 
+        "alias_GER_Q": [
+          "Pal\u00e4stina"
+        ], 
         "ne_longitude": 35.876, 
-        "longitude": 35.230, 
+        "longitude": 35.23, 
         "iso": "PS", 
         "sw_latitude": 31.223, 
         "fullname": "Palestinian Territories, Palestinian Occupied Territories"

@@ -48,7 +48,6 @@
         "alias_KOR_Q": [
           "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
         ], 
-        "woeid": 56042304, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
         ], 
@@ -58,6 +57,7 @@
         "sw_longitude": -62.934, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.908, 
+        "woe:id": 56042304, 
         "date_indexed": "2010-12-02T12:08:38Z", 
         "alias_GER_V": [
           "Sankt Bartholom\u00e4us"

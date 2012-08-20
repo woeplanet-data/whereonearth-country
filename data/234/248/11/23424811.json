@@ -44,9 +44,7 @@
         "alias_RUM_Q": [
           "Guiana Francez\u0103"
         ], 
-        "alias_UNK_V": [
-          "Department of French Guiana"
-        ], 
+        "ne_longitude": -51.614, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubd88\ub839 \uac00\uc774\uc544\ub098"
@@ -57,19 +55,15 @@
         "alias_ENG_A": [
           "GF"
         ], 
-        "alias_CZE_Q": [
-          "Francouzsk\u00e1 Guyana"
-        ], 
         "alias_ITA_Q": [
           "Guyana Francese"
         ], 
-        "alias_GER_V": [
-          "Franzoesisch Guyana"
+        "alias_DAN_Q": [
+          "Fransk Guyana"
         ], 
         "alias_ITA_V": [
           "Guiana Francese"
         ], 
-        "woeid": 23424811, 
         "alias_JPN_Q": [
           "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca"
         ], 
@@ -86,11 +80,15 @@
           "Ranskan Guayana"
         ], 
         "sw_longitude": -54.543, 
+        "alias_HUN_V": [
+          "Francia Guiana"
+        ], 
         "alias_FIN_V": [
           "Ranskan Guajana"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 3.952, 
+        "woe:id": 23424811, 
         "alias_NOR_Q": [
           "Fransk Guyana"
         ], 
@@ -98,8 +96,8 @@
         "alias_KOR_Q": [
           "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"
         ], 
-        "alias_DAN_V": [
-          "Fransk Guiana"
+        "alias_DUT_V": [
+          "Frans Guyana"
         ], 
         "alias_SPA_V": [
           "Guyana Francesca"
@@ -107,14 +105,14 @@
         "alias_DUT_Q": [
           "Frans-Guyana"
         ], 
-        "alias_DUT_V": [
-          "Frans Guyana"
+        "alias_CZE_Q": [
+          "Francouzsk\u00e1 Guyana"
         ], 
-        "alias_DAN_Q": [
-          "Fransk Guyana"
+        "alias_GER_V": [
+          "Franzoesisch Guyana"
         ], 
-        "alias_GER_Q": [
-          "Franz\u00f6sisch-Guayana"
+        "alias_DAN_V": [
+          "Fransk Guiana"
         ], 
         "alias_GER_S": [
           "Franzosisch Guyana"
@@ -125,10 +123,12 @@
         "alias_HUN_Q": [
           "Francia Guyana"
         ], 
-        "alias_HUN_V": [
-          "Francia Guiana"
+        "alias_GER_Q": [
+          "Franz\u00f6sisch-Guayana"
         ], 
-        "ne_longitude": -51.614, 
+        "alias_UNK_V": [
+          "Department of French Guiana"
+        ], 
         "longitude": -53.078, 
         "iso": "GF", 
         "sw_latitude": 2.127, 

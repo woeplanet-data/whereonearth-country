@@ -3,28 +3,106 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              174.866, 
-              -21.017
-            ], 
+              [
+                178.3736, 
+                -17.33992
+              ], 
+              [
+                178.71806, 
+                -17.62846
+              ], 
+              [
+                178.55271, 
+                -18.15059
+              ], 
+              [
+                177.93266, 
+                -18.28799
+              ], 
+              [
+                177.38146, 
+                -18.16432
+              ], 
+              [
+                177.28504, 
+                -17.72465
+              ], 
+              [
+                177.67087000000012, 
+                -17.38114
+              ], 
+              [
+                178.12557, 
+                -17.50481
+              ], 
+              [
+                178.3736, 
+                -17.33992
+              ]
+            ]
+          ], 
+          [
             [
-              174.866, 
-              -12.466
-            ], 
+              [
+                179.36414266196428, 
+                -16.80135407694685
+              ], 
+              [
+                178.7250593629971, 
+                -17.01204167436802
+              ], 
+              [
+                178.59683859511708, 
+                -16.63915
+              ], 
+              [
+                179.09660936299716, 
+                -16.433984277547424
+              ], 
+              [
+                179.41350936299713, 
+                -16.379054277547397
+              ], 
+              [
+                180.00000000000014, 
+                -16.06713266364244
+              ], 
+              [
+                180.00000000000014, 
+                -16.55521656663916
+              ], 
+              [
+                179.36414266196428, 
+                -16.80135407694685
+              ]
+            ]
+          ], 
+          [
             [
-              -178.203, 
-              -12.466
-            ], 
-            [
-              -178.203, 
-              -21.017
-            ], 
-            [
-              174.866, 
-              -21.017
+              [
+                -179.91736938476527, 
+                -16.50178313564936
+              ], 
+              [
+                -180.0, 
+                -16.55521656663916
+              ], 
+              [
+                -180.0, 
+                -16.06713266364244
+              ], 
+              [
+                -179.7933201090486, 
+                -16.02088225674123
+              ], 
+              [
+                -179.91736938476527, 
+                -16.50178313564936
+              ]
             ]
           ]
         ]
@@ -34,17 +112,24 @@
         "alias_ENG_V": [
           "Fiji Islands"
         ], 
-        "alias_ENG_A": [
-          "FJ"
+        "alias_KOR_Q": [
+          "\ud53c\uc9c0"
         ], 
         "alias_POL_Q": [
           "Fid\u017ci"
         ], 
         "ne_latitude": -12.466, 
+        "ne:POSTAL": "FJ", 
+        "ne:NAME_SORT": "Fiji", 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ud53c\uc9c0"
+        "ne:TERR_": null, 
+        "alias_ENG_A": [
+          "FJ"
         ], 
+        "ne:SUBUNIT": "Fiji", 
+        "ne:ISO_N3": 242.0, 
+        "ne:ADM0_A3": "FJI", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6590\u6fdf"
         ], 
@@ -57,13 +142,14 @@
         "alias_CHI_V": [
           "\u6590\u6d4e"
         ], 
-        "woeid": 23424813, 
         "alias_JPN_Q": [
           "\u30d5\u30a3\u30b8\u30fc"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30d5\u30a3\u30b8\u30fc\u8af8\u5cf6\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Fiyi"
         ], 
@@ -74,9 +160,25 @@
           "Fidzi"
         ], 
         "sw_longitude": 174.866, 
+        "ne:GDP_MD_EST": 3579.0, 
+        "ne:SU_A3": "FJI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -17.791, 
+        "woe:id": 23424813, 
+        "ne:ISO_A3": "FJI", 
+        "ne:ISO_A2": "FJ", 
         "date_indexed": "2010-12-02T16:12:16Z", 
+        "ne:NAME_FORMA": "Republic of the Fiji Islands", 
+        "ne:GU_A3": "FJI", 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Fiji", 
+        "ne:GEOUNIT": "Fiji", 
+        "ne:LabelRank": 1, 
+        "ne:SOV_A3": "FJI", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:ABBREV": "Fiji", 
         "alias_CZE_Q": [
           "Fid\u017ei"
         ], 
@@ -86,6 +188,8 @@
         "alias_GER_Q": [
           "Fidschi"
         ], 
+        "ne:SOVEREIGNT": "Fiji", 
+        "ne:NAME": "Fiji", 
         "lang": "ENG", 
         "name": "Fiji", 
         "alias_UNK_S": [
@@ -103,12 +207,15 @@
         ], 
         "ne_longitude": -178.203, 
         "longitude": 177.973, 
+        "ne:POP_EST": 944720.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "FJ", 
         "sw_latitude": -21.017, 
         "alias_FRE_V": [
           "\u00celes Fidji"
         ], 
         "fullname": "Fiji", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Fidji"
         ]

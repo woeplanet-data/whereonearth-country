@@ -63,7 +63,6 @@
         "alias_CHI_V": [
           "\u767e\u6155\u9054"
         ], 
-        "woeid": 23424756, 
         "alias_JPN_Q": [
           "\u30d0\u30df\u30e5\u30fc\u30c0\u8af8\u5cf6"
         ], 
@@ -76,6 +75,7 @@
         "sw_longitude": -64.896, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 32.303, 
+        "woe:id": 23424756, 
         "date_indexed": "2010-12-02T17:42:05Z", 
         "alias_CZE_Q": [
           "Bermudy"

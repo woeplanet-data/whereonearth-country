@@ -44,9 +44,7 @@
         "alias_RUM_Q": [
           "Comore"
         ], 
-        "alias_UNK_V": [
-          "Comores"
-        ], 
+        "ne_longitude": 44.538, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ucf54\ubaa8\ub974"
@@ -69,13 +67,12 @@
         "alias_ITA_Q": [
           "Comore"
         ], 
-        "alias_GER_V": [
-          "Komoreninseln"
+        "alias_DAN_Q": [
+          "Comorerne"
         ], 
         "alias_CHI_V": [
           "\u845b\u6469"
         ], 
-        "woeid": 23424786, 
         "alias_JPN_Q": [
           "\u30b3\u30e2\u30ed"
         ], 
@@ -91,6 +88,7 @@
         "sw_longitude": 43.216, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -11.652, 
+        "woe:id": 23424786, 
         "alias_NOR_Q": [
           "Komorene"
         ], 
@@ -104,8 +102,8 @@
         "alias_CZE_Q": [
           "Komory"
         ], 
-        "alias_DAN_Q": [
-          "Comorerne"
+        "alias_GER_V": [
+          "Komoreninseln"
         ], 
         "alias_GER_Q": [
           "Komoren"
@@ -122,8 +120,10 @@
         "alias_HUN_V": [
           "Comor-szigetek"
         ], 
-        "ne_longitude": 44.538, 
-        "longitude": 43.360, 
+        "alias_UNK_V": [
+          "Comores"
+        ], 
+        "longitude": 43.36, 
         "iso": "KM", 
         "sw_latitude": -12.414, 
         "alias_FRE_V": [

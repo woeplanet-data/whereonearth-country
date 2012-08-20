@@ -7,30 +7,109 @@
         "coordinates": [
           [
             [
-              5.956, 
-              45.818
+              9.59422610844635, 
+              47.52505809182027
             ], 
             [
-              5.956, 
-              47.808
+              9.632931756232978, 
+              47.34760122332999
             ], 
             [
-              10.492, 
-              47.808
+              9.479969516649021, 
+              47.102809963563374
             ], 
             [
-              10.492, 
-              45.818
+              9.932448357796659, 
+              46.92072805438296
             ], 
             [
-              5.956, 
-              45.818
+              10.44270145024663, 
+              46.89354625099743
+            ], 
+            [
+              10.363378126678612, 
+              46.48357127540986
+            ], 
+            [
+              9.922836541390382, 
+              46.31489940040919
+            ], 
+            [
+              9.182881707403055, 
+              46.44021474871698
+            ], 
+            [
+              8.966305779667806, 
+              46.03693187111119
+            ], 
+            [
+              8.489952426801324, 
+              46.005150865251686
+            ], 
+            [
+              8.31662967289438, 
+              46.16364248309086
+            ], 
+            [
+              7.755992058959833, 
+              45.82449005795931
+            ], 
+            [
+              7.273850945676656, 
+              45.776947740250776
+            ], 
+            [
+              6.843592970414505, 
+              45.99114655210061
+            ], 
+            [
+              6.500099724970426, 
+              46.42967275652944
+            ], 
+            [
+              6.022609490593538, 
+              46.27298981382047
+            ], 
+            [
+              6.037388950229001, 
+              46.725778713561866
+            ], 
+            [
+              6.768713820023606, 
+              47.2877082383037
+            ], 
+            [
+              6.736571079138059, 
+              47.541801255882845
+            ], 
+            [
+              7.192202182655507, 
+              47.44976552997102
+            ], 
+            [
+              7.466759067422231, 
+              47.62058197691181
+            ], 
+            [
+              8.317301466514152, 
+              47.61357982033626
+            ], 
+            [
+              8.522611932009767, 
+              47.83082754169129
+            ], 
+            [
+              9.59422610844635, 
+              47.52505809182027
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_RUM_V": [
+          "Eleve\u0163ia"
+        ], 
         "alias_ENG_V": [
           "Swiss"
         ], 
@@ -41,12 +120,12 @@
           "Szwajcaria"
         ], 
         "ne_latitude": 47.808, 
+        "ne:SUBUNIT": "Switzerland", 
+        "ne:POSTAL": "CH", 
         "alias_RUM_Q": [
           "Elve\u0163ia"
         ], 
-        "alias_UNK_V": [
-          "Suisu"
-        ], 
+        "ne_longitude": 10.492, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "Suweisu"
@@ -63,19 +142,22 @@
         "alias_POR_S": [
           "Suica"
         ], 
+        "ne:ISO_N3": 756.0, 
+        "ne:ADM0_A3": "CHE", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u745e\u58eb"
         ], 
         "alias_ITA_Q": [
           "Svizzera"
         ], 
-        "alias_GER_V": [
-          "Schweizerische Eidgenossenschaft"
+        "alias_DAN_Q": [
+          "Schweiz"
         ], 
         "alias_ITA_V": [
           "Confederazione Svizzera"
         ], 
-        "woeid": 23424957, 
+        "ne:TERR_": null, 
         "alias_JPN_Q": [
           "\u30b9\u30a4\u30b9"
         ], 
@@ -85,6 +167,7 @@
         "alias_JPN_V": [
           "\u30b9\u30a4\u30b9\u9023\u90a6"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Suiza"
         ], 
@@ -95,29 +178,45 @@
           "Sveitsissa"
         ], 
         "sw_longitude": 5.956, 
+        "ne:GDP_MD_EST": 316700.0, 
         "alias_FIN_V": [
           "Sveitsist\u00e4"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.813, 
+        "woe:id": 23424957, 
         "alias_NOR_Q": [
           "Sveits"
         ], 
+        "ne:ISO_A3": "CHE", 
+        "ne:ISO_A2": "CH", 
         "date_indexed": "2010-12-02T18:20:52Z", 
-        "alias_FRE_V": [
-          "Conf\u00e9d\u00e9ration Suisse"
-        ], 
+        "ne:NAME_SORT": "Switzerland", 
+        "ne:GU_A3": "CHE", 
+        "ne:MAP_COLOR": 3.0, 
+        "ne:ADMIN": "Switzerland", 
+        "ne:SU_A3": "CHE", 
+        "ne:LabelRank": 1, 
+        "ne:SOV_A3": "CHE", 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Zwitserland"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Switz.", 
         "alias_CZE_Q": [
           "\u0160v\u00fdcarsko"
         ], 
-        "alias_DAN_Q": [
-          "Schweiz"
+        "alias_GER_V": [
+          "Schweizerische Eidgenossenschaft"
         ], 
+        "ne:SOVEREIGNT": "Switzerland", 
+        "ne:NAME": "Switzerland", 
         "lang": "GER", 
+        "ne:GEOUNIT": "Switzerland", 
         "name": "Schweiz", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Sviss"
@@ -125,17 +224,23 @@
         "alias_HUN_Q": [
           "Sv\u00e1jc"
         ], 
-        "ne_longitude": 10.492, 
+        "alias_UNK_V": [
+          "Suisu"
+        ], 
         "longitude": 8.224, 
+        "ne:POP_EST": 7604467.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "CH", 
         "sw_latitude": 45.818, 
         "alias_HUN_S": [
           "Svajc"
         ], 
-        "alias_RUM_V": [
-          "Eleve\u0163ia"
+        "alias_FRE_V": [
+          "Conf\u00e9d\u00e9ration Suisse"
         ], 
         "fullname": "Schweiz, Switzerland", 
+        "ne:NAME_FORMA": "Swiss Confederation", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Suisse"
         ]

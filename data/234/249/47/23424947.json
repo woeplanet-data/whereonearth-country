@@ -38,9 +38,7 @@
           "SM"
         ], 
         "ne_latitude": 43.992, 
-        "alias_UNK_V": [
-          "Republika San Marino"
-        ], 
+        "ne_longitude": 12.517, 
         "placetype": "Country", 
         "alias_POR_V": [
           "S\u00e3o Marino"
@@ -60,7 +58,6 @@
         "alias_CHI_V": [
           "\u8056\u99ac\u5229\u8afe"
         ], 
-        "woeid": 23424947, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30de\u30ea\u30ce"
         ], 
@@ -70,6 +67,7 @@
         "sw_longitude": 12.403, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 43.943, 
+        "woe:id": 23424947, 
         "date_indexed": "2010-12-02T09:58:14Z", 
         "alias_GER_V": [
           "Republik San Marino"
@@ -80,8 +78,10 @@
           "Agios Marinos"
         ], 
         "parent_woeid": 1, 
-        "ne_longitude": 12.517, 
-        "longitude": 12.460, 
+        "alias_UNK_V": [
+          "Republika San Marino"
+        ], 
+        "longitude": 12.46, 
         "iso": "SM", 
         "sw_latitude": 43.893, 
         "fullname": "San Marino", 

@@ -60,13 +60,9 @@
         "alias_ENG_A": [
           "HM"
         ], 
-        "alias_CZE_Q": [
-          "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
-        ], 
         "alias_ITA_Q": [
           "Isole Heard E Mcdonald"
         ], 
-        "woeid": 28289411, 
         "alias_JPN_Q": [
           "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
         ], 
@@ -83,14 +79,18 @@
           "Heard ja McDonaldinsaaret"
         ], 
         "sw_longitude": 72.424, 
+        "alias_HUN_V": [
+          "Heard Sziget \u00e9s McDonald-szigetek"
+        ], 
         "alias_FIN_V": [
           "Heard ja McDonaldsaaret"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": -53.100, 
+        "latitude": -53.1, 
         "alias_NOR_S": [
           "Heard Oya og Macdonald Oya"
         ], 
+        "woe:id": 28289411, 
         "alias_NOR_Q": [
           "Heard- Og Mcdonald\u00f8yene"
         ], 
@@ -98,26 +98,26 @@
           "Heard \u00d8ya og Macdonald \u00d8ya"
         ], 
         "date_indexed": "2010-12-02T09:56:47Z", 
-        "alias_FRE_V": [
-          "Iles Heard et McDonald"
-        ], 
         "alias_KOR_Q": [
           "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
-        ], 
-        "alias_DAN_V": [
-          "Heard- og McDonald\u00f8erne"
-        ], 
-        "alias_DUT_Q": [
-          "Heardeiland en Mcdonaldeilanden"
         ], 
         "alias_DUT_V": [
           "Heard- en McDonaldeilanden"
         ], 
+        "alias_RUM_V": [
+          "Insulele Heard \u015fi Mc Donald"
+        ], 
+        "alias_DUT_Q": [
+          "Heardeiland en Mcdonaldeilanden"
+        ], 
+        "alias_CZE_Q": [
+          "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
+        ], 
         "alias_DAN_Q": [
           "Heard Island og Mcdonald Islands"
         ], 
-        "alias_GER_Q": [
-          "Heard Und Mcdonaldinseln"
+        "alias_DAN_V": [
+          "Heard- og McDonald\u00f8erne"
         ], 
         "lang": "ENG", 
         "name": "Heard Island and McDonald Islands", 
@@ -125,15 +125,15 @@
         "alias_HUN_Q": [
           "Heard-Sziget \u00c9s Mcdonald-Szigetek"
         ], 
-        "alias_HUN_V": [
-          "Heard Sziget \u00e9s McDonald-szigetek"
+        "alias_GER_Q": [
+          "Heard Und Mcdonaldinseln"
         ], 
         "ne_longitude": 72.609, 
         "longitude": 72.517, 
         "iso": "HM", 
         "sw_latitude": -53.192, 
-        "alias_RUM_V": [
-          "Insulele Heard \u015fi Mc Donald"
+        "alias_FRE_V": [
+          "Iles Heard et McDonald"
         ], 
         "fullname": "Heard Island and McDonald Islands", 
         "alias_FRE_Q": [

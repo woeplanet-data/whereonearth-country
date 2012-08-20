@@ -7,24 +7,96 @@
         "coordinates": [
           [
             [
-              80.056, 
-              26.357
+              88.12044070836987, 
+              27.876541652939594
             ], 
             [
-              80.056, 
-              30.433
+              88.04313276566123, 
+              27.445818589786825
             ], 
             [
-              88.199, 
-              30.433
+              88.17480431514092, 
+              26.81040517832595
             ], 
             [
-              88.199, 
-              26.357
+              88.06023766474982, 
+              26.41461538340249
             ], 
             [
-              80.056, 
-              26.357
+              87.2274719583663, 
+              26.397898057556077
+            ], 
+            [
+              86.02439293817918, 
+              26.63098460540857
+            ], 
+            [
+              85.25177859898338, 
+              26.726198431906344
+            ], 
+            [
+              84.6750179381738, 
+              27.234901231387536
+            ], 
+            [
+              83.30424889519955, 
+              27.36450572357556
+            ], 
+            [
+              81.99998742058497, 
+              27.925479234319994
+            ], 
+            [
+              81.05720258985203, 
+              28.416095282499043
+            ], 
+            [
+              80.08842451367627, 
+              28.79447011974014
+            ], 
+            [
+              80.4767212259174, 
+              29.72986522065534
+            ], 
+            [
+              81.11125613802932, 
+              30.183480943313402
+            ], 
+            [
+              81.52580447787474, 
+              30.42271698660863
+            ], 
+            [
+              82.32751264845088, 
+              30.115268052688137
+            ], 
+            [
+              83.33711510613719, 
+              29.463731594352197
+            ], 
+            [
+              83.89899295444673, 
+              29.320226141877658
+            ], 
+            [
+              84.23457970575015, 
+              28.839893703724698
+            ], 
+            [
+              85.01163821812304, 
+              28.642773952747344
+            ], 
+            [
+              85.82331994013151, 
+              28.203575954698707
+            ], 
+            [
+              86.9545170430006, 
+              27.974261786403517
+            ], 
+            [
+              88.12044070836987, 
+              27.876541652939594
             ]
           ]
         ]
@@ -34,54 +106,83 @@
         "alias_ENG_V": [
           "Kingdom of Nepal"
         ], 
-        "alias_ENG_A": [
-          "NP"
-        ], 
-        "ne_latitude": 30.433, 
-        "alias_UNK_V": [
-          "Kraljevina Nepal"
-        ], 
-        "placetype": "Country", 
         "alias_KOR_Q": [
           "\ub124\ud314"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 30.433, 
+        "ne:POSTAL": "NP", 
+        "ne_longitude": 88.199, 
+        "placetype": "Country", 
+        "alias_ENG_A": [
+          "NP"
+        ], 
+        "ne:SUBUNIT": "Nepal", 
+        "ne:ISO_N3": 524.0, 
+        "ne:ADM0_A3": "NPL", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5c3c\u6cca\u723e"
         ], 
+        "ne:NAME": "Nepal", 
         "alias_CHI_V": [
           "\u5c3c\u6cca\u723e"
         ], 
-        "woeid": 23424911, 
         "alias_JPN_Q": [
           "\u30cd\u30d1\u30fc\u30eb"
         ], 
         "alias_JPN_V": [
           "\u30cd\u30d1\u30fc\u30eb\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "NPL", 
         "sw_longitude": 80.056, 
+        "ne:GDP_MD_EST": 31080.0, 
+        "ne:SU_A3": "NPL", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 28.395, 
+        "woe:id": 23424911, 
+        "ne:ISO_A3": "NPL", 
+        "ne:ISO_A2": "NP", 
         "date_indexed": "2010-12-02T18:18:47Z", 
+        "ne:NAME_SORT": "Nepal", 
+        "ne:GU_A3": "NPL", 
+        "ne:MAP_COLOR": 12.0, 
+        "ne:ADMIN": "Nepal", 
+        "ne:GEOUNIT": "Nepal", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Nepal", 
         "alias_CZE_Q": [
           "Nep\u00e1l"
         ], 
         "alias_GER_V": [
           "K\u00f6nigreich Nepal"
         ], 
+        "ne:SOVEREIGNT": "Nepal", 
         "alias_GER_S": [
           "Konigreich Nepal"
         ], 
         "lang": "ENG", 
         "name": "Nepal", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Nep\u00e1l"
         ], 
-        "ne_longitude": 88.199, 
+        "alias_UNK_V": [
+          "Kraljevina Nepal"
+        ], 
         "longitude": 84.128, 
+        "ne:POP_EST": 28563377.0, 
         "iso": "NP", 
         "sw_latitude": 26.357, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Nepal", 
+        "ne:NAME_FORMA": "Kingdom of Nepal", 
         "alias_FRE_Q": [
           "N\u00e9pal"
         ]

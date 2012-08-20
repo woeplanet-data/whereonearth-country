@@ -39,8 +39,8 @@
         "alias_POR_Q": [
           "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
         ], 
-        "alias_ENG_A": [
-          "IO"
+        "alias_KOR_Q": [
+          "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
         ], 
         "alias_POR_S": [
           "Territorio Britanico do Oceano Indico"
@@ -51,7 +51,6 @@
         "alias_ITA_Q": [
           "Territorio Britannico dell'Oceano Indiano"
         ], 
-        "woeid": 23424849, 
         "alias_JPN_Q": [
           "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
         ], 
@@ -67,12 +66,13 @@
         "sw_longitude": 71.266, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 7.201, 
+        "woe:id": 23424849, 
         "alias_NOR_Q": [
           "Det britiske territoriet i Indiahavet"
         ], 
         "date_indexed": "2010-12-02T16:11:57Z", 
-        "alias_KOR_Q": [
-          "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
+        "alias_ENG_A": [
+          "IO"
         ], 
         "alias_DAN_Q": [
           "Det Britiske Territorium i Det Indiske Ocean"

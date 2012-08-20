@@ -7,24 +7,80 @@
         "coordinates": [
           [
             [
-              20.953, 
-              53.897
+              22.731098667092652, 
+              54.327536932993326
             ], 
             [
-              20.953, 
-              56.450
+              22.65105187347254, 
+              54.582740993866736
             ], 
             [
-              26.836, 
-              56.450
+              22.75776370615526, 
+              54.85657440858138
             ], 
             [
-              26.836, 
-              53.897
+              22.315723504330577, 
+              55.015298570365864
             ], 
             [
-              20.953, 
-              53.897
+              21.268448927503467, 
+              55.190481675835315
+            ], 
+            [
+              21.055800408622417, 
+              56.031076361711065
+            ], 
+            [
+              22.201156853939494, 
+              56.33780182557949
+            ], 
+            [
+              23.878263787539964, 
+              56.27367137310527
+            ], 
+            [
+              24.86068444184076, 
+              56.37252838807963
+            ], 
+            [
+              25.000934279080894, 
+              56.16453074810484
+            ], 
+            [
+              25.533046502390334, 
+              56.100296942766036
+            ], 
+            [
+              26.494331495883756, 
+              55.615106919977634
+            ], 
+            [
+              26.58827924979039, 
+              55.16717560487167
+            ], 
+            [
+              25.7684326514798, 
+              54.84696259217509
+            ], 
+            [
+              25.536353794056993, 
+              54.28242340760253
+            ], 
+            [
+              24.450683628037037, 
+              53.905702216194754
+            ], 
+            [
+              23.48412763844985, 
+              53.91249766704114
+            ], 
+            [
+              23.24398725758951, 
+              54.22056671814914
+            ], 
+            [
+              22.731098667092652, 
+              54.327536932993326
             ]
           ]
         ]
@@ -40,13 +96,12 @@
         "alias_POL_Q": [
           "Litwa"
         ], 
-        "ne_latitude": 56.450, 
+        "ne_latitude": 56.45, 
+        "ne:GU_A3": "LTU", 
         "alias_RUM_Q": [
           "Lituania"
         ], 
-        "alias_UNK_V": [
-          "Litwa"
-        ], 
+        "ne_longitude": 26.836, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Litu\u00e2nia"
@@ -54,16 +109,22 @@
         "alias_ENG_A": [
           "LT"
         ], 
+        "ne:SUBUNIT": "Lithuania", 
+        "ne:POSTAL": "LT", 
+        "ne:ISO_N3": 440.0, 
+        "ne:ADM0_A3": "LTU", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7acb\u9676\u5b9b"
         ], 
         "alias_ITA_Q": [
           "Lituania"
         ], 
-        "alias_GER_V": [
-          "Republik Litauen"
+        "alias_DAN_Q": [
+          "Litauen"
         ], 
-        "woeid": 23424875, 
+        "ne:NAME": "Lithuania", 
+        "ne:TERR_": null, 
         "alias_JPN_Q": [
           "\u30ea\u30c8\u30a2\u30cb\u30a2"
         ], 
@@ -73,38 +134,55 @@
         "alias_JPN_V": [
           "\u30ea\u30c8\u30a2\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Lituania"
         ], 
         "alias_FIN_Q": [
           "Liettua"
         ], 
+        "ne:SOV_A3": "LTU", 
         "sw_longitude": 20.953, 
+        "ne:GDP_MD_EST": 63330.0, 
         "alias_FIN_V": [
           "Liettuasta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 55.174, 
+        "woe:id": 23424875, 
         "alias_NOR_Q": [
           "Litauen"
         ], 
+        "ne:ISO_A3": "LTU", 
+        "ne:ISO_A2": "LT", 
         "date_indexed": "2010-12-02T09:36:04Z", 
+        "ne:NAME_SORT": "Lithuania", 
         "alias_KOR_Q": [
           "\ub9ac\ud22c\uc544\ub2c8\uc544"
         ], 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "Lithuania", 
+        "ne:SU_A3": "LTU", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Litouwen"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Lith.", 
         "alias_CZE_Q": [
           "Litva"
         ], 
-        "alias_DAN_Q": [
-          "Litauen"
+        "alias_GER_V": [
+          "Republik Litauen"
         ], 
         "alias_GER_Q": [
           "Litauen"
         ], 
+        "ne:SOVEREIGNT": "Lithuania", 
         "lang": "UNK", 
+        "ne:GEOUNIT": "Lithuania", 
         "name": "Lietuva", 
         "alias_CZE_V": [
           "Loty\u0161sko"
@@ -119,14 +197,21 @@
         "alias_HUN_Q": [
           "Litv\u00e1nia"
         ], 
-        "ne_longitude": 26.836, 
+        "alias_UNK_V": [
+          "Litwa"
+        ], 
         "longitude": 23.894, 
+        "ne:POP_EST": 3555179.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "LT", 
         "sw_latitude": 53.897, 
         "alias_HUN_S": [
           "Litvania"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Lietuva, Lithuania", 
+        "ne:NAME_FORMA": "Republic of Lithuania", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Lituanie"
         ]

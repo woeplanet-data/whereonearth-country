@@ -41,12 +41,10 @@
           "Andora"
         ], 
         "ne_latitude": 42.656, 
-        "alias_UNK_V": [
-          "Principat d'Andorra"
-        ], 
+        "ne_longitude": 1.787, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\uc548\ub3c4\ub77c"
+        "alias_ENG_A": [
+          "AD"
         ], 
         "alias_CHI_Q": [
           "\u5b89\u9053\u723e"
@@ -54,7 +52,6 @@
         "alias_CHI_V": [
           "\u5b89\u9053\u5c14"
         ], 
-        "woeid": 23424744, 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30c9\u30e9"
         ], 
@@ -64,9 +61,10 @@
         "sw_longitude": 1.414, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 42.542, 
+        "woe:id": 23424744, 
         "date_indexed": "2010-12-02T07:50:33Z", 
-        "alias_ENG_A": [
-          "AD"
+        "alias_KOR_Q": [
+          "\uc548\ub3c4\ub77c"
         ], 
         "alias_GER_V": [
           "F\u00fcrstentum Andorra"
@@ -80,8 +78,10 @@
         "alias_UNK_Q": [
           "Andora"
         ], 
-        "ne_longitude": 1.787, 
-        "longitude": 1.600, 
+        "alias_UNK_V": [
+          "Principat d'Andorra"
+        ], 
+        "longitude": 1.6, 
         "iso": "AD", 
         "sw_latitude": 42.429, 
         "alias_FRE_V": [

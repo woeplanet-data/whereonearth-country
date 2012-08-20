@@ -7,24 +7,84 @@
         "coordinates": [
           [
             [
-              -24.547, 
-              63.287
+              -14.508695441129234, 
+              66.45589223903143
             ], 
             [
-              -24.547, 
-              67.117
+              -14.739637417041607, 
+              65.8087482774403
             ], 
             [
-              -13.232, 
-              67.117
+              -13.60973222497981, 
+              65.12667104761987
             ], 
             [
-              -13.232, 
-              63.287
+              -14.909833746794902, 
+              64.36408193628868
             ], 
             [
-              -24.547, 
-              63.287
+              -17.794438035543422, 
+              63.678749091233854
+            ], 
+            [
+              -18.656245896874992, 
+              63.49638296167582
+            ], 
+            [
+              -19.97275468594276, 
+              63.64363495549153
+            ], 
+            [
+              -22.762971971110158, 
+              63.960178941495386
+            ], 
+            [
+              -21.778484259517683, 
+              64.40211579045551
+            ], 
+            [
+              -23.95504391121911, 
+              64.8911298692335
+            ], 
+            [
+              -22.184402635170358, 
+              65.0849681667603
+            ], 
+            [
+              -22.227423265053332, 
+              65.37859365504274
+            ], 
+            [
+              -24.326184047939336, 
+              65.61118927678847
+            ], 
+            [
+              -23.65051469572309, 
+              66.26251902939522
+            ], 
+            [
+              -22.134922451250887, 
+              66.41046865504687
+            ], 
+            [
+              -20.57628373867955, 
+              65.73211212835143
+            ], 
+            [
+              -19.05684160000159, 
+              66.27660085719477
+            ], 
+            [
+              -17.79862382655905, 
+              65.99385325790978
+            ], 
+            [
+              -16.167818976292125, 
+              66.52679230413587
+            ], 
+            [
+              -14.508695441129234, 
+              66.45589223903143
             ]
           ]
         ]
@@ -37,78 +97,101 @@
         "alias_SWE_Q": [
           "Island"
         ], 
-        "alias_POL_Q": [
-          "Islandia"
+        "alias_ENG_P": [
+          "Iceland"
         ], 
         "ne_latitude": 67.117, 
+        "ne:GU_A3": "ISL", 
         "alias_RUM_Q": [
           "Islanda"
         ], 
-        "alias_UNK_V": [
-          "Islanti"
-        ], 
+        "ne_longitude": -13.232, 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Isl\u00e2ndia"
         ], 
         "alias_ENG_A": [
           "IS"
         ], 
+        "ne:SUBUNIT": "Iceland", 
+        "ne:POSTAL": "IS", 
+        "ne:ISO_N3": 352.0, 
+        "ne:ADM0_A3": "ISL", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u51b0\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Islanda"
         ], 
-        "alias_GER_V": [
-          "Republik Island"
+        "alias_DAN_Q": [
+          "Island"
         ], 
+        "ne:NAME": "Iceland", 
         "alias_CHI_V": [
           "\u51b0\u5c9b"
         ], 
-        "woeid": 23424845, 
         "alias_JPN_Q": [
           "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
         ], 
-        "alias_ENG_P": [
-          "Iceland"
+        "alias_POL_Q": [
+          "Islandia"
         ], 
         "alias_JPN_V": [
           "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islandia"
         ], 
         "alias_FIN_Q": [
           "Islannin"
         ], 
+        "ne:SOV_A3": "ISL", 
         "sw_longitude": -24.547, 
+        "ne:GDP_MD_EST": 12710.0, 
         "alias_FIN_V": [
           "Islannista"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 64.964, 
+        "woe:id": 23424845, 
         "alias_NOR_Q": [
           "Island"
         ], 
+        "ne:ISO_A3": "ISL", 
+        "ne:ISO_A2": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
+        "ne:NAME_SORT": "Iceland", 
         "alias_KOR_Q": [
           "\uc544\uc774\uc2ac\ub780\ub4dc"
         ], 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "Iceland", 
+        "ne:SU_A3": "ISL", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Ijsland"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Iceland", 
         "alias_CZE_Q": [
           "Island"
         ], 
-        "alias_DAN_Q": [
-          "Island"
+        "alias_GER_V": [
+          "Republik Island"
         ], 
         "alias_GER_Q": [
           "Island"
         ], 
+        "ne:SOVEREIGNT": "Iceland", 
         "lang": "UNK", 
+        "ne:GEOUNIT": "Iceland", 
         "name": "\u00cdsland", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Islandija"
@@ -116,11 +199,17 @@
         "alias_HUN_Q": [
           "Izland"
         ], 
-        "ne_longitude": -13.232, 
+        "alias_UNK_V": [
+          "Islanti"
+        ], 
         "longitude": -19.021, 
+        "ne:POP_EST": 306694.0, 
         "iso": "IS", 
         "sw_latitude": 63.287, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "\u00cdsland, Iceland", 
+        "ne:NAME_FORMA": "Republic of Iceland", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Islande"
         ]

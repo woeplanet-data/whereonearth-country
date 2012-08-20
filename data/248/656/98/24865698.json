@@ -37,8 +37,8 @@
         "alias_SWE_Q": [
           "Hongkong"
         ], 
-        "alias_POL_Q": [
-          "Hongkong"
+        "alias_ENG_P": [
+          "Hong Kong"
         ], 
         "ne_latitude": 22.562, 
         "alias_RUM_Q": [
@@ -48,8 +48,8 @@
         "alias_POR_Q": [
           "Hong Kong"
         ], 
-        "alias_ENG_A": [
-          "HK"
+        "alias_KOR_Q": [
+          "\ud64d\ucf69"
         ], 
         "alias_ITA_Q": [
           "Hong Kong"
@@ -57,9 +57,8 @@
         "alias_CHI_V": [
           "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
         ], 
-        "woeid": 24865698, 
-        "alias_ENG_P": [
-          "Hong Kong"
+        "alias_POL_Q": [
+          "Hongkong"
         ], 
         "alias_JPN_V": [
           "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
@@ -76,12 +75,13 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 22.411, 
+        "woe:id": 24865698, 
         "alias_NOR_Q": [
           "Hongkong"
         ], 
         "date_indexed": "2010-12-02T12:08:18Z", 
-        "alias_KOR_Q": [
-          "\ud64d\ucf69"
+        "alias_ENG_A": [
+          "HK"
         ], 
         "alias_DUT_Q": [
           "Hongkong"

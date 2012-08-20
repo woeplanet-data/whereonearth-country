@@ -7,24 +7,128 @@
         "coordinates": [
           [
             [
-              7.525, 
-              30.240
+              9.482139926805274, 
+              30.307556057246188
             ], 
             [
-              7.525, 
-              37.567
+              9.05560265466815, 
+              32.10269196220129
             ], 
             [
-              11.598, 
-              37.567
+              8.439102817426118, 
+              32.50628489840082
             ], 
             [
-              11.598, 
-              30.240
+              8.430472853233368, 
+              32.74833730725595
             ], 
             [
-              7.525, 
-              30.240
+              7.612641635782182, 
+              33.34411489514896
+            ], 
+            [
+              7.524481642292244, 
+              34.09737641045146
+            ], 
+            [
+              8.140981479534304, 
+              34.65514598239379
+            ], 
+            [
+              8.376367628623768, 
+              35.479876003555944
+            ], 
+            [
+              8.217824334352315, 
+              36.433176988260286
+            ], 
+            [
+              8.420964389691676, 
+              36.94642731378316
+            ], 
+            [
+              9.509993523810607, 
+              37.349994411766545
+            ], 
+            [
+              10.210002475636317, 
+              37.230001735984814
+            ], 
+            [
+              10.180650262094531, 
+              36.724037787415085
+            ], 
+            [
+              11.02886722173335, 
+              37.09210317641396
+            ], 
+            [
+              11.100025668999251, 
+              36.899996039368915
+            ], 
+            [
+              10.600004510143094, 
+              36.410000108377375
+            ], 
+            [
+              10.593286573945138, 
+              35.94744436293281
+            ], 
+            [
+              10.939518670300687, 
+              35.698984076473494
+            ], 
+            [
+              10.807847120821009, 
+              34.83350718844919
+            ], 
+            [
+              10.149592726287125, 
+              34.33077301689771
+            ], 
+            [
+              10.339658644256616, 
+              33.78574168551532
+            ], 
+            [
+              10.856836378633687, 
+              33.76874013929128
+            ], 
+            [
+              11.108500603895122, 
+              33.293342800422195
+            ], 
+            [
+              11.488787469131012, 
+              33.13699575452314
+            ], 
+            [
+              11.432253452203696, 
+              32.368903103152874
+            ], 
+            [
+              10.944789666394456, 
+              32.081814683555365
+            ], 
+            [
+              10.636901482799487, 
+              31.761420803345757
+            ], 
+            [
+              9.950225050505082, 
+              31.376069647745258
+            ], 
+            [
+              10.056575148161755, 
+              30.9618313664936
+            ], 
+            [
+              9.970017124072854, 
+              30.53932485607524
+            ], 
+            [
+              9.482139926805274, 
+              30.307556057246188
             ]
           ]
         ]
@@ -41,63 +145,82 @@
           "Tunezja"
         ], 
         "ne_latitude": 37.567, 
-        "alias_UNK_V": [
-          "Republika Tunizija"
-        ], 
+        "ne:GU_A3": "TUN", 
+        "ne_longitude": 11.598, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Tun\u00edsia"
         ], 
-        "alias_ENG_A": [
-          "TN"
-        ], 
-        "alias_CHI_Q": [
-          "\u7a81\u5c3c\u897f\u4e9e"
-        ], 
-        "alias_GER_V": [
-          "Tunesische Republik"
-        ], 
-        "alias_CHI_V": [
-          "\u7a81\u5c3c\u65af"
-        ], 
-        "woeid": 23424967, 
-        "alias_JPN_Q": [
-          "\u30c1\u30e5\u30cb\u30b8\u30a2"
-        ], 
-        "alias_JPN_V": [
-          "\u30c1\u30e5\u30cb\u30b8\u30a2\u5171\u548c\u56fd"
-        ], 
-        "alias_SPA_Q": [
-          "T\u00fanez"
-        ], 
-        "alias_SPA_S": [
-          "Tunez"
-        ], 
-        "sw_longitude": 7.525, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 33.795, 
-        "date_indexed": "2010-12-02T18:19:01Z", 
         "alias_KOR_Q": [
           "\ud280\ub2c8\uc9c0"
         ], 
-        "alias_DAN_V": [
-          "Tunis"
+        "ne:SUBUNIT": "Tunisia", 
+        "ne:POSTAL": "TN", 
+        "ne:ISO_N3": 788.0, 
+        "ne:ADM0_A3": "TUN", 
+        "ne:ScaleRank": 1, 
+        "alias_CHI_Q": [
+          "\u7a81\u5c3c\u897f\u4e9e"
         ], 
+        "alias_DAN_Q": [
+          "Tunesien"
+        ], 
+        "ne:NAME": "Tunisia", 
+        "alias_CHI_V": [
+          "\u7a81\u5c3c\u65af"
+        ], 
+        "alias_JPN_Q": [
+          "\u30c1\u30e5\u30cb\u30b8\u30a2"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "alias_JPN_V": [
+          "\u30c1\u30e5\u30cb\u30b8\u30a2\u5171\u548c\u56fd"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "alias_SPA_Q": [
+          "T\u00fanez"
+        ], 
+        "ne:TERR_": null, 
+        "alias_SPA_S": [
+          "Tunez"
+        ], 
+        "ne:SOV_A3": "TUN", 
+        "sw_longitude": 7.525, 
+        "ne:GDP_MD_EST": 81710.0, 
+        "ne:SU_A3": "TUN", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 33.795, 
+        "woe:id": 23424967, 
+        "ne:ISO_A3": "TUN", 
+        "ne:ISO_A2": "TN", 
+        "date_indexed": "2010-12-02T18:19:01Z", 
+        "ne:NAME_SORT": "Tunisia", 
+        "alias_ENG_A": [
+          "TN"
+        ], 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Tunisia", 
+        "ne:GEOUNIT": "Tunisia", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Tunesi\u00eb"
         ], 
         "alias_DUT_S": [
           "Tunesie"
         ], 
+        "ne:ABBREV": "Tun.", 
         "alias_CZE_Q": [
           "Tunisko"
         ], 
-        "alias_DAN_Q": [
-          "Tunesien"
+        "alias_GER_V": [
+          "Tunesische Republik"
         ], 
-        "alias_GER_Q": [
-          "Tunesien"
+        "alias_DAN_V": [
+          "Tunis"
         ], 
+        "ne:SOVEREIGNT": "Tunisia", 
         "lang": "ENG", 
         "name": "Tunisia", 
         "alias_CZE_V": [
@@ -113,11 +236,21 @@
         "alias_HUN_Q": [
           "Tun\u00e9zia"
         ], 
-        "ne_longitude": 11.598, 
+        "alias_GER_Q": [
+          "Tunesien"
+        ], 
+        "alias_UNK_V": [
+          "Republika Tunizija"
+        ], 
         "longitude": 9.562, 
+        "ne:POP_EST": 10486339.0, 
+        "ne:TYPE": "Sovereign country", 
         "iso": "TN", 
-        "sw_latitude": 30.240, 
+        "sw_latitude": 30.24, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Tunisia", 
+        "ne:NAME_FORMA": "Republic of Tunisia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Tunisie"
         ]

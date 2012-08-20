@@ -7,24 +7,80 @@
         "coordinates": [
           [
             [
-              34.960, 
-              29.186
+              35.54566531753454, 
+              32.393992011030576
             ], 
             [
-              34.960, 
-              33.372
+              35.71991824722275, 
+              32.709192409794866
             ], 
             [
-              39.319, 
-              33.372
+              36.834062127435544, 
+              32.312937526980775
             ], 
             [
-              39.319, 
-              29.186
+              38.792340529136084, 
+              33.378686428352225
             ], 
             [
-              34.960, 
-              29.186
+              39.19546837744497, 
+              32.16100881604267
+            ], 
+            [
+              39.00488569515255, 
+              32.01021698661498
+            ], 
+            [
+              37.00216556168101, 
+              31.508412990844747
+            ], 
+            [
+              37.998848911294374, 
+              30.508499864213135
+            ], 
+            [
+              37.66811974462638, 
+              30.3386652694859
+            ], 
+            [
+              37.503581984209035, 
+              30.003776150018407
+            ], 
+            [
+              36.74052778498725, 
+              29.86528331147619
+            ], 
+            [
+              36.50121422704359, 
+              29.505253607698705
+            ], 
+            [
+              36.06894087092206, 
+              29.197494615184453
+            ], 
+            [
+              34.95603722508426, 
+              29.356554673778845
+            ], 
+            [
+              34.92260257339143, 
+              29.501326198844524
+            ], 
+            [
+              35.420918409981965, 
+              31.100065822874356
+            ], 
+            [
+              35.397560662586045, 
+              31.489086005167582
+            ], 
+            [
+              35.5452519060762, 
+              31.78250478772084
+            ], 
+            [
+              35.54566531753454, 
+              32.393992011030576
             ]
           ]
         ]
@@ -41,62 +97,88 @@
           "Jordania"
         ], 
         "ne_latitude": 33.372, 
+        "ne:GU_A3": "JOR", 
         "alias_RUM_Q": [
           "Iordania"
         ], 
+        "ne:NAME_SORT": "Jordan", 
         "placetype": "Country", 
+        "ne:TERR_": null, 
         "alias_POR_Q": [
           "Jord\u00e2nia"
         ], 
         "alias_ENG_A": [
           "JO"
         ], 
+        "ne:SUBUNIT": "Jordan", 
+        "ne:POSTAL": "J", 
+        "ne:ISO_N3": 400.0, 
         "alias_ARA_V": [
           "Al Urdun"
         ], 
+        "ne:ADM0_A3": "JOR", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d04\u65e6"
         ], 
         "alias_ITA_Q": [
           "Giordania"
         ], 
+        "ne:NAME": "Jordan", 
         "alias_CHI_V": [
           "\u7ea6\u65e6"
         ], 
-        "woeid": 23424860, 
         "alias_JPN_Q": [
           "\u30e8\u30eb\u30c0\u30f3"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30e8\u30eb\u30c0\u30f3\u30fb\u30cf\u30b7\u30df\u30c6\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Jordania"
         ], 
         "alias_FIN_Q": [
           "Jordaniaan"
         ], 
-        "sw_longitude": 34.960, 
+        "ne:SOV_A3": "JOR", 
+        "sw_longitude": 34.96, 
+        "ne:GDP_MD_EST": 31610.0, 
         "alias_FIN_V": [
           "Jordaniasta"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 31.279, 
+        "woe:id": 23424860, 
+        "ne:ISO_A3": "JOR", 
+        "ne:ISO_A2": "JO", 
         "date_indexed": "2010-12-02T12:08:12Z", 
+        "ne:NAME_FORMA": "Hashemite Kingdom of Jordan", 
         "alias_KOR_Q": [
           "\uc694\ub974\ub2e8"
         ], 
+        "ne:MAP_COLOR": 4.0, 
+        "ne:ADMIN": "Jordan", 
+        "ne:SU_A3": "JOR", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Jordani\u00eb"
         ], 
+        "ne:ABBREV": "Jord.", 
         "alias_CZE_Q": [
           "Jord\u00e1nsko"
         ], 
+        "ne:GEOUNIT": "Jordan", 
         "alias_GER_Q": [
           "Jordanien"
         ], 
+        "ne:SOVEREIGNT": "Jordan", 
         "lang": "ENG", 
         "name": "Jordan", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Urdunn"
@@ -106,9 +188,12 @@
         ], 
         "ne_longitude": 39.319, 
         "longitude": 37.139, 
+        "ne:POP_EST": 6342948.0, 
         "iso": "JO", 
         "sw_latitude": 29.186, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Jordan", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Jordanie"
         ]

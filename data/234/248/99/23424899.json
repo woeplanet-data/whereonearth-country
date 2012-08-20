@@ -8,7 +8,7 @@
           [
             [
               72.616, 
-              -2.900
+              -2.9
             ], 
             [
               72.616, 
@@ -20,11 +20,11 @@
             ], 
             [
               73.767, 
-              -2.900
+              -2.9
             ], 
             [
               72.616, 
-              -2.900
+              -2.9
             ]
           ]
         ]
@@ -44,9 +44,7 @@
         "alias_RUM_Q": [
           "Maldive"
         ], 
-        "alias_UNK_V": [
-          "Maldiverne"
-        ], 
+        "ne_longitude": 73.767, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Maldivas"
@@ -63,13 +61,12 @@
         "alias_ITA_Q": [
           "Maldive"
         ], 
-        "alias_GER_V": [
-          "Republik Malediven"
+        "alias_DAN_Q": [
+          "Maldiverne"
         ], 
         "alias_CHI_V": [
           "\u99ac\u723e\u5730\u592b"
         ], 
-        "woeid": 23424899, 
         "alias_JPN_Q": [
           "\u30e2\u30eb\u30c7\u30a3\u30d6"
         ], 
@@ -85,6 +82,7 @@
         "sw_longitude": 72.616, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 6.758, 
+        "woe:id": 23424899, 
         "alias_NOR_Q": [
           "Maldivene"
         ], 
@@ -95,8 +93,8 @@
         "alias_CZE_Q": [
           "Maledivy"
         ], 
-        "alias_DAN_Q": [
-          "Maldiverne"
+        "alias_GER_V": [
+          "Republik Malediven"
         ], 
         "alias_GER_Q": [
           "Malediven"
@@ -113,10 +111,12 @@
         "alias_HUN_Q": [
           "Mald\u00edv-Szigetek"
         ], 
-        "ne_longitude": 73.767, 
+        "alias_UNK_V": [
+          "Maldiverne"
+        ], 
         "longitude": 73.155, 
         "iso": "MV", 
-        "sw_latitude": -2.900, 
+        "sw_latitude": -2.9, 
         "fullname": "Maldives"
       }, 
       "id": 23424899

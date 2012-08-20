@@ -31,9 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_ENG_P": [
-          "Aland Islands"
-        ], 
         "alias_ENG_S": [
           "Alandseilanden"
         ], 
@@ -44,6 +41,9 @@
           "Wyspy Alandzkie"
         ], 
         "ne_latitude": 60.666, 
+        "alias_SWE_S": [
+          "Aaland"
+        ], 
         "alias_RUM_Q": [
           "Insulele \u00c5land"
         ], 
@@ -57,9 +57,6 @@
         "alias_ENG_A": [
           "AX"
         ], 
-        "alias_CZE_Q": [
-          "\u00c5landy"
-        ], 
         "alias_CHI_Q": [
           "\u5967\u862d\u7fa4\u5cf6"
         ], 
@@ -72,12 +69,11 @@
         "alias_CHI_V": [
           "\u5965\u5170\u7fa4\u5c9b"
         ], 
-        "woeid": 12577865, 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Aaland"
+        "alias_ENG_P": [
+          "Aland Islands"
         ], 
         "alias_SPA_Q": [
           "\u00c5land"
@@ -91,10 +87,14 @@
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 60.198, 
+        "woe:id": 12577865, 
         "alias_NOR_Q": [
           "\u00c5land"
         ], 
         "date_indexed": "2010-12-02T17:06:00Z", 
+        "alias_DUT_V": [
+          "\u00c5landseilanden"
+        ], 
         "alias_SPA_V": [
           "Islas de Aland"
         ], 
@@ -104,8 +104,8 @@
         "alias_DUT_S": [
           "Aalandseilanden"
         ], 
-        "alias_DUT_V": [
-          "\u00c5landseilanden"
+        "alias_CZE_Q": [
+          "\u00c5landy"
         ], 
         "alias_DAN_Q": [
           "\u00c5land"

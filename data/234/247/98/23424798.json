@@ -41,9 +41,7 @@
           "Dominika"
         ], 
         "ne_latitude": 15.632, 
-        "alias_UNK_V": [
-          "Zveza Dominika"
-        ], 
+        "ne_longitude": -61.244, 
         "placetype": "Country", 
         "alias_POR_V": [
           "Dom\u00ednica"
@@ -54,7 +52,6 @@
         "alias_CHI_Q": [
           "\u591a\u7c73\u5c3c\u514b"
         ], 
-        "woeid": 23424798, 
         "alias_JPN_Q": [
           "\u30c9\u30df\u30cb\u30ab"
         ], 
@@ -64,6 +61,7 @@
         "sw_longitude": -61.484, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 15.417, 
+        "woe:id": 23424798, 
         "date_indexed": "2010-12-02T16:32:46Z", 
         "alias_CZE_Q": [
           "Dominika"
@@ -83,7 +81,9 @@
         "alias_HUN_V": [
           "Dominika"
         ], 
-        "ne_longitude": -61.244, 
+        "alias_UNK_V": [
+          "Zveza Dominika"
+        ], 
         "longitude": -61.364, 
         "iso": "DM", 
         "sw_latitude": 15.202, 

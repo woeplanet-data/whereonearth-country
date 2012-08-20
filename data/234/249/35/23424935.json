@@ -7,24 +7,40 @@
         "coordinates": [
           [
             [
-              -67.943, 
-              17.883
+              -66.28243445500821, 
+              18.514761664295364
             ], 
             [
-              -67.943, 
-              18.520
+              -65.7713028632093, 
+              18.426679185453878
             ], 
             [
-              -65.220, 
-              18.520
+              -65.59100379094295, 
+              18.228034979723915
             ], 
             [
-              -65.220, 
-              17.883
+              -65.84716386581377, 
+              17.97590566657186
             ], 
             [
-              -67.943, 
-              17.883
+              -66.59993445500949, 
+              17.981822618069273
+            ], 
+            [
+              -67.18416236028527, 
+              17.946553453030077
+            ], 
+            [
+              -67.24242753769435, 
+              18.374460150622937
+            ], 
+            [
+              -67.10067908391774, 
+              18.52060110114435
+            ], 
+            [
+              -66.28243445500821, 
+              18.514761664295364
             ]
           ]
         ]
@@ -40,10 +56,8 @@
         "alias_POL_Q": [
           "Portoryko"
         ], 
-        "ne_latitude": 18.520, 
-        "alias_UNK_V": [
-          "P\u00faerto-R\u00edco"
-        ], 
+        "ne_latitude": 18.52, 
+        "ne_longitude": -65.22, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Porto Rico"
@@ -51,6 +65,10 @@
         "alias_KOR_Q": [
           "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
         ], 
+        "ne:SUBUNIT": "Puerto Rico", 
+        "ne:ISO_N3": 630.0, 
+        "ne:ADM0_A3": "PRI", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u591a\u9ece\u5404\u81ea\u7531\u90a6"
         ], 
@@ -60,17 +78,37 @@
         "alias_ITA_V": [
           "Portorico"
         ], 
-        "woeid": 23424935, 
+        "ne:POSTAL": "PR", 
         "alias_JPN_Q": [
           "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": "Commonwealth of U.S.A.", 
+        "ne:SOV_A3": "US1", 
         "sw_longitude": -67.943, 
+        "ne:GDP_MD_EST": 70230.0, 
+        "ne:SU_A3": "PRI", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 18.223, 
+        "woe:id": 23424935, 
+        "ne:ISO_A3": "PRI", 
+        "ne:ISO_A2": "PR", 
         "date_indexed": "2010-12-02T17:42:25Z", 
+        "ne:NAME_SORT": "Puerto Rico", 
+        "ne:GU_A3": "PRI", 
+        "ne:MAP_COLOR": 1.0, 
+        "ne:ADMIN": "Puerto Rico", 
+        "ne:GEOUNIT": "Puerto Rico", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 1.0, 
+        "ne:ABBREV": "P.R.", 
         "alias_CZE_Q": [
           "Portoriko"
         ], 
+        "ne:SOVEREIGNT": "United States of America", 
+        "ne:NAME": "Puerto Rico", 
         "lang": "ENG", 
         "name": "Puerto Rico", 
         "alias_UNK_S": [
@@ -80,11 +118,18 @@
         "alias_UNK_Q": [
           "Portoriko"
         ], 
-        "ne_longitude": -65.220, 
+        "alias_UNK_V": [
+          "P\u00faerto-R\u00edco"
+        ], 
         "longitude": -66.429, 
+        "ne:POP_EST": 3971020.0, 
+        "ne:TYPE": "Dependency", 
         "iso": "PR", 
         "sw_latitude": 17.883, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Puerto Rico", 
+        "ne:NAME_FORMA": "Commonwealth of Puerto Rico", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Porto Rico"
         ]

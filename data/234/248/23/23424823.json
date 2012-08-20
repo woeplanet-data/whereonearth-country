@@ -7,24 +7,100 @@
         "coordinates": [
           [
             [
-              40.010, 
-              41.039
+              41.55408410011066, 
+              41.53565623632757
             ], 
             [
-              40.010, 
-              43.585
+              41.70317060727271, 
+              41.96294281673292
             ], 
             [
-              46.721, 
-              43.585
+              41.45347008643839, 
+              42.64512339941794
             ], 
             [
-              46.721, 
-              41.039
+              40.87546919125379, 
+              43.013628038091284
             ], 
             [
-              40.010, 
-              41.039
+              40.32139448422032, 
+              43.128633938156845
+            ], 
+            [
+              39.955008579270924, 
+              43.43499766699922
+            ], 
+            [
+              40.07696495947977, 
+              43.553104153002316
+            ], 
+            [
+              40.922184686045625, 
+              43.38215851498079
+            ], 
+            [
+              42.39439456560882, 
+              43.22030792904263
+            ], 
+            [
+              43.75601688006739, 
+              42.74082815202249
+            ], 
+            [
+              43.931199985536836, 
+              42.55497386328477
+            ], 
+            [
+              44.537622918481986, 
+              42.71199270280363
+            ], 
+            [
+              45.47027916848572, 
+              42.50278066666998
+            ], 
+            [
+              45.77641035338277, 
+              42.09244395605636
+            ], 
+            [
+              46.404950799348825, 
+              41.860675157227305
+            ], 
+            [
+              46.14543175637902, 
+              41.72280243587258
+            ], 
+            [
+              46.63790815612058, 
+              41.181672675128226
+            ], 
+            [
+              46.50163740416693, 
+              41.06444468847411
+            ], 
+            [
+              45.96260053893039, 
+              41.123872585609774
+            ], 
+            [
+              45.217426385281584, 
+              41.41145193131405
+            ], 
+            [
+              44.97248009621808, 
+              41.248128567055595
+            ], 
+            [
+              43.58274580259273, 
+              41.09214325618257
+            ], 
+            [
+              42.61954878110449, 
+              41.58317271581994
+            ], 
+            [
+              41.55408410011066, 
+              41.53565623632757
             ]
           ]
         ]
@@ -41,9 +117,8 @@
           "Gruzja"
         ], 
         "ne_latitude": 43.585, 
-        "alias_UNK_V": [
-          "Sakartvelo"
-        ], 
+        "ne:GU_A3": "GEO", 
+        "ne_longitude": 46.721, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uadf8\ub8e8\uc9c0\uc544"
@@ -51,35 +126,57 @@
         "alias_POR_Q": [
           "Ge\u00f3rgia"
         ], 
-        "alias_ENG_A": [
-          "GE"
-        ], 
-        "alias_CHI_Q": [
-          "\u55ac\u6cbb\u4e9e"
-        ], 
-        "alias_CHI_V": [
-          "\u55ac\u6cbb\u4e9e"
-        ], 
-        "woeid": 23424823, 
-        "alias_JPN_Q": [
-          "\u30b0\u30eb\u30b8\u30a2"
-        ], 
-        "alias_JPN_V": [
-          "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
-        ], 
-        "sw_longitude": 40.010, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 42.312, 
-        "date_indexed": "2010-12-02T17:51:59Z", 
         "alias_KOR_Q": [
           "\uadf8\ub8e8\uc9c0\uc57c"
         ], 
+        "ne:SUBUNIT": "Georgia", 
+        "ne:POSTAL": "GE", 
+        "ne:ISO_N3": 268.0, 
+        "ne:ADM0_A3": "GEO", 
+        "ne:ScaleRank": 1, 
+        "alias_CHI_Q": [
+          "\u55ac\u6cbb\u4e9e"
+        ], 
+        "ne:NAME": "Georgia", 
+        "alias_CHI_V": [
+          "\u55ac\u6cbb\u4e9e"
+        ], 
+        "alias_JPN_Q": [
+          "\u30b0\u30eb\u30b8\u30a2"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "alias_JPN_V": [
+          "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "GEO", 
+        "sw_longitude": 40.01, 
+        "ne:GDP_MD_EST": 21510.0, 
+        "ne:SU_A3": "GEO", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.312, 
+        "woe:id": 23424823, 
+        "ne:ISO_A3": "GEO", 
+        "ne:ISO_A2": "GE", 
+        "date_indexed": "2010-12-02T17:51:59Z", 
+        "ne:NAME_SORT": "Georgia", 
+        "alias_ENG_A": [
+          "GE"
+        ], 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Georgia", 
+        "ne:GEOUNIT": "Georgia", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Georgi\u00eb"
         ], 
         "alias_DUT_S": [
           "Georgie"
         ], 
+        "ne:ABBREV": "Geo.", 
         "alias_CZE_Q": [
           "Gruzie"
         ], 
@@ -89,8 +186,10 @@
         "alias_GER_Q": [
           "Georgien"
         ], 
+        "ne:SOVEREIGNT": "Georgia", 
         "lang": "ENG", 
         "name": "Georgia", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gruzija"
@@ -98,11 +197,17 @@
         "alias_HUN_Q": [
           "Gr\u00fazia"
         ], 
-        "ne_longitude": 46.721, 
+        "alias_UNK_V": [
+          "Sakartvelo"
+        ], 
         "longitude": 43.366, 
+        "ne:POP_EST": 4615807.0, 
         "iso": "GE", 
         "sw_latitude": 41.039, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Georgia", 
+        "ne:NAME_FORMA": null, 
         "alias_FRE_S": [
           "Georgie"
         ], 

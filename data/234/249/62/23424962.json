@@ -8,23 +8,23 @@
           [
             [
               -72.484, 
-              21.170
+              21.17
             ], 
             [
               -72.484, 
               21.974
             ], 
             [
-              -71.080, 
+              -71.08, 
               21.974
             ], 
             [
-              -71.080, 
-              21.170
+              -71.08, 
+              21.17
             ], 
             [
               -72.484, 
-              21.170
+              21.17
             ]
           ]
         ]
@@ -40,16 +40,14 @@
         "alias_SWE_Q": [
           "Turks- och Caicos\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Turks I Caicos"
+        "alias_SWE_S": [
+          "Turks- och Caicosoarna"
         ], 
         "ne_latitude": 21.974, 
         "alias_RUM_Q": [
           "Insulele Turks \u015ei Caicos"
         ], 
-        "alias_UNK_V": [
-          "Turks- og Caicos\u00f8yene"
-        ], 
+        "ne_longitude": -71.08, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud22c\ub974\ud06c & \uce74\uc774\ucf54\uc2a4 \uad70\ub3c4"
@@ -69,8 +67,8 @@
         "alias_ITA_Q": [
           "Isole Turks e Caicos"
         ], 
-        "alias_GER_V": [
-          "Turks- und Caicos-Inseln"
+        "alias_DAN_Q": [
+          "Turks- Og Caicos\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Turks e Caicos"
@@ -78,12 +76,11 @@
         "alias_CHI_V": [
           "\u7279\u514b\u65af\u4e0e\u51ef\u79d1\u65af\u7fa4\u5c9b"
         ], 
-        "woeid": 23424962, 
         "alias_JPN_Q": [
           "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6"
         ], 
-        "alias_SWE_S": [
-          "Turks- och Caicosoarna"
+        "alias_POL_Q": [
+          "Turks I Caicos"
         ], 
         "alias_JPN_V": [
           "\u30bf\u30fc\u30af\u30b9\u8af8\u5cf6\u53ca\u3073\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6"
@@ -95,11 +92,15 @@
           "Turks- ja Caicossaaret"
         ], 
         "sw_longitude": -72.484, 
+        "alias_HUN_V": [
+          "T\u00f6r\u00f6k \u00e9s Caicos Szigetek"
+        ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 21.797, 
         "alias_NOR_S": [
           "Turks-og Caicosoyene"
         ], 
+        "woe:id": 23424962, 
         "alias_NOR_Q": [
           "Turks- Og Caicos\u00f8yene"
         ], 
@@ -107,17 +108,14 @@
           "Turks-og Caicos\u00f8yene"
         ], 
         "date_indexed": "2010-12-02T07:50:42Z", 
-        "alias_FRE_V": [
-          "Turks et Ca\u00efques, \u00eeles"
-        ], 
         "alias_KOR_Q": [
           "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"
         ], 
-        "alias_DAN_V": [
-          "Turks og Caicos \u00d8erne"
-        ], 
         "alias_SPA_V": [
           "Turks y Caicos"
+        ], 
+        "alias_RUM_V": [
+          "Insulele Turks \u015fi Caicos"
         ], 
         "alias_DUT_Q": [
           "Turks- en Ca\u00efcoseilanden"
@@ -131,11 +129,11 @@
         "alias_DAN_S": [
           "Turks og Caicos Oerne"
         ], 
-        "alias_DAN_Q": [
-          "Turks- Og Caicos\u00f8erne"
+        "alias_GER_V": [
+          "Turks- und Caicos-Inseln"
         ], 
-        "alias_GER_Q": [
-          "Turks- Und Caicosinseln"
+        "alias_DAN_V": [
+          "Turks og Caicos \u00d8erne"
         ], 
         "lang": "ENG", 
         "name": "Turks and Caicos Islands", 
@@ -149,15 +147,17 @@
         "alias_HUN_Q": [
           "Turks- \u00c9s Caicos-Szigetek"
         ], 
-        "alias_HUN_V": [
-          "T\u00f6r\u00f6k \u00e9s Caicos Szigetek"
+        "alias_GER_Q": [
+          "Turks- Und Caicosinseln"
         ], 
-        "ne_longitude": -71.080, 
+        "alias_UNK_V": [
+          "Turks- og Caicos\u00f8yene"
+        ], 
         "longitude": -71.745, 
         "iso": "TC", 
-        "sw_latitude": 21.170, 
-        "alias_RUM_V": [
-          "Insulele Turks \u015fi Caicos"
+        "sw_latitude": 21.17, 
+        "alias_FRE_V": [
+          "Turks et Ca\u00efques, \u00eeles"
         ], 
         "fullname": "Turks and Caicos Islands", 
         "alias_FRE_S": [

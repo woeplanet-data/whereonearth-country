@@ -7,24 +7,84 @@
         "coordinates": [
           [
             [
-              -90.129, 
-              13.149
+              -87.79311113152657, 
+              13.384480495655055
             ], 
             [
-              -90.129, 
-              14.445
+              -87.90411210808952, 
+              13.149016831917137
             ], 
             [
-              -87.683, 
-              14.445
+              -88.48330156121682, 
+              13.163951320849492
             ], 
             [
-              -87.683, 
-              13.149
+              -88.84322791212972, 
+              13.259733588102478
             ], 
             [
-              -90.129, 
-              13.149
+              -89.2567427233293, 
+              13.458532823129303
+            ], 
+            [
+              -89.81239356154767, 
+              13.520622056527998
+            ], 
+            [
+              -90.09555457229098, 
+              13.735337632700734
+            ], 
+            [
+              -90.0646779039966, 
+              13.881969509328925
+            ], 
+            [
+              -89.72193396682073, 
+              14.134228013561696
+            ], 
+            [
+              -89.53421932652051, 
+              14.244815578666305
+            ], 
+            [
+              -89.58734269891656, 
+              14.36258616785949
+            ], 
+            [
+              -89.3533259752828, 
+              14.424132798719114
+            ], 
+            [
+              -89.05851192905766, 
+              14.340029405164087
+            ], 
+            [
+              -88.84307288283284, 
+              14.14050670008517
+            ], 
+            [
+              -88.541230841816, 
+              13.980154730683479
+            ], 
+            [
+              -88.50399797234971, 
+              13.845485948130857
+            ], 
+            [
+              -88.06534257684014, 
+              13.964625962779778
+            ], 
+            [
+              -87.8595153470216, 
+              13.893312486216983
+            ], 
+            [
+              -87.7235029772294, 
+              13.785050360565506
+            ], 
+            [
+              -87.79311113152657, 
+              13.384480495655055
             ]
           ]
         ]
@@ -41,9 +101,8 @@
           "Salwador"
         ], 
         "ne_latitude": 14.445, 
-        "alias_UNK_V": [
-          "Republika Salvador"
-        ], 
+        "ne:POSTAL": "SV", 
+        "ne_longitude": -87.683, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc5d8\uc0b4 \ubc14\ub3c4\ub974"
@@ -51,6 +110,10 @@
         "alias_KOR_Q": [
           "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
         ], 
+        "ne:SUBUNIT": "El Salvador", 
+        "ne:ISO_N3": 222.0, 
+        "ne:ADM0_A3": "SLV", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u85a9\u723e\u74e6\u591a"
         ], 
@@ -60,34 +123,60 @@
         "alias_CHI_V": [
           "\u8428\u5c14\u74e6\u591a"
         ], 
-        "woeid": 23424807, 
         "alias_JPN_Q": [
           "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "SLV", 
         "sw_longitude": -90.129, 
+        "ne:GDP_MD_EST": 43630.0, 
+        "ne:SU_A3": "SLV", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 13.797, 
+        "woe:id": 23424807, 
+        "ne:ISO_A3": "SLV", 
+        "ne:ISO_A2": "SV", 
         "date_indexed": "2010-12-02T17:05:52Z", 
+        "ne:NAME_SORT": "El Salvador", 
+        "ne:GU_A3": "SLV", 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "El Salvador", 
+        "ne:GEOUNIT": "El Salvador", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "El. S.", 
         "alias_CZE_Q": [
           "Salvador"
         ], 
         "alias_GER_V": [
           "Republik El Salvador"
         ], 
+        "ne:SOVEREIGNT": "El Salvador", 
+        "ne:NAME": "El Salvador", 
         "lang": "ENG", 
         "name": "El Salvador", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Salvador"
         ], 
-        "ne_longitude": -87.683, 
+        "alias_UNK_V": [
+          "Republika Salvador"
+        ], 
         "longitude": -88.919, 
+        "ne:POP_EST": 7185218.0, 
         "iso": "SV", 
         "sw_latitude": 13.149, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "El Salvador", 
+        "ne:NAME_FORMA": "Republic of El Salvador", 
         "alias_FRE_Q": [
           "Salvador"
         ]

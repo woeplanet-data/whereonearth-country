@@ -8,7 +8,7 @@
           [
             [
               176.065, 
-              -10.750
+              -10.75
             ], 
             [
               176.065, 
@@ -20,11 +20,11 @@
             ], 
             [
               179.884, 
-              -10.750
+              -10.75
             ], 
             [
               176.065, 
-              -10.750
+              -10.75
             ]
           ]
         ]
@@ -34,13 +34,13 @@
         "alias_ENG_V": [
           "Tuvaluan"
         ], 
-        "alias_ENG_A": [
-          "TV"
+        "alias_KOR_Q": [
+          "\ud22c\ubc1c\ub8e8"
         ], 
         "ne_latitude": -5.642, 
         "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ud22c\ubc1c\ub8e8"
+        "alias_ENG_A": [
+          "TV"
         ], 
         "alias_CHI_Q": [
           "\u5410\u74e6\u9b6f"
@@ -48,21 +48,21 @@
         "alias_CHI_V": [
           "\u5410\u74e6\u9b6f"
         ], 
-        "woeid": 23424970, 
         "alias_JPN_Q": [
           "\u30c4\u30d0\u30eb"
         ], 
         "sw_longitude": 176.065, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -7.472, 
-        "date_indexed": "2010-12-02T17:04:11Z", 
+        "woe:id": 23424970, 
+        "sw_latitude": -10.75, 
         "lang": "ENG", 
         "name": "Tuvalu", 
         "parent_woeid": 1, 
         "ne_longitude": 179.884, 
         "longitude": 178.691, 
         "iso": "TV", 
-        "sw_latitude": -10.750, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "alias_FRE_V": [
           "\u00celes Tuvalu"
         ], 

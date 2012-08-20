@@ -66,17 +66,14 @@
         "alias_POR_S": [
           "Sao Pedro e Miquelon"
         ], 
-        "alias_CZE_Q": [
-          "Saint-Pierre a Miquelon"
-        ], 
         "alias_CHI_Q": [
           "\u8056\u76ae\u57c3\u723e\u548c\u5bc6\u514b\u9686\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Saint-Pierre e Miquelon"
         ], 
-        "alias_GER_V": [
-          "St. Pierre und Miquelon"
+        "alias_DAN_Q": [
+          "Saint-Pierre Og Miquelon"
         ], 
         "alias_ITA_V": [
           "Saint Pierre e Miquelon"
@@ -84,7 +81,6 @@
         "alias_CHI_V": [
           "\u5723\u76ae\u57c3\u5c14\u548c\u5bc6\u514b\u9686\u7fa4\u5c9b"
         ], 
-        "woeid": 23424939, 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6"
         ], 
@@ -98,11 +94,15 @@
           "Saint-Pierre Ja Miquelon"
         ], 
         "sw_longitude": -56.421, 
+        "alias_HUN_V": [
+          "Saint Pierre \u00e9s Miquelon"
+        ], 
         "alias_FIN_V": [
           "Saint Pierre ja Miquelon"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 46.966, 
+        "woe:id": 23424939, 
         "alias_NOR_Q": [
           "Saint-Pierre Og Miquelon"
         ], 
@@ -110,29 +110,29 @@
           "Saint Pierre og Miquelon"
         ], 
         "date_indexed": "2010-12-02T12:15:58Z", 
-        "alias_FRE_V": [
-          "Collectivit\u00e9 Territoriale de Saint-Pierre et Miquelon"
-        ], 
         "alias_KOR_Q": [
           "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"
-        ], 
-        "alias_DAN_V": [
-          "Saint Pierre og Miquelon"
-        ], 
-        "alias_SPA_V": [
-          "San Pedro y Miquel\u00f3n"
-        ], 
-        "alias_DUT_Q": [
-          "Saint-Pierre en Miquelon"
         ], 
         "alias_DUT_V": [
           "Saint-Pierre-et-Miquelon"
         ], 
-        "alias_DAN_Q": [
-          "Saint-Pierre Og Miquelon"
+        "alias_SPA_V": [
+          "San Pedro y Miquel\u00f3n"
         ], 
-        "alias_GER_Q": [
-          "Saint-Pierre Und Miquelon"
+        "alias_RUM_V": [
+          "St. Pierre \u015fi Miquelon"
+        ], 
+        "alias_DUT_Q": [
+          "Saint-Pierre en Miquelon"
+        ], 
+        "alias_CZE_Q": [
+          "Saint-Pierre a Miquelon"
+        ], 
+        "alias_GER_V": [
+          "St. Pierre und Miquelon"
+        ], 
+        "alias_DAN_V": [
+          "Saint Pierre og Miquelon"
         ], 
         "lang": "ENG", 
         "name": "Saint Pierre and Miquelon", 
@@ -143,15 +143,15 @@
         "alias_HUN_Q": [
           "Saint-Pierre \u00c9s Miquelon"
         ], 
-        "alias_HUN_V": [
-          "Saint Pierre \u00e9s Miquelon"
+        "alias_GER_Q": [
+          "Saint-Pierre Und Miquelon"
         ], 
         "ne_longitude": -56.157, 
         "longitude": -56.337, 
         "iso": "PM", 
         "sw_latitude": 46.753, 
-        "alias_RUM_V": [
-          "St. Pierre \u015fi Miquelon"
+        "alias_FRE_V": [
+          "Collectivit\u00e9 Territoriale de Saint-Pierre et Miquelon"
         ], 
         "fullname": "Saint Pierre and Miquelon", 
         "alias_FRE_Q": [

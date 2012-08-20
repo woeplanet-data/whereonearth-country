@@ -7,11 +7,11 @@
         "coordinates": [
           [
             [
-              -9.080, 
+              -9.08, 
               70.827
             ], 
             [
-              -9.080, 
+              -9.08, 
               80.834
             ], 
             [
@@ -23,7 +23,7 @@
               70.827
             ], 
             [
-              -9.080, 
+              -9.08, 
               70.827
             ]
           ]
@@ -69,7 +69,6 @@
         "alias_CHI_V": [
           "\u65af\u74e6\u5c14\u5df4\u7fa4\u5c9b"
         ], 
-        "woeid": 28289413, 
         "alias_JPN_Q": [
           "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6"
         ], 
@@ -82,12 +81,13 @@
         "alias_FIN_Q": [
           "Huippuvuoret"
         ], 
-        "sw_longitude": -9.080, 
+        "sw_longitude": -9.08, 
         "alias_FIN_V": [
           "Huippuvuoret ja Jan Mayen"
         ], 
         "provider": "geoplanet 7.6.0", 
         "latitude": 78.316, 
+        "woe:id": 28289413, 
         "alias_NOR_Q": [
           "Svalbard"
         ], 
@@ -97,9 +97,6 @@
         "date_indexed": "2010-12-02T17:58:18Z", 
         "alias_KOR_Q": [
           "\uc2a4\ubc1c\ubc14\ub974 \uc81c\ub3c4"
-        ], 
-        "alias_DAN_V": [
-          "Svalbard og Jan Mayen"
         ], 
         "alias_SPA_V": [
           "Svalbard y Jan Mayen"
@@ -113,14 +110,17 @@
         "alias_DAN_Q": [
           "Svalbard"
         ], 
-        "alias_GER_Q": [
-          "Spitzbergen"
+        "alias_DAN_V": [
+          "Svalbard og Jan Mayen"
         ], 
         "lang": "ENG", 
         "name": "Svalbard and Jan Mayen", 
         "parent_woeid": 1, 
         "alias_HUN_Q": [
           "Spitzberg\u00e1k"
+        ], 
+        "alias_GER_Q": [
+          "Spitzbergen"
         ], 
         "ne_longitude": 36.815, 
         "longitude": 16.097, 

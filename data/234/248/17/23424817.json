@@ -7,23 +7,23 @@
         "coordinates": [
           [
             [
-              -154.700, 
+              -154.7, 
               -27.654
             ], 
             [
-              -154.700, 
-              10.360
+              -154.7, 
+              10.36
             ], 
             [
               -108.873, 
-              10.360
+              10.36
             ], 
             [
               -108.873, 
               -27.654
             ], 
             [
-              -154.700, 
+              -154.7, 
               -27.654
             ]
           ]
@@ -40,13 +40,11 @@
         "alias_POL_Q": [
           "Polinezja Francuska"
         ], 
-        "ne_latitude": 10.360, 
+        "ne_latitude": 10.36, 
         "alias_RUM_Q": [
           "Polinezia Francez\u0103"
         ], 
-        "alias_UNK_V": [
-          "Fransk Polynesien"
-        ], 
+        "ne_longitude": -108.873, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud504\ub791\uc2a4\ub839\ud3f4\ub9ac\ub124\uc2dc\uc544"
@@ -66,7 +64,6 @@
         "alias_CHI_V": [
           "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
         ], 
-        "woeid": 23424817, 
         "alias_JPN_Q": [
           "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2"
         ], 
@@ -76,9 +73,10 @@
         "alias_FIN_Q": [
           "Ranskan Polynesia"
         ], 
-        "sw_longitude": -154.700, 
+        "sw_longitude": -154.7, 
         "provider": "geoplanet 7.6.0", 
-        "latitude": -17.690, 
+        "latitude": -17.69, 
+        "woe:id": 23424817, 
         "alias_NOR_Q": [
           "Fransk Polynesia"
         ], 
@@ -116,7 +114,9 @@
         "alias_HUN_Q": [
           "Francia Polin\u00e9zia"
         ], 
-        "ne_longitude": -108.873, 
+        "alias_UNK_V": [
+          "Fransk Polynesien"
+        ], 
         "longitude": -149.376, 
         "iso": "PF", 
         "sw_latitude": -27.654, 

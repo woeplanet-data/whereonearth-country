@@ -7,30 +7,101 @@
         "coordinates": [
           [
             [
-              15.749, 
-              42.565
+              19.00548628101012, 
+              44.86023366960916
             ], 
             [
-              15.749, 
-              45.276
+              19.36803, 
+              44.863
             ], 
             [
-              19.629, 
-              45.276
+              19.11761, 
+              44.42307000000011
             ], 
             [
-              19.629, 
-              42.565
+              19.59976, 
+              44.03847
             ], 
             [
-              15.749, 
-              42.565
+              19.454, 
+              43.56810000000013
+            ], 
+            [
+              19.21852, 
+              43.52384
+            ], 
+            [
+              19.03165, 
+              43.43253
+            ], 
+            [
+              18.70648, 
+              43.20011
+            ], 
+            [
+              18.56, 
+              42.65
+            ], 
+            [
+              17.674921502358984, 
+              43.02856252702361
+            ], 
+            [
+              17.297373488034452, 
+              43.44634064388737
+            ], 
+            [
+              16.91615644701733, 
+              43.66772247982567
+            ], 
+            [
+              16.456442905348865, 
+              44.04123973243128
+            ], 
+            [
+              16.23966027188453, 
+              44.35114329688571
+            ], 
+            [
+              15.750026075918981, 
+              44.818711656262565
+            ], 
+            [
+              15.959367303133376, 
+              45.23377676043094
+            ], 
+            [
+              16.318156772535872, 
+              45.00412669532591
+            ], 
+            [
+              16.534939406000206, 
+              45.21160757097772
+            ], 
+            [
+              17.002146030351014, 
+              45.23377676043094
+            ], 
+            [
+              17.861783481526402, 
+              45.067740383477144
+            ], 
+            [
+              18.553214145591653, 
+              45.08158966733146
+            ], 
+            [
+              19.00548628101012, 
+              44.86023366960916
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "alias_RUM_V": [
+          "Bosnia \u015fi Herzegovina"
+        ], 
         "alias_ENG_V": [
           "Bosnia"
         ], 
@@ -40,16 +111,15 @@
         "alias_SWE_Q": [
           "Bosnien och Hercegovina"
         ], 
-        "alias_POL_Q": [
-          "Bo\u015bnia I Hercegowina"
+        "alias_ENG_P": [
+          "Bosnia and Herzegovina"
         ], 
         "ne_latitude": 45.276, 
+        "ne:GU_A3": "BIH", 
         "alias_RUM_Q": [
           "Bosnia \u015ei Her\u0163egovina"
         ], 
-        "alias_UNK_V": [
-          "Bosnia-Herzegovina"
-        ], 
+        "ne_longitude": 19.629, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
@@ -63,78 +133,99 @@
         "alias_ENG_A": [
           "BIH"
         ], 
-        "alias_CZE_Q": [
-          "Bosna a Hercegovina"
-        ], 
+        "ne:SUBUNIT": "Bosnia and Herzegovina", 
+        "ne:POSTAL": "BiH", 
+        "ne:ISO_N3": 70.0, 
+        "ne:ADM0_A3": "BIH", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u58eb\u5c3c\u4e9e\u548c\u8d6b\u585e\u54e5\u7dad\u7d0d"
         ], 
         "alias_ITA_Q": [
           "Bosnia-Erzegovina"
         ], 
-        "alias_GER_V": [
-          "Bosnien-Herzegowina"
+        "alias_DAN_Q": [
+          "Bosnien-Hercegovina"
         ], 
         "alias_ITA_V": [
           "Bosnia Erzegovina"
         ], 
+        "ne:TERR_": null, 
         "alias_CHI_V": [
           "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3"
         ], 
-        "woeid": 23424761, 
         "alias_JPN_Q": [
           "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
         ], 
-        "alias_ENG_P": [
-          "Bosnia and Herzegovina"
+        "alias_POL_Q": [
+          "Bo\u015bnia I Hercegowina"
         ], 
         "alias_JPN_V": [
           "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Bosnia Y Herzegovina"
         ], 
         "alias_FIN_Q": [
           "Bosnia ja Hertsegovina"
         ], 
+        "ne:SOV_A3": "BIH", 
         "sw_longitude": 15.749, 
+        "alias_HUN_V": [
+          "Bosznia \u00e9s Hercegovina"
+        ], 
         "alias_FIN_V": [
           "Bosnia-Hertsegovina"
         ], 
         "provider": "geoplanet 7.6.0", 
-        "latitude": 43.920, 
+        "latitude": 43.92, 
+        "woe:id": 23424761, 
         "alias_NOR_Q": [
           "Bosnia-Hercegovina"
         ], 
+        "ne:ISO_A3": "BIH", 
+        "ne:ISO_A2": "BA", 
         "date_indexed": "2010-12-02T12:15:52Z", 
-        "alias_FRE_V": [
-          "Bosnie-Herz\u00e9govine"
-        ], 
+        "ne:NAME_SORT": "Bosnia and Herzegovina", 
         "alias_KOR_Q": [
           "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
         ], 
-        "alias_DAN_V": [
-          "Bosnien og Hercegovina"
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Bosnia and Herzegovina", 
+        "ne:SU_A3": "BIH", 
+        "alias_DUT_V": [
+          "Bosni\u00eb-Herzegovina"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 29700.0, 
         "alias_SPA_V": [
           "Bosnia-Herzegovina"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Bosni\u00eb en Herzegovina"
         ], 
         "alias_DUT_S": [
           "Bosnie-Herzegovina"
         ], 
-        "alias_DUT_V": [
-          "Bosni\u00eb-Herzegovina"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "B.H.", 
+        "alias_CZE_Q": [
+          "Bosna a Hercegovina"
         ], 
-        "alias_DAN_Q": [
-          "Bosnien-Hercegovina"
+        "alias_GER_V": [
+          "Bosnien-Herzegowina"
         ], 
-        "alias_GER_Q": [
-          "Bosnien und Herzegowina"
+        "alias_DAN_V": [
+          "Bosnien og Hercegovina"
         ], 
+        "ne:SOVEREIGNT": "Bosnia and Herzegovina", 
+        "ne:NAME": "Bosnia and Herz.", 
         "lang": "UNK", 
+        "ne:TYPE": "Sovereign country", 
+        "ne:GEOUNIT": "Bosnia and Herzegovina", 
         "name": "Bosna i Hercegovina", 
         "alias_UNK_S": [
           "Bosnia-Hersegovina"
@@ -146,17 +237,23 @@
         "alias_HUN_Q": [
           "Bosznia-Hercegovina"
         ], 
-        "alias_HUN_V": [
-          "Bosznia \u00e9s Hercegovina"
+        "alias_GER_Q": [
+          "Bosnien und Herzegowina"
         ], 
-        "ne_longitude": 19.629, 
+        "alias_UNK_V": [
+          "Bosnia-Herzegovina"
+        ], 
         "longitude": 17.677, 
+        "ne:POP_EST": 4613414.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "BA", 
         "sw_latitude": 42.565, 
-        "alias_RUM_V": [
-          "Bosnia \u015fi Herzegovina"
+        "alias_FRE_V": [
+          "Bosnie-Herz\u00e9govine"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Bosna i Hercegovina, Bosnia and Herzegovina", 
+        "ne:NAME_FORMA": null, 
         "alias_FRE_S": [
           "Bosnie et Herzegovine"
         ], 

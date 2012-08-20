@@ -57,17 +57,14 @@
         "alias_ENG_A": [
           "LC"
         ], 
-        "alias_CZE_Q": [
-          "Svat\u00e1 Lucie"
-        ], 
         "alias_CHI_Q": [
           "\u8056\u9732\u897f\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Saint Lucia"
         ], 
-        "alias_GER_V": [
-          "Sankt Lucia"
+        "alias_DAN_Q": [
+          "Saint Lucia"
         ], 
         "alias_ITA_V": [
           "Santa Lucia"
@@ -75,7 +72,6 @@
         "alias_CHI_V": [
           "\u5723\u5362\u897f\u4e9a"
         ], 
-        "woeid": 23424951, 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"
         ], 
@@ -88,6 +84,7 @@
         "sw_longitude": -61.074, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 13.904, 
+        "woe:id": 23424951, 
         "alias_NOR_Q": [
           "Saint Lucia"
         ], 
@@ -95,17 +92,20 @@
         "alias_KOR_Q": [
           "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"
         ], 
+        "alias_DUT_V": [
+          "Sint-Lucia"
+        ], 
         "alias_SPA_V": [
           "Saint Lucia"
         ], 
         "alias_DUT_Q": [
           "Saint Lucia"
         ], 
-        "alias_DUT_V": [
-          "Sint-Lucia"
+        "alias_CZE_Q": [
+          "Svat\u00e1 Lucie"
         ], 
-        "alias_DAN_Q": [
-          "Saint Lucia"
+        "alias_GER_V": [
+          "Sankt Lucia"
         ], 
         "lang": "ENG", 
         "name": "St. Lucia", 

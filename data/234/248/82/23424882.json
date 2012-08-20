@@ -7,24 +7,228 @@
         "coordinates": [
           [
             [
-              9.387, 
-              19.508
+              14.8513, 
+              22.862950000000126
             ], 
             [
-              9.387, 
-              33.169
+              14.143870883855243, 
+              22.491288967371133
             ], 
             [
-              25.151, 
-              33.169
+              13.581424594790462, 
+              23.04050608976928
             ], 
             [
-              25.151, 
-              19.508
+              11.9995056494717, 
+              23.471668402596435
             ], 
             [
-              9.387, 
-              19.508
+              11.560669386449035, 
+              24.097909247325617
+            ], 
+            [
+              10.771363559622955, 
+              24.562532050061748
+            ], 
+            [
+              10.303846876678449, 
+              24.379313259370974
+            ], 
+            [
+              9.948261346078027, 
+              24.936953640232616
+            ], 
+            [
+              9.910692579801776, 
+              25.365454616796796
+            ], 
+            [
+              9.31941084151822, 
+              26.094324856057483
+            ], 
+            [
+              9.716285841519664, 
+              26.512206325785655
+            ], 
+            [
+              9.629056023811074, 
+              27.140953477481048
+            ], 
+            [
+              9.756128370816782, 
+              27.688258571884205
+            ], 
+            [
+              9.683884718472882, 
+              28.144173895779318
+            ], 
+            [
+              9.859997999723475, 
+              28.95998973237107
+            ], 
+            [
+              9.805634392952356, 
+              29.424638373323376
+            ], 
+            [
+              9.482139926805417, 
+              30.307556057246188
+            ], 
+            [
+              9.970017124072967, 
+              30.539324856075382
+            ], 
+            [
+              10.056575148161699, 
+              30.961831366493527
+            ], 
+            [
+              9.950225050505196, 
+              31.376069647745283
+            ], 
+            [
+              10.636901482799487, 
+              31.761420803345686
+            ], 
+            [
+              10.944789666394513, 
+              32.081814683555365
+            ], 
+            [
+              11.432253452203781, 
+              32.36890310315283
+            ], 
+            [
+              11.488787469131012, 
+              33.13699575452324
+            ], 
+            [
+              12.66331, 
+              32.79278
+            ], 
+            [
+              13.08326, 
+              32.87882
+            ], 
+            [
+              13.91868, 
+              32.71196
+            ], 
+            [
+              15.24563, 
+              32.26508
+            ], 
+            [
+              15.71394, 
+              31.37626
+            ], 
+            [
+              16.61162, 
+              31.18218
+            ], 
+            [
+              18.02109, 
+              30.76357
+            ], 
+            [
+              19.08641, 
+              30.26639
+            ], 
+            [
+              19.57404, 
+              30.52582
+            ], 
+            [
+              20.05335, 
+              30.98576
+            ], 
+            [
+              19.82033, 
+              31.751790000000142
+            ], 
+            [
+              20.13397, 
+              32.2382
+            ], 
+            [
+              20.85452, 
+              32.7068
+            ], 
+            [
+              21.54298, 
+              32.8432
+            ], 
+            [
+              22.89576, 
+              32.63858
+            ], 
+            [
+              23.2368, 
+              32.19149
+            ], 
+            [
+              23.609130000000107, 
+              32.18726
+            ], 
+            [
+              23.9275, 
+              32.01667
+            ], 
+            [
+              24.92114, 
+              31.89936
+            ], 
+            [
+              25.16482, 
+              31.56915
+            ], 
+            [
+              24.80287, 
+              31.08929
+            ], 
+            [
+              24.95762, 
+              30.6616
+            ], 
+            [
+              24.70007, 
+              30.04419
+            ], 
+            [
+              25.000000000000114, 
+              29.238654529533562
+            ], 
+            [
+              25.000000000000114, 
+              25.682499996361003
+            ], 
+            [
+              25.000000000000114, 
+              22.0
+            ], 
+            [
+              25.000000000000114, 
+              20.00304
+            ], 
+            [
+              23.850000000000136, 
+              20.0
+            ], 
+            [
+              23.83766000000014, 
+              19.580470000000105
+            ], 
+            [
+              19.84926, 
+              21.49509
+            ], 
+            [
+              15.86085, 
+              23.40972
+            ], 
+            [
+              14.8513, 
+              22.862950000000126
             ]
           ]
         ]
@@ -44,12 +248,11 @@
           "Libia"
         ], 
         "ne_latitude": 33.169, 
+        "ne:GU_A3": "LBY", 
         "alias_RUM_Q": [
           "Libia"
         ], 
-        "alias_UNK_V": [
-          "Libyan Arab Jamahirya"
-        ], 
+        "ne_longitude": 25.151, 
         "placetype": "Country", 
         "alias_POR_V": [
           "L\u00edbia \u00c1rabe Jamahiriya"
@@ -60,17 +263,19 @@
         "alias_ENG_A": [
           "LY"
         ], 
-        "alias_CZE_Q": [
-          "Libye"
-        ], 
+        "ne:SUBUNIT": "Libya", 
+        "ne:POSTAL": "LY", 
+        "ne:ISO_N3": 434.0, 
+        "ne:ADM0_A3": "LBY", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5229\u6bd4\u4e9e"
         ], 
         "alias_ITA_Q": [
           "Libia"
         ], 
-        "alias_GER_V": [
-          "Libysch-Arabische Dschamahirija"
+        "alias_DAN_Q": [
+          "Libyen"
         ], 
         "alias_ITA_V": [
           "Libia, Repubblica Araba"
@@ -78,64 +283,92 @@
         "alias_CHI_V": [
           "\u5229\u6bd4\u4e9a"
         ], 
-        "woeid": 23424882, 
         "alias_JPN_Q": [
           "\u30ea\u30d3\u30a2"
         ], 
+        "ne:LEVEL": 2.0, 
         "alias_JPN_V": [
           "\u793e\u4f1a\u4e3b\u7fa9\u4eba\u6c11\u30ea\u30d3\u30a2\u30fb\u30a2\u30e9\u30d6\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Libia"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "LBY", 
         "sw_longitude": 9.387, 
+        "alias_HUN_V": [
+          "L\u00edbiai Arab Jamahiriya"
+        ], 
+        "ne:SU_A3": "LBY", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 26.339, 
+        "woe:id": 23424882, 
+        "ne:ISO_A3": "LBY", 
+        "ne:ISO_A2": "LY", 
         "date_indexed": "2010-12-02T08:58:29Z", 
-        "alias_FRE_V": [
-          "Jamahiriya arabe libyenne"
-        ], 
+        "ne:NAME_SORT": "Libya", 
         "alias_KOR_Q": [
           "\ub9ac\ube44\uc544"
         ], 
-        "alias_DAN_V": [
-          "Libyan Arab Jamahiriya"
+        "ne:MAP_COLOR": 11.0, 
+        "ne:ADMIN": "Libya", 
+        "ne:GEOUNIT": "Libya", 
+        "alias_DUT_V": [
+          "Libische Arabische Republiek"
         ], 
+        "ne:LabelRank": 1, 
+        "ne:GDP_MD_EST": 88830.0, 
         "alias_SPA_V": [
           "Libia, Rep\u00fablica \u00c1rabe"
         ], 
+        "alias_RUM_V": [
+          "Libia, Jamahiriya Arab\u0103"
+        ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Libi\u00eb"
         ], 
         "alias_DUT_S": [
           "Libie"
         ], 
-        "alias_DUT_V": [
-          "Libische Arabische Republiek"
+        "ne:ABBREV": "Libya", 
+        "alias_CZE_Q": [
+          "Libye"
         ], 
-        "alias_DAN_Q": [
-          "Libyen"
+        "alias_GER_V": [
+          "Libysch-Arabische Dschamahirija"
+        ], 
+        "alias_DAN_V": [
+          "Libyan Arab Jamahiriya"
+        ], 
+        "ne:SOVEREIGNT": "Libya", 
+        "ne:NAME": "Libya", 
+        "lang": "ENG", 
+        "name": "Libya", 
+        "ne:TYPE": "Sovereign country", 
+        "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
+        "alias_HUN_Q": [
+          "L\u00edbia"
         ], 
         "alias_GER_Q": [
           "Libyen"
         ], 
-        "lang": "ENG", 
-        "name": "Libya", 
-        "parent_woeid": 1, 
-        "alias_HUN_Q": [
-          "L\u00edbia"
+        "alias_UNK_V": [
+          "Libyan Arab Jamahirya"
         ], 
-        "alias_HUN_V": [
-          "L\u00edbiai Arab Jamahiriya"
-        ], 
-        "ne_longitude": 25.151, 
         "longitude": 17.269, 
+        "ne:POP_EST": 6310434.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "LY", 
         "sw_latitude": 19.508, 
-        "alias_RUM_V": [
-          "Libia, Jamahiriya Arab\u0103"
+        "alias_FRE_V": [
+          "Jamahiriya arabe libyenne"
         ], 
         "fullname": "Libya", 
+        "ne:NAME_FORMA": "Great Socialist People's Libyan Arab Jamahiriya", 
         "alias_FRE_Q": [
           "Libye"
         ]

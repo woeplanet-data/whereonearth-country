@@ -7,24 +7,56 @@
         "coordinates": [
           [
             [
-              88.760, 
-              26.707
+              91.69665652869668, 
+              27.771741848251665
             ], 
             [
-              88.760, 
-              28.323
+              92.10371178585974, 
+              27.452614040633208
             ], 
             [
-              92.125, 
-              28.323
+              92.03348351437509, 
+              26.83831045176356
             ], 
             [
-              92.125, 
-              26.707
+              91.21751264848643, 
+              26.808648179628022
             ], 
             [
-              88.760, 
-              26.707
+              90.37327477413407, 
+              26.87572418874288
+            ], 
+            [
+              89.74452762243885, 
+              26.719402981059957
+            ], 
+            [
+              88.83564253128938, 
+              27.098966376243762
+            ], 
+            [
+              88.81424848832056, 
+              27.299315904239364
+            ], 
+            [
+              89.47581017452111, 
+              28.042758897406397
+            ], 
+            [
+              90.01582889197118, 
+              28.296438503527217
+            ], 
+            [
+              90.7305139505678, 
+              28.064953925075756
+            ], 
+            [
+              91.25885379431992, 
+              28.040614325466294
+            ], 
+            [
+              91.69665652869668, 
+              27.771741848251665
             ]
           ]
         ]
@@ -37,10 +69,10 @@
         "alias_KOR_Q": [
           "\ubd80\ud0c4"
         ], 
+        "ne:LEVEL": 2.0, 
         "ne_latitude": 28.323, 
-        "alias_UNK_V": [
-          "Kraljevina Butan"
-        ], 
+        "ne:SUBUNIT": "Bhutan", 
+        "ne_longitude": 92.125, 
         "placetype": "Country", 
         "alias_POR_Q": [
           "But\u00e3o"
@@ -51,40 +83,63 @@
         "alias_POR_S": [
           "Butao"
         ], 
+        "ne:ISO_N3": 64.0, 
         "alias_CZE_Q": [
           "Bh\u00fat\u00e1n"
         ], 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e0d\u4e39"
         ], 
-        "woeid": 23424770, 
+        "ne:NAME": "Bhutan", 
+        "ne:POSTAL": "BT", 
+        "ne:ADM0_A3": "BTN", 
         "alias_JPN_Q": [
           "\u30d6\u30fc\u30bf\u30f3"
         ], 
         "alias_JPN_V": [
           "\u30d6\u30fc\u30bf\u30f3\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "But\u00e1n"
         ], 
-        "sw_longitude": 88.760, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "BTN", 
+        "sw_longitude": 88.76, 
+        "ne:GDP_MD_EST": 3524.0, 
+        "ne:SU_A3": "BTN", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 27.515, 
+        "woe:id": 23424770, 
+        "ne:ISO_A3": "BTN", 
+        "ne:ISO_A2": "BT", 
         "date_indexed": "2010-12-02T17:56:39Z", 
+        "ne:NAME_SORT": "Bhutan", 
+        "ne:GU_A3": "BTN", 
+        "ne:MAP_COLOR": 8.0, 
+        "ne:ADMIN": "Bhutan", 
+        "ne:GEOUNIT": "Bhutan", 
+        "ne:LabelRank": 1, 
         "alias_SPA_V": [
           "Bhut\u00e1n"
         ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "Bhutan", 
         "alias_DUT_V": [
           "Bhoetan"
         ], 
         "alias_GER_V": [
           "K\u00f6nigreich Bhutan"
         ], 
+        "ne:SOVEREIGNT": "Bhutan", 
         "alias_GER_S": [
           "Koenigreich Bhutan"
         ], 
         "lang": "ENG", 
         "name": "Bhutan", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Butan"
@@ -92,11 +147,17 @@
         "alias_HUN_Q": [
           "Bhut\u00e1n"
         ], 
-        "ne_longitude": 92.125, 
+        "alias_UNK_V": [
+          "Kraljevina Butan"
+        ], 
         "longitude": 90.442, 
+        "ne:POP_EST": 691141.0, 
         "iso": "BT", 
         "sw_latitude": 26.707, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Bhutan", 
+        "ne:NAME_FORMA": "Kingdom of Bhutan", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Bhoutan"
         ]

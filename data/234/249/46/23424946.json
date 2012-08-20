@@ -7,24 +7,92 @@
         "coordinates": [
           [
             [
-              -13.308, 
-              6.929
+              -11.438779466182055, 
+              6.785916856305747
             ], 
             [
-              -13.308, 
-              10.000
+              -11.70819454593574, 
+              6.860098374860726
             ], 
             [
-              -10.284, 
-              10.000
+              -12.428098924193819, 
+              7.26294200279203
             ], 
             [
-              -10.284, 
-              6.929
+              -12.949049038128194, 
+              7.798645738145738
             ], 
             [
-              -13.308, 
-              6.929
+              -13.124025437868482, 
+              8.163946438016978
+            ], 
+            [
+              -13.246550258832515, 
+              8.903048610871508
+            ], 
+            [
+              -12.71195756677308, 
+              9.342711696810767
+            ], 
+            [
+              -12.59671912276221, 
+              9.62018830000197
+            ], 
+            [
+              -12.425928514037565, 
+              9.835834051955956
+            ], 
+            [
+              -12.150338100625005, 
+              9.858571682164381
+            ], 
+            [
+              -11.917277390988659, 
+              10.046983954300558
+            ], 
+            [
+              -11.11748124840733, 
+              10.045872911006285
+            ], 
+            [
+              -10.839151984083301, 
+              9.688246161330369
+            ], 
+            [
+              -10.622395188835041, 
+              9.267910061068278
+            ], 
+            [
+              -10.654770473665891, 
+              8.977178452994195
+            ], 
+            [
+              -10.494315151399633, 
+              8.715540676300435
+            ], 
+            [
+              -10.505477260774668, 
+              8.348896389189605
+            ], 
+            [
+              -10.23009355309128, 
+              8.406205552601293
+            ], 
+            [
+              -10.69559485517648, 
+              7.939464016141088
+            ], 
+            [
+              -11.146704270868383, 
+              7.396706447779536
+            ], 
+            [
+              -11.19980180504828, 
+              7.105845648624737
+            ], 
+            [
+              -11.438779466182055, 
+              6.785916856305747
             ]
           ]
         ]
@@ -37,10 +105,9 @@
         "alias_KOR_Q": [
           "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
         ], 
-        "ne_latitude": 10.000, 
-        "alias_UNK_V": [
-          "Republika Sierra Leone"
-        ], 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 10.0, 
+        "ne_longitude": -10.284, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\uc2dc\uc5d0\ub77c \ub9ac\uc628"
@@ -51,37 +118,67 @@
         "alias_ENG_A": [
           "SL"
         ], 
+        "ne:SUBUNIT": "Sierra Leone", 
+        "ne:ISO_N3": 694.0, 
+        "ne:ADM0_A3": "SLE", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7345\u5b50\u5c71"
         ], 
+        "ne:NAME": "Sierra Leone", 
         "alias_CHI_V": [
           "\u7345\u5b50\u5c71"
         ], 
-        "woeid": 23424946, 
         "alias_JPN_Q": [
           "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd"
         ], 
         "alias_JPN_V": [
           "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd\u5171\u548c\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Sierra Leona"
         ], 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "SLE", 
         "sw_longitude": -13.308, 
+        "ne:GDP_MD_EST": 4285.0, 
+        "ne:SU_A3": "SLE", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 8.465, 
+        "woe:id": 23424946, 
+        "ne:ISO_A3": "SLE", 
+        "ne:ISO_A2": "SL", 
         "date_indexed": "2010-12-02T12:08:44Z", 
+        "ne:NAME_SORT": "Sierra Leone", 
+        "ne:GU_A3": "SLE", 
+        "ne:MAP_COLOR": 7.0, 
+        "ne:ADMIN": "Sierra Leone", 
+        "ne:GEOUNIT": "Sierra Leone", 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:ABBREV": "S.L.", 
         "alias_GER_V": [
           "Republik Sierra Leone"
         ], 
+        "ne:SOVEREIGNT": "Sierra Leone", 
         "lang": "ENG", 
         "name": "Sierra Leone", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
-        "ne_longitude": -10.284, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "SL", 
+        "alias_UNK_V": [
+          "Republika Sierra Leone"
+        ], 
         "longitude": -11.796, 
+        "ne:POP_EST": 6440053.0, 
         "iso": "SL", 
         "sw_latitude": 6.929, 
-        "fullname": "Sierra Leone"
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Sierra Leone", 
+        "ne:NAME_FORMA": "Republic of Sierra Leone"
       }, 
       "id": 23424946
     }

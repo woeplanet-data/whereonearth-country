@@ -34,16 +34,14 @@
         "alias_ENG_V": [
           "Malta Island"
         ], 
-        "alias_KOR_Q": [
-          "\ubab0\ud0c0"
-        ], 
-        "ne_latitude": 36.082, 
-        "alias_UNK_V": [
-          "M\u00e1lta"
-        ], 
-        "placetype": "Country", 
         "alias_ENG_A": [
           "MLT"
+        ], 
+        "ne_latitude": 36.082, 
+        "ne_longitude": 14.577, 
+        "placetype": "Country", 
+        "alias_KOR_Q": [
+          "\ubab0\ud0c0"
         ], 
         "alias_CHI_Q": [
           "\u99ac\u723e\u4ed6"
@@ -51,7 +49,6 @@
         "alias_CHI_V": [
           "\u99ac\u723e\u4ed6"
         ], 
-        "woeid": 23424897, 
         "alias_JPN_Q": [
           "\u30de\u30eb\u30bf"
         ], 
@@ -61,6 +58,7 @@
         "sw_longitude": 14.183, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 35.902, 
+        "woe:id": 23424897, 
         "date_indexed": "2010-12-02T07:50:18Z", 
         "alias_GER_V": [
           "Republik Malta"
@@ -74,7 +72,9 @@
         "alias_HUN_Q": [
           "M\u00e1lta"
         ], 
-        "ne_longitude": 14.577, 
+        "alias_UNK_V": [
+          "M\u00e1lta"
+        ], 
         "longitude": 14.448, 
         "iso": "MT", 
         "sw_latitude": 35.786, 

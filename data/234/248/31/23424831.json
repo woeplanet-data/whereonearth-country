@@ -15,11 +15,11 @@
               16.517
             ], 
             [
-              -61.000, 
+              -61.0, 
               16.517
             ], 
             [
-              -61.000, 
+              -61.0, 
               15.831
             ], 
             [
@@ -57,7 +57,6 @@
         "alias_ITA_Q": [
           "Guadalupa"
         ], 
-        "woeid": 23424831, 
         "alias_JPN_Q": [
           "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"
         ], 
@@ -67,11 +66,12 @@
         "sw_longitude": -61.807, 
         "provider": "geoplanet 7.6.0", 
         "latitude": 16.158, 
+        "woe:id": 23424831, 
         "date_indexed": "2010-12-02T08:50:01Z", 
         "lang": "ENG", 
         "name": "Guadeloupe", 
         "parent_woeid": 1, 
-        "ne_longitude": -61.000, 
+        "ne_longitude": -61.0, 
         "longitude": -61.677, 
         "iso": "GP", 
         "sw_latitude": 15.831, 

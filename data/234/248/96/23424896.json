@@ -7,24 +7,160 @@
         "coordinates": [
           [
             [
-              -17.067, 
-              14.716
+              -12.170750291380301, 
+              14.616834214735505
             ], 
             [
-              -17.067, 
-              27.298
+              -12.830658331747516, 
+              15.303691514542948
             ], 
             [
-              -4.835, 
-              27.298
+              -13.435737677453062, 
+              16.03938304286619
             ], 
             [
-              -4.835, 
-              14.716
+              -14.099521450242179, 
+              16.304302273010492
             ], 
             [
-              -17.067, 
-              14.716
+              -14.577347581428981, 
+              16.59826365810281
+            ], 
+            [
+              -15.135737270558819, 
+              16.587282416240782
+            ], 
+            [
+              -15.623666144258692, 
+              16.369337063049812
+            ], 
+            [
+              -16.12069007004193, 
+              16.455662543193384
+            ], 
+            [
+              -16.463098110407884, 
+              16.13503611903846
+            ], 
+            [
+              -16.549707810929064, 
+              16.673892116761962
+            ], 
+            [
+              -16.270551723688357, 
+              17.166962795474873
+            ], 
+            [
+              -16.14634741867485, 
+              18.108481553616656
+            ], 
+            [
+              -16.256883307347167, 
+              19.096715806550307
+            ], 
+            [
+              -16.37765112961327, 
+              19.593817246981985
+            ], 
+            [
+              -16.277838100641517, 
+              20.0925206568147
+            ], 
+            [
+              -16.536323614965468, 
+              20.567866319251493
+            ], 
+            [
+              -17.06342322434257, 
+              20.999752102130827
+            ], 
+            [
+              -16.845193650773993, 
+              21.33332347257488
+            ], 
+            [
+              -12.929101935263532, 
+              21.327070624267563
+            ], 
+            [
+              -13.118754441774712, 
+              22.771220201096256
+            ], 
+            [
+              -12.874221564169575, 
+              23.284832261645178
+            ], 
+            [
+              -11.937224493853321, 
+              23.374594224536168
+            ], 
+            [
+              -11.96941891117116, 
+              25.933352769468268
+            ], 
+            [
+              -8.6872936670174, 
+              25.881056219988906
+            ], 
+            [
+              -8.684399786809053, 
+              27.395744126896005
+            ], 
+            [
+              -4.923337368174231, 
+              24.974574082941
+            ], 
+            [
+              -6.453786586930335, 
+              24.956590684503425
+            ], 
+            [
+              -5.971128709324248, 
+              20.64083344164763
+            ], 
+            [
+              -5.488522508150439, 
+              16.325102037007966
+            ], 
+            [
+              -5.315277268891933, 
+              16.20185374599184
+            ], 
+            [
+              -5.537744309908447, 
+              15.501689764869257
+            ], 
+            [
+              -9.55023840985939, 
+              15.486496893775438
+            ], 
+            [
+              -9.700255092802706, 
+              15.264107367407362
+            ], 
+            [
+              -10.086846482778213, 
+              15.330485744686271
+            ], 
+            [
+              -10.650791388379417, 
+              15.132745876521426
+            ], 
+            [
+              -11.349095017939504, 
+              15.411256008358478
+            ], 
+            [
+              -11.666078253617854, 
+              15.388208319556298
+            ], 
+            [
+              -11.834207526079467, 
+              14.79909699142894
+            ], 
+            [
+              -12.170750291380301, 
+              14.616834214735505
             ]
           ]
         ]
@@ -44,9 +180,8 @@
           "Mauretania"
         ], 
         "ne_latitude": 27.298, 
-        "alias_UNK_V": [
-          "Mavretanija"
-        ], 
+        "ne:GU_A3": "MRT", 
+        "ne_longitude": -4.835, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubaa8\ub9ac\ud0c0\ub2c8\uc544"
@@ -54,55 +189,79 @@
         "alias_POR_Q": [
           "Maurit\u00e2nia"
         ], 
-        "alias_ENG_A": [
-          "MR"
-        ], 
-        "alias_CZE_Q": [
-          "Maurit\u00e1nie"
-        ], 
-        "alias_CHI_Q": [
-          "\u8305\u5229\u5854\u5c3c\u4e9e"
-        ], 
-        "alias_GER_V": [
-          "Islamische Republik Mauretanien"
-        ], 
-        "alias_CHI_V": [
-          "\u8305\u5229\u5854\u5c3c\u4e9e"
-        ], 
-        "woeid": 23424896, 
-        "alias_JPN_Q": [
-          "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2"
-        ], 
-        "alias_JPN_V": [
-          "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
-        ], 
-        "sw_longitude": -17.067, 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 21.007, 
-        "date_indexed": "2010-12-02T16:11:57Z", 
         "alias_KOR_Q": [
           "\ubaa8\ub9ac\ud0c0\ub2c8"
         ], 
+        "ne:SUBUNIT": "Mauritania", 
+        "ne:POSTAL": "MR", 
+        "ne:ISO_N3": 478.0, 
+        "ne:ADM0_A3": "MRT", 
+        "ne:ScaleRank": 1, 
+        "alias_CHI_Q": [
+          "\u8305\u5229\u5854\u5c3c\u4e9e"
+        ], 
+        "alias_DAN_Q": [
+          "Mauretanien"
+        ], 
+        "ne:NAME": "Mauritania", 
+        "alias_CHI_V": [
+          "\u8305\u5229\u5854\u5c3c\u4e9e"
+        ], 
+        "alias_JPN_Q": [
+          "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "alias_JPN_V": [
+          "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "ne:SOV_A3": "MRT", 
+        "sw_longitude": -17.067, 
+        "ne:GDP_MD_EST": 6308.0, 
+        "ne:SU_A3": "MRT", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.007, 
+        "woe:id": 23424896, 
+        "ne:ISO_A3": "MRT", 
+        "ne:ISO_A2": "MR", 
+        "date_indexed": "2010-12-02T16:11:57Z", 
+        "ne:NAME_SORT": "Mauritania", 
+        "alias_ENG_A": [
+          "MR"
+        ], 
+        "ne:MAP_COLOR": 1.0, 
+        "ne:ADMIN": "Mauritania", 
+        "ne:GEOUNIT": "Mauritania", 
+        "alias_DUT_V": [
+          "Mauretani\u00eb"
+        ], 
+        "ne:LabelRank": 1, 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Mauritani\u00eb"
         ], 
         "alias_DUT_S": [
           "Mauretanie"
         ], 
-        "alias_DUT_V": [
-          "Mauretani\u00eb"
+        "ne:ABBREV": "Mrt.", 
+        "alias_CZE_Q": [
+          "Maurit\u00e1nie"
         ], 
-        "alias_DAN_Q": [
-          "Mauretanien"
+        "alias_GER_V": [
+          "Islamische Republik Mauretanien"
         ], 
         "alias_GER_Q": [
           "Mauretanien"
         ], 
+        "ne:SOVEREIGNT": "Mauritania", 
         "lang": "ENG", 
         "name": "Mauritania", 
         "alias_CZE_V": [
           "Mauret\u00e1nie"
         ], 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Islamska republika Mavretanija"
@@ -110,11 +269,17 @@
         "alias_HUN_Q": [
           "Maurit\u00e1nia"
         ], 
-        "ne_longitude": -4.835, 
+        "alias_UNK_V": [
+          "Mavretanija"
+        ], 
         "longitude": -10.951, 
+        "ne:POP_EST": 3129486.0, 
         "iso": "MR", 
         "sw_latitude": 14.716, 
+        "ne:GEOU_DIF": 0.0, 
         "fullname": "Mauritania", 
+        "ne:NAME_FORMA": "Islamic Republic of Mauritania", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Mauritanie"
         ]

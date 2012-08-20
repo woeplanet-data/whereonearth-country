@@ -38,9 +38,7 @@
           "NR"
         ], 
         "ne_latitude": -0.504, 
-        "alias_UNK_V": [
-          "Republika Nauru"
-        ], 
+        "ne_longitude": 166.945, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub098\uc6b0\ub8e8\uacf5\ud654\uad6d"
@@ -54,7 +52,6 @@
         "alias_CHI_V": [
           "\u7459\u9c81"
         ], 
-        "woeid": 23424912, 
         "alias_JPN_Q": [
           "\u30ca\u30a6\u30eb"
         ], 
@@ -64,6 +61,7 @@
         "sw_longitude": 166.899, 
         "provider": "geoplanet 7.6.0", 
         "latitude": -0.528, 
+        "woe:id": 23424912, 
         "date_indexed": "2010-12-02T16:11:23Z", 
         "alias_GER_V": [
           "Republik Nauru"
@@ -71,7 +69,9 @@
         "lang": "ENG", 
         "name": "Nauru", 
         "parent_woeid": 1, 
-        "ne_longitude": 166.945, 
+        "alias_UNK_V": [
+          "Republika Nauru"
+        ], 
         "longitude": 166.922, 
         "iso": "NR", 
         "sw_latitude": -0.552, 

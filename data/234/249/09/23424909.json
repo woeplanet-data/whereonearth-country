@@ -7,24 +7,60 @@
         "coordinates": [
           [
             [
-              3.358, 
-              50.750
+              6.074182570020923, 
+              53.510403347378144
             ], 
             [
-              3.358, 
-              53.554
+              6.905139601274129, 
+              53.48216217713065
             ], 
             [
-              7.228, 
-              53.554
+              7.092053256873896, 
+              53.144043280644894
             ], 
             [
-              7.228, 
-              50.750
+              6.842869500362383, 
+              52.22844025329755
             ], 
             [
-              3.358, 
-              50.750
+              6.589396599970826, 
+              51.852029120483394
+            ], 
+            [
+              5.988658074577813, 
+              51.851615709025054
+            ], 
+            [
+              6.15665815595878, 
+              50.80372101501058
+            ], 
+            [
+              5.606975945670001, 
+              51.03729848896978
+            ], 
+            [
+              4.973991326526914, 
+              51.47502370869813
+            ], 
+            [
+              4.047071160507528, 
+              51.26725861266857
+            ], 
+            [
+              3.314971144228537, 
+              51.34575511331991
+            ], 
+            [
+              3.830288527043137, 
+              51.62054454203195
+            ], 
+            [
+              4.705997348661185, 
+              53.091798407597764
+            ], 
+            [
+              6.074182570020923, 
+              53.510403347378144
             ]
           ]
         ]
@@ -47,12 +83,12 @@
           "Niderlandy"
         ], 
         "ne_latitude": 53.554, 
+        "ne:SUBUNIT": "Netherlands", 
+        "ne:GU_A3": "NLD", 
         "alias_RUM_Q": [
           "Olanda"
         ], 
-        "alias_UNK_V": [
-          "Holanda"
-        ], 
+        "ne_longitude": 7.228, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub124\ub4e4\ub780\ub4dc"
@@ -69,25 +105,26 @@
         "alias_POR_S": [
           "Paises Baixos"
         ], 
-        "alias_CZE_Q": [
-          "Nizozemsko"
-        ], 
+        "ne:POSTAL": "NL", 
+        "ne:ISO_N3": 528.0, 
+        "ne:ADM0_A3": "NLD", 
+        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8377\u862d"
         ], 
         "alias_ITA_Q": [
           "Paesi Bassi"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich der Niederlande"
+        "alias_DAN_Q": [
+          "Nederlandene"
         ], 
         "alias_ITA_V": [
           "Olanda"
         ], 
+        "ne:TERR_": null, 
         "alias_CHI_V": [
           "\u8377\u5170"
         ], 
-        "woeid": 23424909, 
         "alias_JPN_Q": [
           "\u30aa\u30e9\u30f3\u30c0"
         ], 
@@ -97,6 +134,7 @@
         "alias_JPN_V": [
           "\u30aa\u30e9\u30f3\u30c0\u738b\u56fd"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Pa\u00edses Bajos"
         ], 
@@ -106,41 +144,58 @@
         "alias_SPA_S": [
           "Paises Bajos"
         ], 
+        "ne:SOV_A3": "NL1", 
         "sw_longitude": 3.358, 
+        "ne:GDP_MD_EST": 672000.0, 
+        "ne:SU_A3": "NLD", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 52.108, 
+        "woe:id": 23424909, 
         "alias_NOR_V": [
           "Holland"
         ], 
+        "ne:ISO_A2": "NL", 
         "date_indexed": "2010-12-02T18:17:47Z", 
-        "alias_FRE_V": [
-          "Hollande"
-        ], 
+        "ne:NAME_SORT": "Netherlands", 
         "alias_KOR_Q": [
           "\ub124\ub35c\ub780\ub4dc"
+        ], 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "Netherlands", 
+        "ne:GEOUNIT": "Netherlands", 
+        "alias_DUT_V": [
+          "Koninkrijk der Nederlanden"
+        ], 
+        "ne:LabelRank": 1, 
+        "alias_SPA_V": [
+          "Holanda"
+        ], 
+        "alias_RUM_V": [
+          "\u0162\u0103rile de Jos"
+        ], 
+        "ne:FeatureCla": "Admin-0 countries", 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_CZE_V": [
+          "Holandsko"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Neth.", 
+        "alias_CZE_Q": [
+          "Nizozemsko"
+        ], 
+        "alias_GER_V": [
+          "K\u00f6nigreich der Niederlande"
         ], 
         "alias_DAN_V": [
           "Holland"
         ], 
-        "alias_SPA_V": [
-          "Holanda"
-        ], 
-        "alias_CZE_V": [
-          "Holandsko"
-        ], 
-        "alias_DUT_V": [
-          "Koninkrijk der Nederlanden"
-        ], 
-        "alias_DAN_Q": [
-          "Nederlandene"
-        ], 
-        "alias_GER_Q": [
-          "Niederlande"
-        ], 
+        "ne:SOVEREIGNT": "Netherlands", 
         "alias_GER_S": [
           "Konigreich der Niederlande"
         ], 
+        "ne:NAME": "Netherlands", 
         "lang": "DUT", 
+        "ne:TYPE": "Country", 
         "name": "Nederland", 
         "alias_UNK_S": [
           "Kato Chores"
@@ -152,14 +207,24 @@
         "alias_HUN_Q": [
           "Hollandia"
         ], 
-        "ne_longitude": 7.228, 
-        "longitude": 5.330, 
-        "iso": "NL", 
-        "sw_latitude": 50.750, 
-        "alias_RUM_V": [
-          "\u0162\u0103rile de Jos"
+        "alias_GER_Q": [
+          "Niederlande"
         ], 
+        "alias_UNK_V": [
+          "Holanda"
+        ], 
+        "longitude": 5.33, 
+        "ne:POP_EST": 16715999.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "iso": "NL", 
+        "sw_latitude": 50.75, 
+        "ne:ISO_A3": "NLD", 
+        "alias_FRE_V": [
+          "Hollande"
+        ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Nederland, Netherlands", 
+        "ne:NAME_FORMA": "Kingdom of the Netherlands", 
         "alias_UNK_Q": [
           "Pa\u00efsos Baixos"
         ], 
