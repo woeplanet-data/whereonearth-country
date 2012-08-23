@@ -22,8 +22,7 @@ if __name__ == '__main__':
     datadir = os.path.join(rootdir, 'data')
     metadir = os.path.join(rootdir, 'meta')
 
-    # generate a list of all the airports - assume the extractotron cities.txt
-    # file plus some airport specific stuff as a 'format':
+    # generate a list of all the countries - assume the extractotron cities.txt
     # https://github.com/migurski/Extractotron/blob/master/cities.txt
 
     countries_path = os.path.join(metadir, 'countries.tsv')
