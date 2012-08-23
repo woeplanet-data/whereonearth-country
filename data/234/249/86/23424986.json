@@ -7,121 +7,63 @@
         "coordinates": [
           [
             [
-              12.446, 
-              41.9
+              12.458392368513046, 
+              41.9018354353571
             ], 
             [
-              12.446, 
-              41.907
+              12.455085076615092, 
+              41.90018178985781
             ], 
             [
-              12.459, 
-              41.907
+              12.449297316018487, 
+              41.90018178985781
             ], 
             [
-              12.459, 
-              41.9
+              12.444336378621074, 
+              41.9018354353571
             ], 
             [
-              12.446, 
-              41.9
+              12.44681684731978, 
+              41.90679637275451
+            ], 
+            [
+              12.455085076615092, 
+              41.90845001915318
+            ], 
+            [
+              12.458392368513046, 
+              41.9018354353571
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_POL_V": [
-          "Stolica Apostolska"
-        ], 
-        "alias_ENG_V": [
-          "Vatican Hill"
-        ], 
-        "alias_SWE_V": [
-          "Heliga stolen"
-        ], 
-        "alias_SWE_Q": [
-          "Vatikanstaten"
-        ], 
-        "alias_ENG_P": [
-          "Vatican City"
-        ], 
-        "ne_latitude": 41.907, 
-        "alias_RUM_Q": [
-          "Vatican"
-        ], 
-        "ne_longitude": 12.459, 
+        "ne:ScaleRank": 5, 
         "placetype": "Country", 
-        "alias_KOR_V": [
-          "\ubc14\ud2f0\uce78\uc2dc\ud2f0"
-        ], 
-        "alias_POR_V": [
-          "Santa S\u00e9 (Cidade-Estado do Vaticano)"
-        ], 
-        "alias_POR_Q": [
-          "Vaticano"
-        ], 
-        "alias_ENG_A": [
-          "VA"
-        ], 
-        "alias_POR_S": [
-          "Santa Se"
-        ], 
         "alias_ITA_S": [
           "Stato della Citta del Vaticano"
-        ], 
-        "alias_DAN_Q": [
-          "Vatikanstaten"
         ], 
         "alias_ITA_V": [
           "Colle Vaticano"
         ], 
-        "alias_CHI_V": [
-          "\u6559\u5ef7"
-        ], 
-        "alias_JPN_Q": [
-          "\u30d0\u30c1\u30ab\u30f3"
-        ], 
-        "alias_POL_Q": [
-          "Watykan"
-        ], 
-        "alias_JPN_V": [
-          "\u30ed\u30fc\u30de\u6cd5\u738b\u5e81 (\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd)"
+        "alias_FIN_Q": [
+          "Vatikaanivaltio"
         ], 
         "alias_SPA_Q": [
           "Ciudad del Vaticano"
         ], 
-        "alias_FIN_Q": [
-          "Vatikaanivaltio"
-        ], 
-        "sw_longitude": 12.446, 
-        "alias_FIN_V": [
-          "Pyh\u00e4 istuin (Vatikaani)"
-        ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 41.904, 
-        "woe:id": 23424986, 
-        "alias_NOR_Q": [
-          "Vatikanstaten"
-        ], 
-        "date_indexed": "2010-12-02T18:03:37Z", 
-        "alias_CHI_Q": [
-          "\u6559\u5ef7"
-        ], 
-        "alias_KOR_Q": [
-          "\ubc14\ud2f0\uce78 \uc2dc\uad6d"
-        ], 
-        "alias_DUT_V": [
-          "Heilige stoel"
-        ], 
+        "ne:NAME_FORMA": "State of the Vatican City", 
+        "ne:SU_A3": "VAT", 
         "alias_SPA_V": [
           "Santa Sede (Estado de la Ciudad del Vaticano)"
         ], 
-        "alias_RUM_V": [
-          "Ora\u015ful Vatican"
-        ], 
-        "alias_DUT_Q": [
-          "Vatikaanstad"
+        "latitude": 41.904, 
+        "sw_latitude": 41.90018178985781, 
+        "ne:LabelRank": 16, 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_CZE_V": [
+          "Svat\u00fd Stolec"
         ], 
         "alias_CZE_S": [
           "Svaty Stolec"
@@ -129,45 +71,148 @@
         "alias_CZE_Q": [
           "Vatik\u00e1n"
         ], 
-        "alias_GER_V": [
-          "Staat der Vatikanstadt"
-        ], 
-        "alias_DAN_V": [
-          "Pavestolen (Vatikanstaten)"
-        ], 
-        "lang": "ITA", 
         "name": "Citt\u00e0 del Vaticano", 
-        "alias_CZE_V": [
-          "Svat\u00fd Stolec"
+        "ne:NAME_SORT": "Vatican (Holy Sea)", 
+        "ne:POP_EST": 826.0, 
+        "ne:GDP_MD_EST": -99.0, 
+        "alias_KOR_Q": [
+          "\ubc14\ud2f0\uce78 \uc2dc\uad6d"
         ], 
+        "alias_POR_V": [
+          "Santa S\u00e9 (Cidade-Estado do Vaticano)"
+        ], 
+        "alias_POR_Q": [
+          "Vaticano"
+        ], 
+        "alias_POR_S": [
+          "Santa Se"
+        ], 
+        "ne:POSTAL": "V", 
+        "alias_JPN_Q": [
+          "\u30d0\u30c1\u30ab\u30f3"
+        ], 
+        "alias_JPN_V": [
+          "\u30ed\u30fc\u30de\u6cd5\u738b\u5e81 (\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd)"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_NOR_Q": [
+          "Vatikanstaten"
+        ], 
+        "date_indexed": "2010-12-02T18:03:37Z", 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Citt\u00e0 del Vaticano, Vatican City", 
+        "ne:NAME": "Vatican", 
         "alias_UNK_S": [
           "Svaeta stolica"
         ], 
-        "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Vatik\u00e1n"
-        ], 
-        "alias_GER_Q": [
-          "Vatikanstadt"
         ], 
         "alias_UNK_V": [
           "Baet'unam"
         ], 
-        "longitude": 12.452, 
         "iso": "VA", 
-        "sw_latitude": 41.9, 
+        "alias_ENG_V": [
+          "Vatican Hill"
+        ], 
+        "alias_ENG_P": [
+          "Vatican City"
+        ], 
+        "alias_KOR_V": [
+          "\ubc14\ud2f0\uce78\uc2dc\ud2f0"
+        ], 
+        "ne:ne_10m_adm": "VAT", 
+        "alias_ENG_A": [
+          "VA"
+        ], 
+        "ne:SUBUNIT": "Vatican", 
+        "alias_CHI_Q": [
+          "\u6559\u5ef7"
+        ], 
+        "alias_CHI_V": [
+          "\u6559\u5ef7"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "sw_longitude": 12.444336378621074, 
+        "ne:SOV_A3": "VAT", 
+        "alias_RUM_V": [
+          "Ora\u015ful Vatican"
+        ], 
+        "ne:OID_": 260, 
+        "ne:ISO_A3": "VAT", 
+        "ne:ISO_A2": "VA", 
+        "ne:GEOUNIT": "Vatican", 
+        "ne:ABBREV": "Vat.", 
+        "alias_DAN_Q": [
+          "Vatikanstaten"
+        ], 
+        "alias_DAN_V": [
+          "Pavestolen (Vatikanstaten)"
+        ], 
+        "parent_woeid": 1, 
+        "longitude": 12.452, 
         "alias_FRE_V": [
           "Saint-Si\u00e8ge"
         ], 
-        "fullname": "Citt\u00e0 del Vaticano, Vatican City", 
+        "ne:SOVEREIGNT": "Vatican", 
         "alias_FRE_S": [
           "Cite du Vatican"
         ], 
         "alias_FRE_Q": [
           "Vatican"
-        ]
+        ], 
+        "alias_POL_V": [
+          "Stolica Apostolska"
+        ], 
+        "alias_SWE_V": [
+          "Heliga stolen"
+        ], 
+        "alias_SWE_Q": [
+          "Vatikanstaten"
+        ], 
+        "alias_POL_Q": [
+          "Watykan"
+        ], 
+        "ne_latitude": 41.90845001915318, 
+        "alias_RUM_Q": [
+          "Vatican"
+        ], 
+        "ne_longitude": 12.458392368513046, 
+        "ne:ADM0_A3": "VAT", 
+        "ne:TERR_": null, 
+        "alias_FIN_V": [
+          "Pyh\u00e4 istuin (Vatikaani)"
+        ], 
+        "woe:id": 23424986, 
+        "ne:GU_A3": "VAT", 
+        "ne:MAP_COLOR": 2.0, 
+        "ne:ADMIN": "Vatican", 
+        "alias_DUT_Q": [
+          "Vatikaanstad"
+        ], 
+        "alias_DUT_V": [
+          "Heilige stoel"
+        ], 
+        "alias_GER_V": [
+          "Staat der Vatikanstadt"
+        ], 
+        "alias_GER_Q": [
+          "Vatikanstadt"
+        ], 
+        "ne:ISO_N3": 336.0, 
+        "lang": "ITA", 
+        "ne:TYPE": "Sovereign country"
       }, 
       "id": 23424986
     }
+  ], 
+  "bbox": [
+    12.444336378621074, 
+    41.90018178985781, 
+    12.458392368513046, 
+    41.90845001915318
   ]
 }

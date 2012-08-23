@@ -7,24 +7,108 @@
         "coordinates": [
           [
             [
-              167.949, 
-              -29.119
+              167.94564497963216, 
+              -29.001329447662428
             ], 
             [
-              167.949, 
-              -28.995
+              167.96600549367855, 
+              -29.011974792670316
             ], 
             [
-              168.092, 
-              -28.995
+              167.9842989511141, 
+              -29.01796925873012
             ], 
             [
-              168.092, 
-              -29.119
+              167.99659794159055, 
+              -29.025720723044103
             ], 
             [
-              167.949, 
-              -29.119
+              167.99484094333656, 
+              -29.04267059336793
+            ], 
+            [
+              167.9852291261842, 
+              -29.05931040443572
+            ], 
+            [
+              167.97386031167736, 
+              -29.066441752036255
+            ], 
+            [
+              167.97034631426982, 
+              -29.06902557347412
+            ], 
+            [
+              167.96807255118858, 
+              -29.07212615973937
+            ], 
+            [
+              167.96683231686234, 
+              -29.07584686271798
+            ], 
+            [
+              167.96693566964797, 
+              -29.07998097773816
+            ], 
+            [
+              167.96094120358805, 
+              -29.065821635322806
+            ], 
+            [
+              167.95060591693687, 
+              -29.05662323021214
+            ], 
+            [
+              167.93996057192896, 
+              -29.055796407028268
+            ], 
+            [
+              167.9327258715429, 
+              -29.066441752036255
+            ], 
+            [
+              167.92662805269748, 
+              -29.066441752036255
+            ], 
+            [
+              167.92445764240182, 
+              -29.05558970145711
+            ], 
+            [
+              167.92042688016716, 
+              -29.045564473162656
+            ], 
+            [
+              167.91856652912753, 
+              -29.036469421736896
+            ], 
+            [
+              167.92259729046282, 
+              -29.02882130930925
+            ], 
+            [
+              167.93024540289048, 
+              -29.019519551413055
+            ], 
+            [
+              167.9307621668184, 
+              -29.012181498241475
+            ], 
+            [
+              167.92476770075848, 
+              -29.008770853619538
+            ], 
+            [
+              167.9123653565972, 
+              -29.01176808709917
+            ], 
+            [
+              167.92683475826863, 
+              -28.99760874468373
+            ], 
+            [
+              167.94564497963216, 
+              -29.001329447662428
             ]
           ]
         ]
@@ -37,16 +121,19 @@
         "alias_ENG_V": [
           "Norfolk Islander"
         ], 
+        "ne:ne_10m_adm": "NFK", 
         "alias_SWE_Q": [
           "Norfolk\u00f6n"
         ], 
         "alias_SWE_S": [
           "Norfolkon"
         ], 
-        "ne_latitude": -28.995, 
+        "ne_latitude": -28.99760874468373, 
+        "ne:POSTAL": "NF", 
         "alias_RUM_Q": [
           "Insula Norfolk"
         ], 
+        "ne:NAME_SORT": "Norfolk Island", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub178\ud3ec\ud06c \uc12c"
@@ -57,6 +144,13 @@
         "alias_ENG_A": [
           "NF"
         ], 
+        "ne:SUBUNIT": "Norfolk Island", 
+        "ne:ISO_N3": 574.0, 
+        "alias_CZE_Q": [
+          "Norfolk"
+        ], 
+        "ne:SOVEREIGNT": "Australia", 
+        "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u8afe\u798f\u514b\u5cf6"
         ], 
@@ -66,22 +160,27 @@
         "alias_ITA_V": [
           "Norfolk, isola"
         ], 
+        "ne:TERR_": "Auz.", 
         "alias_CHI_V": [
           "\u8bfa\u798f\u514b\u5c9b"
         ], 
+        "ne:ADM0_A3": "NFK", 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
         ], 
         "alias_POL_Q": [
           "Norfolk"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Isla Norfolk"
         ], 
         "alias_FIN_Q": [
           "Norfolkinsaari"
         ], 
-        "sw_longitude": 167.949, 
+        "sw_longitude": 167.9123653565972, 
+        "ne:NAME_FORMA": "Territory of Norfolk Island", 
+        "ne:GEOUNIT": "Norfolk Island", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -29.025, 
         "alias_NOR_S": [
@@ -91,26 +190,39 @@
         "alias_NOR_Q": [
           "Norfolk\u00f8ya"
         ], 
+        "ne:ISO_A3": "NFK", 
+        "ne:ISO_A2": "NF", 
         "date_indexed": "2010-12-02T16:42:51Z", 
+        "ne:SOV_A3": "AU1", 
         "alias_KOR_Q": [
           "\ub178\ud37d \uc12c"
         ], 
-        "alias_DUT_V": [
-          "Norfolk eiland"
-        ], 
+        "ne:MAP_COLOR": 7.0, 
+        "ne:ADMIN": "Norfolk Island", 
+        "ne:SU_A3": "NFK", 
+        "ne:LabelRank": 5, 
+        "ne:TYPE": "Dependency", 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Norfolk"
         ], 
-        "alias_CZE_Q": [
-          "Norfolk"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Nfk. I.", 
+        "alias_DUT_V": [
+          "Norfolk eiland"
         ], 
+        "ne:GU_A3": "NFK", 
         "alias_GER_V": [
           "Norfolk-Insel"
         ], 
         "alias_GER_Q": [
           "Norfolkinsel"
         ], 
+        "ne:GDP_MD_EST": 0.0, 
+        "ne:NAME": "Norfolk Island", 
         "lang": "ENG", 
+        "ne:OID_": 35, 
         "name": "Norfolk Island", 
         "alias_CZE_V": [
           "Ostrov Norfolk"
@@ -125,13 +237,16 @@
         "alias_HUN_Q": [
           "Norfolk-Sziget"
         ], 
-        "ne_longitude": 168.092, 
+        "ne_longitude": 167.99659794159055, 
         "longitude": 168.05, 
+        "ne:POP_EST": 2141.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "NF", 
-        "sw_latitude": -29.119, 
+        "sw_latitude": -29.07998097773816, 
         "alias_FRE_V": [
           "Norfolk, \u00eele"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Norfolk Island", 
         "alias_FRE_S": [
           "Ile Norfolk"
@@ -142,5 +257,11 @@
       }, 
       "id": 23424905
     }
+  ], 
+  "bbox": [
+    167.9123653565972, 
+    -29.07998097773816, 
+    167.99659794159055, 
+    -28.99760874468373
   ]
 }

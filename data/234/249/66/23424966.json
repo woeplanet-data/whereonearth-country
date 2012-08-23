@@ -3,39 +3,536 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              5.6, 
-              -0.014
-            ], 
+              [
+                6.616887654167726, 
+                0.077980855623679
+              ], 
+              [
+                6.583504679246516, 
+                0.077257385225337
+              ], 
+              [
+                6.579060505869563, 
+                0.077980855623679
+              ], 
+              [
+                6.568311808076146, 
+                0.041910705579625
+              ], 
+              [
+                6.557873168639389, 
+                0.028061421520945
+              ], 
+              [
+                6.544850707764425, 
+                0.043874410304142
+              ], 
+              [
+                6.537512654592916, 
+                0.026304423266865
+              ], 
+              [
+                6.527177367941619, 
+                0.023927307400044
+              ], 
+              [
+                6.517048787760899, 
+                0.033435770867385
+              ], 
+              [
+                6.510744262445058, 
+                0.051315816261351
+              ], 
+              [
+                6.512294555127994, 
+                0.052556050587526
+              ], 
+              [
+                6.517255493332044, 
+                0.069815979268128
+              ], 
+              [
+                6.517565551688818, 
+                0.077980855623679
+              ], 
+              [
+                6.514154907066796, 
+                0.088109435804384
+              ], 
+              [
+                6.510227498517224, 
+                0.092553609181323
+              ], 
+              [
+                6.506300089068105, 
+                0.094724019476999
+              ], 
+              [
+                6.503199503702319, 
+                0.098444722455596
+              ], 
+              [
+                6.467852824056536, 
+                0.212236226605981
+              ], 
+              [
+                6.462271769138937, 
+                0.221951395644481
+              ], 
+              [
+                6.466922648087035, 
+                0.230839742398373
+              ], 
+              [
+                6.46878299912666, 
+                0.239624735467288
+              ], 
+              [
+                6.469093058382782, 
+                0.259778543942531
+              ], 
+              [
+                6.471470174249589, 
+                0.267736714727022
+              ], 
+              [
+                6.490797159540961, 
+                0.290887756681812
+              ], 
+              [
+                6.494931274561139, 
+                0.299879455321957
+              ], 
+              [
+                6.495964803316184, 
+                0.306287333423427
+              ], 
+              [
+                6.498445271968507, 
+                0.312488505054461
+              ], 
+              [
+                6.533688598828775, 
+                0.348041890271318
+              ], 
+              [
+                6.541336710357058, 
+                0.351762594149207
+              ], 
+              [
+                6.578853800298418, 
+                0.364371642982334
+              ], 
+              [
+                6.610169718608773, 
+                0.390209859160791
+              ], 
+              [
+                6.642260782361348, 
+                0.410570374106456
+              ], 
+              [
+                6.681948282598455, 
+                0.406953023014111
+              ], 
+              [
+                6.704375854154989, 
+                0.391760152743004
+              ], 
+              [
+                6.727630248895309, 
+                0.36685211163477
+              ], 
+              [
+                6.746647175830077, 
+                0.337913310090528
+              ], 
+              [
+                6.756982462481204, 
+                0.310731506800366
+              ], 
+              [
+                6.761426635858243, 
+                0.284066467438038
+              ], 
+              [
+                6.76111657660212, 
+                0.268150125869226
+              ], 
+              [
+                6.756982462481204, 
+                0.249960022118501
+              ], 
+              [
+                6.749127644482343, 
+                0.230529683142322
+              ], 
+              [
+                6.740652709770188, 
+                0.218437398237015
+              ], 
+              [
+                6.716054727917992, 
+                0.195286357181516
+              ], 
+              [
+                6.703549031870409, 
+                0.180300191582205
+              ], 
+              [
+                6.675126993354695, 
+                0.13317128538786
+              ], 
+              [
+                6.669029174509205, 
+                0.130794169521053
+              ], 
+              [
+                6.659727416613009, 
+                0.128727112010907
+              ], 
+              [
+                6.653732950553206, 
+                0.124386291419583
+              ], 
+              [
+                6.660657592582567, 
+                0.107126363638343
+              ], 
+              [
+                6.653112833839742, 
+                0.102992248618165
+              ], 
+              [
+                6.642054076790174, 
+                0.100925191108033
+              ], 
+              [
+                6.634250935633929, 
+                0.098444722455596
+              ], 
+              [
+                6.618748006106699, 
+                0.08108144098955
+              ], 
+              [
+                6.616887654167726, 
+                0.077980855623679
+              ]
+            ]
+          ], 
+          [
             [
-              5.6, 
-              1.734
-            ], 
-            [
-              7.466, 
-              1.734
-            ], 
-            [
-              7.466, 
-              -0.014
-            ], 
-            [
-              5.6, 
-              -0.014
+              [
+                7.434873901065629, 
+                1.615096334025978
+              ], 
+              [
+                7.436114135391875, 
+                1.592462056898299
+              ], 
+              [
+                7.431049845301487, 
+                1.57259246835855
+              ], 
+              [
+                7.426088907996615, 
+                1.562593078485193
+              ], 
+              [
+                7.418750854824935, 
+                1.558303934736315
+              ], 
+              [
+                7.40634851066369, 
+                1.556262715647449
+              ], 
+              [
+                7.402731160470609, 
+                1.550629984786767
+              ], 
+              [
+                7.403041218827383, 
+                1.541974182025285
+              ], 
+              [
+                7.402007690072338, 
+                1.531018778660624
+              ], 
+              [
+                7.399423868634301, 
+                1.534842834424765
+              ], 
+              [
+                7.396219929583509, 
+                1.542284241281337
+              ], 
+              [
+                7.394462931329599, 
+                1.545255635440327
+              ], 
+              [
+                7.387848347656984, 
+                1.54233591722442
+              ], 
+              [
+                7.381440470454805, 
+                1.537840067904384
+              ], 
+              [
+                7.372758829272044, 
+                1.554040629408604
+              ], 
+              [
+                7.359012898898271, 
+                1.558717346777883
+              ], 
+              [
+                7.34433679165565, 
+                1.559750874633636
+              ], 
+              [
+                7.333071329934199, 
+                1.565176900822522
+              ], 
+              [
+                7.329867390883607, 
+                1.596105245512547
+              ], 
+              [
+                7.330590861281877, 
+                1.614476216413152
+              ], 
+              [
+                7.339892618278697, 
+                1.612925923730302
+              ], 
+              [
+                7.356532430245835, 
+                1.619902242602052
+              ], 
+              [
+                7.364593952916493, 
+                1.629229838020152
+              ], 
+              [
+                7.367074422468221, 
+                1.641709696545846
+              ], 
+              [
+                7.367281128039451, 
+                1.657961934892526
+              ], 
+              [
+                7.372552123700899, 
+                1.677082214612739
+              ], 
+              [
+                7.385781290146781, 
+                1.692197570519482
+              ], 
+              [
+                7.40355798365465, 
+                1.699638977376068
+              ], 
+              [
+                7.421851440190835, 
+                1.69550486235579
+              ], 
+              [
+                7.449343302737105, 
+                1.693024393703368
+              ], 
+              [
+                7.460298706101696, 
+                1.688115133241041
+              ], 
+              [
+                7.463399291467567, 
+                1.674395040389157
+              ], 
+              [
+                7.45802494302049, 
+                1.669821675805409
+              ], 
+              [
+                7.446759480399862, 
+                1.665325826485386
+              ], 
+              [
+                7.43528731310721, 
+                1.658737081233951
+              ], 
+              [
+                7.429189493362514, 
+                1.647704162605649
+              ], 
+              [
+                7.443968953390595, 
+                1.645327046738842
+              ], 
+              [
+                7.457198119836619, 
+                1.638144023195224
+              ], 
+              [
+                7.462365763611814, 
+                1.630650940395569
+              ], 
+              [
+                7.453167358501332, 
+                1.627214457352466
+              ], 
+              [
+                7.43869795682977, 
+                1.623752136787459
+              ], 
+              [
+                7.434873901065629, 
+                1.615096334025978
+              ]
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "ne:ScaleRank": 1, 
+        "placetype": "Country", 
+        "alias_ITA_S": [
+          "Sao Tome e Principe"
+        ], 
+        "alias_ITA_Q": [
+          "S\u00e3o Tom\u00e9 E Pr\u00edncipe"
+        ], 
+        "alias_ITA_V": [
+          "Sao Tom\u00e8 e Principe"
+        ], 
+        "alias_FIN_Q": [
+          "S\u00e3o Tom\u00e9 Ja Pr\u00edncipe"
+        ], 
+        "alias_SPA_Q": [
+          "Santo Tom\u00e9 y Pr\u00edncipe"
+        ], 
+        "alias_SPA_S": [
+          "Santo Tome y Principe"
+        ], 
+        "ne:NAME_FORMA": "Democratic Republic of Sao Tome and Principe", 
+        "ne:SU_A3": "STP", 
+        "latitude": 0.22, 
+        "sw_latitude": 0.023927307400044, 
+        "ne:LabelRank": 2, 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_CZE_V": [
+          "Svat\u00fd Tom\u00e1\u0161"
+        ], 
+        "alias_CZE_Q": [
+          "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv Ostrov"
+        ], 
+        "name": "Sao Tome and Principe", 
+        "ne:NAME_SORT": "Sao Tome and Principe", 
+        "ne:POP_EST": 212679.0, 
+        "ne:GDP_MD_EST": 276.5, 
+        "alias_KOR_Q": [
+          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
+        ], 
+        "alias_POR_V": [
+          "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+        ], 
+        "alias_POR_Q": [
+          "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+        ], 
+        "alias_POR_S": [
+          "Sao Tome e Principe"
+        ], 
+        "ne:POSTAL": "ST", 
+        "alias_JPN_Q": [
+          "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"
+        ], 
+        "alias_JPN_V": [
+          "\u30b5\u30f3\u30c8\u30e1 \u30d7\u30ea\u30f3\u30b7\u30da"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_NOR_Q": [
+          "S\u00e3o Tom\u00e9 Og Pr\u00edncipe"
+        ], 
+        "alias_NOR_V": [
+          "Sao Tome og Principe"
+        ], 
+        "date_indexed": "2010-12-02T16:42:51Z", 
+        "ne:FeatureCla": "Adm-0 country", 
+        "alias_FRE_V": [
+          "S\u00e3o Tom\u00e9-et-Pr\u00edncipe"
+        ], 
+        "fullname": "Sao Tome and Principe", 
+        "ne:NAME": "Sao Tome and Principe", 
+        "alias_UNK_S": [
+          "Sao Tome og Principe"
+        ], 
+        "alias_UNK_Q": [
+          "Sao Tome in Principe"
+        ], 
+        "alias_HUN_Q": [
+          "S\u00e3o Tom\u00e9 \u00c9s Pr\u00edncipe"
+        ], 
+        "alias_HUN_V": [
+          "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
+        ], 
+        "alias_UNK_V": [
+          "Sao Tome ja Principe"
+        ], 
+        "alias_FRE_S": [
+          "Sao Tome-et-Principe"
+        ], 
+        "iso": "ST", 
+        "alias_ENG_V": [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        ], 
+        "alias_KOR_V": [
+          "\uc0c1\ud1a0\uba54 \ud504\ub9b0\uc2a4\ud398"
+        ], 
+        "ne:ne_10m_adm": "STP", 
+        "alias_ENG_A": [
+          "ST"
+        ], 
+        "ne:SUBUNIT": "Sao Tome and Principe", 
+        "alias_CHI_Q": [
+          "\u8056\u591a\u7f8e\u666e\u6797\u897f\u6bd4"
+        ], 
+        "alias_CHI_V": [
+          "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
+        ], 
+        "alias_POL_Q": [
+          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
+        ], 
+        "sw_longitude": 6.462271769138937, 
+        "ne:SOV_A3": "STP", 
         "alias_RUM_V": [
           "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"
         ], 
-        "alias_ENG_V": [
-          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        "ne:OID_": 221, 
+        "ne:ISO_A3": "STP", 
+        "ne:ISO_A2": "ST", 
+        "ne:GEOUNIT": "Sao Tome and Principe", 
+        "ne:ABBREV": "S.T.P.", 
+        "alias_DAN_Q": [
+          "Sao Tome og Principe"
+        ], 
+        "alias_DAN_V": [
+          "Sao Tom\u00e9 og Principe"
+        ], 
+        "parent_woeid": 1, 
+        "longitude": 6.619, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Sao Tome and Principe", 
+        "ne:SU_DIF": 0.0, 
+        "alias_FRE_Q": [
+          "Sao Tom\u00e9-et-Principe"
         ], 
         "alias_SWE_V": [
           "S\u00e3o Tom\u00e9 och Pr\u00edncipe"
@@ -46,140 +543,50 @@
         "alias_SWE_S": [
           "Sao Tome och Principe"
         ], 
-        "ne_latitude": 1.734, 
+        "ne_latitude": 1.699638977376068, 
         "alias_RUM_Q": [
           "S\u00e3o Tom\u00e9 \u015ei Pr\u00edncipe"
         ], 
-        "ne_longitude": 7.466, 
-        "placetype": "Country", 
-        "alias_KOR_V": [
-          "\uc0c1\ud1a0\uba54 \ud504\ub9b0\uc2a4\ud398"
-        ], 
-        "alias_POR_V": [
-          "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
-        ], 
-        "alias_POR_Q": [
-          "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
-        ], 
-        "alias_ENG_A": [
-          "ST"
-        ], 
-        "alias_POR_S": [
-          "Sao Tome e Principe"
-        ], 
-        "alias_ITA_S": [
-          "Sao Tome e Principe"
-        ], 
-        "alias_ITA_Q": [
-          "S\u00e3o Tom\u00e9 E Pr\u00edncipe"
-        ], 
-        "alias_DAN_Q": [
-          "Sao Tome og Principe"
-        ], 
-        "alias_ITA_V": [
-          "Sao Tom\u00e8 e Principe"
-        ], 
-        "alias_CHI_V": [
-          "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
-        ], 
-        "alias_JPN_Q": [
-          "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"
-        ], 
-        "alias_POL_Q": [
-          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
-        ], 
-        "alias_JPN_V": [
-          "\u30b5\u30f3\u30c8\u30e1 \u30d7\u30ea\u30f3\u30b7\u30da"
-        ], 
-        "alias_SPA_Q": [
-          "Santo Tom\u00e9 y Pr\u00edncipe"
-        ], 
-        "alias_FIN_Q": [
-          "S\u00e3o Tom\u00e9 Ja Pr\u00edncipe"
-        ], 
-        "alias_SPA_S": [
-          "Santo Tome y Principe"
-        ], 
-        "sw_longitude": 5.6, 
-        "alias_HUN_V": [
-          "S\u00e3o Tom\u00e9 \u00e9s Pr\u00edncipe"
-        ], 
+        "ne_longitude": 7.463399291467567, 
+        "ne:ADM0_A3": "STP", 
+        "ne:TERR_": null, 
         "alias_FIN_V": [
           "Sao Tom\u00e9 ja Principe"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 0.22, 
         "woe:id": 23424966, 
-        "alias_NOR_Q": [
-          "S\u00e3o Tom\u00e9 Og Pr\u00edncipe"
-        ], 
-        "alias_NOR_V": [
-          "Sao Tome og Principe"
-        ], 
-        "date_indexed": "2010-12-02T16:42:51Z", 
-        "alias_CHI_Q": [
-          "\u8056\u591a\u7f8e\u666e\u6797\u897f\u6bd4"
-        ], 
-        "alias_KOR_Q": [
-          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
-        ], 
-        "alias_DUT_V": [
-          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
-        ], 
+        "ne:GU_A3": "STP", 
+        "ne:MAP_COLOR": 7.0, 
+        "ne:ADMIN": "Sao Tome and Principe", 
         "alias_DUT_Q": [
           "Sao Tom\u00e9 en Principe"
         ], 
         "alias_DUT_S": [
           "Sao Tome-en-Principe"
         ], 
-        "alias_CZE_Q": [
-          "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv Ostrov"
+        "ne:LEVEL": 2.0, 
+        "alias_DUT_V": [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
         ], 
         "alias_GER_V": [
           "Sao Tom\u00e9 und Principe"
         ], 
-        "alias_DAN_V": [
-          "Sao Tom\u00e9 og Principe"
+        "alias_GER_Q": [
+          "S\u00e3o Tom\u00e9 und Pr\u00edncipe"
         ], 
+        "ne:ISO_N3": 678.0, 
         "alias_GER_S": [
           "Demokratische Republik Sao Tome und Principe"
         ], 
         "lang": "ENG", 
-        "name": "Sao Tome and Principe", 
-        "alias_CZE_V": [
-          "Svat\u00fd Tom\u00e1\u0161"
-        ], 
-        "alias_UNK_S": [
-          "Sao Tome og Principe"
-        ], 
-        "parent_woeid": 1, 
-        "alias_UNK_Q": [
-          "Sao Tome in Principe"
-        ], 
-        "alias_HUN_Q": [
-          "S\u00e3o Tom\u00e9 \u00c9s Pr\u00edncipe"
-        ], 
-        "alias_GER_Q": [
-          "S\u00e3o Tom\u00e9 und Pr\u00edncipe"
-        ], 
-        "alias_UNK_V": [
-          "Sao Tome ja Principe"
-        ], 
-        "longitude": 6.619, 
-        "iso": "ST", 
-        "sw_latitude": -0.014, 
-        "alias_FRE_V": [
-          "S\u00e3o Tom\u00e9-et-Pr\u00edncipe"
-        ], 
-        "fullname": "Sao Tome and Principe", 
-        "alias_FRE_S": [
-          "Sao Tome-et-Principe"
-        ], 
-        "alias_FRE_Q": [
-          "Sao Tom\u00e9-et-Principe"
-        ]
+        "ne:TYPE": "Sovereign country"
       }, 
       "id": 23424966
     }
+  ], 
+  "bbox": [
+    6.462271769138937, 
+    0.023927307400044, 
+    7.463399291467567, 
+    1.699638977376068
   ]
 }

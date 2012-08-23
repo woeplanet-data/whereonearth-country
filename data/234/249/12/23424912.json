@@ -7,24 +7,40 @@
         "coordinates": [
           [
             [
-              166.899, 
-              -0.552
+              166.951493775276, 
+              -0.53924245196383
             ], 
             [
-              166.899, 
-              -0.504
+              166.93898807832903, 
+              -0.552058207267493
             ], 
             [
-              166.945, 
-              -0.504
+              166.9165605067725, 
+              -0.547717386676069
             ], 
             [
-              166.945, 
-              -0.552
+              166.9071553960908, 
+              -0.52497975676286
             ], 
             [
-              166.899, 
-              -0.552
+              166.91366662607845, 
+              -0.500381774910579
+            ], 
+            [
+              166.93898807832903, 
+              -0.490563252187272
+            ], 
+            [
+              166.9556278893969, 
+              -0.498211364615003
+            ], 
+            [
+              166.95852177009084, 
+              -0.517848409162326
+            ], 
+            [
+              166.951493775276, 
+              -0.53924245196383
             ]
           ]
         ]
@@ -37,44 +53,75 @@
         "alias_ENG_A": [
           "NR"
         ], 
-        "ne_latitude": -0.504, 
-        "ne_longitude": 166.945, 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": -0.490563252187272, 
+        "ne_longitude": 166.95852177009084, 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ub098\uc6b0\ub8e8\uacf5\ud654\uad6d"
         ], 
+        "ne:ne_10m_adm": "NRU", 
         "alias_KOR_Q": [
           "\ub098\uc6b0\ub8e8"
         ], 
+        "ne:SUBUNIT": "Nauru", 
+        "ne:ISO_N3": 520.0, 
+        "ne:ADM0_A3": "NRU", 
+        "ne:SOVEREIGNT": "Nauru", 
+        "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u8afe\u9b6f"
         ], 
+        "ne:NAME": "Nauru", 
         "alias_CHI_V": [
           "\u7459\u9c81"
         ], 
+        "ne:NAME_SORT": "Nauru", 
         "alias_JPN_Q": [
           "\u30ca\u30a6\u30eb"
         ], 
         "alias_JPN_V": [
           "\u30ca\u30a6\u30eb\u5171\u548c\u56fd"
         ], 
-        "sw_longitude": 166.899, 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": null, 
+        "sw_longitude": 166.9071553960908, 
+        "ne:NAME_FORMA": "Republic of Nauru", 
+        "ne:GEOUNIT": "Nauru", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -0.528, 
         "woe:id": 23424912, 
+        "ne:OID_": 192, 
+        "ne:ISO_A3": "NRU", 
+        "ne:ISO_A2": "NR", 
         "date_indexed": "2010-12-02T16:11:23Z", 
+        "ne:SOV_A3": "NRU", 
+        "ne:GU_A3": "NRU", 
+        "ne:MAP_COLOR": 9.0, 
+        "ne:ADMIN": "Nauru", 
+        "ne:SU_A3": "NRU", 
+        "ne:LabelRank": 3, 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:ABBREV": "Nauru", 
         "alias_GER_V": [
           "Republik Nauru"
         ], 
+        "ne:GDP_MD_EST": 60.0, 
         "lang": "ENG", 
         "name": "Nauru", 
+        "ne:TYPE": "Sovereign country", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
+        "ne:POSTAL": "NR", 
         "alias_UNK_V": [
           "Republika Nauru"
         ], 
         "longitude": 166.922, 
+        "ne:POP_EST": 14019.0, 
         "iso": "NR", 
-        "sw_latitude": -0.552, 
+        "sw_latitude": -0.552058207267493, 
         "alias_FRE_V": [
           "\u00cele Nauru"
         ], 
@@ -88,5 +135,11 @@
       }, 
       "id": 23424912
     }
+  ], 
+  "bbox": [
+    166.9071553960908, 
+    -0.552058207267493, 
+    166.95852177009084, 
+    -0.490563252187272
   ]
 }

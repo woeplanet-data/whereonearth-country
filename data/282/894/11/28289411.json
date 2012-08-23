@@ -3,28 +3,246 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              72.424, 
-              -53.192
-            ], 
+              [
+                73.81294016449169, 
+                -53.118415651218925
+              ], 
+              [
+                73.84523889159328, 
+                -53.11236419692073
+              ], 
+              [
+                73.81702355954809, 
+                -53.11804860462385
+              ], 
+              [
+                73.81294016449169, 
+                -53.118415651218925
+              ]
+            ]
+          ], 
+          [
             [
-              72.424, 
-              -53.008
-            ], 
-            [
-              72.609, 
-              -53.008
-            ], 
-            [
-              72.609, 
-              -53.192
-            ], 
-            [
-              72.424, 
-              -53.192
+              [
+                73.81294016449169, 
+                -53.118415651218925
+              ], 
+              [
+                73.66209761526324, 
+                -53.14667734781133
+              ], 
+              [
+                73.6099044189786, 
+                -53.17985361716146
+              ], 
+              [
+                73.58117232300549, 
+                -53.1875017295891
+              ], 
+              [
+                73.50768843580562, 
+                -53.192669372465026
+              ], 
+              [
+                73.47378869605723, 
+                -53.1892587278431
+              ], 
+              [
+                73.44061242670728, 
+                -53.173239034388125
+              ], 
+              [
+                73.43069055209764, 
+                -53.16528086360372
+              ], 
+              [
+                73.40474898313363, 
+                -53.13933929463974
+              ], 
+              [
+                73.37136600731316, 
+                -53.09055674207765
+              ], 
+              [
+                73.3641313069271, 
+                -53.07474375419374
+              ], 
+              [
+                73.3716760665692, 
+                -53.064615173113665
+              ], 
+              [
+                73.36030725116296, 
+                -53.05882741262493
+              ], 
+              [
+                73.35369266749035, 
+                -53.05169606502449
+              ], 
+              [
+                73.35451949067425, 
+                -53.04425465906728
+              ], 
+              [
+                73.36485477732543, 
+                -53.03733001703798
+              ], 
+              [
+                73.34511437999248, 
+                -53.02916514068234
+              ], 
+              [
+                73.32919803932299, 
+                -53.02513437934706
+              ], 
+              [
+                73.27132043443595, 
+                -53.02172373472522
+              ], 
+              [
+                73.2540605066547, 
+                -53.015109151052606
+              ], 
+              [
+                73.24217492732055, 
+                -53.00229339574895
+              ], 
+              [
+                73.23638716683178, 
+                -52.98203623448809
+              ], 
+              [
+                73.2698734945385, 
+                -52.975214945244325
+              ], 
+              [
+                73.29726200339991, 
+                -52.96157236765608
+              ], 
+              [
+                73.33136844871933, 
+                -52.9848267614972
+              ], 
+              [
+                73.33756962124966, 
+                -52.9857569374667
+              ], 
+              [
+                73.34501102720697, 
+                -52.99650563526021
+              ], 
+              [
+                73.36154748548915, 
+                -53.00921803777825
+              ], 
+              [
+                73.37787723820026, 
+                -53.0169695029915
+              ], 
+              [
+                73.38531864415745, 
+                -53.013145447227366
+              ], 
+              [
+                73.38955611196326, 
+                -52.99784922327128
+              ], 
+              [
+                73.39999475140002, 
+                -52.991131286813136
+              ], 
+              [
+                73.41353397620264, 
+                -52.99288828506714
+              ], 
+              [
+                73.4268664963335, 
+                -53.00312021893283
+              ], 
+              [
+                73.4133272706315, 
+                -53.00942474334939
+              ], 
+              [
+                73.42593632036397, 
+                -53.0253410849182
+              ], 
+              [
+                73.44743371595104, 
+                -53.028131611927314
+              ], 
+              [
+                73.47048140512027, 
+                -53.02151702915407
+              ], 
+              [
+                73.48836145051433, 
+                -53.00942474334939
+              ], 
+              [
+                73.50810184784729, 
+                -53.015419210308565
+              ], 
+              [
+                73.56463586472324, 
+                -53.016762797420355
+              ], 
+              [
+                73.58799361224925, 
+                -53.026788024815524
+              ], 
+              [
+                73.59894901561393, 
+                -53.033816019630436
+              ], 
+              [
+                73.62137658717046, 
+                -53.03960378011918
+              ], 
+              [
+                73.63295210814783, 
+                -53.04415130628175
+              ], 
+              [
+                73.6404968668906, 
+                -53.05076588995436
+              ], 
+              [
+                73.65610314920337, 
+                -53.06792246494997
+              ], 
+              [
+                73.66375126163109, 
+                -53.07143646235743
+              ], 
+              [
+                73.68927941945276, 
+                -53.0903500365065
+              ], 
+              [
+                73.69982141167515, 
+                -53.10078867594334
+              ], 
+              [
+                73.73537479689202, 
+                -53.11236419692073
+              ], 
+              [
+                73.76224654182539, 
+                -53.118978780593345
+              ], 
+              [
+                73.78942834511554, 
+                -53.12052907327629
+              ], 
+              [
+                73.81294016449169, 
+                -53.118415651218925
+              ]
             ]
           ]
         ]
@@ -37,16 +255,19 @@
         "alias_SWE_V": [
           "Heard\u00f6n och McDonald\u00f6arna"
         ], 
+        "ne:ne_10m_adm": "HMD", 
         "alias_SWE_Q": [
           "Heard- och McDonalds\u00f6arna"
         ], 
         "alias_POL_Q": [
           "Wyspy Heard I Mcdonalda"
         ], 
-        "ne_latitude": -53.008, 
+        "ne_latitude": -52.96157236765608, 
+        "ne:GU_A3": "HMD", 
         "alias_RUM_Q": [
           "Insula Heard \u015ei Insulele Mcdonald"
         ], 
+        "ne:NAME_SORT": "Heard Island and McDonald Islands", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud5c8\ub4dc \uc564 \ub9e5\ub3c4\ub0a0\ub4dc \uad70\ub3c4"
@@ -60,8 +281,21 @@
         "alias_ENG_A": [
           "HM"
         ], 
+        "ne:SUBUNIT": "Heard Island and McDonald Islands", 
+        "ne:ISO_N3": 334.0, 
+        "alias_CZE_Q": [
+          "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
+        ], 
+        "ne:SOVEREIGNT": "Australia", 
+        "ne:ScaleRank": 5, 
         "alias_ITA_Q": [
           "Isole Heard E Mcdonald"
+        ], 
+        "ne:NAME": "Heard I. and McDonald Is.", 
+        "ne:TERR_": "Auz.", 
+        "ne:POSTAL": "HM", 
+        "alias_GER_Q": [
+          "Heard Und Mcdonaldinseln"
         ], 
         "alias_JPN_Q": [
           "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
@@ -69,19 +303,19 @@
         "alias_SWE_S": [
           "Heard- och McDonaldsoarna"
         ], 
+        "ne:SU_A3": "HMD", 
         "alias_JPN_V": [
           "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Heard Y Mcdonald"
         ], 
         "alias_FIN_Q": [
           "Heard ja McDonaldinsaaret"
         ], 
-        "sw_longitude": 72.424, 
-        "alias_HUN_V": [
-          "Heard Sziget \u00e9s McDonald-szigetek"
-        ], 
+        "sw_longitude": 73.23638716683178, 
+        "ne:NAME_FORMA": "Territory of Heard Island and McDonald Islands", 
         "alias_FIN_V": [
           "Heard ja McDonaldsaaret"
         ], 
@@ -97,43 +331,58 @@
         "alias_NOR_V": [
           "Heard \u00d8ya og Macdonald \u00d8ya"
         ], 
+        "ne:ISO_A2": "HM", 
         "date_indexed": "2010-12-02T09:56:47Z", 
+        "ne:SOV_A3": "AU1", 
+        "alias_FRE_V": [
+          "Iles Heard et McDonald"
+        ], 
         "alias_KOR_Q": [
           "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
         ], 
-        "alias_DUT_V": [
-          "Heard- en McDonaldeilanden"
-        ], 
-        "alias_RUM_V": [
-          "Insulele Heard \u015fi Mc Donald"
-        ], 
+        "ne:MAP_COLOR": 7.0, 
+        "ne:ADMIN": "Heard Island and McDonald Islands", 
+        "ne:GEOUNIT": "Heard Island and McDonald Islands", 
+        "ne:LabelRank": 5, 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Heardeiland en Mcdonaldeilanden"
         ], 
-        "alias_CZE_Q": [
-          "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "H.M.Is.", 
+        "alias_DUT_V": [
+          "Heard- en McDonaldeilanden"
         ], 
+        "ne:ADM0_A3": "HMD", 
         "alias_DAN_Q": [
           "Heard Island og Mcdonald Islands"
         ], 
         "alias_DAN_V": [
           "Heard- og McDonald\u00f8erne"
         ], 
+        "ne:GDP_MD_EST": 0.0, 
         "lang": "ENG", 
+        "ne:OID_": 33, 
         "name": "Heard Island and McDonald Islands", 
+        "ne:TYPE": "Dependency", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Heard-Sziget \u00c9s Mcdonald-Szigetek"
         ], 
-        "alias_GER_Q": [
-          "Heard Und Mcdonaldinseln"
+        "alias_HUN_V": [
+          "Heard Sziget \u00e9s McDonald-szigetek"
         ], 
-        "ne_longitude": 72.609, 
+        "ne_longitude": 73.84523889159328, 
         "longitude": 72.517, 
+        "ne:POP_EST": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "HM", 
-        "sw_latitude": -53.192, 
-        "alias_FRE_V": [
-          "Iles Heard et McDonald"
+        "sw_latitude": -53.192669372465026, 
+        "ne:ISO_A3": "HMD", 
+        "alias_RUM_V": [
+          "Insulele Heard \u015fi Mc Donald"
         ], 
         "fullname": "Heard Island and McDonald Islands", 
         "alias_FRE_Q": [
@@ -142,5 +391,11 @@
       }, 
       "id": 28289411
     }
+  ], 
+  "bbox": [
+    73.23638716683178, 
+    -53.192669372465026, 
+    73.84523889159328, 
+    -52.96157236765608
   ]
 }

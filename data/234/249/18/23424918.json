@@ -3,53 +3,208 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              -130.746, 
-              -25.078
-            ], 
+              [
+                -130.08533667031855, 
+                -25.075160827369018
+              ], 
+              [
+                -130.09507767777825, 
+                -25.07712453209362
+              ], 
+              [
+                -130.10445695093807, 
+                -25.07681447373686
+              ], 
+              [
+                -130.11277685602232, 
+                -25.073920593042843
+              ], 
+              [
+                -130.11941727811612, 
+                -25.068339538125258
+              ], 
+              [
+                -130.10957291697162, 
+                -25.064515482361116
+              ], 
+              [
+                -130.10024532155353, 
+                -25.064412129575587
+              ], 
+              [
+                -130.09208044519798, 
+                -25.068029479768583
+              ], 
+              [
+                -130.08533667031855, 
+                -25.075160827369018
+              ]
+            ]
+          ], 
+          [
             [
-              -130.746, 
-              -23.917
-            ], 
+              [
+                -124.78446052985181, 
+                -24.664546835591935
+              ], 
+              [
+                -124.77963985260936, 
+                -24.66464324920875
+              ], 
+              [
+                -124.77803788308407, 
+                -24.66743377711724
+              ], 
+              [
+                -124.77715938395701, 
+                -24.67260141999307
+              ], 
+              [
+                -124.77788285345599, 
+                -24.668777364228944
+              ], 
+              [
+                -124.77963985260936, 
+                -24.666606953933268
+              ], 
+              [
+                -124.78446052985181, 
+                -24.664546835591935
+              ]
+            ]
+          ], 
+          [
             [
-              -124.773, 
-              -23.917
-            ], 
+              [
+                -124.78446052985181, 
+                -24.664546835591935
+              ], 
+              [
+                -124.78480749548528, 
+                -24.664539896423136
+              ], 
+              [
+                -124.79625382525597, 
+                -24.667123717861102
+              ], 
+              [
+                -124.7856859955117, 
+                -24.664023132495316
+              ], 
+              [
+                -124.78446052985181, 
+                -24.664546835591935
+              ]
+            ]
+          ], 
+          [
             [
-              -124.773, 
-              -25.078
-            ], 
+              [
+                -128.2892447518401, 
+                -24.39850962311087
+              ], 
+              [
+                -128.29916662644965, 
+                -24.41370249428134
+              ], 
+              [
+                -128.31978552290974, 
+                -24.40078338619206
+              ], 
+              [
+                -128.34133459533922, 
+                -24.37174123096301
+              ], 
+              [
+                -128.3493444420667, 
+                -24.341458842306977
+              ], 
+              [
+                -128.32929398637708, 
+                -24.32430226641199
+              ], 
+              [
+                -128.30278397664273, 
+                -24.334637553063217
+              ], 
+              [
+                -128.28996822133917, 
+                -24.365746764903122
+              ], 
+              [
+                -128.2892447518401, 
+                -24.39850962311087
+              ]
+            ]
+          ], 
+          [
             [
-              -130.746, 
-              -25.078
+              [
+                -130.7413689781168, 
+                -23.924378357316456
+              ], 
+              [
+                -130.74214412535753, 
+                -23.927840677881463
+              ], 
+              [
+                -130.7469758714556, 
+                -23.932749939243166
+              ], 
+              [
+                -130.75085160406218, 
+                -23.934610290282876
+              ], 
+              [
+                -130.753073690301, 
+                -23.929597676135558
+              ], 
+              [
+                -130.75085160406218, 
+                -23.927220560268736
+              ], 
+              [
+                -130.7480610761537, 
+                -23.927272237111197
+              ], 
+              [
+                -130.74527054914458, 
+                -23.92432668047401
+              ], 
+              [
+                -130.7413689781168, 
+                -23.924378357316456
+              ]
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_RUM_V": [
-          "Pitcairn"
-        ], 
+        "ne:TERR_": "U.K.", 
         "alias_ENG_V": [
           "Pitcairn"
         ], 
         "alias_SWE_V": [
           "Pitcairn"
         ], 
+        "ne:ne_10m_adm": "PCN", 
         "alias_SWE_Q": [
           "Pitcairn\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Pitcairnoarna"
         ], 
-        "ne_latitude": -23.917, 
+        "ne_latitude": -23.92432668047401, 
+        "ne:POSTAL": "PN", 
         "alias_RUM_Q": [
           "Insulele Pitcairn"
         ], 
+        "ne:NAME_SORT": "Pitcairn Islands", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ud54f\ucf00\uc5b8\uc12c"
@@ -63,13 +218,20 @@
         "alias_ENG_A": [
           "PN"
         ], 
+        "ne:SUBUNIT": "Pitcairn Islands", 
+        "ne:ISO_N3": 612.0, 
+        "alias_CZE_Q": [
+          "Pitcairnovy Ostrovy"
+        ], 
+        "ne:SOVEREIGNT": "United Kingdom", 
+        "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u76ae\u7279\u958b\u6069\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Pitcairn"
         ], 
-        "alias_DAN_Q": [
+        "alias_GER_V": [
           "Pitcairn"
         ], 
         "alias_ITA_V": [
@@ -78,20 +240,26 @@
         "alias_CHI_V": [
           "\u76ae\u7279\u5f00\u6069\u7fa4\u5c9b"
         ], 
+        "ne:ADM0_A3": "PCN", 
         "alias_JPN_Q": [
           "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
         ], 
         "alias_POL_Q": [
           "Pitcairn"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Pitcairn"
         ], 
         "alias_FIN_Q": [
           "Pitcairn"
         ], 
-        "sw_longitude": -130.746, 
-        "provider": "geoplanet 7.6.0", 
+        "sw_longitude": -130.753073690301, 
+        "ne:NAME_FORMA": "Pitcairn, Henderson, Ducie and Oeno Islands", 
+        "ne:GEOUNIT": "Pitcairn Islands", 
+        "alias_RUM_V": [
+          "Pitcairn"
+        ], 
         "latitude": -24.361, 
         "alias_NOR_S": [
           "Pitcairnoyene"
@@ -100,29 +268,43 @@
         "alias_NOR_Q": [
           "Pitcairn\u00f8yene"
         ], 
+        "ne:ISO_A3": "PCN", 
+        "ne:ISO_A2": "PN", 
         "date_indexed": "2010-12-02T10:22:50Z", 
+        "ne:SOV_A3": "GB1", 
         "alias_KOR_Q": [
           "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
         ], 
-        "alias_DUT_V": [
-          "Pitcairn"
-        ], 
-        "alias_SPA_V": [
-          "Pitcairn"
-        ], 
+        "ne:MAP_COLOR": 3.0, 
+        "ne:ADMIN": "Pitcairn Islands", 
+        "ne:SU_A3": "PCN", 
+        "ne:LabelRank": 5, 
+        "ne:TYPE": "Dependency", 
+        "provider": "geoplanet 7.6.0", 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Pitcairneilanden"
         ], 
-        "alias_CZE_Q": [
-          "Pitcairnovy Ostrovy"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "Pit. Is.", 
+        "alias_DUT_V": [
+          "Pitcairn"
         ], 
-        "alias_GER_V": [
+        "ne:GU_A3": "PCN", 
+        "alias_DAN_Q": [
           "Pitcairn"
         ], 
         "alias_GER_Q": [
           "Pitcairninseln"
         ], 
+        "ne:GDP_MD_EST": 0.0, 
+        "ne:NAME": "Pitcairn Is.", 
         "lang": "ENG", 
+        "ne:OID_": 57, 
+        "alias_SPA_V": [
+          "Pitcairn"
+        ], 
         "name": "Pitcairn Islands", 
         "alias_CZE_V": [
           "Pitcairn"
@@ -140,13 +322,16 @@
         "alias_HUN_V": [
           "Pitcairn-sziget"
         ], 
-        "ne_longitude": -124.773, 
+        "ne_longitude": -124.77715938395701, 
         "longitude": -128.316, 
+        "ne:POP_EST": 48.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "PN", 
-        "sw_latitude": -25.078, 
+        "sw_latitude": -25.07712453209362, 
         "alias_FRE_V": [
           "Pitcairn"
         ], 
+        "ne:SU_DIF": 0.0, 
         "fullname": "Pitcairn Islands", 
         "alias_FRE_S": [
           "Iles Pitcairn"
@@ -157,5 +342,11 @@
       }, 
       "id": 23424918
     }
+  ], 
+  "bbox": [
+    -130.753073690301, 
+    -25.07712453209362, 
+    -124.77715938395701, 
+    -23.92432668047401
   ]
 }

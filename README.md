@@ -4,8 +4,8 @@ whereonearth-country
 The short version
 --
 
-Where On Earth (WOE) data for countries smushed up with Natural Earth (NE) data
-for countries. That's fancy talk for "polygons".
+Where On Earth (WOE) data for countries smushed up with Natural Earth (NE) 1:10m
+data for countries. That's fancy talk for "polygons".
 
 The longer version
 --
@@ -35,7 +35,7 @@ See also
 
 * [Yahoo! GeoPlanet Data](http://developer.yahoo.com/geo/geoplanet/data/)
 
-* [Natural Earth 1:110m Cultural Vectors](http://www.naturalearthdata.com/downloads/110m-cultural-vectors/)
+* [Natural Earth 1:10m Cultural Vectors](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 * [Geonames](http://www.geonames.org/)
 

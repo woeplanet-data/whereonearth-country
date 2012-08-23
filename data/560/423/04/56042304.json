@@ -7,24 +7,48 @@
         "coordinates": [
           [
             [
-              -62.934, 
-              17.866
+              -62.823111531565814, 
+              17.88309560149321
             ], 
             [
-              -62.934, 
-              17.969
+              -62.838097697165125, 
+              17.881803691223865
             ], 
             [
-              -62.783, 
-              17.969
+              -62.85013830612726, 
+              17.890278625936077
             ], 
             [
-              -62.783, 
-              17.866
+              -62.860576945564105, 
+              17.90521311469297
             ], 
             [
-              -62.934, 
-              17.866
+              -62.86662308756709, 
+              17.92019928029228
+            ], 
+            [
+              -62.86543453008335, 
+              17.92888092057575
+            ], 
+            [
+              -62.856649536114986, 
+              17.924901835183448
+            ], 
+            [
+              -62.790917115027725, 
+              17.91529001893059
+            ], 
+            [
+              -62.79820349135687, 
+              17.904282938723554
+            ], 
+            [
+              -62.80936560119204, 
+              17.892087301032632
+            ], 
+            [
+              -62.823111531565814, 
+              17.88309560149321
             ]
           ]
         ]
@@ -34,13 +58,15 @@
         "alias_ENG_V": [
           "St. Barths"
         ], 
+        "ne:ScaleRank": 3, 
         "alias_ENG_P": [
           "Saint Barthelemy"
         ], 
-        "ne_latitude": 17.969, 
+        "ne_latitude": 17.92888092057575, 
         "alias_RUM_Q": [
           "Saint Barth\u00e9lemy"
         ], 
+        "ne:NAME_SORT": "Saint Barthelemy", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "S\u00e3o Bartolomeu"
@@ -48,39 +74,74 @@
         "alias_KOR_Q": [
           "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
         ], 
+        "ne:SUBUNIT": "Saint Barthelemy", 
+        "ne:ISO_N3": 652.0, 
+        "ne:POP_EST": 7448.0, 
+        "ne:ADM0_A3": "BLM", 
+        "ne:SOVEREIGNT": "France", 
+        "ne:NAME": "St. Barthelemy", 
+        "ne:POSTAL": "BL", 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
         ], 
+        "ne:LEVEL": 2.0, 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "San Bartolom\u00e9"
         ], 
-        "sw_longitude": -62.934, 
+        "ne:TERR_": "Fr.", 
+        "sw_longitude": -62.86662308756709, 
+        "ne:NAME_FORMA": null, 
+        "ne:GEOUNIT": "Saint Barthelemy", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.908, 
         "woe:id": 56042304, 
+        "ne:OID_": 41, 
+        "ne:ISO_A3": "BLM", 
+        "ne:ISO_A2": "BL", 
         "date_indexed": "2010-12-02T12:08:38Z", 
+        "ne:SOV_A3": "FR1", 
+        "ne:GU_A3": "BLM", 
+        "ne:MAP_COLOR": 11.0, 
+        "ne:ADMIN": "Saint Barthelemy", 
+        "ne:SU_A3": "BLM", 
+        "ne:LabelRank": 8, 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:ABBREV": "St. B.", 
         "alias_GER_V": [
           "Sankt Bartholom\u00e4us"
         ], 
+        "ne:GDP_MD_EST": 255.0, 
         "lang": "FRE", 
         "name": "Saint-Barth\u00e9lemy", 
+        "ne:TYPE": "Dependency", 
         "parent_woeid": 1, 
-        "ne_longitude": -62.783, 
+        "ne:SU_DIF": 0.0, 
+        "ne_longitude": -62.790917115027725, 
         "longitude": -62.834, 
         "alias_FRE_A": [
           "BL"
         ], 
         "iso": "BL", 
-        "sw_latitude": 17.866, 
+        "sw_latitude": 17.881803691223865, 
         "alias_FRE_V": [
           "Saint-Barth"
         ], 
         "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
         "alias_FRE_S": [
           "Saint-Barthelemy"
-        ]
+        ], 
+        "ne:ne_10m_adm": "BLM"
       }, 
       "id": 56042304
     }
+  ], 
+  "bbox": [
+    -62.86662308756709, 
+    17.881803691223865, 
+    -62.790917115027725, 
+    17.92888092057575
   ]
 }

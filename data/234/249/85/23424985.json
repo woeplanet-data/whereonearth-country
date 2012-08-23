@@ -3,28 +3,254 @@
   "features": [
     {
       "geometry": {
-        "type": "Polygon", 
+        "type": "MultiPolygon", 
         "coordinates": [
           [
             [
-              -65.086, 
-              17.682
-            ], 
+              [
+                -64.72994604567126, 
+                17.765066630436266
+              ], 
+              [
+                -64.70893957559096, 
+                17.757986958779
+              ], 
+              [
+                -64.69829423058297, 
+                17.752664286275106
+              ], 
+              [
+                -64.68899247268678, 
+                17.744602762704986
+              ], 
+              [
+                -64.66620316593114, 
+                17.76268951456946
+              ], 
+              [
+                -64.63021053115071, 
+                17.770130920526768
+              ], 
+              [
+                -64.59106563326276, 
+                17.76816721580225
+              ], 
+              [
+                -64.55866451025415, 
+                17.758245341192506
+              ], 
+              [
+                -64.55866451025415, 
+                17.751475728791192
+              ], 
+              [
+                -64.58445105048943, 
+                17.748788553668433
+              ], 
+              [
+                -64.6058967692341, 
+                17.742018941267006
+              ], 
+              [
+                -64.64806473812357, 
+                17.723518778260242
+              ], 
+              [
+                -64.66982051612419, 
+                17.71705922511508
+              ], 
+              [
+                -64.8755960695818, 
+                17.688895569012956
+              ], 
+              [
+                -64.89440629094534, 
+                17.682539367753876
+              ], 
+              [
+                -64.88714575213811, 
+                17.699747619592003
+              ], 
+              [
+                -64.88585384186868, 
+                17.714268697206492
+              ], 
+              [
+                -64.88693904656697, 
+                17.755041402141913
+              ], 
+              [
+                -64.88386429872298, 
+                17.767702128716692
+              ], 
+              [
+                -64.87569942236743, 
+                17.775711975444253
+              ], 
+              [
+                -64.8379756268549, 
+                17.764601542451615
+              ], 
+              [
+                -64.81663326089586, 
+                17.77395497629088
+              ], 
+              [
+                -64.79472245326724, 
+                17.787339172364895
+              ], 
+              [
+                -64.77095129459892, 
+                17.79240346335449
+              ], 
+              [
+                -64.76841914910412, 
+                17.789819641017246
+              ], 
+              [
+                -64.72994604567126, 
+                17.765066630436266
+              ]
+            ]
+          ], 
+          [
             [
-              -65.086, 
-              18.458
-            ], 
+              [
+                -64.67702937898835, 
+                18.360379130395202
+              ], 
+              [
+                -64.66449784362013, 
+                18.350999858134642
+              ], 
+              [
+                -64.66005367024326, 
+                18.340535380276705
+              ], 
+              [
+                -64.67315364638168, 
+                18.3421890257451
+              ], 
+              [
+                -64.70328100630903, 
+                18.35472056111324
+              ], 
+              [
+                -64.69811336343301, 
+                18.328649800942472
+              ], 
+              [
+                -64.7139521897382, 
+                18.31901214626832
+              ], 
+              [
+                -64.7610035815681, 
+                18.31994232223782
+              ], 
+              [
+                -64.78751359130243, 
+                18.328443095371327
+              ], 
+              [
+                -64.780278890017, 
+                18.34712412552797
+              ], 
+              [
+                -64.75565507064292, 
+                18.36590850847024
+              ], 
+              [
+                -64.72994604567126, 
+                18.374564311231737
+              ], 
+              [
+                -64.71328039618228, 
+                18.37340159126991
+              ], 
+              [
+                -64.69441849797639, 
+                18.36828562433716
+              ], 
+              [
+                -64.67702937898835, 
+                18.360379130395202
+              ]
+            ]
+          ], 
+          [
             [
-              -64.565, 
-              18.458
-            ], 
-            [
-              -64.565, 
-              17.682
-            ], 
-            [
-              -65.086, 
-              17.682
+              [
+                -64.91355240908675, 
+                18.379783630950286
+              ], 
+              [
+                -64.87611283440899, 
+                18.360792541537492
+              ], 
+              [
+                -64.84422847532838, 
+                18.337021382869082
+              ], 
+              [
+                -64.83236873441541, 
+                18.313766988128847
+              ], 
+              [
+                -64.84903438390447, 
+                18.318805440697176
+              ], 
+              [
+                -64.85500301154309, 
+                18.322112732533483
+              ], 
+              [
+                -64.85973140485552, 
+                18.32743540503749
+              ], 
+              [
+                -64.88192643241965, 
+                18.313250224200956
+              ], 
+              [
+                -64.90443151923989, 
+                18.324438171558015
+              ], 
+              [
+                -64.92603226761244, 
+                18.33950185152152
+              ], 
+              [
+                -64.9456176353174, 
+                18.337021382869082
+              ], 
+              [
+                -65.02031591842223, 
+                18.35872548402743
+              ], 
+              [
+                -65.01111751331163, 
+                18.368388977122677
+              ], 
+              [
+                -64.98584773790355, 
+                18.374564311231737
+              ], 
+              [
+                -64.96652075261218, 
+                18.37477101680288
+              ], 
+              [
+                -64.92174312386348, 
+                18.368388977122677
+              ], 
+              [
+                -64.94223282911676, 
+                18.38885284485407
+              ], 
+              [
+                -64.91355240908675, 
+                18.379783630950286
+              ]
             ]
           ]
         ]
@@ -37,16 +263,19 @@
         "alias_ENG_V": [
           "United States Virgin Islands"
         ], 
+        "ne:ne_10m_adm": "VIR", 
         "alias_SWE_Q": [
           "Amerikanska Jungfru\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Amerikanska Jungfruoarna"
         ], 
-        "ne_latitude": 18.458, 
+        "ne_latitude": 18.38885284485407, 
+        "ne:POSTAL": "VI", 
         "alias_RUM_Q": [
           "Insulele Virgine Americane"
         ], 
+        "ne:NAME_SORT": "United States Virgin Islands", 
         "placetype": "Country", 
         "alias_KOR_V": [
           "\ubbf8\ub839 \ubc84\uc9c4\uad70\ub3c4"
@@ -60,20 +289,31 @@
         "alias_ENG_A": [
           "VI"
         ], 
+        "ne:SUBUNIT": "United States Virgin Islands", 
+        "ne:ISO_N3": 850.0, 
+        "alias_CZE_Q": [
+          "Americk\u00e9 Panensk\u00e9 Ostrovy"
+        ], 
+        "ne:SOVEREIGNT": "United States of America", 
+        "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u7f8e\u5c6c\u7dad\u4eac\u7fa4\u5cf6"
         ], 
         "alias_ITA_Q": [
           "Isole Vergini Americane"
         ], 
-        "alias_DAN_Q": [
-          "Amerikanske Jomfru\u00f8er"
+        "alias_GER_V": [
+          "Jungfern-Inseln (USA)"
         ], 
         "alias_ITA_V": [
           "Isole Vergini"
         ], 
+        "ne:TERR_": "U.S.A.", 
         "alias_CHI_V": [
           "\u7f8e\u5c5e\u7ef4\u4eac\u7fa4\u5c9b"
+        ], 
+        "alias_GER_Q": [
+          "Amerikanische Jungferninseln"
         ], 
         "alias_JPN_Q": [
           "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
@@ -84,6 +324,7 @@
         "alias_JPN_V": [
           "\u7c73\u9818\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6"
         ], 
+        "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas V\u00edrgenes de Los Estados Unidos"
         ], 
@@ -93,10 +334,9 @@
         "alias_SPA_S": [
           "Islas Virgenes de Estados Unidos"
         ], 
-        "sw_longitude": -65.086, 
-        "alias_HUN_V": [
-          "U.S. Virgin-szigetek"
-        ], 
+        "sw_longitude": -65.02031591842223, 
+        "ne:NAME_FORMA": "Virgin Islands of the United States", 
+        "ne:GEOUNIT": "United States Virgin Islands", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 17.737, 
         "alias_NOR_S": [
@@ -106,49 +346,66 @@
         "alias_NOR_Q": [
           "De Amerikanske Jomfru\u00f8yene"
         ], 
+        "ne:ISO_A3": "VIR", 
+        "ne:ISO_A2": "VI", 
         "date_indexed": "2010-12-02T16:14:08Z", 
+        "ne:SOV_A3": "US1", 
+        "alias_FRE_V": [
+          "Iles Vierges des \u00c9tats-Unis"
+        ], 
         "alias_KOR_Q": [
           "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
         ], 
-        "alias_DUT_V": [
-          "Maagdeneilanden Amerikaanse"
-        ], 
+        "ne:MAP_COLOR": 1.0, 
+        "ne:ADMIN": "United States Virgin Islands", 
+        "ne:SU_A3": "VIR", 
+        "ne:LabelRank": 8, 
         "alias_SPA_V": [
           "Islas V\u00edrgenes, EE.UU."
         ], 
-        "alias_RUM_V": [
-          "Insulele Virgine, SUA"
-        ], 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
           "Amerikaanse Maagdeneilanden"
         ], 
-        "alias_CZE_Q": [
-          "Americk\u00e9 Panensk\u00e9 Ostrovy"
+        "ne:LEVEL": 2.0, 
+        "ne:ABBREV": "V.I. (U.S.)", 
+        "alias_DUT_V": [
+          "Maagdeneilanden Amerikaanse"
         ], 
+        "ne:GU_A3": "VIR", 
         "alias_DAN_S": [
           "De Amerikanske Jomfruoer"
         ], 
-        "alias_GER_V": [
-          "Jungfern-Inseln (USA)"
+        "ne:ADM0_A3": "VIR", 
+        "alias_DAN_Q": [
+          "Amerikanske Jomfru\u00f8er"
         ], 
         "alias_DAN_V": [
           "De Amerikanske Jomfru\u00f8er"
         ], 
+        "ne:GDP_MD_EST": 1577.0, 
+        "ne:NAME": "U.S. Virgin Is.", 
         "lang": "ENG", 
+        "ne:OID_": 66, 
         "name": "US Virgin Islands", 
+        "ne:TYPE": "Dependency", 
         "parent_woeid": 1, 
+        "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Amerikai Virgin-Szigetek"
         ], 
-        "alias_GER_Q": [
-          "Amerikanische Jungferninseln"
+        "alias_HUN_V": [
+          "U.S. Virgin-szigetek"
         ], 
-        "ne_longitude": -64.565, 
+        "ne_longitude": -64.55866451025415, 
         "longitude": -64.736, 
+        "ne:POP_EST": 109825.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "VI", 
-        "sw_latitude": 17.682, 
-        "alias_FRE_V": [
-          "Iles Vierges des \u00c9tats-Unis"
+        "sw_latitude": 17.682539367753876, 
+        "alias_RUM_V": [
+          "Insulele Virgine, SUA"
         ], 
         "fullname": "US Virgin Islands", 
         "alias_FRE_S": [
@@ -160,5 +417,11 @@
       }, 
       "id": 23424985
     }
+  ], 
+  "bbox": [
+    -65.02031591842223, 
+    17.682539367753876, 
+    -64.55866451025415, 
+    18.38885284485407
   ]
 }

@@ -7,24 +7,32 @@
         "coordinates": [
           [
             [
-              -5.358, 
-              36.108
+              -5.385118774137283, 
+              36.14110259998358
             ], 
             [
-              -5.358, 
-              36.156
+              -5.364499877677304, 
+              36.14110259998358
             ], 
             [
-              -5.339, 
-              36.156
+              -5.36553340643232, 
+              36.13056060776131
             ], 
             [
-              -5.339, 
-              36.108
+              -5.358763794031006, 
+              36.13056060776131
             ], 
             [
-              -5.358, 
-              36.108
+              -5.367703816728067, 
+              36.111181946526756
+            ], 
+            [
+              -5.375920369926092, 
+              36.120018616438216
+            ], 
+            [
+              -5.385118774137283, 
+              36.14110259998358
             ]
           ]
         ]
@@ -34,34 +42,60 @@
         "alias_ENG_V": [
           "Gibraltarian"
         ], 
-        "alias_ENG_A": [
-          "GI"
+        "alias_KOR_Q": [
+          "\uc9c0\ube0c\ub784\ud0c0"
         ], 
-        "ne_latitude": 36.156, 
+        "ne:LEVEL": 2.0, 
+        "ne_latitude": 36.14110259998358, 
+        "ne:SUBUNIT": "Gibraltar", 
+        "ne:NAME_SORT": "Gibraltar", 
         "placetype": "Country", 
         "alias_POR_Q": [
           "Gibraltar\u00e7a"
         ], 
-        "alias_KOR_Q": [
-          "\uc9c0\ube0c\ub784\ud0c0"
+        "alias_ENG_A": [
+          "GI"
         ], 
         "alias_POR_S": [
           "Gibraltarca"
         ], 
+        "ne:ISO_N3": 292.0, 
+        "ne:ADM0_A3": "GIB", 
+        "ne:SOVEREIGNT": "United Kingdom", 
+        "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u76f4\u5e03\u7f57\u9640"
         ], 
         "alias_ITA_Q": [
           "Gibilterra"
         ], 
+        "ne:NAME": "Gibraltar", 
+        "ne:POSTAL": "GI", 
         "alias_JPN_Q": [
           "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb"
         ], 
-        "sw_longitude": -5.358, 
+        "ne:FIPS_10_": 0.0, 
+        "ne:TERR_": "U.K.", 
+        "sw_longitude": -5.385118774137283, 
+        "ne:NAME_FORMA": null, 
+        "ne:GEOUNIT": "Gibraltar", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 36.132, 
         "woe:id": 23424825, 
+        "ne:OID_": 55, 
+        "ne:ISO_A3": "GIB", 
+        "ne:ISO_A2": "GI", 
         "date_indexed": "2010-12-02T17:52:39Z", 
+        "ne:SOV_A3": "GB1", 
+        "ne:GU_A3": "GIB", 
+        "ne:MAP_COLOR": 3.0, 
+        "ne:ADMIN": "Gibraltar", 
+        "ne:SU_A3": "GIB", 
+        "ne:LabelRank": 5, 
+        "ne:FeatureCla": "Adm-0 country", 
+        "ne:ADM0_DIF": 1.0, 
+        "ne:ABBREV": "Gib.", 
+        "ne:GDP_MD_EST": 1066.0, 
         "lang": "ENG", 
         "name": "Gibraltar", 
         "alias_UNK_S": [
@@ -74,13 +108,24 @@
         "alias_HUN_Q": [
           "Gibralt\u00e1r"
         ], 
-        "ne_longitude": -5.339, 
+        "ne_longitude": -5.358763794031006, 
         "longitude": -5.348, 
+        "ne:POP_EST": 28034.0, 
+        "ne:TYPE": "Dependency", 
         "iso": "GI", 
-        "sw_latitude": 36.108, 
-        "fullname": "Gibraltar"
+        "sw_latitude": 36.111181946526756, 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Gibraltar", 
+        "ne:SU_DIF": 0.0, 
+        "ne:ne_10m_adm": "GIB"
       }, 
       "id": 23424825
     }
+  ], 
+  "bbox": [
+    -5.385118774137283, 
+    36.111181946526756, 
+    -5.358763794031006, 
+    36.14110259998358
   ]
 }
