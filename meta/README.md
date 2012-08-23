@@ -7,4 +7,4 @@ countries.tsv
 --
 
 All the countries and their bounding boxes in a TSV file compatiable with Mike
-Migurski's (Extractotron)[https://github.com/migurski/Extractotron/] tool.
+Migurski's [Extractotron](https://github.com/migurski/Extractotron/) tool.
