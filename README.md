@@ -66,6 +66,11 @@ In the long-run Github may not be the best venue for managing all of these
 records. But it's not an entirely crazy idea either so we're going to try it for
 a while because it's easy and safe.
 
+To do
+--
+
+* Merge and update records from the GeoPlanet 7.10 release.
+
 Other WOE repositories
 --
 
