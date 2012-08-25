@@ -2633,41 +2633,44 @@
           ]
         ]
       }, 
-      "id": 23424949, 
       "type": "Feature", 
+      "id": 23424949, 
+      "bbox": [
+        40.98105, 
+        -1.68325, 
+        51.13387, 
+        12.02464
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Somalia"
         ], 
-        "ne:ne_10m_adm": "SOM", 
-        "alias_ENG_A": [
-          "SO"
-        ], 
+        "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 11.988778381862119, 
-        "alias_UNK_V": [
-          "Somalska demokratiena republika"
+        "hierarchy": [
+          "woe:country=23424949", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 11.988778381862119, 
+        "ne:GU_A3": "SOM", 
+        "ne:NAME_SORT": "Somalia", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc18c\ub9d0\ub9ac\uc57c"
         ], 
-        "alias_POR_Q": [
-          "Som\u00e1lia"
-        ], 
+        "ne:ne_10m_adm": "SOM", 
         "alias_KOR_Q": [
           "\uc18c\ub9d0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Somalia", 
-        "ne:ISO_N3": 706.0, 
         "ne:ADM0_A3": "SOM", 
-        "ne:ScaleRank": 1, 
-        "ne:GDP_MD_EST": 5524.0, 
+        "ne:SOVEREIGNT": "Somalia", 
         "ne:NAME": "Somalia", 
         "ne:POSTAL": "SO", 
         "alias_JPN_Q": [
           "\u30bd\u30de\u30ea\u30a2"
         ], 
+        "fullname": "Somalia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 40.96538537555534, 
@@ -2681,7 +2684,9 @@
         "ne:ISO_A2": "SO", 
         "date_indexed": "2010-12-02T08:51:01Z", 
         "ne:NAME_FORMA": "Federal Republic of Somalia", 
-        "ne:GU_A3": "SOM", 
+        "alias_ENG_A": [
+          "SO"
+        ], 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Somalia", 
         "ne:GEOUNIT": "Somalia", 
@@ -2698,36 +2703,34 @@
         "alias_GER_V": [
           "Republik Somalia"
         ], 
-        "ne:SOVEREIGNT": "Somalia", 
+        "ne:ISO_N3": 706.0, 
         "lang": "ENG", 
         "name": "Somalia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Somalija"
         ], 
         "alias_HUN_Q": [
           "Szom\u00e1lia"
         ], 
-        "ne:NAME_SORT": "Somalia", 
+        "alias_UNK_V": [
+          "Somalska demokratiena republika"
+        ], 
         "longitude": 46.201, 
         "ne:POP_EST": 9832017.0, 
         "ne_longitude": 51.4167887774978, 
         "iso": "SO", 
         "sw_latitude": -1.697001240888227, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Somalia", 
-        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 5524.0, 
         "alias_FRE_Q": [
           "Somalie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Som\u00e1lia"
         ]
-      }, 
-      "bbox": [
-        40.98105, 
-        -1.68325, 
-        51.13387, 
-        12.02464
-      ]
+      }
     }
   ], 
   "bbox": [

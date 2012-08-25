@@ -1995,8 +1995,14 @@
           ]
         ]
       }, 
-      "id": 23424760, 
       "type": "Feature", 
+      "id": 23424760, 
+      "bbox": [
+        -89.22912167026928, 
+        15.886937567605171, 
+        -88.10681291375438, 
+        18.4999822046599
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Belizean"
@@ -2005,21 +2011,24 @@
           "\ubca8\ub9ac\uc988"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424760", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.490758768771016, 
-        "ne:NAME_SORT": "Belize", 
-        "placetype": "Country", 
+        "ne_longitude": -87.78225988854877, 
+        "placetype": "country", 
         "ne:ne_10m_adm": "BLZ", 
         "alias_ENG_A": [
           "BZ"
         ], 
         "ne:SUBUNIT": "Belize", 
-        "ne:ISO_N3": 84.0, 
         "ne:ADM0_A3": "BLZ", 
+        "ne:SOVEREIGNT": "Belize", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8c9d\u91cc\u65af"
         ], 
-        "ne:GDP_MD_EST": 2536.0, 
         "ne:NAME": "Belize", 
         "alias_CHI_V": [
           "\u8c9d\u91cc\u65af"
@@ -2027,6 +2036,7 @@
         "alias_JPN_Q": [
           "\u30d9\u30ea\u30fc\u30ba"
         ], 
+        "fullname": "Belize", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Belice"
@@ -2051,33 +2061,26 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Belize", 
-        "ne:SOVEREIGNT": "Belize", 
+        "ne:ISO_N3": 84.0, 
         "lang": "ENG", 
         "name": "Belize", 
         "alias_UNK_S": [
           "Belis"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Bel\u00eds"
         ], 
         "ne:POSTAL": "BZ", 
-        "ne_longitude": -87.78225988854877, 
+        "ne:NAME_SORT": "Belize", 
         "longitude": -88.653, 
         "ne:POP_EST": 307899.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "BZ", 
         "sw_latitude": 15.879651998452815, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Belize", 
+        "ne:GDP_MD_EST": 2536.0, 
         "ne:SU_DIF": 0.0
-      }, 
-      "bbox": [
-        -89.22912167026928, 
-        15.886937567605171, 
-        -88.10681291375438, 
-        18.4999822046599
-      ]
+      }
     }
   ], 
   "bbox": [

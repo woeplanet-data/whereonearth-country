@@ -11983,17 +11983,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424868, 
-      "bbox": [
-        124.26562462778531, 
-        37.669070542952724, 
-        130.78000735893113, 
-        42.985386867843786
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424868", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Corea del Sud"
         ], 
@@ -12101,7 +12097,6 @@
         "alias_DAN_V": [
           "Republikken Korea"
         ], 
-        "parent_woeid": 1, 
         "longitude": 127.85, 
         "alias_FRE_V": [
           "Cor\u00e9e"
@@ -12156,7 +12151,15 @@
         "ne:ISO_N3": 410.0, 
         "lang": "KOR", 
         "ne:TYPE": "Sovereign country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424868, 
+      "bbox": [
+        124.26562462778531, 
+        37.669070542952724, 
+        130.78000735893113, 
+        42.985386867843786
+      ]
     }
   ], 
   "bbox": [

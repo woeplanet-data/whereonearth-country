@@ -110,9 +110,13 @@
           "MS"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424888", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 16.81912953697264, 
-        "ne:NAME_SORT": "Montserrat", 
-        "placetype": "Country", 
+        "ne_longitude": -62.13984574453434, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ubaac\ud2b8\uc138\ub77c\ud2b8"
         ], 
@@ -124,13 +128,12 @@
           "\ubaac\ud2b8\uc138\ub7ab"
         ], 
         "ne:SUBUNIT": "Montserrat", 
-        "ne:ISO_N3": 500.0, 
         "ne:ADM0_A3": "MSR", 
-        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u8499\u7279\u585e\u62c9\u7279"
         ], 
+        "ne:GDP_MD_EST": 29.0, 
         "alias_ITA_V": [
           "Monserrat"
         ], 
@@ -154,6 +157,7 @@
         "ne:ISO_A2": "MS", 
         "date_indexed": "2010-12-02T08:58:29Z", 
         "ne:SOV_A3": "GB1", 
+        "fullname": "Montserrat", 
         "ne:GU_A3": "MSR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Montserrat", 
@@ -162,20 +166,19 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Monts.", 
-        "ne:GDP_MD_EST": 29.0, 
+        "ne:ISO_N3": 500.0, 
         "ne:NAME": "Montserrat", 
         "lang": "ENG", 
         "name": "Montserrat", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "ne_longitude": -62.13984574453434, 
+        "ne:NAME_SORT": "Montserrat", 
         "longitude": -62.194, 
         "ne:POP_EST": 5097.0, 
         "iso": "MS", 
         "sw_latitude": 16.675158996951836, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Montserrat"
+        "ne:SOVEREIGNT": "United Kingdom"
       }, 
       "id": 23424888
     }

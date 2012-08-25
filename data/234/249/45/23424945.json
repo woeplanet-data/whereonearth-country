@@ -1769,40 +1769,47 @@
           ]
         ]
       }, 
-      "id": 23424945, 
       "type": "Feature", 
+      "id": 23424945, 
+      "bbox": [
+        13.698109978905478, 
+        45.45231639259323, 
+        16.564808383864857, 
+        46.85238597267696
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Slovenian"
         ], 
-        "ne:ne_10m_adm": "SVN", 
+        "alias_HUN_Q": [
+          "Szlov\u00e9nia"
+        ], 
         "alias_SWE_Q": [
           "Slovenien"
         ], 
         "alias_ENG_P": [
           "Slovenia"
         ], 
+        "hierarchy": [
+          "woe:country=23424945", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.86396230052793, 
-        "ne:GU_A3": "SVN", 
         "alias_RUM_Q": [
           "Slovenia"
         ], 
-        "alias_UNK_V": [
-          "Republika Slovenija"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Slovenia", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Eslov\u00eania"
         ], 
-        "alias_POR_Q": [
-          "Eslov\u00e9nia"
-        ], 
+        "ne:ne_10m_adm": "SVN", 
         "alias_KOR_Q": [
           "\uc2ac\ub85c\ubca0\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Slovenia", 
-        "ne:ISO_N3": 705.0, 
         "ne:ADM0_A3": "SVN", 
+        "ne:SOVEREIGNT": "Slovenia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
@@ -1839,17 +1846,12 @@
         "ne:ISO_A2": "SI", 
         "date_indexed": "2010-12-02T09:58:07Z", 
         "ne:NAME_FORMA": "Republic of Slovenia", 
-        "alias_CHI_V": [
-          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
-        ], 
-        "alias_ENG_A": [
-          "SI"
-        ], 
+        "fullname": "Slovenija, Slovenia", 
+        "ne:GU_A3": "SVN", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Slovenia", 
         "ne:GEOUNIT": "Slovenia", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 59340.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1863,6 +1865,9 @@
         "alias_CZE_Q": [
           "Slovinsko"
         ], 
+        "alias_FRE_S": [
+          "Slovenie"
+        ], 
         "alias_FIN_Q": [
           "Slovenia"
         ], 
@@ -1872,43 +1877,41 @@
         "alias_GER_Q": [
           "Slowenien"
         ], 
-        "fullname": "Slovenija, Slovenia", 
+        "ne:ISO_N3": 705.0, 
         "lang": "UNK", 
         "ne:OID_": 228, 
         "name": "Slovenija", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Sl\u00f3ven\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Szlov\u00e9nia"
+        "alias_CHI_V": [
+          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
         ], 
-        "ne:NAME_SORT": "Slovenia", 
+        "alias_UNK_V": [
+          "Republika Slovenija"
+        ], 
         "longitude": 14.955, 
         "ne:POP_EST": 2005692.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 16.515301554668895, 
         "iso": "SI", 
         "sw_latitude": 45.423636780009105, 
         "alias_HUN_S": [
           "Szlovenia"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Slovenia", 
-        "alias_FRE_S": [
-          "Slovenie"
+        "alias_ENG_A": [
+          "SI"
         ], 
+        "ne:GDP_MD_EST": 59340.0, 
         "alias_FRE_Q": [
           "Slov\u00e9nie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Eslov\u00e9nia"
         ]
-      }, 
-      "bbox": [
-        13.698109978905478, 
-        45.45231639259323, 
-        16.564808383864857, 
-        46.85238597267696
-      ]
+      }
     }
   ], 
   "bbox": [

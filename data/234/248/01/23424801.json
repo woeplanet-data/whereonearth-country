@@ -6083,41 +6083,32 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424801, 
-      "bbox": [
-        -80.96776546906436, 
-        -4.959128513207389, 
-        -75.23372270374195, 
-        1.380923773601822
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Ecuador"
         ], 
-        "ne:ne_10m_adm": "ECU", 
-        "alias_ENG_A": [
-          "ECU"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Ekwador"
         ], 
+        "hierarchy": [
+          "woe:country=23424801", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 1.664369812094705, 
-        "ne_longitude": -75.2272639570038, 
-        "placetype": "Country", 
+        "ne:GU_A3": "ECU", 
+        "ne:NAME_SORT": "Ecuador", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc5d0\ucfe0\uc544\ub3c4\ub974"
         ], 
-        "alias_POR_Q": [
-          "Equador"
-        ], 
+        "ne:ne_10m_adm": "ECU", 
         "alias_KOR_Q": [
           "\uc5d0\ucf70\ub3c4\ub974"
         ], 
         "ne:SUBUNIT": "Ecuador", 
+        "ne:ISO_N3": 218.0, 
         "ne:ADM0_A3": "ECU", 
-        "ne:SOVEREIGNT": "Ecuador", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5384\u74dc\u591a"
         ], 
@@ -6148,46 +6139,58 @@
         "ne:ISO_A2": "EC", 
         "date_indexed": "2010-12-02T17:51:45Z", 
         "ne:NAME_FORMA": "Republic of Ecuador", 
-        "fullname": "Ecuador", 
-        "ne:GU_A3": "ECU", 
+        "alias_ENG_A": [
+          "ECU"
+        ], 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Ecuador", 
         "ne:GEOUNIT": "Ecuador", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 107700.0, 
+        "wikipedia:id": "9334", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Ecu.", 
         "alias_CZE_Q": [
           "Ekv\u00e1dor"
         ], 
-        "alias_FRE_S": [
-          "Equateur"
-        ], 
         "alias_GER_Q": [
           "Republik Ecuador"
         ], 
-        "ne:ISO_N3": 218.0, 
+        "fullname": "Ecuador", 
         "lang": "ENG", 
         "name": "Ecuador", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ekvador"
         ], 
         "ne:POSTAL": "EC", 
-        "ne:NAME_SORT": "Ecuador", 
+        "ne_longitude": -75.2272639570038, 
         "longitude": -78.096, 
         "ne:POP_EST": 14573101.0, 
         "iso": "EC", 
         "sw_latitude": -5.011372578883567, 
         "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 107700.0, 
-        "wikipedia:id": "9334", 
+        "ne:SOVEREIGNT": "Ecuador", 
         "alias_FRE_Q": [
           "\u00c9quateur"
+        ], 
+        "alias_FRE_S": [
+          "Equateur"
+        ], 
+        "alias_POR_Q": [
+          "Equador"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424801, 
+      "bbox": [
+        -80.96776546906436, 
+        -4.959128513207389, 
+        -75.23372270374195, 
+        1.380923773601822
+      ]
     }
   ], 
   "bbox": [

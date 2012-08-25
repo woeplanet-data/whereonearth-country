@@ -597,42 +597,38 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": "Assoc. with N.Z.", 
         "alias_ENG_V": [
           "Cook Island"
         ], 
-        "ne:ne_10m_adm": "COK", 
+        "alias_HUN_Q": [
+          "Cook-Szigetek"
+        ], 
         "alias_SWE_Q": [
           "Cook\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Cookoarna"
         ], 
+        "hierarchy": [
+          "woe:country=23424795", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.94684295617374, 
-        "ne:POSTAL": "CK", 
+        "ne:GU_A3": "COK", 
         "alias_RUM_Q": [
           "Insulele Cook"
         ], 
-        "alias_UNK_V": [
-          "Cook\u00f8yene"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Cook Islands", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ucfe1 \uc544\uc77c\ub79c\ub4dc"
         ], 
-        "alias_POR_Q": [
-          "Ilhas Cook"
-        ], 
+        "ne:ne_10m_adm": "COK", 
         "alias_ENG_A": [
           "CK"
         ], 
         "ne:SUBUNIT": "Cook Islands", 
-        "ne:NAME_SORT": "Cook Islands", 
-        "ne:ISO_N3": 184.0, 
-        "alias_CZE_Q": [
-          "Cookovy Ostrovy"
-        ], 
-        "ne:SOVEREIGNT": "New Zealand", 
+        "ne:ADM0_A3": "COK", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5eab\u514b\u7fa4\u5cf6"
@@ -640,29 +636,25 @@
         "alias_ITA_Q": [
           "Arcipelago di Cook"
         ], 
-        "alias_GER_V": [
-          "Cook-Inseln"
+        "alias_DAN_Q": [
+          "Cook\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Cook, isole"
         ], 
-        "alias_CHI_V": [
-          "\u5e93\u514b\u7fa4\u5c9b"
-        ], 
-        "ne:ADM0_A3": "COK", 
+        "ne:POSTAL": "CK", 
         "alias_JPN_Q": [
           "\u30af\u30c3\u30af\u8af8\u5cf6"
         ], 
         "alias_POL_Q": [
           "Wyspy Cooka"
         ], 
+        "fullname": "Cook Islands", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Cook"
         ], 
-        "alias_FIN_Q": [
-          "Cookinsaaret"
-        ], 
+        "ne:TERR_": "Assoc. with N.Z.", 
         "sw_longitude": -165.82354284704456, 
         "ne:NAME_FORMA": null, 
         "ne:GEOUNIT": "Cook Islands", 
@@ -679,14 +671,20 @@
         "ne:ISO_A2": "CK", 
         "date_indexed": "2010-12-02T17:57:50Z", 
         "ne:SOV_A3": "NZ1", 
+        "alias_FRE_V": [
+          "\u00eeles Cook"
+        ], 
         "alias_KOR_Q": [
           "\ucfe1 \uc81c\ub3c4"
         ], 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Cook Islands", 
         "ne:SU_A3": "COK", 
+        "alias_DUT_V": [
+          "Cook Eilanden"
+        ], 
         "ne:LabelRank": 5, 
-        "ne:TYPE": "Dependency", 
+        "ne:GDP_MD_EST": 183.2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -694,44 +692,49 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Cook Is.", 
-        "alias_DUT_V": [
-          "Cook Eilanden"
+        "alias_CZE_Q": [
+          "Cookovy Ostrovy"
         ], 
-        "ne:GU_A3": "COK", 
-        "alias_DAN_Q": [
-          "Cook\u00f8erne"
+        "alias_FIN_Q": [
+          "Cookinsaaret"
+        ], 
+        "alias_GER_V": [
+          "Cook-Inseln"
         ], 
         "alias_GER_Q": [
           "Cookinseln"
         ], 
-        "ne:GDP_MD_EST": 183.2, 
+        "ne:ISO_N3": 184.0, 
         "ne:NAME": "Cook Is.", 
         "lang": "ENG", 
         "ne:OID_": 45, 
         "name": "Cook Islands", 
+        "ne:TYPE": "Dependency", 
+        "ne:SU_DIF": 0.0, 
+        "alias_CHI_V": [
+          "\u5e93\u514b\u7fa4\u5c9b"
+        ], 
+        "alias_UNK_V": [
+          "Cook\u00f8yene"
+        ], 
+        "longitude": -159.771, 
+        "ne:POP_EST": 11870.0, 
         "alias_UNK_S": [
           "Cookoyene"
         ], 
-        "parent_woeid": 1, 
-        "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Cook-Szigetek"
-        ], 
         "ne_longitude": -157.31186600862208, 
-        "longitude": -159.771, 
-        "ne:POP_EST": 11870.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "CK", 
         "sw_latitude": -21.939073181184455, 
-        "alias_FRE_V": [
-          "\u00eeles Cook"
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "New Zealand", 
+        "alias_FRE_Q": [
+          "\u00celes Cook"
         ], 
-        "fullname": "Cook Islands", 
         "alias_FRE_S": [
           "iles Cook"
         ], 
-        "alias_FRE_Q": [
-          "\u00celes Cook"
+        "alias_POR_Q": [
+          "Ilhas Cook"
         ]
       }, 
       "id": 23424795

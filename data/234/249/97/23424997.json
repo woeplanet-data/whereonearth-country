@@ -37,10 +37,14 @@
         "alias_SWE_S": [
           "Forenta Nationernas Neutrala Zon"
         ], 
+        "hierarchy": [
+          "woe:country=23424997", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.434, 
-        "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\uad6d\uc81c\uc5f0\ud569 \uc911\ub9bd\uc9c0\ub300"
+        "placetype": "country", 
+        "alias_ENG_A": [
+          "XD"
         ], 
         "alias_FIN_Q": [
           "Yhdistyneet kansakunnat (neutraali vy\u00f6hyke)"
@@ -59,15 +63,14 @@
           "FNs n\u00f8ytrale sone"
         ], 
         "date_indexed": "2010-12-02T08:50:01Z", 
-        "alias_ENG_A": [
-          "XD"
+        "alias_KOR_Q": [
+          "\uad6d\uc81c\uc5f0\ud569 \uc911\ub9bd\uc9c0\ub300"
         ], 
         "alias_DAN_Q": [
           "Forenede Nationer Neutral Zone"
         ], 
         "lang": "ENG", 
         "name": "United Nations Neutral Zone", 
-        "parent_woeid": 1, 
         "ne_longitude": 35.935, 
         "longitude": 35.859, 
         "iso": "XD", 
@@ -76,5 +79,11 @@
       }, 
       "id": 23424997
     }
+  ], 
+  "bbox": [
+    35.783, 
+    32.753, 
+    35.935, 
+    33.434
   ]
 }

@@ -4191,46 +4191,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424805, 
-      "bbox": [
-        23.339795363058645, 
-        57.47452830670383, 
-        28.13169925305175, 
-        59.61109039981133
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Estonia"
         ], 
-        "alias_HUN_Q": [
-          "\u00c9sztorsz\u00e1g"
-        ], 
-        "ne:ne_10m_adm": "EST", 
         "alias_SWE_Q": [
           "Estland"
         ], 
         "alias_ENG_P": [
           "Estonia"
         ], 
+        "hierarchy": [
+          "woe:country=23424805", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 59.670622457398636, 
         "alias_RUM_Q": [
           "Estonia"
         ], 
-        "ne:NAME_SORT": "Estonia", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Republika Estonija"
+        ], 
+        "placetype": "country", 
         "alias_POR_V": [
           "Est\u00f4nia"
         ], 
-        "alias_POR_Q": [
-          "Est\u00f3nia"
-        ], 
+        "ne:ne_10m_adm": "EST", 
         "alias_KOR_Q": [
           "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Estonia", 
+        "ne:ISO_N3": 233.0, 
         "ne:ADM0_A3": "EST", 
-        "ne:SOVEREIGNT": "Estonia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u611b\u6c99\u5c3c\u4e9e"
@@ -4238,8 +4230,8 @@
         "alias_ITA_Q": [
           "Estonia"
         ], 
-        "alias_GER_V": [
-          "Republik Estland"
+        "alias_DAN_Q": [
+          "Estland"
         ], 
         "ne:NAME": "Estonia", 
         "ne:POSTAL": "EST", 
@@ -4249,7 +4241,6 @@
         "alias_POL_Q": [
           "Estonia"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -4271,12 +4262,19 @@
         "ne:ISO_A2": "EE", 
         "date_indexed": "2010-12-02T16:43:34Z", 
         "ne:NAME_FORMA": "Republic of Estonia", 
-        "fullname": "Eesti, Estonia", 
+        "alias_CHI_V": [
+          "\u7231\u6c99\u5c3c\u4e9a"
+        ], 
         "ne:GU_A3": "EST", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Estonia", 
         "ne:GEOUNIT": "Estonia", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 27410.0, 
+        "alias_ENG_A": [
+          "EE"
+        ], 
+        "wikipedia:id": "28222445", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -4290,29 +4288,26 @@
         "alias_FIN_Q": [
           "Viro"
         ], 
-        "alias_DAN_Q": [
-          "Estland"
+        "alias_GER_V": [
+          "Republik Estland"
         ], 
         "alias_GER_Q": [
           "Estland"
         ], 
-        "ne:ISO_N3": 233.0, 
+        "fullname": "Eesti, Estonia", 
         "lang": "UNK", 
         "ne:OID_": 128, 
         "name": "Eesti", 
         "alias_UNK_S": [
           "Esthonia"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Eistland"
         ], 
-        "alias_CHI_V": [
-          "\u7231\u6c99\u5c3c\u4e9a"
+        "alias_HUN_Q": [
+          "\u00c9sztorsz\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Republika Estonija"
-        ], 
+        "ne:NAME_SORT": "Estonia", 
         "longitude": 25.807, 
         "ne:POP_EST": 1299371.0, 
         "ne:TYPE": "Sovereign country", 
@@ -4322,16 +4317,24 @@
         "alias_HUN_S": [
           "Esztorszag"
         ], 
-        "alias_ENG_A": [
-          "EE"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 27410.0, 
-        "wikipedia:id": "28222445", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Estonia", 
         "alias_FRE_Q": [
           "Estonie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Est\u00f3nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424805, 
+      "bbox": [
+        23.339795363058645, 
+        57.47452830670383, 
+        28.13169925305175, 
+        59.61109039981133
+      ]
     }
   ], 
   "bbox": [

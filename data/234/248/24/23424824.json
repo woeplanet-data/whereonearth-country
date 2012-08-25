@@ -3241,28 +3241,23 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424824, 
-      "bbox": [
-        -3.244370083011262, 
-        4.710462144383371, 
-        1.060121697604927, 
-        11.098340969278722
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Ghanaian"
-        ], 
-        "alias_HUN_Q": [
-          "Gh\u00e1na"
         ], 
         "alias_KOR_Q": [
           "\uac00\ub098"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424824", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.162937316965426, 
-        "ne:NAME_SORT": "Ghana", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Republika Gana"
+        ], 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Gana"
         ], 
@@ -3270,12 +3265,13 @@
           "GH"
         ], 
         "ne:SUBUNIT": "Ghana", 
+        "ne:ISO_N3": 288.0, 
         "ne:ADM0_A3": "GHA", 
-        "ne:SOVEREIGNT": "Ghana", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8fe6\u7d0d"
         ], 
+        "ne:GDP_MD_EST": 34200.0, 
         "ne:NAME": "Ghana", 
         "ne:POSTAL": "GH", 
         "alias_JPN_Q": [
@@ -3297,7 +3293,9 @@
         "ne:ISO_A2": "GH", 
         "date_indexed": "2010-12-02T17:57:50Z", 
         "ne:NAME_FORMA": "Republic of Ghana", 
-        "fullname": "Ghana", 
+        "alias_CHI_V": [
+          "\u8fe6\u7d0d"
+        ], 
         "ne:GU_A3": "GHA", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Ghana", 
@@ -3309,28 +3307,33 @@
         "alias_GER_V": [
           "Republik Ghana"
         ], 
-        "ne:ISO_N3": 288.0, 
+        "fullname": "Ghana", 
         "lang": "ENG", 
         "name": "Ghana", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u8fe6\u7d0d"
+        "alias_HUN_Q": [
+          "Gh\u00e1na"
         ], 
-        "alias_UNK_V": [
-          "Republika Gana"
-        ], 
+        "ne:NAME_SORT": "Ghana", 
         "longitude": -1.032, 
         "ne:POP_EST": 23832495.0, 
         "ne_longitude": 1.187968383205146, 
         "iso": "GH", 
         "sw_latitude": 4.736921285009586, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 34200.0, 
+        "ne:SOVEREIGNT": "Ghana", 
         "wikipedia:id": "12067", 
         "ne:ne_10m_adm": "GHA"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424824, 
+      "bbox": [
+        -3.244370083011262, 
+        4.710462144383371, 
+        1.060121697604927, 
+        11.098340969278722
+      ]
     }
   ], 
   "bbox": [

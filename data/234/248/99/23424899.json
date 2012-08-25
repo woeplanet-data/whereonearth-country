@@ -5576,23 +5576,24 @@
         "alias_ENG_V": [
           "Rep. Maldives"
         ], 
-        "alias_ENG_A": [
-          "MV"
+        "alias_HUN_Q": [
+          "Mald\u00edv-Szigetek"
         ], 
+        "ne:ScaleRank": 3, 
         "alias_POL_Q": [
           "Malediwy"
         ], 
+        "hierarchy": [
+          "woe:country=23424899", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 7.107060851852253, 
-        "ne:ScaleRank": 3, 
-        "ne:POSTAL": "MV", 
+        "ne:GU_A3": "MDV", 
         "alias_RUM_Q": [
           "Maldive"
         ], 
-        "alias_UNK_V": [
-          "Maldiverne"
-        ], 
-        "placetype": "Country", 
-        "ne:TERR_": null, 
+        "ne:NAME_SORT": "Maldives", 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Maldivas"
         ], 
@@ -5600,9 +5601,7 @@
           "\ubab0\ub514\ube0c"
         ], 
         "ne:SUBUNIT": "Maldives", 
-        "ne:ISO_N3": 462.0, 
         "ne:ADM0_A3": "MDV", 
-        "ne:SOVEREIGNT": "Maldives", 
         "alias_SWE_Q": [
           "Maldiverna"
         ], 
@@ -5612,14 +5611,11 @@
         "alias_ITA_Q": [
           "Maldive"
         ], 
-        "alias_GER_V": [
-          "Republik Malediven"
+        "alias_DAN_Q": [
+          "Maldiverne"
         ], 
         "ne:NAME": "Maldives", 
-        "alias_CHI_V": [
-          "\u99ac\u723e\u5730\u592b"
-        ], 
-        "ne:NAME_SORT": "Maldives", 
+        "ne:POSTAL": "MV", 
         "alias_JPN_Q": [
           "\u30e2\u30eb\u30c7\u30a3\u30d6"
         ], 
@@ -5631,9 +5627,7 @@
         "alias_SPA_Q": [
           "Maldivas"
         ], 
-        "alias_FIN_Q": [
-          "Malediivit"
-        ], 
+        "ne:TERR_": null, 
         "sw_longitude": 72.68520633958775, 
         "ne:NAME_FORMA": "Republic of Maldives", 
         "ne:GEOUNIT": "Maldives", 
@@ -5647,11 +5641,15 @@
         "ne:ISO_A2": "MV", 
         "date_indexed": "2010-12-02T09:35:37Z", 
         "ne:SOV_A3": "MDV", 
-        "ne:GU_A3": "MDV", 
+        "fullname": "Maldives", 
+        "alias_ENG_A": [
+          "MV"
+        ], 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Maldives", 
         "ne:SU_A3": "MDV", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 1716.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5661,13 +5659,16 @@
         "alias_CZE_Q": [
           "Maledivy"
         ], 
-        "alias_DAN_Q": [
-          "Maldiverne"
+        "alias_FIN_Q": [
+          "Malediivit"
+        ], 
+        "alias_GER_V": [
+          "Republik Malediven"
         ], 
         "alias_GER_Q": [
           "Malediven"
         ], 
-        "ne:GDP_MD_EST": 1716.0, 
+        "ne:ISO_N3": 462.0, 
         "lang": "ENG", 
         "ne:OID_": 177, 
         "name": "Maldives", 
@@ -5675,20 +5676,22 @@
           "Maladivy"
         ], 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Maldivi"
         ], 
-        "alias_HUN_Q": [
-          "Mald\u00edv-Szigetek"
+        "alias_CHI_V": [
+          "\u99ac\u723e\u5730\u592b"
         ], 
-        "ne_longitude": 73.7535649006428, 
+        "alias_UNK_V": [
+          "Maldiverne"
+        ], 
         "longitude": 73.155, 
         "ne:POP_EST": 396334.0, 
+        "ne_longitude": 73.7535649006428, 
         "iso": "MV", 
         "sw_latitude": -0.68869069411663, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Maldives", 
+        "ne:SOVEREIGNT": "Maldives", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "MDV"
       }, 

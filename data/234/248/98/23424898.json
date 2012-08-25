@@ -3999,8 +3999,14 @@
           ]
         ]
       }, 
-      "id": 23424898, 
       "type": "Feature", 
+      "id": 23424898, 
+      "bbox": [
+        52.00000980002224, 
+        16.65105113368898, 
+        59.80806033716286, 
+        26.39593435312895
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Sultanate of Oman"
@@ -4009,10 +4015,14 @@
           "\uc624\ub9cc"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424898", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 26.38578074127561, 
         "ne:SUBUNIT": "Oman", 
-        "ne:NAME_SORT": "Oman", 
-        "placetype": "Country", 
+        "ne_longitude": 59.84505985501022, 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Om\u00e3"
         ], 
@@ -4022,13 +4032,12 @@
         "alias_POR_S": [
           "Oma"
         ], 
-        "ne:ISO_N3": 512.0, 
         "ne:ADM0_A3": "OMN", 
+        "ne:SOVEREIGNT": "Oman", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u66fc"
         ], 
-        "ne:GDP_MD_EST": 66980.0, 
         "ne:NAME": "Oman", 
         "ne:POSTAL": "OM", 
         "alias_JPN_Q": [
@@ -4053,6 +4062,7 @@
         "ne:ISO_A2": "OM", 
         "date_indexed": "2010-12-02T09:35:43Z", 
         "ne:NAME_FORMA": "Sultanate of Oman", 
+        "fullname": "Oman", 
         "ne:GU_A3": "OMN", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Oman", 
@@ -4067,33 +4077,26 @@
         "alias_GER_V": [
           "Sultanat Oman"
         ], 
-        "fullname": "Oman", 
+        "ne:ISO_N3": 512.0, 
         "lang": "ENG", 
         "name": "Oman", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Saltanat 'Uman"
         ], 
         "alias_HUN_Q": [
           "Om\u00e1n"
         ], 
-        "ne_longitude": 59.84505985501022, 
+        "ne:NAME_SORT": "Oman", 
         "longitude": 55.859, 
         "ne:POP_EST": 3418085.0, 
         "iso": "OM", 
         "sw_latitude": 16.642034403545054, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Oman", 
+        "ne:GDP_MD_EST": 66980.0, 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "OMN"
-      }, 
-      "bbox": [
-        52.00000980002224, 
-        16.65105113368898, 
-        59.80806033716286, 
-        26.39593435312895
-      ]
+      }
     }
   ], 
   "bbox": [

@@ -134,11 +134,13 @@
           "LI"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 47.26280100582463, 
-        "alias_UNK_V": [
-          "Lichtenst\u00e1in"
+        "hierarchy": [
+          "woe:country=23424879", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 47.26280100582463, 
+        "ne:NAME_SORT": "Liechtenstein", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Lichtenstein"
         ], 
@@ -147,18 +149,16 @@
           "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"
         ], 
         "ne:SUBUNIT": "Liechtenstein", 
-        "ne:ISO_N3": 438.0, 
         "ne:ADM0_A3": "LIE", 
-        "ne:SOVEREIGNT": "Liechtenstein", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5217\u652f\u6566\u65af\u767b"
         ], 
+        "ne:GDP_MD_EST": 4160.0, 
         "ne:NAME": "Liechtenstein", 
         "alias_CHI_V": [
           "\u5217\u652f\u6566\u65af\u767b"
         ], 
-        "ne:NAME_SORT": "Liechtenstein", 
         "alias_JPN_Q": [
           "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"
         ], 
@@ -178,6 +178,7 @@
         "ne:ISO_A2": "LI", 
         "date_indexed": "2010-12-02T08:51:00Z", 
         "ne:SOV_A3": "LIE", 
+        "fullname": "Liechtenstein", 
         "ne:GU_A3": "LIE", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Liechtenstein", 
@@ -185,7 +186,9 @@
         "ne:LabelRank": 5, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Principalit\u00e9 de Liechtenstein"
+        ], 
         "ne:ABBREV": "Liech.", 
         "alias_CZE_Q": [
           "Lichten\u0161tejnsko"
@@ -193,7 +196,7 @@
         "alias_GER_V": [
           "F\u00fcrstentum Liechtenstein"
         ], 
-        "ne:GDP_MD_EST": 4160.0, 
+        "ne:ISO_N3": 438.0, 
         "alias_GER_S": [
           "Furstentum Liechtenstein"
         ], 
@@ -202,22 +205,22 @@
         "alias_UNK_S": [
           "Lichtenstain"
         ], 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "FL", 
         "alias_HUN_V": [
           "Lichtenstein"
         ], 
-        "ne_longitude": 9.615722696789646, 
+        "alias_UNK_V": [
+          "Lichtenst\u00e1in"
+        ], 
         "longitude": 9.554, 
         "ne:POP_EST": 34761.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 9.615722696789646, 
         "iso": "LI", 
         "sw_latitude": 47.05240041094075, 
-        "alias_FRE_V": [
-          "Principalit\u00e9 de Liechtenstein"
-        ], 
-        "fullname": "Liechtenstein", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Liechtenstein", 
         "alias_FRE_S": [
           "Principalite de Liechtenstein"
         ], 

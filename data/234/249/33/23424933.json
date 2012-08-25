@@ -5113,49 +5113,39 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424933, 
-      "bbox": [
-        20.220192498462836, 
-        43.68844472917472, 
-        29.62654340995877, 
-        48.22088125263035
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Romanian"
         ], 
-        "alias_HUN_Q": [
-          "Rom\u00e1nia"
-        ], 
-        "ne:ne_10m_adm": "ROU", 
         "alias_SWE_Q": [
           "Rum\u00e4nien"
         ], 
         "alias_ENG_P": [
           "Romania"
         ], 
-        "alias_FIN_Q": [
-          "Romania"
+        "hierarchy": [
+          "woe:country=23424933", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 48.27483225557478, 
         "ne:SUBUNIT": "Romania", 
-        "ne:NAME_SORT": "Romania", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Rumunija"
+        ], 
+        "placetype": "country", 
+        "ne:TERR_": null, 
         "alias_POR_V": [
           "Rom\u00eania"
         ], 
-        "alias_POR_Q": [
-          "Rom\u00e9nia"
-        ], 
+        "ne:ne_10m_adm": "ROU", 
         "alias_KOR_Q": [
           "\ub8e8\ub9c8\ub2c8\uc544"
         ], 
         "alias_POR_S": [
           "Romenia"
         ], 
+        "ne:ISO_N3": 642.0, 
         "ne:ADM0_A3": "ROU", 
-        "ne:SOVEREIGNT": "Romania", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7f85\u99ac\u5c3c\u4e9e"
@@ -5171,13 +5161,13 @@
         "alias_POL_Q": [
           "Rumunia"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "Rom\u00e2nia, Romania", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Rumania"
         ], 
-        "ne:TERR_": null, 
+        "alias_FIN_Q": [
+          "Romania"
+        ], 
         "sw_longitude": 20.242825968205636, 
         "ne:SOV_A3": "ROU", 
         "ne:SU_A3": "ROU", 
@@ -5191,14 +5181,19 @@
         "ne:ISO_A2": "RO", 
         "date_indexed": "2010-12-02T16:37:48Z", 
         "ne:NAME_FORMA": null, 
+        "alias_CHI_V": [
+          "\u7f57\u9a6c\u5c3c\u4e9a"
+        ], 
         "ne:GU_A3": "ROU", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Romania", 
         "ne:GEOUNIT": "Romania", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 271400.0, 
         "alias_SPA_V": [
           "Ruman\u00eda"
         ], 
+        "wikipedia:id": "25445", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5221,7 +5216,7 @@
         "alias_GER_Q": [
           "Rum\u00e4nien"
         ], 
-        "ne:ISO_N3": 642.0, 
+        "fullname": "Rom\u00e2nia, Romania", 
         "alias_GER_S": [
           "Rumanien"
         ], 
@@ -5231,32 +5226,40 @@
         "alias_UNK_S": [
           "Roumania"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Romunija"
         ], 
-        "alias_CHI_V": [
-          "\u7f57\u9a6c\u5c3c\u4e9a"
+        "alias_HUN_Q": [
+          "Rom\u00e1nia"
         ], 
-        "alias_UNK_V": [
-          "Rumunija"
-        ], 
+        "ne:NAME_SORT": "Romania", 
         "longitude": 24.98, 
         "ne:POP_EST": 22215421.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 29.700181518577608, 
         "iso": "RO", 
         "sw_latitude": 43.65004994745149, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Romania", 
+        "alias_FRE_Q": [
+          "Roumanie"
+        ], 
         "alias_ENG_A": [
           "RO"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 271400.0, 
-        "wikipedia:id": "25445", 
-        "alias_FRE_Q": [
-          "Roumanie"
+        "alias_POR_Q": [
+          "Rom\u00e9nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424933, 
+      "bbox": [
+        20.220192498462836, 
+        43.68844472917472, 
+        29.62654340995877, 
+        48.22088125263035
+      ]
     }
   ], 
   "bbox": [

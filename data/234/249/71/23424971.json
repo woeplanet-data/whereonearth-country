@@ -2195,14 +2195,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424971, 
-      "bbox": [
-        120.1061885926124, 
-        21.970571397382113, 
-        121.95124393116146, 
-        25.295458889257386
-      ], 
       "properties": {
         "alias_POL_V": [
           "Formoza"
@@ -2210,32 +2202,34 @@
         "alias_ENG_V": [
           "Formosa"
         ], 
-        "ne:ne_10m_adm": "TWN", 
         "alias_SWE_Q": [
           "Taiwan"
         ], 
         "alias_ENG_P": [
           "Taiwan"
         ], 
+        "hierarchy": [
+          "woe:country=23424971", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 25.287191467507697, 
         "alias_RUM_Q": [
           "Taiwan"
         ], 
-        "ne_longitude": 122.00560673035795, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Taiwan", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub300\ub9cc"
         ], 
-        "alias_POR_Q": [
-          "Ilha de Formosa"
-        ], 
+        "ne:ne_10m_adm": "TWN", 
         "alias_KOR_Q": [
           "\ud0c0\uc774\uc644 \uc12c"
         ], 
         "ne:SUBUNIT": "Taiwan", 
+        "ne:ISO_N3": 158.0, 
         "ne:ADM0_A3": "TWN", 
-        "ne:SOVEREIGNT": "Taiwan", 
         "ne:ScaleRank": 1, 
+        "ne:GDP_MD_EST": 712000.0, 
         "ne:NAME": "Taiwan", 
         "alias_CHI_V": [
           "\u53f0\u7063"
@@ -2246,7 +2240,6 @@
         "alias_POL_Q": [
           "Tajwan"
         ], 
-        "fullname": "\u81fa\u7063, Taiwan", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Isla de Taiw\u00e1n"
@@ -2273,6 +2266,7 @@
         "alias_SPA_V": [
           "Taiw\u00e1n"
         ], 
+        "wikipedia:id": "25734", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2292,7 +2286,7 @@
         "alias_GER_Q": [
           "Taiwan"
         ], 
-        "ne:ISO_N3": 158.0, 
+        "ne:SOVEREIGNT": "Taiwan", 
         "lang": "CHI", 
         "ne:OID_": 242, 
         "name": "\u81fa\u7063", 
@@ -2302,28 +2296,37 @@
         "alias_UNK_S": [
           "Taivan"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ta\u00edvan"
         ], 
         "ne:POSTAL": "TW", 
-        "ne:NAME_SORT": "Taiwan", 
+        "ne_longitude": 122.00560673035795, 
         "longitude": 121.024, 
         "ne:POP_EST": 22974347.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "TW", 
         "sw_latitude": 21.904400533302052, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 712000.0, 
+        "fullname": "\u81fa\u7063, Taiwan", 
+        "alias_FRE_Q": [
+          "Ta\u00efwan"
+        ], 
         "alias_ENG_A": [
           "ROC"
         ], 
-        "wikipedia:id": "25734", 
-        "alias_FRE_Q": [
-          "Ta\u00efwan"
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Ilha de Formosa"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424971, 
+      "bbox": [
+        120.1061885926124, 
+        21.970571397382113, 
+        121.95124393116146, 
+        25.295458889257386
+      ]
     }
   ], 
   "bbox": [

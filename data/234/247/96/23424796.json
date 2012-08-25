@@ -8751,44 +8751,34 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424796, 
-      "bbox": [
-        8.08997684086225, 
-        54.80001455343793, 
-        12.690006137755631, 
-        57.73001658795485
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Denmark"
         ], 
-        "alias_HUN_Q": [
-          "D\u00e1nia"
-        ], 
-        "ne:ne_10m_adm": "DNK", 
-        "alias_KOR_Q": [
-          "\ub374\ub9c8\ud06c"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_ENG_P": [
           "Denmark"
         ], 
+        "hierarchy": [
+          "woe:country=23424796", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 57.7508946736253, 
+        "ne:GU_A3": "DNK", 
         "alias_RUM_Q": [
           "Danemarca"
         ], 
-        "ne:NAME_SORT": "Denmark", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Dinamarca"
+        "alias_UNK_V": [
+          "Dhan\u00eda"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "DNK", 
         "alias_ENG_A": [
           "DNK"
         ], 
         "ne:SUBUNIT": "Denmark", 
+        "ne:ISO_N3": 208.0, 
         "ne:ADM0_A3": "DNK", 
-        "ne:SOVEREIGNT": "Denmark", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e39\u9ea5"
         ], 
@@ -8797,8 +8787,8 @@
         ], 
         "ne:NAME": "Denmark", 
         "ne:POSTAL": "DK", 
-        "alias_GER_Q": [
-          "D\u00e4nemark"
+        "alias_DAN_V": [
+          "Kongeriget Danmark"
         ], 
         "alias_JPN_Q": [
           "\u30c7\u30f3\u30de\u30fc\u30af"
@@ -8827,12 +8817,17 @@
         "ne:ISO_A2": "DK", 
         "date_indexed": "2010-12-02T16:13:18Z", 
         "ne:NAME_FORMA": "Kingdom of Denmark", 
-        "fullname": "Danmark, Denmark", 
-        "ne:GU_A3": "DNK", 
+        "alias_CHI_V": [
+          "\u4e39\u9ea6"
+        ], 
+        "alias_KOR_Q": [
+          "\ub374\ub9c8\ud06c"
+        ], 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Denmark", 
         "ne:SU_A3": "DNK", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 203600.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -8849,10 +8844,10 @@
         "alias_GER_V": [
           "K\u00f6nigreich D\u00e4nemark"
         ], 
-        "alias_DAN_V": [
-          "Kongeriget Danmark"
+        "alias_GER_Q": [
+          "D\u00e4nemark"
         ], 
-        "ne:ISO_N3": 208.0, 
+        "fullname": "Danmark, Denmark", 
         "alias_GER_S": [
           "Daenemark"
         ], 
@@ -8862,16 +8857,13 @@
         "alias_UNK_S": [
           "Danmork"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Danska"
         ], 
-        "alias_CHI_V": [
-          "\u4e39\u9ea6"
+        "alias_HUN_Q": [
+          "D\u00e1nia"
         ], 
-        "alias_UNK_V": [
-          "Dhan\u00eda"
-        ], 
+        "ne:NAME_SORT": "Denmark", 
         "longitude": 9.517, 
         "ne:POP_EST": 5500510.0, 
         "ne:TYPE": "Country", 
@@ -8882,13 +8874,24 @@
         "alias_CZE_S": [
           "Dansko"
         ], 
-        "ne:GDP_MD_EST": 203600.0, 
-        "wikipedia:id": "76972", 
-        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Denmark", 
         "alias_FRE_Q": [
           "Danemark"
+        ], 
+        "wikipedia:id": "76972", 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Dinamarca"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424796, 
+      "bbox": [
+        8.08997684086225, 
+        54.80001455343793, 
+        12.690006137755631, 
+        57.73001658795485
+      ]
     }
   ], 
   "bbox": [

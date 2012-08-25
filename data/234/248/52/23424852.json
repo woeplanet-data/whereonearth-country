@@ -1641,14 +1641,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424852, 
-      "bbox": [
-        34.26543338393569, 
-        29.501326198844524, 
-        35.836396925608625, 
-        33.2774264592763
-      ], 
       "properties": {
         "alias_ENG_V": [
           "State of Israel"
@@ -1659,16 +1651,22 @@
         "alias_POL_Q": [
           "Izrael"
         ], 
+        "hierarchy": [
+          "woe:country=23424852", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.40672170046909, 
-        "ne:NAME_SORT": "Israel", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Yisra'el"
+        ], 
+        "placetype": "country", 
         "ne:ne_10m_adm": "ISR", 
         "alias_KOR_Q": [
           "\uc774\uc2a4\ub77c\uc5d8"
         ], 
         "ne:SUBUNIT": "Israel", 
+        "ne:ISO_N3": 376.0, 
         "ne:ADM0_A3": "ISR", 
-        "ne:SOVEREIGNT": "Israel", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4ee5\u8272\u5217"
@@ -1698,12 +1696,13 @@
         "ne:ISO_A2": "IL", 
         "date_indexed": "2010-12-02T08:53:06Z", 
         "ne:NAME_FORMA": "State of Israel", 
-        "fullname": "Israel", 
         "ne:GU_A3": "ISR", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Israel", 
         "ne:GEOUNIT": "Israel", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 201400.0, 
+        "wikipedia:id": "9282173", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1716,33 +1715,37 @@
         "alias_GER_V": [
           "Staat Israel"
         ], 
-        "ne:ISO_N3": 376.0, 
+        "fullname": "Israel", 
         "lang": "ENG", 
         "name": "Israel", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Izrael"
         ], 
         "alias_HUN_Q": [
           "Izrael"
         ], 
-        "alias_UNK_V": [
-          "Yisra'el"
-        ], 
+        "ne:NAME_SORT": "Israel", 
         "longitude": 35.361, 
         "ne:POP_EST": 7233701.0, 
         "ne_longitude": 35.888072550010236, 
         "iso": "IL", 
         "sw_latitude": 29.48944142692966, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Israel", 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 201400.0, 
-        "wikipedia:id": "9282173", 
         "alias_FRE_Q": [
           "Isra\u00ebl"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424852, 
+      "bbox": [
+        34.26543338393569, 
+        29.501326198844524, 
+        35.836396925608625, 
+        33.2774264592763
+      ]
     }
   ], 
   "bbox": [

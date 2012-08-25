@@ -3923,8 +3923,14 @@
           ]
         ]
       }, 
-      "id": 23424806, 
       "type": "Feature", 
+      "id": 23424806, 
+      "bbox": [
+        36.32318891779812, 
+        12.455415757695675, 
+        43.08122602720016, 
+        17.998307399970315
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Ertra"
@@ -3935,12 +3941,16 @@
         "alias_POL_Q": [
           "Erytrea"
         ], 
+        "hierarchy": [
+          "woe:country=23424806", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.00469024679991, 
         "alias_RUM_Q": [
           "Eritreea"
         ], 
-        "ne:NAME_SORT": "Eritrea", 
-        "placetype": "Country", 
+        "ne_longitude": 43.124323364550094, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc5d0\ub9ac\ud2b8\ub9ac\uc544"
         ], 
@@ -3954,13 +3964,12 @@
           "\uc5d0\ub9ac\ud2b8\ub808\uc544"
         ], 
         "ne:SUBUNIT": "Eritrea", 
-        "ne:ISO_N3": 232.0, 
         "ne:ADM0_A3": "ERI", 
+        "ne:SOVEREIGNT": "Eritrea", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5384\u5229\u5782\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 3945.0, 
         "ne:NAME": "Eritrea", 
         "alias_CHI_V": [
           "\u5384\u5229\u5782\u4e9e"
@@ -3969,6 +3978,7 @@
           "\u30a8\u30ea\u30c8\u30ea\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Eritrea", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 36.42364709494177, 
@@ -3989,41 +3999,34 @@
         "ne:LabelRank": 5, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "l'\u00c9rythr\u00e9e"
+        ], 
         "ne:ABBREV": "Erit.", 
+        "alias_FRE_S": [
+          "l'Erythree"
+        ], 
         "alias_GER_V": [
           "Staat Eritrea"
         ], 
-        "ne:SOVEREIGNT": "Eritrea", 
+        "ne:ISO_N3": 232.0, 
         "lang": "ENG", 
         "name": "Eritrea", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Eritreja"
         ], 
         "ne:POSTAL": "ER", 
-        "ne_longitude": 43.124323364550094, 
+        "ne:NAME_SORT": "Eritrea", 
         "longitude": 39.951, 
         "ne:POP_EST": 5647168.0, 
         "iso": "ER", 
         "sw_latitude": 12.360021870927625, 
-        "alias_FRE_V": [
-          "l'\u00c9rythr\u00e9e"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 3945.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Eritrea", 
-        "alias_FRE_S": [
-          "l'Erythree"
-        ], 
         "ne:ne_10m_adm": "ERI"
-      }, 
-      "bbox": [
-        36.32318891779812, 
-        12.455415757695675, 
-        43.08122602720016, 
-        17.998307399970315
-      ]
+      }
     }
   ], 
   "bbox": [

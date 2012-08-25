@@ -751,8 +751,14 @@
           ]
         ]
       }, 
-      "id": 23424958, 
       "type": "Feature", 
+      "id": 23424958, 
+      "bbox": [
+        -61.95, 
+        10.0, 
+        -60.895, 
+        10.89
+      ], 
       "properties": {
         "alias_POL_V": [
           "Trinidad i Tobago"
@@ -760,37 +766,38 @@
         "alias_ENG_V": [
           "Trinidad & Tobago"
         ], 
-        "ne:ne_10m_adm": "TTO", 
+        "alias_HUN_Q": [
+          "Trinidad \u00c9s Tobago"
+        ], 
         "alias_SWE_Q": [
           "Trinidad och Tobago"
         ], 
         "alias_POL_Q": [
           "Trynidad I Tobago"
         ], 
+        "hierarchy": [
+          "woe:country=23424958", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 11.350936177814674, 
-        "ne:GU_A3": "TTO", 
         "alias_RUM_Q": [
           "Trinidad-Tobago"
         ], 
-        "alias_UNK_V": [
-          "Trinidad ja Tobago"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Trinidad and Tobago", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\ud1a0\ubc14\uace0"
         ], 
         "alias_POR_V": [
           "Trindade e Tobago"
         ], 
-        "alias_POR_Q": [
-          "Trinidad E Tobago"
-        ], 
+        "ne:ne_10m_adm": "TTO", 
         "alias_ENG_A": [
           "TT"
         ], 
         "ne:SUBUNIT": "Trinidad and Tobago", 
-        "ne:ISO_N3": 780.0, 
         "ne:ADM0_A3": "TTO", 
+        "ne:SOVEREIGNT": "Trinidad and Tobago", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
@@ -798,11 +805,14 @@
         "alias_ITA_Q": [
           "Trinidad e Tobago"
         ], 
-        "alias_DAN_Q": [
-          "Trinidad og Tobago"
+        "alias_GER_V": [
+          "Republik Trinidad und Tobago"
         ], 
         "ne:NAME": "Trinidad and Tobago", 
         "ne:POSTAL": "TT", 
+        "alias_KOR_Q": [
+          "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
+        ], 
         "alias_JPN_Q": [
           "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4"
         ], 
@@ -828,20 +838,15 @@
         "ne:ISO_A2": "TT", 
         "date_indexed": "2010-12-02T18:05:31Z", 
         "ne:NAME_FORMA": "Republic of Trinidad and Tobago", 
-        "alias_CHI_V": [
-          "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
+        "fullname": "Trinidad and Tobago", 
+        "alias_FRE_V": [
+          "Trinidad et Tobago"
         ], 
-        "alias_KOR_Q": [
-          "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
-        ], 
+        "ne:GU_A3": "TTO", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Trinidad and Tobago", 
         "ne:GEOUNIT": "Trinidad and Tobago", 
         "ne:LabelRank": 6, 
-        "ne:GDP_MD_EST": 29010.0, 
-        "alias_RUM_V": [
-          "Trinidad \u015fi Tobago"
-        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -851,55 +856,53 @@
         "alias_CZE_Q": [
           "Trinidad a Tobago"
         ], 
+        "alias_FRE_S": [
+          "Trinite-et-Tobago"
+        ], 
         "alias_FIN_Q": [
           "Trinidad ja Tobago"
         ], 
-        "alias_GER_V": [
-          "Republik Trinidad und Tobago"
+        "alias_DAN_Q": [
+          "Trinidad og Tobago"
         ], 
         "alias_GER_Q": [
           "Trinidad und Tobago"
         ], 
-        "fullname": "Trinidad and Tobago", 
+        "ne:ISO_N3": 780.0, 
         "lang": "ENG", 
         "ne:OID_": 248, 
         "name": "Trinidad and Tobago", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Trinidad in Tobago"
         ], 
-        "alias_HUN_Q": [
-          "Trinidad \u00c9s Tobago"
+        "alias_CHI_V": [
+          "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
         ], 
         "alias_HUN_V": [
           "Trinidad \u00e9s Tobago"
         ], 
-        "ne:NAME_SORT": "Trinidad and Tobago", 
+        "alias_UNK_V": [
+          "Trinidad ja Tobago"
+        ], 
         "longitude": -61.417, 
         "ne:POP_EST": 1310000.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -60.52133988499028, 
         "iso": "TT", 
         "sw_latitude": 10.041868794798518, 
-        "alias_FRE_V": [
-          "Trinidad et Tobago"
+        "alias_RUM_V": [
+          "Trinidad \u015fi Tobago"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Trinidad and Tobago", 
-        "alias_FRE_S": [
-          "Trinite-et-Tobago"
-        ], 
+        "ne:GDP_MD_EST": 29010.0, 
         "alias_FRE_Q": [
           "Trinit\u00e9-et-Tobago"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Trinidad E Tobago"
         ]
-      }, 
-      "bbox": [
-        -61.95, 
-        10.0, 
-        -60.895, 
-        10.89
-      ]
+      }
     }
   ], 
   "bbox": [

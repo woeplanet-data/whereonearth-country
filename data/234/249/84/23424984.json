@@ -16543,44 +16543,36 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424984, 
-      "bbox": [
-        102.17043582561358, 
-        8.599759629750494, 
-        109.33526981001722, 
-        23.352063300056912
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Socialist Republic of Vietnam"
         ], 
-        "ne:ne_10m_adm": "VNM", 
-        "alias_KOR_Q": [
-          "\ubca0\ud2b8\ub0a8"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Wietnam"
         ], 
+        "hierarchy": [
+          "woe:country=23424984", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 23.366275126250443, 
-        "ne_longitude": 109.47283166569775, 
-        "placetype": "Country", 
+        "ne:GU_A3": "VNM", 
+        "ne:NAME_SORT": "Vietnam", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Vietn\u00e3"
         ], 
-        "alias_POR_Q": [
-          "Vietname"
-        ], 
+        "ne:ne_10m_adm": "VNM", 
         "alias_ENG_A": [
           "VN"
         ], 
         "ne:SUBUNIT": "Vietnam", 
+        "ne:ISO_N3": 704.0, 
         "ne:ADM0_A3": "VNM", 
-        "ne:SOVEREIGNT": "Vietnam", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8d8a\u5357"
         ], 
+        "ne:GDP_MD_EST": 241700.0, 
         "ne:NAME": "Vietnam", 
         "ne:POSTAL": "VN", 
         "alias_JPN_Q": [
@@ -16603,42 +16595,53 @@
         "ne:ISO_A2": "VN", 
         "date_indexed": "2010-12-02T08:52:49Z", 
         "ne:NAME_FORMA": "Socialist Republic of Vietnam", 
-        "fullname": "Vietnam", 
-        "ne:GU_A3": "VNM", 
+        "alias_KOR_Q": [
+          "\ubca0\ud2b8\ub0a8"
+        ], 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Vietnam", 
         "ne:GEOUNIT": "Vietnam", 
         "ne:LabelRank": 2, 
+        "wikipedia:id": "202354", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "Viet Nam"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Viet.", 
         "alias_DUT_V": [
           "Viet-Nam"
         ], 
-        "ne:ISO_N3": 704.0, 
+        "fullname": "Vietnam", 
         "lang": "ENG", 
         "name": "Vietnam", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "V\u00edetnam"
         ], 
-        "ne:NAME_SORT": "Vietnam", 
+        "ne_longitude": 109.47283166569775, 
         "longitude": 107.868, 
         "ne:POP_EST": 86967524.0, 
         "iso": "VN", 
         "sw_latitude": 8.565395609871203, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 241700.0, 
-        "wikipedia:id": "202354", 
+        "alias_FRE_V": [
+          "Viet Nam"
+        ], 
+        "ne:SOVEREIGNT": "Vietnam", 
         "alias_FRE_Q": [
           "Vi\u00eat Nam"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Vietname"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424984, 
+      "bbox": [
+        102.17043582561358, 
+        8.599759629750494, 
+        109.33526981001722, 
+        23.352063300056912
+      ]
     }
   ], 
   "bbox": [

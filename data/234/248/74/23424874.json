@@ -2069,38 +2069,47 @@
           ]
         ]
       }, 
-      "id": 23424874, 
       "type": "Feature", 
+      "id": 23424874, 
+      "bbox": [
+        21.055800408622417, 
+        55.615106919977634, 
+        28.176709425577997, 
+        57.97015696881519
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Latvia"
         ], 
-        "ne:ne_10m_adm": "LVA", 
+        "alias_HUN_Q": [
+          "Lettorsz\u00e1g"
+        ], 
         "alias_SWE_Q": [
           "Lettland"
         ], 
         "alias_ENG_P": [
           "Latvia"
         ], 
+        "hierarchy": [
+          "woe:country=23424874", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 58.07513844860267, 
-        "ne:GU_A3": "LVA", 
         "alias_RUM_Q": [
           "Letonia"
         ], 
-        "ne:NAME_SORT": "Latvia", 
-        "placetype": "Country", 
+        "ne_longitude": 28.217274617127657, 
+        "placetype": "country", 
         "alias_POR_V": [
           "Let\u00f4nia"
         ], 
-        "alias_POR_Q": [
-          "Let\u00f3nia"
-        ], 
+        "ne:ne_10m_adm": "LVA", 
         "alias_KOR_Q": [
           "\ub77c\ud2b8\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Latvia", 
-        "ne:ISO_N3": 428.0, 
         "ne:ADM0_A3": "LVA", 
+        "ne:SOVEREIGNT": "Latvia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u62c9\u812b\u7dad\u4e9e"
@@ -2108,8 +2117,8 @@
         "alias_ITA_Q": [
           "Lettonia"
         ], 
-        "alias_DAN_Q": [
-          "Letland"
+        "alias_GER_V": [
+          "Republik Lettland"
         ], 
         "ne:NAME": "Latvia", 
         "ne:POSTAL": "LV", 
@@ -2142,17 +2151,12 @@
         "ne:ISO_A2": "LV", 
         "date_indexed": "2010-12-02T08:49:48Z", 
         "ne:NAME_FORMA": "Republic of Latvia", 
-        "alias_CHI_V": [
-          "\u62c9\u8131\u7ef4\u4e9a"
-        ], 
-        "alias_ENG_A": [
-          "LV"
-        ], 
+        "fullname": "Latvija, Latvia", 
+        "ne:GU_A3": "LVA", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Latvia", 
         "ne:SU_A3": "LVA", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 38860.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2166,46 +2170,45 @@
         "alias_FIN_Q": [
           "Latvia"
         ], 
-        "alias_GER_V": [
-          "Republik Lettland"
+        "alias_DAN_Q": [
+          "Letland"
         ], 
         "alias_GER_Q": [
           "Lettland"
         ], 
-        "fullname": "Latvija, Latvia", 
+        "ne:ISO_N3": 428.0, 
         "lang": "UNK", 
         "ne:OID_": 165, 
         "ne:GEOUNIT": "Latvia", 
         "name": "Latvija", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Republika Latvija"
         ], 
-        "alias_HUN_Q": [
-          "Lettorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u62c9\u8131\u7ef4\u4e9a"
         ], 
-        "ne_longitude": 28.217274617127657, 
+        "ne:NAME_SORT": "Latvia", 
         "longitude": 24.608, 
         "ne:POP_EST": 2231503.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "LV", 
         "sw_latitude": 55.666990865412686, 
         "alias_HUN_S": [
           "Lettorszag"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Latvia", 
-        "ne:SU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "LV"
+        ], 
+        "ne:GDP_MD_EST": 38860.0, 
         "alias_FRE_Q": [
           "Lettonie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Let\u00f3nia"
         ]
-      }, 
-      "bbox": [
-        21.055800408622417, 
-        55.615106919977634, 
-        28.176709425577997, 
-        57.97015696881519
-      ]
+      }
     }
   ], 
   "bbox": [

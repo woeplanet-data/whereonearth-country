@@ -214,9 +214,13 @@
           "\uad0c"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424832", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.653922221194506, 
-        "ne:NAME_SORT": "Guam", 
-        "placetype": "Country", 
+        "ne_longitude": 144.95257816627543, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uad0c\uc12c"
         ], 
@@ -225,13 +229,12 @@
           "GU"
         ], 
         "ne:SUBUNIT": "Guam", 
-        "ne:ISO_N3": 316.0, 
         "ne:ADM0_A3": "GUM", 
-        "ne:SOVEREIGNT": "United States of America", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u95dc\u5cf6"
         ], 
+        "ne:GDP_MD_EST": 2500.0, 
         "ne:NAME": "Guam", 
         "alias_CHI_V": [
           "\u5173\u5c9b"
@@ -255,6 +258,7 @@
         "ne:ISO_A2": "GU", 
         "date_indexed": "2010-12-02T18:21:30Z", 
         "ne:SOV_A3": "US1", 
+        "fullname": "Guam", 
         "ne:GU_A3": "GUM", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Guam", 
@@ -266,20 +270,19 @@
         "alias_DUT_V": [
           "Goeam"
         ], 
-        "ne:GDP_MD_EST": 2500.0, 
+        "ne:ISO_N3": 316.0, 
         "lang": "ENG", 
         "name": "Guam", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "GU", 
-        "ne_longitude": 144.95257816627543, 
+        "ne:NAME_SORT": "Guam", 
         "longitude": 144.787, 
         "ne:POP_EST": 178430.0, 
         "iso": "GU", 
         "sw_latitude": 13.240794983175007, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Guam"
+        "ne:SOVEREIGNT": "United States of America"
       }, 
       "id": 23424832
     }

@@ -366,33 +366,35 @@
         "alias_SWE_V": [
           "St Helena"
         ], 
-        "ne:ne_10m_adm": "SHN", 
+        "alias_HUN_Q": [
+          "Szent Ilona"
+        ], 
         "alias_SWE_Q": [
           "Sankta Helena"
         ], 
         "alias_POL_Q": [
           "Wyspa \u015awi\u0119tej Heleny"
         ], 
+        "hierarchy": [
+          "woe:country=23424944", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -7.877967631190856, 
-        "ne:POSTAL": "SH", 
+        "ne:GU_A3": "SHN", 
         "alias_RUM_Q": [
           "Insula Sf\u00e2nta Elena"
         ], 
-        "ne:NAME_SORT": "Saint Helena", 
-        "placetype": "Country", 
+        "ne_longitude": -5.649753784394619, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc138\uc778\ud2b8 \ud5ec\ub808\ub098"
         ], 
-        "alias_POR_Q": [
-          "Santa Helena"
-        ], 
+        "ne:ne_10m_adm": "SHN", 
         "alias_ENG_A": [
           "SH"
         ], 
         "ne:SUBUNIT": "Saint Helena", 
-        "ne:ISO_N3": 654.0, 
         "ne:ADM0_A3": "SHN", 
-        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u8056\u8d6b\u502b\u90a3"
@@ -400,17 +402,16 @@
         "alias_ITA_Q": [
           "Sant'Elena"
         ], 
-        "alias_GER_V": [
+        "alias_DAN_Q": [
           "Sankt Helena"
         ], 
         "ne:NAME": "Saint Helena", 
-        "alias_CHI_V": [
-          "\u8056\u8d6b\u502b\u90a3"
-        ], 
+        "ne:POSTAL": "SH", 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "St Helena Ascension and Tristan da Cunha, Saint Helena", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Santa Helena"
@@ -429,6 +430,9 @@
         "ne:ISO_A2": "SH", 
         "date_indexed": "2010-12-02T07:50:25Z", 
         "ne:SOV_A3": "GB1", 
+        "alias_FRE_V": [
+          "\u00cele Sainte-H\u00e9l\u00e8ne"
+        ], 
         "alias_KOR_Q": [
           "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"
         ], 
@@ -436,6 +440,7 @@
         "ne:ADMIN": "Saint Helena", 
         "ne:SU_A3": "SHN", 
         "ne:LabelRank": 3, 
+        "ne:GDP_MD_EST": 18.0, 
         "alias_SPA_V": [
           "Santa Elena"
         ], 
@@ -445,14 +450,16 @@
           "Sint-Helena"
         ], 
         "ne:ABBREV": "St.H.", 
-        "ne:GU_A3": "SHN", 
-        "alias_DAN_Q": [
+        "alias_FRE_S": [
+          "Sainte-Helene Ascension et Tristan da Cunha"
+        ], 
+        "alias_GER_V": [
           "Sankt Helena"
         ], 
         "alias_GER_Q": [
           "St. Helena"
         ], 
-        "ne:GDP_MD_EST": 18.0, 
+        "ne:ISO_N3": 654.0, 
         "lang": "ENG", 
         "ne:OID_": 58, 
         "name": "St Helena Ascension and Tristan da Cunha", 
@@ -460,29 +467,25 @@
           "Svat\u00e1 Helena"
         ], 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Sankt Helena"
         ], 
-        "alias_HUN_Q": [
-          "Szent Ilona"
+        "alias_CHI_V": [
+          "\u8056\u8d6b\u502b\u90a3"
         ], 
-        "ne_longitude": -5.649753784394619, 
+        "ne:NAME_SORT": "Saint Helena", 
         "longitude": -14.342, 
         "ne:POP_EST": 7637.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "SH", 
         "sw_latitude": -40.39789479582775, 
-        "alias_FRE_V": [
-          "\u00cele Sainte-H\u00e9l\u00e8ne"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "St Helena Ascension and Tristan da Cunha, Saint Helena", 
-        "alias_FRE_S": [
-          "Sainte-Helene Ascension et Tristan da Cunha"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "alias_FRE_Q": [
           "Sainte-H\u00e9l\u00e8ne Ascension et Tristan da Cunha"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Santa Helena"
         ]
       }, 
       "id": 23424944

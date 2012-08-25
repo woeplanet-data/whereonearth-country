@@ -361,7 +361,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "St. Vincent and the Grenadines"
         ], 
@@ -369,12 +368,13 @@
           "Saint Vincent och Grenadinerna"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 13.380528056289364, 
-        "ne:GU_A3": "VCT", 
-        "alias_UNK_V": [
-          "Sankt Vincent og Grenadinene"
+        "hierarchy": [
+          "woe:country=23424981", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 13.380528056289364, 
+        "ne:NAME_SORT": "Saint Vincent and the Grenadines", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc138\uc778\ud2b8 \ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
         ], 
@@ -383,9 +383,7 @@
           "VC"
         ], 
         "ne:SUBUNIT": "Saint Vincent and the Grenadines", 
-        "ne:ISO_N3": 670.0, 
         "ne:ADM0_A3": "VCT", 
-        "ne:SOVEREIGNT": "Saint Vincent and the Grenadines", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01"
@@ -399,7 +397,9 @@
         "alias_CHI_V": [
           "\u8056\u6587\u68ee\u53ca\u683c\u745e\u90a3\u4e01"
         ], 
-        "ne:NAME_SORT": "Saint Vincent and the Grenadines", 
+        "alias_KOR_Q": [
+          "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8\uadf8\ub808\ub098\ub518"
+        ], 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
         ], 
@@ -410,9 +410,7 @@
         "alias_SPA_Q": [
           "San Vicente y Granadinas"
         ], 
-        "alias_FIN_Q": [
-          "Saint Vincent ja Grenadiinit"
-        ], 
+        "ne:TERR_": null, 
         "sw_longitude": -61.45980973317617, 
         "ne:NAME_FORMA": null, 
         "ne:GEOUNIT": "Saint Vincent and the Grenadines", 
@@ -428,13 +426,16 @@
         "ne:ISO_A2": "VC", 
         "date_indexed": "2010-12-02T09:57:22Z", 
         "ne:SOV_A3": "VCT", 
-        "alias_KOR_Q": [
-          "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8\uadf8\ub808\ub098\ub518"
+        "fullname": "Saint Vincent and the Grenadines", 
+        "alias_FRE_V": [
+          "Saint-Vincent et les Grenadines"
         ], 
+        "ne:GU_A3": "VCT", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Saint Vincent and the Grenadines", 
         "ne:SU_A3": "VCT", 
         "ne:LabelRank": 8, 
+        "ne:GDP_MD_EST": 1070.0, 
         "alias_SPA_V": [
           "San Vicente y Las Granadinas"
         ], 
@@ -447,34 +448,36 @@
         "alias_DUT_V": [
           "St. Vincent en de Grenadines"
         ], 
+        "alias_FIN_Q": [
+          "Saint Vincent ja Grenadiinit"
+        ], 
         "alias_GER_V": [
           "St. Vincent und Grenadinen"
         ], 
         "alias_GER_Q": [
           "St. Vincent und die Grenadinen"
         ], 
-        "ne:GDP_MD_EST": 1070.0, 
+        "ne:ISO_N3": 670.0, 
         "ne:NAME": "St. Vin. and Gren.", 
         "lang": "ENG", 
         "ne:OID_": 218, 
         "name": "Saint Vincent and the Grenadines", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Saint Vincent in Grenadine"
         ], 
         "ne:POSTAL": "VC", 
-        "ne_longitude": -61.12321529177919, 
+        "alias_UNK_V": [
+          "Sankt Vincent og Grenadinene"
+        ], 
         "longitude": -61.196, 
         "ne:POP_EST": 104574.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": -61.12321529177919, 
         "iso": "VC", 
         "sw_latitude": 12.585176086519127, 
         "ne:ISO_A3": "VCT", 
-        "alias_FRE_V": [
-          "Saint-Vincent et les Grenadines"
-        ], 
-        "fullname": "Saint Vincent and the Grenadines", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Saint Vincent and the Grenadines", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Saint-Vincent-et-Les-Grenadines"

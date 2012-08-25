@@ -2739,57 +2739,49 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424967, 
-      "bbox": [
-        7.524481642292244, 
-        30.307556057246188, 
-        11.488787469131012, 
-        37.349994411766545
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Tunisia"
         ], 
-        "alias_HUN_Q": [
-          "Tun\u00e9zia"
-        ], 
-        "ne:ne_10m_adm": "TUN", 
         "alias_SWE_Q": [
           "Tunisien"
         ], 
         "alias_POL_Q": [
           "Tunezja"
         ], 
-        "ne_latitude": 37.34495676724664, 
-        "ne:NAME_SORT": "Tunisia", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Tun\u00edsia"
+        "hierarchy": [
+          "woe:country=23424967", 
+          "woe:planet=1"
         ], 
+        "ne_latitude": 37.34495676724664, 
+        "alias_UNK_V": [
+          "Republika Tunizija"
+        ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "TUN", 
         "alias_KOR_Q": [
           "\ud280\ub2c8\uc9c0"
         ], 
         "ne:SUBUNIT": "Tunisia", 
+        "ne:ISO_N3": 788.0, 
         "ne:ADM0_A3": "TUN", 
-        "ne:SOVEREIGNT": "Tunisia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7a81\u5c3c\u897f\u4e9e"
         ], 
-        "alias_GER_V": [
-          "Tunesische Republik"
+        "ne:GDP_MD_EST": 81710.0, 
+        "alias_DAN_Q": [
+          "Tunesien"
         ], 
         "ne:NAME": "Tunisia", 
         "ne:POSTAL": "TN", 
-        "alias_GER_Q": [
-          "Tunesien"
+        "alias_DAN_V": [
+          "Tunis"
         ], 
         "alias_JPN_Q": [
           "\u30c1\u30e5\u30cb\u30b8\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30c1\u30e5\u30cb\u30b8\u30a2\u5171\u548c\u56fd"
         ], 
@@ -2812,12 +2804,18 @@
         "ne:ISO_A2": "TN", 
         "date_indexed": "2010-12-02T18:19:01Z", 
         "ne:NAME_FORMA": "Republic of Tunisia", 
-        "fullname": "Tunisia", 
+        "alias_CHI_V": [
+          "\u7a81\u5c3c\u65af"
+        ], 
         "ne:GU_A3": "TUN", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Tunisia", 
         "ne:GEOUNIT": "Tunisia", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "TN"
+        ], 
+        "wikipedia:id": "30188", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2830,13 +2828,13 @@
         "alias_CZE_Q": [
           "Tunisko"
         ], 
-        "alias_DAN_Q": [
+        "alias_GER_V": [
+          "Tunesische Republik"
+        ], 
+        "alias_GER_Q": [
           "Tunesien"
         ], 
-        "alias_DAN_V": [
-          "Tunis"
-        ], 
-        "ne:ISO_N3": 788.0, 
+        "fullname": "Tunisia", 
         "lang": "ENG", 
         "name": "Tunisia", 
         "alias_CZE_V": [
@@ -2845,32 +2843,37 @@
         "alias_UNK_S": [
           "Tunis"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Tunizija"
         ], 
-        "alias_CHI_V": [
-          "\u7a81\u5c3c\u65af"
+        "alias_HUN_Q": [
+          "Tun\u00e9zia"
         ], 
-        "alias_UNK_V": [
-          "Republika Tunizija"
-        ], 
+        "ne:NAME_SORT": "Tunisia", 
         "longitude": 9.562, 
         "ne:POP_EST": 10486339.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 11.564130899693794, 
         "iso": "TN", 
         "sw_latitude": 30.228905334958526, 
-        "alias_ENG_A": [
-          "TN"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 81710.0, 
-        "wikipedia:id": "30188", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Tunisia", 
         "alias_FRE_Q": [
           "Tunisie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Tun\u00edsia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424967, 
+      "bbox": [
+        7.524481642292244, 
+        30.307556057246188, 
+        11.488787469131012, 
+        37.349994411766545
+      ]
     }
   ], 
   "bbox": [

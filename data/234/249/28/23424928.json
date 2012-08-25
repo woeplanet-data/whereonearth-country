@@ -37,10 +37,14 @@
         "alias_SWE_S": [
           "Omtvistat omrade"
         ], 
+        "hierarchy": [
+          "woe:country=23424928", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.985, 
-        "placetype": "Country", 
-        "alias_ENG_A": [
-          "XX"
+        "placetype": "country", 
+        "alias_KOR_Q": [
+          "\ubd84\uc7c1\uc9c0\uc5ed"
         ], 
         "alias_JPN_Q": [
           "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
@@ -58,20 +62,25 @@
         "alias_NOR_Q": [
           "Omstridt omr\u00e5de"
         ], 
-        "sw_latitude": 30.579, 
-        "alias_KOR_Q": [
-          "\ubd84\uc7c1\uc9c0\uc5ed"
+        "date_indexed": "2010-12-02T10:19:56Z", 
+        "alias_ENG_A": [
+          "XX"
         ], 
         "lang": "ENG", 
         "name": "Disputed Territory", 
-        "parent_woeid": 1, 
         "ne_longitude": 80.343, 
         "longitude": 79.099, 
         "iso": "XX", 
-        "date_indexed": "2010-12-02T10:19:56Z", 
+        "sw_latitude": 30.579, 
         "fullname": "Disputed Territory"
       }, 
       "id": 23424928
     }
+  ], 
+  "bbox": [
+    77.854, 
+    30.579, 
+    80.343, 
+    35.985
   ]
 }

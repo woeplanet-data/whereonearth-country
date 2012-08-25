@@ -795,41 +795,38 @@
         "alias_ENG_V": [
           "Marianas"
         ], 
-        "ne:ne_10m_adm": "MNP", 
+        "alias_HUN_Q": [
+          "\u00c9szaki-Mariana-Szigetek"
+        ], 
         "alias_SWE_Q": [
           "Nordmarianerna"
         ], 
         "alias_POL_Q": [
           "Mariany P\u00f3\u0142nocne"
         ], 
+        "hierarchy": [
+          "woe:country=23424788", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 20.555232238906555, 
-        "ne:POSTAL": "MP", 
+        "ne:GU_A3": "MNP", 
         "alias_RUM_Q": [
           "Insulele Mariane de Nord"
         ], 
-        "alias_UNK_V": [
-          "Zveza Severni Marianski otoki"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Mariana Islands, Northern", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ubd81\ub9c8\ub9ac\uc544\ub098 \uad70\ub3c4"
         ], 
         "alias_POR_V": [
           "Ilhas Marianas do Norte"
         ], 
-        "alias_POR_Q": [
-          "Marianas Setentrionais"
-        ], 
+        "ne:ne_10m_adm": "MNP", 
         "alias_ENG_A": [
           "MP"
         ], 
         "ne:SUBUNIT": "Northern Mariana Islands", 
-        "ne:NAME_SORT": "Mariana Islands, Northern", 
-        "ne:ISO_N3": 580.0, 
-        "alias_CZE_Q": [
-          "Severn\u00ed Mariany"
-        ], 
-        "ne:SOVEREIGNT": "United States of America", 
+        "ne:ADM0_A3": "MNP", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5317\u99ac\u91cc\u4e9e\u7d0d\u7fa4\u5cf6\u90a6"
@@ -837,17 +834,13 @@
         "alias_ITA_Q": [
           "Isole Marianne Settentrionali"
         ], 
-        "alias_GER_V": [
-          "N\u00f6rdliche Marianen"
+        "alias_DAN_Q": [
+          "Nordmarianerne"
         ], 
         "alias_ITA_V": [
           "Marianne Settentrionali, isole"
         ], 
-        "ne:TERR_": "Commonwealth of U.S.A.", 
-        "alias_CHI_V": [
-          "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b\u90a6"
-        ], 
-        "ne:ADM0_A3": "MNP", 
+        "ne:POSTAL": "MP", 
         "alias_JPN_Q": [
           "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6"
         ], 
@@ -859,9 +852,7 @@
         "alias_SPA_Q": [
           "Islas Marianas del Norte"
         ], 
-        "alias_FIN_Q": [
-          "Pohjois-Mariaanit"
-        ], 
+        "ne:TERR_": "Commonwealth of U.S.A.", 
         "sw_longitude": 144.9024520266015, 
         "ne:NAME_FORMA": "Commonwealth of the Northern Mariana Islands", 
         "ne:GEOUNIT": "Northern Mariana Islands", 
@@ -875,18 +866,23 @@
         "ne:ISO_A2": "MP", 
         "date_indexed": "2010-12-02T12:08:44Z", 
         "ne:SOV_A3": "US1", 
-        "alias_FRE_V": [
-          "Mariannes du Nord"
-        ], 
+        "fullname": "Northern Mariana Islands", 
         "alias_KOR_Q": [
           "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"
         ], 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Northern Mariana Islands", 
         "ne:SU_A3": "MNP", 
+        "alias_DUT_V": [
+          "Mariannen eilanden Noordelijke"
+        ], 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 900.0, 
         "alias_SPA_V": [
           "Islas Mariana del Norte"
+        ], 
+        "alias_RUM_V": [
+          "Insulele Northern Mariana"
         ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
@@ -894,17 +890,22 @@
           "Noordelijke Marianen"
         ], 
         "ne:ABBREV": "N.M.I.", 
-        "alias_DUT_V": [
-          "Mariannen eilanden Noordelijke"
+        "alias_CZE_Q": [
+          "Severn\u00ed Mariany"
         ], 
-        "ne:GU_A3": "MNP", 
-        "alias_DAN_Q": [
-          "Nordmarianerne"
+        "alias_FRE_S": [
+          "Iles Mariannes du Nord"
+        ], 
+        "alias_FIN_Q": [
+          "Pohjois-Mariaanit"
+        ], 
+        "alias_GER_V": [
+          "N\u00f6rdliche Marianen"
         ], 
         "alias_GER_Q": [
           "N\u00f6rdlichen Marianen"
         ], 
-        "ne:GDP_MD_EST": 900.0, 
+        "ne:ISO_N3": 580.0, 
         "alias_GER_S": [
           "Noerdliche Marianen"
         ], 
@@ -913,32 +914,34 @@
         "ne:OID_": 63, 
         "name": "Northern Mariana Islands", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Severni Marianski otoki"
         ], 
-        "alias_HUN_Q": [
-          "\u00c9szaki-Mariana-Szigetek"
+        "alias_CHI_V": [
+          "\u5317\u9a6c\u91cc\u4e9a\u7eb3\u7fa4\u5c9b\u90a6"
         ], 
         "alias_HUN_V": [
           "\u00c9szaki Mariana-szigetek"
         ], 
-        "ne_longitude": 145.86926639893892, 
+        "alias_UNK_V": [
+          "Zveza Severni Marianski otoki"
+        ], 
         "longitude": 145.765, 
         "ne:POP_EST": 88662.0, 
         "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 145.86926639893892, 
         "iso": "MP", 
         "sw_latitude": 14.11045766242971, 
-        "alias_RUM_V": [
-          "Insulele Northern Mariana"
+        "alias_FRE_V": [
+          "Mariannes du Nord"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Northern Mariana Islands", 
-        "alias_FRE_S": [
-          "Iles Mariannes du Nord"
-        ], 
+        "ne:SOVEREIGNT": "United States of America", 
         "alias_FRE_Q": [
           "\u00celes Mariannes du Nord"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Marianas Setentrionais"
         ]
       }, 
       "id": 23424788

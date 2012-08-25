@@ -54,9 +54,13 @@
           "NR"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424912", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -0.490563252187272, 
-        "ne_longitude": 166.95852177009084, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Nauru", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub098\uc6b0\ub8e8\uacf5\ud654\uad6d"
         ], 
@@ -65,18 +69,16 @@
           "\ub098\uc6b0\ub8e8"
         ], 
         "ne:SUBUNIT": "Nauru", 
-        "ne:ISO_N3": 520.0, 
         "ne:ADM0_A3": "NRU", 
-        "ne:SOVEREIGNT": "Nauru", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u8afe\u9b6f"
         ], 
+        "ne:GDP_MD_EST": 60.0, 
         "ne:NAME": "Nauru", 
         "alias_CHI_V": [
           "\u7459\u9c81"
         ], 
-        "ne:NAME_SORT": "Nauru", 
         "alias_JPN_Q": [
           "\u30ca\u30a6\u30eb"
         ], 
@@ -96,36 +98,37 @@
         "ne:ISO_A2": "NR", 
         "date_indexed": "2010-12-02T16:11:23Z", 
         "ne:SOV_A3": "NRU", 
+        "fullname": "Nauru", 
         "ne:GU_A3": "NRU", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Nauru", 
         "ne:SU_A3": "NRU", 
         "ne:LabelRank": 3, 
         "ne:FeatureCla": "Adm-0 country", 
+        "alias_UNK_V": [
+          "Republika Nauru"
+        ], 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "\u00cele Nauru"
+        ], 
         "ne:ABBREV": "Nauru", 
         "alias_GER_V": [
           "Republik Nauru"
         ], 
-        "ne:GDP_MD_EST": 60.0, 
+        "ne:ISO_N3": 520.0, 
         "lang": "ENG", 
         "name": "Nauru", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "NR", 
-        "alias_UNK_V": [
-          "Republika Nauru"
-        ], 
+        "ne_longitude": 166.95852177009084, 
         "longitude": 166.922, 
         "ne:POP_EST": 14019.0, 
         "iso": "NR", 
         "sw_latitude": -0.552058207267493, 
-        "alias_FRE_V": [
-          "\u00cele Nauru"
-        ], 
-        "fullname": "Nauru", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Nauru", 
         "alias_FRE_S": [
           "Ile Nauru"
         ], 

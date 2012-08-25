@@ -1253,8 +1253,14 @@
           ]
         ]
       }, 
-      "id": 23424880, 
       "type": "Feature", 
+      "id": 23424880, 
+      "bbox": [
+        26.999261915807637, 
+        -30.645105889612225, 
+        29.32516645683259, 
+        -28.64750172293757
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Lesotho"
@@ -1263,11 +1269,13 @@
           "LS"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -28.570761413812363, 
-        "alias_UNK_V": [
-          "Kraljevina Lesoto"
+        "hierarchy": [
+          "woe:country=23424880", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": -28.570761413812363, 
+        "ne:NAME_SORT": "Lesotho", 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Lesoto"
         ], 
@@ -1275,13 +1283,12 @@
           "\ub808\uc18c\ud1a0"
         ], 
         "ne:SUBUNIT": "Lesotho", 
-        "ne:ISO_N3": 426.0, 
         "ne:ADM0_A3": "LSO", 
+        "ne:SOVEREIGNT": "Lesotho", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cf4\u7d22\u6258"
         ], 
-        "ne:GDP_MD_EST": 3293.0, 
         "ne:NAME": "Lesotho", 
         "alias_CHI_V": [
           "\u8cf4\u7d22\u6258"
@@ -1310,6 +1317,7 @@
         "ne:ISO_A2": "LS", 
         "date_indexed": "2010-12-02T08:57:23Z", 
         "ne:NAME_FORMA": "Republic of Lesotho", 
+        "fullname": "Lesotho", 
         "ne:GU_A3": "LSO", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Lesotho", 
@@ -1322,32 +1330,27 @@
         "alias_GER_V": [
           "K\u00f6nigreich Lesotho"
         ], 
-        "fullname": "Lesotho", 
+        "ne:ISO_N3": 426.0, 
         "alias_GER_S": [
           "Konigreich Lesotho"
         ], 
         "lang": "ENG", 
         "name": "Lesotho", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "LS", 
-        "ne:NAME_SORT": "Lesotho", 
+        "alias_UNK_V": [
+          "Kraljevina Lesoto"
+        ], 
         "longitude": 28.247, 
         "ne:POP_EST": 2130819.0, 
         "ne_longitude": 29.43590824351935, 
         "iso": "LS", 
         "sw_latitude": -30.65879933704518, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Lesotho", 
+        "ne:GDP_MD_EST": 3293.0, 
         "ne:ne_10m_adm": "LSO"
-      }, 
-      "bbox": [
-        26.999261915807637, 
-        -30.645105889612225, 
-        29.32516645683259, 
-        -28.64750172293757
-      ]
+      }
     }
   ], 
   "bbox": [

@@ -8483,14 +8483,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424922, 
-      "bbox": [
-        60.87424848820879, 
-        23.69196503345671, 
-        77.83745079947457, 
-        37.13303091078912
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Islamic Republic of Pakistan"
@@ -8499,10 +8491,16 @@
           "PK"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424922", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.05448354081069, 
         "ne:SUBUNIT": "Pakistan", 
-        "ne:NAME_SORT": "Pakistan", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Islamska republika Pakistan"
+        ], 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Paquist\u00e3o"
         ], 
@@ -8512,12 +8510,13 @@
         "alias_POR_S": [
           "Paquistao"
         ], 
+        "ne:ISO_N3": 586.0, 
         "ne:ADM0_A3": "PAK", 
-        "ne:SOVEREIGNT": "Pakistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u57fa\u65af\u5766"
         ], 
+        "ne:GDP_MD_EST": 427300.0, 
         "ne:NAME": "Pakistan", 
         "ne:POSTAL": "PK", 
         "alias_JPN_Q": [
@@ -8545,7 +8544,6 @@
         "ne:ISO_A2": "PK", 
         "date_indexed": "2010-12-02T17:56:57Z", 
         "ne:NAME_FORMA": "Islamic Republic of Pakistan", 
-        "fullname": "Pakistan", 
         "ne:GU_A3": "PAK", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Pakistan", 
@@ -8563,28 +8561,33 @@
         "alias_GER_V": [
           "Islamische Republik Pakistan"
         ], 
-        "ne:ISO_N3": 586.0, 
+        "fullname": "Pakistan", 
         "lang": "ENG", 
         "name": "Pakistan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Pakiszt\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Islamska republika Pakistan"
-        ], 
+        "ne:NAME_SORT": "Pakistan", 
         "longitude": 69.36, 
         "ne:POP_EST": 176242949.0, 
         "ne_longitude": 77.04897098854588, 
         "iso": "PK", 
         "sw_latitude": 23.69431711857085, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 427300.0, 
+        "ne:SOVEREIGNT": "Pakistan", 
         "wikipedia:id": "23235", 
         "ne:ne_10m_adm": "PAK"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424922, 
+      "bbox": [
+        60.87424848820879, 
+        23.69196503345671, 
+        77.83745079947457, 
+        37.13303091078912
+      ]
     }
   ], 
   "bbox": [

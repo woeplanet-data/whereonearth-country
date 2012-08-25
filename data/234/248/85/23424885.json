@@ -2781,8 +2781,14 @@
           ]
         ]
       }, 
-      "id": 23424885, 
       "type": "Feature", 
+      "id": 23424885, 
+      "bbox": [
+        26.619336785597795, 
+        45.488283189468376, 
+        30.024658644335375, 
+        48.467119452501116
+      ], 
       "properties": {
         "alias_POL_V": [
           "Mo\u0142dawia, Republika"
@@ -2790,34 +2796,32 @@
         "alias_ENG_V": [
           "Moldova, Republic Of"
         ], 
-        "ne:ne_10m_adm": "MDA", 
         "alias_SWE_Q": [
           "Moldavien"
         ], 
         "alias_POL_Q": [
           "Mo\u0142dawia"
         ], 
+        "hierarchy": [
+          "woe:country=23424885", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 48.48603383432197, 
-        "ne:GU_A3": "MDA", 
         "alias_RUM_Q": [
           "Republica Moldova"
         ], 
-        "alias_UNK_V": [
-          "Moldavsko"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Moldova", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Moldova, Rep\u00fablica de"
         ], 
-        "alias_POR_Q": [
-          "Mold\u00e1via"
-        ], 
+        "ne:ne_10m_adm": "MDA", 
         "alias_KOR_Q": [
           "\ubab0\ub3c4\ubc14"
         ], 
         "ne:SUBUNIT": "Moldova", 
-        "ne:ISO_N3": 498.0, 
         "ne:ADM0_A3": "MDA", 
+        "ne:SOVEREIGNT": "Moldova", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6469\u723e\u591a\u74e6"
@@ -2828,6 +2832,9 @@
         "ne:NAME": "Moldova", 
         "alias_CHI_V": [
           "\u6469\u723e\u591a\u74e6"
+        ], 
+        "alias_CZE_Q": [
+          "Moldavsko"
         ], 
         "alias_JPN_Q": [
           "\u30e2\u30eb\u30c9\u30d0"
@@ -2852,17 +2859,15 @@
         "ne:ISO_A2": "MD", 
         "date_indexed": "2010-12-02T17:58:04Z", 
         "ne:NAME_FORMA": "Republic of Moldova", 
-        "alias_ENG_A": [
-          "MD"
+        "fullname": "Moldova", 
+        "alias_FRE_V": [
+          "Moldovie"
         ], 
+        "ne:GU_A3": "MDA", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Moldova", 
         "ne:GEOUNIT": "Moldova", 
-        "alias_DUT_V": [
-          "Republiek Moldavi\u00eb"
-        ], 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 10670.0, 
         "alias_RUM_V": [
           "Moldova, Republica"
         ], 
@@ -2872,8 +2877,8 @@
           "Moldavi\u00eb"
         ], 
         "ne:ABBREV": "Mda.", 
-        "alias_CZE_Q": [
-          "Moldavsko"
+        "alias_DUT_V": [
+          "Republiek Moldavi\u00eb"
         ], 
         "alias_GER_V": [
           "Moldau, Republik"
@@ -2881,40 +2886,38 @@
         "alias_GER_Q": [
           "Moldawien"
         ], 
-        "fullname": "Moldova", 
+        "ne:ISO_N3": 498.0, 
         "lang": "ENG", 
         "name": "Moldova", 
         "alias_CZE_V": [
           "Moldavsk\u00e1 republika"
         ], 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Moldavija"
         ], 
         "ne:POSTAL": "MD", 
-        "ne:NAME_SORT": "Moldova", 
+        "alias_UNK_V": [
+          "Moldavsko"
+        ], 
         "longitude": 28.391, 
         "ne:POP_EST": 4320748.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 30.131576375611473, 
         "iso": "MD", 
         "sw_latitude": 45.46177398756319, 
-        "alias_FRE_V": [
-          "Moldovie"
+        "alias_ENG_A": [
+          "MD"
         ], 
-        "ne:SOVEREIGNT": "Moldova", 
-        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 10670.0, 
         "alias_FRE_Q": [
           "Moldavie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Mold\u00e1via"
         ]
-      }, 
-      "bbox": [
-        26.619336785597795, 
-        45.488283189468376, 
-        30.024658644335375, 
-        48.467119452501116
-      ]
+      }
     }
   ], 
   "bbox": [

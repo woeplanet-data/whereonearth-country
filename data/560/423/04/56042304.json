@@ -62,12 +62,16 @@
         "alias_ENG_P": [
           "Saint Barthelemy"
         ], 
+        "hierarchy": [
+          "woe:country=56042304", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 17.92888092057575, 
         "alias_RUM_Q": [
           "Saint Barth\u00e9lemy"
         ], 
-        "ne:NAME_SORT": "Saint Barthelemy", 
-        "placetype": "Country", 
+        "ne_longitude": -62.790917115027725, 
+        "placetype": "country", 
         "alias_POR_Q": [
           "S\u00e3o Bartolomeu"
         ], 
@@ -75,16 +79,18 @@
           "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
         ], 
         "ne:SUBUNIT": "Saint Barthelemy", 
-        "ne:ISO_N3": 652.0, 
-        "ne:POP_EST": 7448.0, 
+        "alias_FRE_A": [
+          "BL"
+        ], 
         "ne:ADM0_A3": "BLM", 
-        "ne:SOVEREIGNT": "France", 
+        "ne:GDP_MD_EST": 255.0, 
         "ne:NAME": "St. Barthelemy", 
         "ne:POSTAL": "BL", 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "San Bartolom\u00e9"
@@ -108,28 +114,25 @@
         "ne:LabelRank": 8, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Saint-Barth"
+        ], 
         "ne:ABBREV": "St. B.", 
         "alias_GER_V": [
           "Sankt Bartholom\u00e4us"
         ], 
-        "ne:GDP_MD_EST": 255.0, 
+        "ne:ISO_N3": 652.0, 
         "lang": "FRE", 
         "name": "Saint-Barth\u00e9lemy", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "ne_longitude": -62.790917115027725, 
+        "ne:NAME_SORT": "Saint Barthelemy", 
         "longitude": -62.834, 
-        "alias_FRE_A": [
-          "BL"
-        ], 
+        "ne:POP_EST": 7448.0, 
         "iso": "BL", 
         "sw_latitude": 17.881803691223865, 
-        "alias_FRE_V": [
-          "Saint-Barth"
-        ], 
-        "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "France", 
         "alias_FRE_S": [
           "Saint-Barthelemy"
         ], 

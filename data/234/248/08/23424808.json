@@ -4233,46 +4233,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424808, 
-      "bbox": [
-        32.954180000000235, 
-        3.422060000000215, 
-        47.78942, 
-        14.959430000000168
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Ethiopian"
         ], 
-        "alias_HUN_Q": [
-          "Eti\u00f3pia"
-        ], 
-        "ne:ne_10m_adm": "ETH", 
         "alias_SWE_Q": [
           "Etiopien"
         ], 
         "alias_POL_Q": [
           "Etiopia"
         ], 
+        "hierarchy": [
+          "woe:country=23424808", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.879532165558743, 
         "alias_RUM_Q": [
           "Etiopia"
         ], 
-        "ne:NAME_SORT": "Ethiopia", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Ityopiya"
+        ], 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc774\ub514\uc624\ud53c\uc544"
         ], 
-        "alias_POR_Q": [
-          "Eti\u00f3pia"
-        ], 
+        "ne:ne_10m_adm": "ETH", 
         "alias_KOR_Q": [
           "\uc5d0\ud2f0\uc624\ud53c\uc544"
         ], 
         "ne:SUBUNIT": "Ethiopia", 
+        "ne:ISO_N3": 231.0, 
         "ne:ADM0_A3": "ETH", 
-        "ne:SOVEREIGNT": "Ethiopia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8863\u7d22\u6bd4\u4e9e"
@@ -4280,8 +4272,8 @@
         "alias_ITA_Q": [
           "Etiopia"
         ], 
-        "alias_GER_V": [
-          "Demokratische Bundesrepublik \u00c4thiopien"
+        "alias_DAN_Q": [
+          "Etiopien"
         ], 
         "ne:NAME": "Ethiopia", 
         "ne:POSTAL": "ET", 
@@ -4312,12 +4304,19 @@
         "ne:ISO_A2": "ET", 
         "date_indexed": "2010-12-02T08:52:18Z", 
         "ne:NAME_FORMA": "Federal Democratic Republic of Ethiopia", 
-        "fullname": "Ethiopia", 
+        "alias_CHI_V": [
+          "\u8863\u7d22\u6bd4\u4e9e"
+        ], 
         "ne:GU_A3": "ETH", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Ethiopia", 
         "ne:SU_A3": "ETH", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 68770.0, 
+        "alias_ENG_A": [
+          "ET"
+        ], 
+        "wikipedia:id": "187749", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -4333,13 +4332,13 @@
         "alias_FIN_Q": [
           "Etiopiaan"
         ], 
-        "alias_DAN_Q": [
-          "Etiopien"
+        "alias_GER_V": [
+          "Demokratische Bundesrepublik \u00c4thiopien"
         ], 
         "alias_GER_Q": [
           "\u00c4thiopien"
         ], 
-        "ne:ISO_N3": 231.0, 
+        "fullname": "Ethiopia", 
         "alias_GER_S": [
           "Demokratische Bundesrepublik Athiopien"
         ], 
@@ -4348,32 +4347,36 @@
         "ne:GEOUNIT": "Ethiopia", 
         "name": "Ethiopia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "E\u00fe\u00ed\u00f3p\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u8863\u7d22\u6bd4\u4e9e"
+        "alias_HUN_Q": [
+          "Eti\u00f3pia"
         ], 
-        "alias_UNK_V": [
-          "Ityopiya"
-        ], 
+        "ne:NAME_SORT": "Ethiopia", 
         "longitude": 40.493, 
         "ne:POP_EST": 85237338.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 47.97916914872718, 
         "iso": "ET", 
         "sw_latitude": 3.40333343540496, 
-        "alias_ENG_A": [
-          "ET"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 68770.0, 
-        "wikipedia:id": "187749", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Ethiopia", 
         "alias_FRE_Q": [
           "\u00c9thiopie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Eti\u00f3pia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424808, 
+      "bbox": [
+        32.954180000000235, 
+        3.422060000000215, 
+        47.78942, 
+        14.959430000000168
+      ]
     }
   ], 
   "bbox": [

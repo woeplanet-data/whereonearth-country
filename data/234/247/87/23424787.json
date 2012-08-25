@@ -12867,47 +12867,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424787, 
-      "bbox": [
-        -78.99093522817104, 
-        -4.298186944194327, 
-        -66.87632585312258, 
-        12.437303168177309
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Colombia"
         ], 
-        "alias_HUN_Q": [
-          "Kolumbia"
-        ], 
-        "ne:ne_10m_adm": "COL", 
-        "alias_ENG_A": [
-          "CO"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Kolumbia"
         ], 
+        "hierarchy": [
+          "woe:country=23424787", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.373758442988759, 
+        "ne:GU_A3": "COL", 
         "alias_RUM_Q": [
           "Columbia"
         ], 
-        "ne:NAME_SORT": "Colombia", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Col\u00f4mbia"
+        "alias_UNK_V": [
+          "Republika Kolumbija"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "COL", 
         "alias_KOR_Q": [
           "\ucf5c\ub86c\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Colombia", 
+        "ne:ISO_N3": 170.0, 
         "ne:ADM0_A3": "COL", 
-        "ne:SOVEREIGNT": "Colombia", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u54e5\u502b\u6bd4\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 395400.0, 
         "ne:NAME": "Colombia", 
         "ne:POSTAL": "CO", 
         "alias_JPN_Q": [
@@ -12932,12 +12923,17 @@
         "ne:ISO_A2": "CO", 
         "date_indexed": "2010-12-02T17:57:37Z", 
         "ne:NAME_FORMA": "Republic of Colombia", 
-        "fullname": "Colombia", 
-        "ne:GU_A3": "COL", 
+        "alias_CHI_V": [
+          "\u54e5\u4f26\u6bd4\u4e9a"
+        ], 
+        "alias_ENG_A": [
+          "CO"
+        ], 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Colombia", 
         "ne:SU_A3": "COL", 
         "ne:LabelRank": 2, 
+        "wikipedia:id": "0", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Col.", 
@@ -12953,23 +12949,20 @@
         "alias_GER_Q": [
           "Kolumbien"
         ], 
-        "ne:ISO_N3": 170.0, 
+        "fullname": "Colombia", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Colombia", 
         "name": "Colombia", 
         "alias_UNK_S": [
           "Kolombia"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Kolumbia"
         ], 
-        "alias_CHI_V": [
-          "\u54e5\u4f26\u6bd4\u4e9a"
+        "alias_HUN_Q": [
+          "Kolumbia"
         ], 
-        "alias_UNK_V": [
-          "Republika Kolumbija"
-        ], 
+        "ne:NAME_SORT": "Colombia", 
         "longitude": -72.959, 
         "ne:POP_EST": 45644023.0, 
         "ne:TYPE": "Sovereign country", 
@@ -12977,13 +12970,23 @@
         "iso": "CO", 
         "sw_latitude": -4.236484476844637, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 395400.0, 
-        "wikipedia:id": "0", 
+        "ne:SOVEREIGNT": "Colombia", 
         "alias_FRE_Q": [
           "Colombie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Col\u00f4mbia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424787, 
+      "bbox": [
+        -78.99093522817104, 
+        -4.298186944194327, 
+        -66.87632585312258, 
+        12.437303168177309
+      ]
     }
   ], 
   "bbox": [

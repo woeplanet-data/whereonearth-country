@@ -189,12 +189,14 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Saint Kitts & Nevis"
         ], 
         "alias_SWE_V": [
           "St Kitts och Nevis"
+        ], 
+        "alias_HUN_Q": [
+          "Saint Kitts \u00c9s Nevis"
         ], 
         "alias_SWE_Q": [
           "Saint Christopher och Nevis"
@@ -202,14 +204,18 @@
         "alias_POL_Q": [
           "Saint Kitts I Nevis"
         ], 
+        "hierarchy": [
+          "woe:country=23424940", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 17.41563059531454, 
         "ne:SUBUNIT": "Saint Kitts and Nevis", 
-        "ne:POSTAL": "KN", 
+        "ne:GU_A3": "KNA", 
         "alias_RUM_Q": [
           "Sf\u00e2ntul Cristofor \u015ei Nevis"
         ], 
-        "ne:NAME_SORT": "Saint Kitts and Nevis", 
-        "placetype": "Country", 
+        "ne_longitude": -62.53610062659436, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc138\uc778\ud2b8 \ud0a4\uce20 \ub124\ube44\uc2a4"
         ], 
@@ -225,11 +231,7 @@
         "alias_POR_S": [
           "Sao Cristovao e Nevis"
         ], 
-        "ne:ISO_N3": 659.0, 
-        "alias_CZE_Q": [
-          "Svat\u00fd Kry\u0161tof a Nevis"
-        ], 
-        "ne:SOVEREIGNT": "Saint Kitts and Nevis", 
+        "ne:ADM0_A3": "KNA", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8056\u514b\u91cc\u65af\u591a\u798f\u8207\u5c3c\u7dad\u65af"
@@ -237,16 +239,14 @@
         "alias_ITA_Q": [
           "Saint Kitts E Nevis"
         ], 
-        "alias_GER_V": [
-          "F\u00f6deration St. Kitts und Nevis"
+        "alias_DAN_Q": [
+          "Saint Kitts og Nevis"
         ], 
         "alias_ITA_V": [
           "San Cristoforo"
         ], 
-        "alias_CHI_V": [
-          "\u8056\u514b\u91cc\u65af\u591a\u798f\u8207\u5c3c\u7dad\u65af"
-        ], 
-        "ne:ADM0_A3": "KNA", 
+        "ne:POSTAL": "KN", 
+        "provider": "geoplanet 7.6.0", 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9"
         ], 
@@ -258,9 +258,7 @@
         "alias_SPA_Q": [
           "San Crist\u00f3bal Y Nieves"
         ], 
-        "alias_FIN_Q": [
-          "Saint Kitts ja Nevis"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "San Cristobal y Nevis"
         ], 
@@ -271,9 +269,6 @@
           "Sain Kitts \u015fi Nevis"
         ], 
         "latitude": 17.318, 
-        "alias_SPA_V": [
-          "St. Kitts y Nevis"
-        ], 
         "woe:id": 23424940, 
         "alias_NOR_Q": [
           "Saint Kitts og Nevis"
@@ -282,31 +277,43 @@
         "ne:ISO_A2": "KN", 
         "date_indexed": "2010-12-02T08:52:18Z", 
         "ne:SOV_A3": "KNA", 
+        "fullname": "Saint Kitts and Nevis", 
+        "alias_FRE_V": [
+          "Saint Kitts et Nevis"
+        ], 
         "alias_KOR_Q": [
           "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"
         ], 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Saint Kitts and Nevis", 
         "ne:SU_A3": "KNA", 
+        "alias_DUT_V": [
+          "St. Kitts en Nevis"
+        ], 
         "ne:LabelRank": 8, 
-        "provider": "geoplanet 7.6.0", 
+        "ne:GDP_MD_EST": 777.7, 
+        "alias_SPA_V": [
+          "St. Kitts y Nevis"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Saint Kitts en Nevis"
         ], 
         "ne:ABBREV": "St.K.N.", 
-        "alias_DUT_V": [
-          "St. Kitts en Nevis"
+        "alias_CZE_Q": [
+          "Svat\u00fd Kry\u0161tof a Nevis"
         ], 
-        "ne:GU_A3": "KNA", 
-        "alias_DAN_Q": [
-          "Saint Kitts og Nevis"
+        "alias_FIN_Q": [
+          "Saint Kitts ja Nevis"
+        ], 
+        "alias_GER_V": [
+          "F\u00f6deration St. Kitts und Nevis"
         ], 
         "alias_GER_Q": [
           "St. Kitts und Nevis"
         ], 
-        "ne:GDP_MD_EST": 777.7, 
+        "ne:ISO_N3": 659.0, 
         "alias_GER_S": [
           "Foderation St. Kitts und Nevis"
         ], 
@@ -318,26 +325,22 @@
           "Sv. Kitts a Nevis"
         ], 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Saint Kitts in Nevis"
         ], 
-        "alias_HUN_Q": [
-          "Saint Kitts \u00c9s Nevis"
+        "alias_CHI_V": [
+          "\u8056\u514b\u91cc\u65af\u591a\u798f\u8207\u5c3c\u7dad\u65af"
         ], 
         "alias_HUN_V": [
           "Saint Kitts \u00e9s Nevis"
         ], 
-        "ne_longitude": -62.53610062659436, 
+        "ne:NAME_SORT": "Saint Kitts and Nevis", 
         "longitude": -62.746, 
         "ne:POP_EST": 40131.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "KN", 
         "sw_latitude": 17.100301005512293, 
-        "alias_FRE_V": [
-          "Saint Kitts et Nevis"
-        ], 
-        "fullname": "Saint Kitts and Nevis", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Saint Kitts and Nevis", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "KNA"
       }, 

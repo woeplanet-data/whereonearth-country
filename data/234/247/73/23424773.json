@@ -619,8 +619,14 @@
           ]
         ]
       }, 
-      "id": 23424773, 
       "type": "Feature", 
+      "id": 23424773, 
+      "bbox": [
+        114.20401655482837, 
+        4.007636826997754, 
+        115.45071048386981, 
+        5.447729803891534
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Brunei, Sultanate Of"
@@ -629,21 +635,24 @@
           "\ube0c\ub8e8\ub098\uc774"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424773", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.057056783387992, 
-        "ne:NAME_SORT": "Brunei", 
-        "placetype": "Country", 
+        "ne_longitude": 115.36074100812664, 
+        "placetype": "country", 
         "ne:ne_10m_adm": "BRN", 
         "alias_ENG_A": [
           "BN"
         ], 
         "ne:SUBUNIT": "Brunei", 
-        "ne:ISO_N3": 96.0, 
         "ne:ADM0_A3": "BRN", 
+        "ne:SOVEREIGNT": "Brunei", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6c76\u840a"
         ], 
-        "ne:GDP_MD_EST": 20250.0, 
         "ne:NAME": "Brunei", 
         "alias_CHI_V": [
           "\u6c76\u840a"
@@ -670,6 +679,10 @@
         "ne:ISO_A2": "BN", 
         "date_indexed": "2010-12-02T17:58:12Z", 
         "ne:NAME_FORMA": "Negara Brunei Darussalam", 
+        "fullname": "Brunei", 
+        "alias_FRE_V": [
+          "Brun\u00e9i Darussalam"
+        ], 
         "ne:GU_A3": "BRN", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Brunei", 
@@ -687,33 +700,23 @@
         "alias_GER_V": [
           "Brunei Darussalam"
         ], 
-        "fullname": "Brunei", 
+        "ne:ISO_N3": 96.0, 
         "lang": "ENG", 
         "name": "Brunei", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Negara Brunei Darussalam"
         ], 
         "ne:POSTAL": "BN", 
-        "ne_longitude": 115.36074100812664, 
+        "ne:NAME_SORT": "Brunei", 
         "longitude": 114.599, 
         "ne:POP_EST": 388190.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "BN", 
         "sw_latitude": 4.016681010385796, 
-        "alias_FRE_V": [
-          "Brun\u00e9i Darussalam"
-        ], 
-        "ne:SOVEREIGNT": "Brunei", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 20250.0, 
         "ne:SU_DIF": 0.0
-      }, 
-      "bbox": [
-        114.20401655482837, 
-        4.007636826997754, 
-        115.45071048386981, 
-        5.447729803891534
-      ]
+      }
     }
   ], 
   "bbox": [

@@ -6615,57 +6615,47 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424972, 
-      "bbox": [
-        52.50245975119615, 
-        35.270663967422294, 
-        66.54615034370022, 
-        42.75155101172305
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Turkmen"
         ], 
-        "alias_HUN_Q": [
-          "T\u00fcrkmeniszt\u00e1n"
-        ], 
-        "ne:ne_10m_adm": "TKM", 
         "alias_KOR_Q": [
           "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424972", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.791187642832725, 
         "ne:SUBUNIT": "Turkmenistan", 
-        "ne_longitude": 66.64578169749586, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Turkmenistan", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud22c\ub974\ud06c\uba58"
         ], 
         "alias_POR_V": [
           "Turcomenist\u00e3o"
         ], 
-        "alias_POR_Q": [
-          "Turquemenist\u00e3o"
-        ], 
+        "ne:ne_10m_adm": "TKM", 
         "alias_ENG_A": [
           "TM"
         ], 
         "alias_POR_S": [
           "Turquemenistao"
         ], 
+        "ne:ISO_N3": 795.0, 
         "ne:ADM0_A3": "TKM", 
-        "ne:SOVEREIGNT": "Turkmenistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u571f\u5eab\u66fc"
         ], 
+        "ne:GDP_MD_EST": 29780.0, 
         "ne:NAME": "Turkmenistan", 
         "ne:POSTAL": "TM", 
         "alias_JPN_Q": [
           "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
         ], 
-        "fullname": "Turkmenistan", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Turkmenist\u00e1n"
@@ -6684,6 +6674,9 @@
         "ne:ISO_A2": "TM", 
         "date_indexed": "2010-12-02T18:19:07Z", 
         "ne:NAME_FORMA": null, 
+        "alias_CHI_V": [
+          "\u571f\u5e93\u66fc\u65af\u5766"
+        ], 
         "ne:GU_A3": "TKM", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Turkmenistan", 
@@ -6696,27 +6689,37 @@
           "Turkmenist\u00e1n"
         ], 
         "ne:GEOUNIT": "Turkmenistan", 
-        "ne:ISO_N3": 795.0, 
+        "ne:SOVEREIGNT": "Turkmenistan", 
         "lang": "ENG", 
         "name": "Turkmenistan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u571f\u5e93\u66fc\u65af\u5766"
+        "alias_HUN_Q": [
+          "T\u00fcrkmeniszt\u00e1n"
         ], 
-        "ne:NAME_SORT": "Turkmenistan", 
+        "ne_longitude": 66.64578169749586, 
         "longitude": 59.563, 
         "ne:POP_EST": 4884887.0, 
         "iso": "TM", 
         "sw_latitude": 35.140646871210905, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 29780.0, 
-        "wikipedia:id": "198149", 
+        "fullname": "Turkmenistan", 
         "alias_FRE_Q": [
           "Turkm\u00e9nistan"
+        ], 
+        "wikipedia:id": "198149", 
+        "alias_POR_Q": [
+          "Turquemenist\u00e3o"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424972, 
+      "bbox": [
+        52.50245975119615, 
+        35.270663967422294, 
+        66.54615034370022, 
+        42.75155101172305
+      ]
     }
   ], 
   "bbox": [

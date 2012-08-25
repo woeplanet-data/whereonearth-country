@@ -185,45 +185,44 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": "U.K.", 
         "alias_ENG_V": [
           "Pitcairn"
         ], 
         "alias_SWE_V": [
           "Pitcairn"
         ], 
-        "ne:ne_10m_adm": "PCN", 
+        "alias_HUN_Q": [
+          "Pitcairn-Szigetek"
+        ], 
         "alias_SWE_Q": [
           "Pitcairn\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Pitcairnoarna"
         ], 
+        "hierarchy": [
+          "woe:country=23424918", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -23.92432668047401, 
-        "ne:POSTAL": "PN", 
+        "ne:GU_A3": "PCN", 
         "alias_RUM_Q": [
           "Insulele Pitcairn"
         ], 
-        "ne:NAME_SORT": "Pitcairn Islands", 
-        "placetype": "Country", 
+        "ne_longitude": -124.77715938395701, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud54f\ucf00\uc5b8\uc12c"
         ], 
         "alias_POR_V": [
           "Pitcairn"
         ], 
-        "alias_POR_Q": [
-          "Ilhas Pitcairn"
-        ], 
+        "ne:ne_10m_adm": "PCN", 
         "alias_ENG_A": [
           "PN"
         ], 
         "ne:SUBUNIT": "Pitcairn Islands", 
-        "ne:ISO_N3": 612.0, 
-        "alias_CZE_Q": [
-          "Pitcairnovy Ostrovy"
-        ], 
-        "ne:SOVEREIGNT": "United Kingdom", 
+        "ne:ADM0_A3": "PCN", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u76ae\u7279\u958b\u6069\u7fa4\u5cf6"
@@ -231,29 +230,25 @@
         "alias_ITA_Q": [
           "Isole Pitcairn"
         ], 
-        "alias_GER_V": [
+        "alias_DAN_Q": [
           "Pitcairn"
         ], 
         "alias_ITA_V": [
           "Pitcairn"
         ], 
-        "alias_CHI_V": [
-          "\u76ae\u7279\u5f00\u6069\u7fa4\u5c9b"
-        ], 
-        "ne:ADM0_A3": "PCN", 
+        "ne:POSTAL": "PN", 
         "alias_JPN_Q": [
           "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
         ], 
         "alias_POL_Q": [
           "Pitcairn"
         ], 
+        "fullname": "Pitcairn Islands", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Pitcairn"
         ], 
-        "alias_FIN_Q": [
-          "Pitcairn"
-        ], 
+        "ne:TERR_": "U.K.", 
         "sw_longitude": -130.753073690301, 
         "ne:NAME_FORMA": "Pitcairn, Henderson, Ducie and Oeno Islands", 
         "ne:GEOUNIT": "Pitcairn Islands", 
@@ -272,14 +267,20 @@
         "ne:ISO_A2": "PN", 
         "date_indexed": "2010-12-02T10:22:50Z", 
         "ne:SOV_A3": "GB1", 
+        "alias_FRE_V": [
+          "Pitcairn"
+        ], 
         "alias_KOR_Q": [
           "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
         ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Pitcairn Islands", 
         "ne:SU_A3": "PCN", 
+        "alias_DUT_V": [
+          "Pitcairn"
+        ], 
         "ne:LabelRank": 5, 
-        "ne:TYPE": "Dependency", 
+        "ne:GDP_MD_EST": 0.0, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
@@ -288,17 +289,22 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Pit. Is.", 
-        "alias_DUT_V": [
+        "alias_CZE_Q": [
+          "Pitcairnovy Ostrovy"
+        ], 
+        "alias_FRE_S": [
+          "Iles Pitcairn"
+        ], 
+        "alias_FIN_Q": [
           "Pitcairn"
         ], 
-        "ne:GU_A3": "PCN", 
-        "alias_DAN_Q": [
+        "alias_GER_V": [
           "Pitcairn"
         ], 
         "alias_GER_Q": [
           "Pitcairninseln"
         ], 
-        "ne:GDP_MD_EST": 0.0, 
+        "ne:ISO_N3": 612.0, 
         "ne:NAME": "Pitcairn Is.", 
         "lang": "ENG", 
         "ne:OID_": 57, 
@@ -309,35 +315,32 @@
         "alias_CZE_V": [
           "Pitcairn"
         ], 
-        "alias_UNK_S": [
-          "Pitcairnoya"
-        ], 
-        "parent_woeid": 1, 
+        "ne:TYPE": "Dependency", 
         "alias_UNK_Q": [
           "Pitcairn\u00f8ya"
         ], 
-        "alias_HUN_Q": [
-          "Pitcairn-Szigetek"
+        "alias_CHI_V": [
+          "\u76ae\u7279\u5f00\u6069\u7fa4\u5c9b"
         ], 
         "alias_HUN_V": [
           "Pitcairn-sziget"
         ], 
-        "ne_longitude": -124.77715938395701, 
+        "ne:NAME_SORT": "Pitcairn Islands", 
         "longitude": -128.316, 
         "ne:POP_EST": 48.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Pitcairnoya"
+        ], 
         "iso": "PN", 
         "sw_latitude": -25.07712453209362, 
-        "alias_FRE_V": [
-          "Pitcairn"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Pitcairn Islands", 
-        "alias_FRE_S": [
-          "Iles Pitcairn"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "alias_FRE_Q": [
           "\u00celes Pitcairn"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Ilhas Pitcairn"
         ]
       }, 
       "id": 23424918

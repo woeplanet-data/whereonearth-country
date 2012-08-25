@@ -46,10 +46,14 @@
           "\uc9c0\ube0c\ub784\ud0c0"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424825", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.14110259998358, 
         "ne:SUBUNIT": "Gibraltar", 
-        "ne:NAME_SORT": "Gibraltar", 
-        "placetype": "Country", 
+        "ne_longitude": -5.358763794031006, 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Gibraltar\u00e7a"
         ], 
@@ -59,9 +63,7 @@
         "alias_POR_S": [
           "Gibraltarca"
         ], 
-        "ne:ISO_N3": 292.0, 
         "ne:ADM0_A3": "GIB", 
-        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u76f4\u5e03\u7f57\u9640"
@@ -74,6 +76,7 @@
         "alias_JPN_Q": [
           "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb"
         ], 
+        "fullname": "Gibraltar", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": "U.K.", 
         "sw_longitude": -5.385118774137283, 
@@ -92,30 +95,30 @@
         "ne:ADMIN": "Gibraltar", 
         "ne:SU_A3": "GIB", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 1066.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Gib.", 
-        "ne:GDP_MD_EST": 1066.0, 
+        "ne:ISO_N3": 292.0, 
         "lang": "ENG", 
         "name": "Gibraltar", 
         "alias_UNK_S": [
           "Givraltar"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Hibraltar"
         ], 
         "alias_HUN_Q": [
           "Gibralt\u00e1r"
         ], 
-        "ne_longitude": -5.358763794031006, 
+        "ne:NAME_SORT": "Gibraltar", 
         "longitude": -5.348, 
         "ne:POP_EST": 28034.0, 
         "ne:TYPE": "Dependency", 
         "iso": "GI", 
         "sw_latitude": 36.111181946526756, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Gibraltar", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "GIB"
       }, 

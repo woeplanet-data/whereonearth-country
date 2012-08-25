@@ -10503,43 +10503,35 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424843, 
-      "bbox": [
-        13.656975538801191, 
-        42.47999136002932, 
-        19.39047570158459, 
-        46.50375092221981
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Croatia"
         ], 
-        "alias_HUN_Q": [
-          "Horv\u00e1torsz\u00e1g"
-        ], 
-        "ne:ne_10m_adm": "HRV", 
         "alias_SWE_Q": [
           "Kroatien"
         ], 
         "alias_ENG_P": [
           "Croatia"
         ], 
+        "hierarchy": [
+          "woe:country=23424843", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 46.54697906525716, 
         "alias_RUM_Q": [
           "Croa\u0163ia"
         ], 
-        "ne:NAME_SORT": "Croatia", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Cro\u00e1cia"
+        "alias_UNK_V": [
+          "Chorv\u00e1tsko"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "HRV", 
         "alias_KOR_Q": [
           "\ud06c\ub85c\uc544\ud2f0\uc544"
         ], 
         "ne:SUBUNIT": "Croatia", 
+        "ne:ISO_N3": 191.0, 
         "ne:ADM0_A3": "HRV", 
-        "ne:SOVEREIGNT": "Croatia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u514b\u7f85\u57c3\u897f\u4e9e"
@@ -10547,8 +10539,8 @@
         "alias_ITA_Q": [
           "Croazia"
         ], 
-        "alias_GER_V": [
-          "Republik Kroatien"
+        "alias_DAN_Q": [
+          "Kroatien"
         ], 
         "ne:NAME": "Croatia", 
         "ne:POSTAL": "HR", 
@@ -10581,12 +10573,19 @@
         "ne:ISO_A2": "HR", 
         "date_indexed": "2010-12-02T17:07:03Z", 
         "ne:NAME_FORMA": "Republic of Croatia", 
-        "fullname": "Hrvatska, Croatia", 
+        "alias_CHI_V": [
+          "\u514b\u7f85\u57c3\u897f\u4e9e"
+        ], 
         "ne:GU_A3": "HRV", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Croatia", 
         "ne:SU_A3": "HRV", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 82390.0, 
+        "alias_ENG_A": [
+          "HRV"
+        ], 
+        "wikipedia:id": "5573", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -10603,47 +10602,51 @@
         "alias_FIN_Q": [
           "Kroatia"
         ], 
-        "alias_DAN_Q": [
-          "Kroatien"
+        "alias_GER_V": [
+          "Republik Kroatien"
         ], 
         "alias_GER_Q": [
           "Kroatien"
         ], 
-        "ne:ISO_N3": 191.0, 
+        "fullname": "Hrvatska, Croatia", 
         "lang": "UNK", 
         "ne:OID_": 114, 
         "ne:GEOUNIT": "Croatia", 
         "name": "Hrvatska", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Kr\u00f3at\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u514b\u7f85\u57c3\u897f\u4e9e"
+        "alias_HUN_Q": [
+          "Horv\u00e1torsz\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Chorv\u00e1tsko"
-        ], 
+        "ne:NAME_SORT": "Croatia", 
         "longitude": 15.341, 
         "ne:POP_EST": 4489409.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 19.407838175040865, 
         "iso": "HR", 
         "sw_latitude": 42.41604258273934, 
         "alias_HUN_S": [
           "Horvatorszag"
         ], 
-        "alias_ENG_A": [
-          "HRV"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 82390.0, 
-        "wikipedia:id": "5573", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Croatia", 
         "alias_FRE_Q": [
           "Croatie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Cro\u00e1cia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424843, 
+      "bbox": [
+        13.656975538801191, 
+        42.47999136002932, 
+        19.39047570158459, 
+        46.50375092221981
+      ]
     }
   ], 
   "bbox": [

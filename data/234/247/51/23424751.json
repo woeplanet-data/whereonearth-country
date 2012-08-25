@@ -148,9 +148,13 @@
           "AI"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424751", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 18.29009918224598, 
-        "ne:NAME_SORT": "Anguilla", 
-        "placetype": "Country", 
+        "ne_longitude": -62.97188798016279, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc548\uae38\ub77c"
         ], 
@@ -162,13 +166,12 @@
           "\uc575\uadc8\ub77c"
         ], 
         "ne:SUBUNIT": "Anguilla", 
-        "ne:ISO_N3": 660.0, 
         "ne:ADM0_A3": "AIA", 
-        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b89\u572d\u62c9"
         ], 
+        "ne:GDP_MD_EST": 108.9, 
         "ne:NAME": "Anguilla", 
         "ne:POSTAL": "AI", 
         "alias_JPN_Q": [
@@ -193,6 +196,7 @@
         "ne:ISO_A2": "AI", 
         "date_indexed": "2010-12-02T17:43:23Z", 
         "ne:SOV_A3": "GB1", 
+        "fullname": "Anguilla", 
         "ne:GU_A3": "AIA", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Anguilla", 
@@ -201,19 +205,18 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Ang.", 
-        "ne:GDP_MD_EST": 108.9, 
+        "ne:ISO_N3": 660.0, 
         "lang": "ENG", 
         "name": "Anguilla", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "ne_longitude": -62.97188798016279, 
+        "ne:NAME_SORT": "Anguilla", 
         "longitude": -63.072, 
         "ne:POP_EST": 14436.0, 
         "iso": "AI", 
         "sw_latitude": 18.168866272138487, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Anguilla"
+        "ne:SOVEREIGNT": "United Kingdom"
       }, 
       "id": 23424751
     }

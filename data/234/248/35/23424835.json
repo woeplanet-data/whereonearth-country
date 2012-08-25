@@ -6453,44 +6453,46 @@
           ]
         ]
       }, 
-      "id": 23424835, 
       "type": "Feature", 
+      "id": 23424835, 
+      "bbox": [
+        -15.130311245168173, 
+        7.309037380396376, 
+        -7.832100389019188, 
+        12.586182969610194
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Guinea"
         ], 
-        "ne:ne_10m_adm": "GIN", 
-        "alias_KOR_Q": [
-          "\uae30\ub2c8"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Gwinea"
         ], 
+        "hierarchy": [
+          "woe:country=23424835", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.673387756904773, 
         "ne:SUBUNIT": "Guinea", 
+        "ne:GU_A3": "GIN", 
         "alias_RUM_Q": [
           "Guineea"
         ], 
-        "alias_UNK_V": [
-          "Republika Gvineja"
-        ], 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Guin\u00e9"
-        ], 
+        "ne:NAME_SORT": "Guinea", 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "GIN", 
         "alias_ENG_A": [
           "GN"
         ], 
         "alias_POR_S": [
           "Guine"
         ], 
-        "ne:ISO_N3": 324.0, 
         "ne:ADM0_A3": "GIN", 
-        "ne:ScaleRank": 1, 
+        "ne:SOVEREIGNT": "Guinea", 
         "alias_CHI_Q": [
           "\u5e7e\u5167\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 10600.0, 
         "ne:NAME": "Guinea", 
         "alias_CHI_V": [
           "\u51e0\u5185\u4e9a"
@@ -6515,7 +6517,13 @@
         "ne:ISO_A2": "GN", 
         "date_indexed": "2010-12-02T16:11:57Z", 
         "ne:NAME_FORMA": "Republic of Guinea", 
-        "ne:GU_A3": "GIN", 
+        "fullname": "Guinea", 
+        "alias_FRE_V": [
+          "Guin\u00e9e-Conakry"
+        ], 
+        "alias_KOR_Q": [
+          "\uae30\ub2c8"
+        ], 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Guinea", 
         "ne:GEOUNIT": "Guinea", 
@@ -6526,43 +6534,38 @@
           "Guinee"
         ], 
         "ne:ABBREV": "Gin.", 
+        "alias_FRE_S": [
+          "Guinee"
+        ], 
         "alias_GER_V": [
           "Republik Guinea"
         ], 
-        "fullname": "Guinea", 
+        "ne:ISO_N3": 324.0, 
         "lang": "ENG", 
         "name": "Guinea", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gvineja"
         ], 
         "ne:POSTAL": "GN", 
-        "ne:NAME_SORT": "Guinea", 
+        "alias_UNK_V": [
+          "Republika Gvineja"
+        ], 
         "longitude": -9.661, 
         "ne:POP_EST": 10057975.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -7.662447469387985, 
         "iso": "GN", 
         "sw_latitude": 7.190208232147398, 
-        "alias_FRE_V": [
-          "Guin\u00e9e-Conakry"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Guinea", 
-        "alias_FRE_S": [
-          "Guinee"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 10600.0, 
         "alias_FRE_Q": [
           "Guin\u00e9e"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Guin\u00e9"
         ]
-      }, 
-      "bbox": [
-        -15.130311245168173, 
-        7.309037380396376, 
-        -7.832100389019188, 
-        12.586182969610194
-      ]
+      }
     }
   ], 
   "bbox": [

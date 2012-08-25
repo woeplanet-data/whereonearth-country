@@ -122,26 +122,30 @@
           "AW"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424736", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.631994934356726, 
-        "ne_longitude": -69.87609187856879, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Aruba", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "ABW", 
         "alias_KOR_Q": [
           "\uc544\ub8e8\ubc14"
         ], 
         "ne:SUBUNIT": "Aruba", 
+        "ne:ISO_N3": 533.0, 
         "ne:ADM0_A3": "ABW", 
+        "ne:SOVEREIGNT": "Netherlands", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u963f\u9c81\u5df4"
         ], 
-        "ne:GDP_MD_EST": 2258.0, 
         "ne:NAME": "Aruba", 
         "ne:POSTAL": "AW", 
         "alias_JPN_Q": [
           "\u30a2\u30eb\u30d0"
         ], 
-        "fullname": "Aruba", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": "Neth.", 
         "sw_longitude": -70.06163610918688, 
@@ -163,21 +167,20 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Aruba", 
-        "ne:ISO_N3": 533.0, 
+        "ne:GDP_MD_EST": 2258.0, 
         "lang": "ENG", 
         "name": "Aruba", 
         "ne:TYPE": "Country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ar\u00faba"
         ], 
-        "ne:NAME_SORT": "Aruba", 
+        "ne_longitude": -69.87609187856879, 
         "longitude": -69.964, 
         "ne:POP_EST": 103065.0, 
         "iso": "AW", 
         "sw_latitude": 12.417537740615657, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Netherlands", 
+        "fullname": "Aruba", 
         "ne:SU_DIF": 0.0
       }, 
       "id": 23424736

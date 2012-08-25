@@ -211,42 +211,44 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Saint Lucian"
         ], 
         "alias_SWE_V": [
           "St Lucia"
         ], 
-        "ne:ne_10m_adm": "LCA", 
+        "alias_HUN_Q": [
+          "Saint Lucia"
+        ], 
         "alias_SWE_Q": [
           "Saint Lucia"
         ], 
         "alias_POL_Q": [
           "Saint Lucia"
         ], 
+        "hierarchy": [
+          "woe:country=23424951", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.111697896755913, 
-        "ne:POSTAL": "LC", 
+        "ne:GU_A3": "LCA", 
         "alias_RUM_Q": [
           "Sf\u00e2nta Lucia"
         ], 
-        "ne:NAME_SORT": "Saint Lucia", 
-        "placetype": "Country", 
+        "ne_longitude": -60.88224808830387, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc138\uc778\ud2b8 \ub8e8\uc2dc\uc544"
         ], 
-        "alias_POR_Q": [
-          "Santa L\u00facia"
+        "alias_RUM_V": [
+          "Saint Lucia"
         ], 
+        "ne:ne_10m_adm": "LCA", 
         "alias_ENG_A": [
           "LC"
         ], 
         "ne:SUBUNIT": "Saint Lucia", 
-        "ne:ISO_N3": 662.0, 
-        "alias_CZE_Q": [
-          "Svat\u00e1 Lucie"
-        ], 
-        "ne:SOVEREIGNT": "Saint Lucia", 
+        "ne:ADM0_A3": "LCA", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8056\u9732\u897f\u4e9e"
@@ -254,27 +256,23 @@
         "alias_ITA_Q": [
           "Saint Lucia"
         ], 
-        "alias_GER_V": [
-          "Sankt Lucia"
+        "alias_DAN_Q": [
+          "Saint Lucia"
         ], 
         "alias_ITA_V": [
           "Santa Lucia"
         ], 
-        "alias_CHI_V": [
-          "\u5723\u5362\u897f\u4e9a"
-        ], 
-        "ne:ADM0_A3": "LCA", 
+        "ne:POSTAL": "LC", 
         "alias_JPN_Q": [
           "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "St. Lucia", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Santa Luc\u00eda"
         ], 
-        "alias_FIN_Q": [
-          "Saint Lucia"
-        ], 
+        "ne:TERR_": null, 
         "sw_longitude": -61.077843383839024, 
         "ne:NAME_FORMA": null, 
         "ne:GEOUNIT": "Saint Lucia", 
@@ -294,7 +292,11 @@
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Saint Lucia", 
         "ne:SU_A3": "LCA", 
+        "alias_DUT_V": [
+          "Sint-Lucia"
+        ], 
         "ne:LabelRank": 7, 
+        "ne:GDP_MD_EST": 1778.0, 
         "alias_SPA_V": [
           "Saint Lucia"
         ], 
@@ -304,36 +306,37 @@
           "Saint Lucia"
         ], 
         "ne:ABBREV": "S.L.", 
-        "alias_DUT_V": [
-          "Sint-Lucia"
+        "alias_CZE_Q": [
+          "Svat\u00e1 Lucie"
         ], 
-        "ne:GU_A3": "LCA", 
-        "alias_DAN_Q": [
+        "alias_FIN_Q": [
           "Saint Lucia"
         ], 
-        "ne:GDP_MD_EST": 1778.0, 
+        "alias_GER_V": [
+          "Sankt Lucia"
+        ], 
+        "ne:ISO_N3": 662.0, 
         "ne:NAME": "Saint Lucia", 
         "lang": "ENG", 
         "ne:OID_": 217, 
         "name": "St. Lucia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Saint Lucia"
+        "alias_CHI_V": [
+          "\u5723\u5362\u897f\u4e9a"
         ], 
-        "ne_longitude": -60.88224808830387, 
+        "ne:NAME_SORT": "Saint Lucia", 
         "longitude": -60.974, 
         "ne:POP_EST": 160267.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "LC", 
         "sw_latitude": 13.714461161884046, 
-        "alias_RUM_V": [
-          "Saint Lucia"
-        ], 
-        "fullname": "St. Lucia", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Saint Lucia", 
         "alias_FRE_Q": [
           "Sainte-Lucie"
+        ], 
+        "alias_POR_Q": [
+          "Santa L\u00facia"
         ]
       }, 
       "id": 23424951

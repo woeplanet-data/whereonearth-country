@@ -11815,40 +11815,47 @@
           ]
         ]
       }, 
-      "id": 23424976, 
       "type": "Feature", 
+      "id": 23424976, 
+      "bbox": [
+        22.085608351334855, 
+        44.36147858334407, 
+        40.08078901546935, 
+        52.335074571331695
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Ukrainian"
         ], 
-        "ne:ne_10m_adm": "UKR", 
+        "alias_HUN_Q": [
+          "Ukrajna"
+        ], 
         "alias_SWE_Q": [
           "Ukraina"
         ], 
         "alias_ENG_P": [
           "Ukraine"
         ], 
+        "hierarchy": [
+          "woe:country=23424976", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 52.36894928012835, 
         "ne:SUBUNIT": "Ukraine", 
-        "ne:GU_A3": "UKR", 
         "alias_RUM_Q": [
           "Ucraina"
         ], 
-        "alias_UNK_V": [
-          "Ukra\u00efna"
-        ], 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Ucr\u00e2nia"
-        ], 
+        "ne:NAME_SORT": "Ukraine", 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "UKR", 
         "alias_KOR_Q": [
           "\uc6b0\ud06c\ub77c\uc774\ub098"
         ], 
         "alias_POR_S": [
           "Ucrania"
         ], 
-        "ne:ISO_N3": 804.0, 
         "ne:ADM0_A3": "UKR", 
+        "ne:SOVEREIGNT": "Ukraine", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u514b\u862d"
@@ -11856,8 +11863,8 @@
         "alias_ITA_Q": [
           "Ucraina"
         ], 
-        "alias_DAN_Q": [
-          "Ukraine"
+        "alias_GER_V": [
+          "Ukrajina"
         ], 
         "ne:NAME": "Ukraine", 
         "ne:POSTAL": "UA", 
@@ -11867,6 +11874,7 @@
         "alias_POL_Q": [
           "Ukraina"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a6\u30af\u30e9\u30a4\u30ca\u5171\u548c\u56fd"
         ], 
@@ -11891,17 +11899,12 @@
         "ne:ISO_A2": "UA", 
         "date_indexed": "2010-12-02T08:52:39Z", 
         "ne:NAME_FORMA": null, 
-        "alias_CHI_V": [
-          "\u4e4c\u514b\u5170"
-        ], 
-        "alias_ENG_A": [
-          "UA"
-        ], 
+        "fullname": "Ukrayina, Ukraine", 
+        "ne:GU_A3": "UKR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Ukraine", 
         "ne:GEOUNIT": "Ukraine", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 339800.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -11918,46 +11921,46 @@
         "alias_FIN_Q": [
           "Ukraina"
         ], 
-        "alias_GER_V": [
-          "Ukrajina"
+        "alias_DAN_Q": [
+          "Ukraine"
         ], 
         "alias_GER_Q": [
           "Ukraine"
         ], 
-        "fullname": "Ukrayina, Ukraine", 
+        "ne:ISO_N3": 804.0, 
         "lang": "UNK", 
         "ne:OID_": 254, 
         "name": "Ukrayina", 
         "alias_UNK_S": [
           "Oukrania"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ucra\u00efna"
         ], 
-        "alias_HUN_Q": [
-          "Ukrajna"
+        "alias_CHI_V": [
+          "\u4e4c\u514b\u5170"
         ], 
-        "ne:NAME_SORT": "Ukraine", 
+        "alias_UNK_V": [
+          "Ukra\u00efna"
+        ], 
         "longitude": 31.173, 
         "ne:POP_EST": 45700395.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 40.15954309040518, 
         "iso": "UA", 
         "sw_latitude": 44.38075469993326, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Ukraine", 
-        "ne:SU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "UA"
+        ], 
+        "ne:GDP_MD_EST": 339800.0, 
         "alias_FRE_Q": [
           "Ukraine"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Ucr\u00e2nia"
         ]
-      }, 
-      "bbox": [
-        22.085608351334855, 
-        44.36147858334407, 
-        40.08078901546935, 
-        52.335074571331695
-      ]
+      }
     }
   ], 
   "bbox": [

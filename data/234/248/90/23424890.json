@@ -1417,17 +1417,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424890, 
-      "bbox": [
-        20.46315, 
-        40.84272695572588, 
-        22.952377150166512, 
-        42.32025950781508
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424890", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Repubblica di Macedonia"
         ], 
@@ -1462,8 +1458,8 @@
         "ne:NAME_SORT": "Macedonia, The former Yugoslav Republic of", 
         "ne:POP_EST": 2066718.0, 
         "ne:GDP_MD_EST": 18780.0, 
-        "alias_KOR_Q": [
-          "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
+        "alias_ENG_A": [
+          "MK"
         ], 
         "alias_POR_V": [
           "Maced\u00f3nia"
@@ -1515,8 +1511,8 @@
           "\uc804 \uc720\uace0\uc2ac\ub77c\ube44\uc544 \ub9c8\ucf00\ub3c4\ub2c8\uc544"
         ], 
         "ne:ne_10m_adm": "MKD", 
-        "alias_ENG_A": [
-          "MK"
+        "alias_KOR_Q": [
+          "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d"
         ], 
         "ne:SUBUNIT": "Macedonia", 
         "alias_CHI_Q": [
@@ -1536,7 +1532,6 @@
         "alias_DAN_V": [
           "Republikken Makedonien"
         ], 
-        "parent_woeid": 1, 
         "longitude": 21.751, 
         "alias_FRE_V": [
           "Ancienne r\u00e9publique yougoslave de Mac\u00e9doine"
@@ -1590,7 +1585,15 @@
         "ne:ISO_N3": 807.0, 
         "lang": "ENG", 
         "ne:TYPE": "Sovereign country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424890, 
+      "bbox": [
+        20.46315, 
+        40.84272695572588, 
+        22.952377150166512, 
+        42.32025950781508
+      ]
     }
   ], 
   "bbox": [

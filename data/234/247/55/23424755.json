@@ -3777,8 +3777,14 @@
           ]
         ]
       }, 
-      "id": 23424755, 
       "type": "Feature", 
+      "id": 23424755, 
+      "bbox": [
+        19.89545779794068, 
+        -26.828542982695915, 
+        29.43218834810904, 
+        -17.661815687737374
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Botswana"
@@ -3787,23 +3793,24 @@
           "BW"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -17.781807556082242, 
-        "alias_UNK_V": [
-          "Republika Bocvana"
+        "hierarchy": [
+          "woe:country=23424755", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": -17.781807556082242, 
+        "ne:NAME_SORT": "Botswana", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "BWA", 
         "alias_KOR_Q": [
           "\ubcf4\uce20\uc640\ub098"
         ], 
         "ne:SUBUNIT": "Botswana", 
-        "ne:ISO_N3": 72.0, 
         "ne:ADM0_A3": "BWA", 
+        "ne:SOVEREIGNT": "Botswana", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u672d\u90a3"
         ], 
-        "ne:GDP_MD_EST": 27060.0, 
         "ne:NAME": "Botswana", 
         "alias_CHI_V": [
           "\u6ce2\u672d\u90a3"
@@ -3830,6 +3837,7 @@
         "ne:ISO_A2": "BW", 
         "date_indexed": "2010-12-02T10:22:50Z", 
         "ne:NAME_FORMA": "Republic of Botswana", 
+        "fullname": "Botswana", 
         "ne:GU_A3": "BWA", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Botswana", 
@@ -3841,31 +3849,26 @@
         "alias_GER_V": [
           "Republik Botsuana"
         ], 
-        "fullname": "Botswana", 
+        "ne:ISO_N3": 72.0, 
         "lang": "ENG", 
         "name": "Botswana", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Bocvana"
         ], 
         "ne:POSTAL": "BW", 
-        "ne:NAME_SORT": "Botswana", 
+        "alias_UNK_V": [
+          "Republika Bocvana"
+        ], 
         "longitude": 24.68, 
         "ne:POP_EST": 1990876.0, 
         "ne_longitude": 29.350073689899887, 
         "iso": "BW", 
         "sw_latitude": -26.8917941279432, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Botswana", 
+        "ne:GDP_MD_EST": 27060.0, 
         "ne:SU_DIF": 0.0
-      }, 
-      "bbox": [
-        19.89545779794068, 
-        -26.828542982695915, 
-        29.43218834810904, 
-        -17.661815687737374
-      ]
+      }
     }
   ], 
   "bbox": [

@@ -3615,8 +3615,14 @@
           ]
         ]
       }, 
-      "id": 23424915, 
       "type": "Feature", 
+      "id": 23424915, 
+      "bbox": [
+        -87.66849341505471, 
+        10.726839097532446, 
+        -83.14721900097413, 
+        15.016267198135537
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Nicaragua"
@@ -3627,11 +3633,13 @@
         "alias_POL_Q": [
           "Nikaragua"
         ], 
-        "ne_latitude": 15.030969950857383, 
-        "alias_UNK_V": [
-          "Republika Nikaragva"
+        "hierarchy": [
+          "woe:country=23424915", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 15.030969950857383, 
+        "ne:NAME_SORT": "Nicaragua", 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Nicar\u00e1gua"
         ], 
@@ -3639,13 +3647,12 @@
           "NI"
         ], 
         "ne:SUBUNIT": "Nicaragua", 
-        "ne:ISO_N3": 558.0, 
         "ne:ADM0_A3": "NIC", 
+        "ne:SOVEREIGNT": "Nicaragua", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5c3c\u52a0\u62c9\u74dc"
         ], 
-        "ne:GDP_MD_EST": 16790.0, 
         "ne:NAME": "Nicaragua", 
         "ne:POSTAL": "NI", 
         "alias_JPN_Q": [
@@ -3668,6 +3675,7 @@
         "ne:ISO_A2": "NI", 
         "date_indexed": "2010-12-02T18:19:13Z", 
         "ne:NAME_FORMA": "Republic of Nicaragua", 
+        "fullname": "Nicaragua", 
         "ne:GU_A3": "NIC", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Nicaragua", 
@@ -3682,31 +3690,26 @@
         "alias_GER_V": [
           "Nikaragua"
         ], 
-        "fullname": "Nicaragua", 
+        "ne:ISO_N3": 558.0, 
         "lang": "ENG", 
         "name": "Nicaragua", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "N\u00edkaragva"
         ], 
-        "ne:NAME_SORT": "Nicaragua", 
+        "alias_UNK_V": [
+          "Republika Nikaragva"
+        ], 
         "longitude": -85.424, 
         "ne:POP_EST": 5891199.0, 
         "ne_longitude": -82.72492000342973, 
         "iso": "NI", 
         "sw_latitude": 10.713481547387545, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Nicaragua", 
+        "ne:GDP_MD_EST": 16790.0, 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "NIC"
-      }, 
-      "bbox": [
-        -87.66849341505471, 
-        10.726839097532446, 
-        -83.14721900097413, 
-        15.016267198135537
-      ]
+      }
     }
   ], 
   "bbox": [

@@ -16841,8 +16841,14 @@
           ]
         ]
       }, 
-      "id": 23424871, 
       "type": "Feature", 
+      "id": 23424871, 
+      "bbox": [
+        46.46644575377627, 
+        40.6623245305949, 
+        87.35997033076268, 
+        55.38525014914353
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Kazakhstan"
@@ -16850,22 +16856,26 @@
         "alias_SWE_V": [
           "Kazachstan"
         ], 
+        "alias_HUN_Q": [
+          "Kazahszt\u00e1n"
+        ], 
         "alias_SWE_Q": [
           "Kazakstan"
         ], 
         "alias_POL_Q": [
           "Kazachstan"
         ], 
+        "hierarchy": [
+          "woe:country=23424871", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 55.434550272592716, 
         "ne:SUBUNIT": "Kazakhstan", 
-        "ne:GU_A3": "KAZ", 
         "alias_RUM_Q": [
           "Kazahstan"
         ], 
-        "alias_UNK_V": [
-          "Kazakstan"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Kazakhstan", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Casaquist\u00e3o"
         ], 
@@ -16878,8 +16888,8 @@
         "alias_POR_S": [
           "Cazaquistao"
         ], 
-        "ne:ISO_N3": 398.0, 
         "ne:ADM0_A3": "KAZ", 
+        "ne:SOVEREIGNT": "Kazakhstan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u54c8\u85a9\u514b"
@@ -16887,11 +16897,14 @@
         "alias_ITA_Q": [
           "Kazakistan"
         ], 
-        "alias_DAN_Q": [
-          "Kasakhstan"
+        "alias_GER_V": [
+          "Republik Kasachstan"
         ], 
         "ne:NAME": "Kazakhstan", 
         "ne:POSTAL": "KZ", 
+        "alias_KOR_Q": [
+          "\uce74\uc790\ud750\uc2a4\ud0c4"
+        ], 
         "alias_JPN_Q": [
           "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3"
         ], 
@@ -16920,17 +16933,12 @@
         "ne:ISO_A2": "KZ", 
         "date_indexed": "2010-12-02T08:54:13Z", 
         "ne:NAME_FORMA": "Republic of Kazakhstan", 
-        "alias_CHI_V": [
-          "\u54c8\u8428\u514b\u65af\u5766"
-        ], 
-        "alias_KOR_Q": [
-          "\uce74\uc790\ud750\uc2a4\ud0c4"
-        ], 
+        "fullname": "Kazakhstan", 
+        "ne:GU_A3": "KAZ", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Kazakhstan", 
         "ne:GEOUNIT": "Kazakhstan", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 175800.0, 
         "alias_SPA_V": [
           "Kazajst\u00e1n"
         ], 
@@ -16946,41 +16954,36 @@
         "alias_FIN_Q": [
           "Kazakstan"
         ], 
-        "alias_GER_V": [
-          "Republik Kasachstan"
+        "alias_DAN_Q": [
+          "Kasakhstan"
         ], 
         "alias_GER_Q": [
           "Kasachstan"
         ], 
-        "fullname": "Kazakhstan", 
+        "ne:ISO_N3": 398.0, 
         "lang": "ENG", 
         "ne:OID_": 158, 
         "name": "Kazakhstan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Kazahstan"
         ], 
-        "alias_HUN_Q": [
-          "Kazahszt\u00e1n"
+        "alias_CHI_V": [
+          "\u54c8\u8428\u514b\u65af\u5766"
         ], 
-        "ne:NAME_SORT": "Kazakhstan", 
+        "alias_UNK_V": [
+          "Kazakstan"
+        ], 
         "longitude": 66.902, 
         "ne:POP_EST": 15399437.0, 
         "ne_longitude": 87.3237960209886, 
         "iso": "KZ", 
         "sw_latitude": 40.58465566055834, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Kazakhstan", 
+        "ne:GDP_MD_EST": 175800.0, 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "KAZ"
-      }, 
-      "bbox": [
-        46.46644575377627, 
-        40.6623245305949, 
-        87.35997033076268, 
-        55.38525014914353
-      ]
+      }
     }
   ], 
   "bbox": [

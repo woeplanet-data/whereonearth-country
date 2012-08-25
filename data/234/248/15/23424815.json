@@ -989,11 +989,127 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_POL_V": [
-          "Mikronezja, Stany Sfederowane"
+        "ne:ScaleRank": 3, 
+        "hierarchy": [
+          "woe:country=23424815", 
+          "woe:planet=1"
         ], 
+        "placetype": "country", 
+        "alias_ITA_Q": [
+          "Stati Federati di Micronesia"
+        ], 
+        "alias_ITA_V": [
+          "Micronesia, Stati Federati"
+        ], 
+        "alias_FIN_Q": [
+          "Mikronesian liittovaltio"
+        ], 
+        "alias_SPA_Q": [
+          "Estados Federados de Micronesia"
+        ], 
+        "ne:NAME_FORMA": "Federated States of Micronesia", 
+        "ne:SU_A3": "FSM", 
+        "alias_SPA_V": [
+          "Micronesia, Estados Federados de"
+        ], 
+        "latitude": 6.885, 
+        "sw_latitude": 5.269705302032534, 
+        "ne:LabelRank": 5, 
+        "ne:ADM0_DIF": 0.0, 
+        "alias_CZE_V": [
+          "Mikron\u00e9zie"
+        ], 
+        "alias_CZE_Q": [
+          "Federativn\u00ed St\u00e1ty Mikron\u00e9sie"
+        ], 
+        "name": "Federated States of Micronesia", 
+        "ne:NAME_SORT": "Micronesia, Federated States of", 
+        "ne:POP_EST": 107434.0, 
+        "ne:GDP_MD_EST": 238.1, 
+        "alias_KOR_Q": [
+          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29"
+        ], 
+        "alias_POR_V": [
+          "Micron\u00e9sia, Estados Federados da"
+        ], 
+        "alias_POR_Q": [
+          "Estados Federados da Micron\u00e9sia"
+        ], 
+        "ne:POSTAL": "FSM", 
+        "alias_JPN_Q": [
+          "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6"
+        ], 
+        "ne:FIPS_10_": 0.0, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_NOR_S": [
+          "Mikronesiafoderasjonen"
+        ], 
+        "alias_NOR_Q": [
+          "Mikronesiaf\u00f8derasjonen"
+        ], 
+        "date_indexed": "2010-12-02T16:11:23Z", 
+        "ne:FeatureCla": "Adm-0 country", 
+        "alias_FRE_V": [
+          "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)"
+        ], 
+        "ne:SOVEREIGNT": "Federated States of Micronesia", 
+        "ne:NAME": "Micronesia", 
+        "ne:SU_DIF": 0.0, 
+        "alias_HUN_Q": [
+          "Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok"
+        ], 
+        "alias_HUN_V": [
+          "Mikron\u00e9zia, Sz\u00f6vets\u00e9gi \u00c1llamok"
+        ], 
+        "alias_UNK_V": [
+          "Mikronezija"
+        ], 
+        "iso": "FM", 
         "alias_ENG_V": [
           "Micronesia, Fed Stat"
+        ], 
+        "alias_KOR_V": [
+          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"
+        ], 
+        "ne:ne_10m_adm": "FSM", 
+        "alias_ENG_A": [
+          "FM"
+        ], 
+        "ne:SUBUNIT": "Federated States of Micronesia", 
+        "alias_CHI_Q": [
+          "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
+        ], 
+        "alias_CHI_V": [
+          "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
+        ], 
+        "ne:LEVEL": 2.0, 
+        "sw_longitude": 138.0640580654458, 
+        "ne:SOV_A3": "FSM", 
+        "alias_RUM_V": [
+          "Micronezia, Republica Federal\u0103"
+        ], 
+        "ne:OID_": 130, 
+        "ne:ISO_A3": "FSM", 
+        "ne:ISO_A2": "FM", 
+        "ne:GEOUNIT": "Federated States of Micronesia", 
+        "ne:ABBREV": "F.S.M.", 
+        "alias_DAN_S": [
+          "Mikronesiske Foderation"
+        ], 
+        "alias_DAN_Q": [
+          "Mikronesien"
+        ], 
+        "alias_DAN_V": [
+          "Mikronesiske F\u00f8deration"
+        ], 
+        "longitude": 158.223, 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Federated States of Micronesia", 
+        "alias_FRE_S": [
+          "Etats federes de Micronesie"
+        ], 
+        "alias_POL_V": [
+          "Mikronezja, Stany Sfederowane"
         ], 
         "alias_SWE_V": [
           "Mikronesiska federationen"
@@ -1005,153 +1121,40 @@
           "Mikronezja"
         ], 
         "ne_latitude": 9.588692322242053, 
-        "ne:POSTAL": "FSM", 
         "alias_RUM_Q": [
           "Statele Federate Ale Microneziei"
         ], 
-        "alias_UNK_V": [
-          "Mikronezija"
-        ], 
-        "placetype": "Country", 
-        "alias_KOR_V": [
-          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"
-        ], 
-        "alias_POR_V": [
-          "Micron\u00e9sia, Estados Federados da"
-        ], 
-        "alias_POR_Q": [
-          "Estados Federados da Micron\u00e9sia"
-        ], 
-        "alias_ENG_A": [
-          "FM"
-        ], 
-        "ne:SUBUNIT": "Federated States of Micronesia", 
-        "ne:NAME_SORT": "Micronesia, Federated States of", 
-        "ne:ISO_N3": 583.0, 
-        "alias_CZE_Q": [
-          "Federativn\u00ed St\u00e1ty Mikron\u00e9sie"
-        ], 
-        "ne:SOVEREIGNT": "Federated States of Micronesia", 
-        "ne:ScaleRank": 3, 
-        "alias_CHI_Q": [
-          "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
-        ], 
-        "alias_ITA_Q": [
-          "Stati Federati di Micronesia"
-        ], 
-        "alias_GER_V": [
-          "Micronesien, F\u00f6derierte Staaten von"
-        ], 
-        "alias_ITA_V": [
-          "Micronesia, Stati Federati"
-        ], 
+        "ne_longitude": 163.0467708746266, 
+        "ne:ADM0_A3": "FSM", 
         "ne:TERR_": null, 
-        "alias_CHI_V": [
-          "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
-        ], 
-        "alias_GER_Q": [
-          "Mikronesien"
-        ], 
-        "alias_JPN_Q": [
-          "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6"
-        ], 
-        "ne:LEVEL": 2.0, 
-        "ne:SU_A3": "FSM", 
-        "ne:FIPS_10_": 0.0, 
-        "alias_SPA_Q": [
-          "Estados Federados de Micronesia"
-        ], 
-        "alias_FIN_Q": [
-          "Mikronesian liittovaltio"
-        ], 
-        "sw_longitude": 138.0640580654458, 
-        "ne:NAME_FORMA": "Federated States of Micronesia", 
         "alias_FIN_V": [
           "Mikronesia"
         ], 
-        "provider": "geoplanet 7.6.0", 
-        "latitude": 6.885, 
-        "alias_NOR_S": [
-          "Mikronesiafoderasjonen"
-        ], 
         "woe:id": 23424815, 
-        "alias_NOR_Q": [
-          "Mikronesiaf\u00f8derasjonen"
-        ], 
-        "ne:ISO_A3": "FSM", 
-        "ne:ISO_A2": "FM", 
-        "date_indexed": "2010-12-02T16:11:23Z", 
-        "ne:SOV_A3": "FSM", 
-        "alias_FRE_V": [
-          "Micron\u00e9sie (\u00c9tats f\u00e9d\u00e9r\u00e9s de)"
-        ], 
-        "alias_KOR_Q": [
-          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29"
-        ], 
+        "ne:GU_A3": "FSM", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Federated States of Micronesia", 
-        "ne:GEOUNIT": "Federated States of Micronesia", 
-        "ne:LabelRank": 5, 
-        "alias_SPA_V": [
-          "Micronesia, Estados Federados de"
-        ], 
-        "ne:FeatureCla": "Adm-0 country", 
-        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Micronesia"
         ], 
         "alias_DUT_S": [
           "Micronesie, Federale Staten van"
         ], 
-        "ne:ABBREV": "F.S.M.", 
         "alias_DUT_V": [
           "Micronesi\u00eb, Federale Staten van"
         ], 
-        "ne:GU_A3": "FSM", 
-        "alias_DAN_S": [
-          "Mikronesiske Foderation"
+        "alias_GER_V": [
+          "Micronesien, F\u00f6derierte Staaten von"
         ], 
-        "ne:ADM0_A3": "FSM", 
-        "alias_DAN_Q": [
+        "alias_GER_Q": [
           "Mikronesien"
         ], 
-        "alias_DAN_V": [
-          "Mikronesiske F\u00f8deration"
-        ], 
-        "ne:GDP_MD_EST": 238.1, 
+        "ne:ISO_N3": 583.0, 
         "alias_GER_S": [
           "Foderierte Staaten von Mikronesien"
         ], 
-        "ne:NAME": "Micronesia", 
         "lang": "ENG", 
-        "ne:OID_": 130, 
-        "name": "Federated States of Micronesia", 
-        "alias_CZE_V": [
-          "Mikron\u00e9zie"
-        ], 
-        "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
-        "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Mikron\u00e9ziai Sz\u00f6vets\u00e9gi \u00c1llamok"
-        ], 
-        "alias_HUN_V": [
-          "Mikron\u00e9zia, Sz\u00f6vets\u00e9gi \u00c1llamok"
-        ], 
-        "ne_longitude": 163.0467708746266, 
-        "longitude": 158.223, 
-        "ne:POP_EST": 107434.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "FM", 
-        "sw_latitude": 5.269705302032534, 
-        "alias_RUM_V": [
-          "Micronezia, Republica Federal\u0103"
-        ], 
-        "fullname": "Federated States of Micronesia", 
-        "alias_FRE_S": [
-          "Etats federes de Micronesie"
-        ], 
-        "ne:ne_10m_adm": "FSM"
+        "ne:TYPE": "Sovereign country"
       }, 
       "id": 23424815
     }

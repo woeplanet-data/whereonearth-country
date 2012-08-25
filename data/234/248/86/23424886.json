@@ -40,8 +40,12 @@
         "alias_POL_Q": [
           "Majotta"
         ], 
+        "hierarchy": [
+          "woe:country=23424886", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -12.634, 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub9c8\uc694\ud2b8 \uc12c"
         ], 
@@ -61,17 +65,22 @@
         "provider": "geoplanet 7.6.0", 
         "latitude": -12.825, 
         "woe:id": 23424886, 
-        "sw_latitude": -13.0, 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "lang": "ENG", 
         "name": "Mayotte", 
-        "parent_woeid": 1, 
         "ne_longitude": 45.317, 
         "longitude": 45.137, 
         "iso": "YT", 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -13.0, 
         "fullname": "Mayotte"
       }, 
       "id": 23424886
     }
+  ], 
+  "bbox": [
+    45.015, 
+    -13.0, 
+    45.317, 
+    -12.634
   ]
 }

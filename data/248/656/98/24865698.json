@@ -1728,45 +1728,47 @@
         "alias_ENG_V": [
           "Hong Kong Special Administrative Region"
         ], 
-        "ne:ne_10m_adm": "HKG", 
+        "alias_HUN_Q": [
+          "Hongkong"
+        ], 
         "alias_SWE_Q": [
           "Hongkong"
         ], 
         "alias_ENG_P": [
           "Hong Kong"
         ], 
+        "hierarchy": [
+          "woe:country=24865698", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.56053619388591, 
-        "ne:POSTAL": "HK", 
         "alias_RUM_Q": [
           "Hong Kong"
         ], 
-        "ne:NAME_SORT": "Hong Kong S.A.R.", 
-        "placetype": "Country", 
-        "ne:TERR_": "China", 
-        "alias_POR_Q": [
-          "Hong Kong"
-        ], 
+        "ne_longitude": 114.40131636580344, 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "HKG", 
         "alias_ENG_A": [
           "HK"
         ], 
         "ne:SUBUNIT": "Hong Kong S.A.R.", 
-        "ne:ISO_N3": 344.0, 
         "ne:ADM0_A3": "HKG", 
-        "ne:SOVEREIGNT": "China", 
         "ne:ScaleRank": 1, 
-        "ne:GU_A3": "HKG", 
         "alias_ITA_Q": [
           "Hong Kong"
         ], 
+        "alias_DAN_Q": [
+          "Hongkong"
+        ], 
         "ne:NAME": "Hong Kong", 
-        "alias_CHI_V": [
-          "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
+        "ne:POSTAL": "HK", 
+        "alias_KOR_Q": [
+          "\ud64d\ucf69"
         ], 
         "wikipedia:id": "13404", 
         "alias_POL_Q": [
           "Hongkong"
         ], 
-        "ne:SU_A3": "HKG", 
         "alias_JPN_V": [
           "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a"
         ], 
@@ -1774,14 +1776,10 @@
         "alias_SPA_Q": [
           "Hong Kong"
         ], 
-        "alias_FIN_Q": [
-          "Hongkong"
-        ], 
+        "ne:TERR_": "China", 
         "sw_longitude": 113.83731978415494, 
         "ne:NAME_FORMA": "Hong Kong Special Administrative Region", 
-        "alias_FIN_V": [
-          "Hongkongista"
-        ], 
+        "ne:SU_A3": "HKG", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 22.411, 
         "woe:id": 24865698, 
@@ -1792,13 +1790,15 @@
         "ne:ISO_A2": "HK", 
         "date_indexed": "2010-12-02T12:08:18Z", 
         "ne:SOV_A3": "CH1", 
-        "alias_KOR_Q": [
-          "\ud64d\ucf69"
-        ], 
+        "fullname": "\u9999\u6e2f, Hong Kong", 
+        "ne:GU_A3": "HKG", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Hong Kong S.A.R.", 
-        "ne:GEOUNIT": "Hong Kong S.A.R.", 
+        "alias_FIN_V": [
+          "Hongkongista"
+        ], 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 306600.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -1809,30 +1809,33 @@
         "alias_CZE_Q": [
           "Hongkong"
         ], 
-        "alias_DAN_Q": [
+        "alias_FIN_Q": [
           "Hongkong"
         ], 
+        "ne:GEOUNIT": "Hong Kong S.A.R.", 
         "alias_GER_Q": [
           "Hongkong"
         ], 
-        "ne:GDP_MD_EST": 306600.0, 
+        "ne:ISO_N3": 344.0, 
         "lang": "CHI", 
         "ne:OID_": 12, 
         "name": "\u9999\u6e2f", 
         "ne:TYPE": "Country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Hongkong"
+        "alias_CHI_V": [
+          "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u9999\u6e2f\u7279\u5225\u884c\u653f\u5340"
         ], 
-        "ne_longitude": 114.40131636580344, 
+        "ne:NAME_SORT": "Hong Kong S.A.R.", 
         "longitude": 114.154, 
         "ne:POP_EST": 7055071.0, 
         "iso": "HK", 
         "sw_latitude": 22.17869903575557, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "\u9999\u6e2f, Hong Kong", 
+        "ne:SOVEREIGNT": "China", 
         "alias_FRE_Q": [
+          "Hong Kong"
+        ], 
+        "alias_POR_Q": [
           "Hong Kong"
         ]
       }, 

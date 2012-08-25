@@ -489,29 +489,26 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:ne_10m_adm": "IOT", 
         "alias_SWE_Q": [
           "Brittiska territoriet i Indiska oceanen"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424849", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -5.227070006950811, 
         "ne:SUBUNIT": "British Indian Ocean Territory", 
-        "ne:GU_A3": "IOT", 
-        "ne:NAME_SORT": "British Indian Ocean Territory", 
-        "placetype": "Country", 
-        "ne:TERR_": "U.K.", 
-        "alias_POR_Q": [
-          "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
-        ], 
+        "ne_longitude": 72.49493371565711, 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "IOT", 
         "alias_ENG_A": [
           "IO"
         ], 
         "alias_POR_S": [
           "Territorio Britanico do Oceano Indico"
         ], 
-        "ne:ISO_N3": 86.0, 
         "ne:ADM0_A3": "IOT", 
-        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u571f"
@@ -521,6 +518,9 @@
         ], 
         "ne:NAME": "Br. Indian Ocean Ter.", 
         "ne:POSTAL": "IO", 
+        "alias_KOR_Q": [
+          "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
+        ], 
         "alias_JPN_Q": [
           "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
         ], 
@@ -528,9 +528,7 @@
           "\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
         ], 
         "ne:FIPS_10_": 0.0, 
-        "alias_FIN_Q": [
-          "Brittil\u00e4inen Intian valtameren alue"
-        ], 
+        "ne:TERR_": "U.K.", 
         "alias_FIN_S": [
           "Brittilainen Intian valtameren alue"
         ], 
@@ -547,41 +545,46 @@
         "ne:ISO_A2": "IO", 
         "date_indexed": "2010-12-02T16:11:57Z", 
         "ne:SOV_A3": "GB1", 
-        "alias_KOR_Q": [
-          "\uc601\uad6d\ub839\uc778\ub3c4\uc591\uc2dd\ubbfc\uc9c0"
-        ], 
+        "fullname": "British Indian Ocean Territory", 
+        "ne:GU_A3": "IOT", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "British Indian Ocean Territory", 
         "ne:SU_A3": "IOT", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": -99.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "I.O.T.", 
+        "alias_FIN_Q": [
+          "Brittil\u00e4inen Intian valtameren alue"
+        ], 
         "alias_DAN_Q": [
           "Det Britiske Territorium i Det Indiske Ocean"
         ], 
         "alias_GER_Q": [
           "Britische Territorium im Indischen Ozean"
         ], 
-        "ne:GDP_MD_EST": -99.0, 
+        "ne:ISO_N3": 86.0, 
         "lang": "ENG", 
         "ne:OID_": 50, 
         "name": "British Indian Ocean Territory", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "ne_longitude": 72.49493371565711, 
+        "ne:NAME_SORT": "British Indian Ocean Territory", 
         "longitude": 72.252, 
         "ne:POP_EST": 4000.0, 
         "iso": "IO", 
         "sw_latitude": -7.432310078956036, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "British Indian Ocean Territory", 
+        "ne:SOVEREIGNT": "United Kingdom", 
+        "alias_FRE_Q": [
+          "Territoire Britannique de l'Oc\u00e9an Indien"
+        ], 
         "alias_FRE_S": [
           "Territoire Britannique de l'Ocean Indien"
         ], 
-        "alias_FRE_Q": [
-          "Territoire Britannique de l'Oc\u00e9an Indien"
+        "alias_POR_Q": [
+          "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
         ]
       }, 
       "id": 23424849

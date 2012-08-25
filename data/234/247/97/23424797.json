@@ -809,11 +809,20 @@
           ]
         ]
       }, 
-      "id": 23424797, 
       "type": "Feature", 
+      "id": 23424797, 
+      "bbox": [
+        41.66176000000013, 
+        10.92687856693442, 
+        43.31785241066467, 
+        12.699638576707116
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Djibouti"
+        ], 
+        "alias_HUN_Q": [
+          "Dzsibuti"
         ], 
         "alias_ENG_A": [
           "DJ"
@@ -821,11 +830,13 @@
         "alias_POL_Q": [
           "D\u017cibuti"
         ], 
-        "ne_latitude": 12.70775258373854, 
-        "alias_UNK_V": [
-          "D\u00edb\u00fat\u00ed"
+        "hierarchy": [
+          "woe:country=23424797", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 12.70775258373854, 
+        "ne:NAME_SORT": "Djibouti", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Djibuti"
         ], 
@@ -834,8 +845,8 @@
           "\uc9c0\ubd80\ud2f0"
         ], 
         "ne:SUBUNIT": "Djibouti", 
-        "ne:ISO_N3": 262.0, 
         "ne:ADM0_A3": "DJI", 
+        "ne:SOVEREIGNT": "Djibouti", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5409\u5e03\u5730"
@@ -870,15 +881,12 @@
         "ne:ISO_A2": "DJ", 
         "date_indexed": "2010-12-02T16:14:08Z", 
         "ne:NAME_FORMA": "Republic of Djibouti", 
-        "alias_CHI_V": [
-          "\u5409\u5e03\u5730"
-        ], 
+        "fullname": "Djibouti", 
         "ne:GU_A3": "DJI", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Djibouti", 
         "ne:GEOUNIT": "Djibouti", 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 1885.0, 
         "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
@@ -895,18 +903,19 @@
         "alias_GER_Q": [
           "Dschibuti"
         ], 
-        "fullname": "Djibouti", 
+        "ne:ISO_N3": 262.0, 
         "lang": "ENG", 
         "name": "Djibouti", 
         "alias_UNK_S": [
           "Dibuti"
         ], 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Dzsibuti"
+        "alias_CHI_V": [
+          "\u5409\u5e03\u5730"
         ], 
-        "ne:NAME_SORT": "Djibouti", 
+        "alias_UNK_V": [
+          "D\u00edb\u00fat\u00ed"
+        ], 
         "longitude": 42.595, 
         "ne:POP_EST": 516055.0, 
         "ne:TYPE": "Sovereign country", 
@@ -914,14 +923,8 @@
         "iso": "DJ", 
         "sw_latitude": 10.929824930589518, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Djibouti"
-      }, 
-      "bbox": [
-        41.66176000000013, 
-        10.92687856693442, 
-        43.31785241066467, 
-        12.699638576707116
-      ]
+        "ne:GDP_MD_EST": 1885.0
+      }
     }
   ], 
   "bbox": [

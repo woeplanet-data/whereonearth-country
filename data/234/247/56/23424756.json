@@ -102,36 +102,34 @@
         "alias_ENG_V": [
           "Bermudian"
         ], 
-        "ne:ne_10m_adm": "BMU", 
-        "alias_ENG_A": [
-          "BM"
-        ], 
+        "ne:ScaleRank": 3, 
         "alias_POL_Q": [
           "Bermudy"
         ], 
+        "hierarchy": [
+          "woe:country=23424756", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 32.388463440666754, 
+        "ne:GU_A3": "BMU", 
         "alias_RUM_Q": [
           "Insulele Bermude"
         ], 
-        "ne:NAME_SORT": "Bermuda", 
-        "placetype": "Country", 
+        "ne_longitude": -64.67534989419923, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ubc84\ubba4\ub2e4\uc81c\ub3c4"
         ], 
-        "alias_POR_Q": [
-          "Bermudas"
-        ], 
+        "ne:ne_10m_adm": "BMU", 
         "alias_KOR_Q": [
           "\ubc84\ubba4\ub2e4"
         ], 
         "ne:SUBUNIT": "Bermuda", 
-        "ne:ISO_N3": 60.0, 
         "ne:ADM0_A3": "BMU", 
-        "ne:SOVEREIGNT": "United Kingdom", 
-        "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u767e\u6155\u9054"
         ], 
+        "ne:GDP_MD_EST": 4500.0, 
         "alias_ITA_V": [
           "Bermude"
         ], 
@@ -161,7 +159,10 @@
         "ne:ISO_A2": "BM", 
         "date_indexed": "2010-12-02T17:42:05Z", 
         "ne:SOV_A3": "GB1", 
-        "ne:GU_A3": "BMU", 
+        "fullname": "Bermuda", 
+        "alias_ENG_A": [
+          "BM"
+        ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Bermuda", 
         "ne:SU_A3": "BMU", 
@@ -172,23 +173,25 @@
         "alias_CZE_Q": [
           "Bermudy"
         ], 
-        "ne:GDP_MD_EST": 4500.0, 
+        "ne:ISO_N3": 60.0, 
         "ne:NAME": "Bermuda", 
         "lang": "ENG", 
         "name": "Bermuda", 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "BM", 
-        "ne_longitude": -64.67534989419923, 
+        "ne:NAME_SORT": "Bermuda", 
         "longitude": -64.785, 
         "ne:POP_EST": 67837.0, 
         "iso": "BM", 
         "sw_latitude": 32.264491679493204, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Bermuda", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "alias_FRE_Q": [
           "Bermudes"
+        ], 
+        "alias_POR_Q": [
+          "Bermudas"
         ]
       }, 
       "id": 23424756

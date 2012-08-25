@@ -158,49 +158,44 @@
         "alias_ENG_V": [
           "Kingdom of Bahrain"
         ], 
-        "ne:ne_10m_adm": "BHR", 
-        "alias_KOR_Q": [
-          "\ubc14\ub808\uc778"
-        ], 
+        "ne:ScaleRank": 1, 
         "alias_POL_Q": [
           "Bahrajn"
         ], 
+        "hierarchy": [
+          "woe:country=23424753", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 26.242378642025017, 
         "ne:SUBUNIT": "Bahrain", 
+        "ne:GU_A3": "BHR", 
         "alias_RUM_Q": [
           "Bahrein"
         ], 
-        "alias_UNK_V": [
-          "Dawlat Al-Bahrayn"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Bahrain", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Bareine"
         ], 
-        "alias_POR_Q": [
-          "Bahrein"
-        ], 
+        "ne:ne_10m_adm": "BHR", 
         "alias_ENG_A": [
           "BH"
         ], 
         "alias_POR_S": [
           "Barem"
         ], 
-        "ne:ISO_N3": 48.0, 
         "alias_ARA_V": [
           "Al-Bahrayn"
         ], 
         "ne:ADM0_A3": "BHR", 
-        "ne:SOVEREIGNT": "Bahrain", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u6797"
         ], 
+        "ne:GDP_MD_EST": 26820.0, 
         "alias_ITA_V": [
           "Bahrein"
         ], 
         "ne:POSTAL": "BH", 
-        "ne:NAME_SORT": "Bahrain", 
         "alias_JPN_Q": [
           "\u30d0\u30fc\u30ec\u30fc\u30f3"
         ], 
@@ -224,7 +219,10 @@
         "ne:ISO_A2": "BH", 
         "date_indexed": "2010-12-02T16:11:57Z", 
         "ne:SOV_A3": "BHR", 
-        "ne:GU_A3": "BHR", 
+        "fullname": "Bahrain", 
+        "alias_KOR_Q": [
+          "\ubc14\ub808\uc778"
+        ], 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Bahrain", 
         "ne:SU_A3": "BHR", 
@@ -241,28 +239,33 @@
         "alias_GER_V": [
           "Staat Bahrain"
         ], 
-        "ne:GDP_MD_EST": 26820.0, 
+        "ne:ISO_N3": 48.0, 
         "ne:NAME": "Bahrain", 
         "lang": "ENG", 
         "name": "Bahrain", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Bahrajn"
         ], 
         "alias_HUN_Q": [
           "Bahrein"
         ], 
-        "ne_longitude": 50.62102339658526, 
+        "alias_UNK_V": [
+          "Dawlat Al-Bahrayn"
+        ], 
         "longitude": 50.548, 
         "ne:POP_EST": 727785.0, 
+        "ne_longitude": 50.62102339658526, 
         "iso": "BH", 
         "sw_latitude": 25.789279683832973, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Bahrain", 
-        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Bahrain", 
         "alias_FRE_Q": [
           "Bahre\u00efn"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Bahrein"
         ]
       }, 
       "id": 23424753

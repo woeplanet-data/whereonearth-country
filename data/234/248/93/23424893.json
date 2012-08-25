@@ -4145,43 +4145,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424893, 
-      "bbox": [
-        -17.02042843267577, 
-        21.420734157796687, 
-        -1.124551153966195, 
-        35.75998810479399
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Morocco"
         ], 
-        "ne:ne_10m_adm": "MAR", 
         "alias_SWE_Q": [
           "Marocko"
         ], 
         "alias_POL_Q": [
           "Maroko"
         ], 
+        "hierarchy": [
+          "woe:country=23424893", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 35.924164937590135, 
         "alias_RUM_Q": [
           "Maroc"
         ], 
-        "ne:NAME_SORT": "Morocco", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Marrocos"
+        "alias_UNK_V": [
+          "Kraljevina Maroko"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "MAR", 
         "alias_KOR_Q": [
           "\ubaa8\ub85c\ucf54"
         ], 
         "ne:SUBUNIT": "Morocco", 
+        "ne:ISO_N3": 504.0, 
         "alias_ARA_V": [
           "Al Magreb"
         ], 
         "ne:ADM0_A3": "MAR", 
-        "ne:SOVEREIGNT": "Morocco", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6469\u6d1b\u54e5"
@@ -4189,8 +4184,8 @@
         "alias_ITA_Q": [
           "Marocco"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Marokko"
+        "alias_DAN_Q": [
+          "Marokko"
         ], 
         "ne:NAME": "Morocco", 
         "ne:POSTAL": "MA", 
@@ -4221,18 +4216,16 @@
         "ne:ISO_A2": "MA", 
         "date_indexed": "2010-12-02T18:19:13Z", 
         "ne:NAME_FORMA": "Kingdom of Morocco", 
-        "fullname": "Morocco", 
-        "alias_FRE_V": [
-          "Royaume du Maroc"
-        ], 
         "ne:GU_A3": "MAR", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Morocco", 
         "ne:SU_A3": "MAR", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 136600.0, 
         "alias_SPA_V": [
           "Reino de Marruecos"
         ], 
+        "wikipedia:id": "19291", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -4245,13 +4238,13 @@
         "alias_FIN_Q": [
           "Marokko"
         ], 
-        "alias_DAN_Q": [
-          "Marokko"
+        "alias_GER_V": [
+          "K\u00f6nigreich Marokko"
         ], 
         "alias_GER_Q": [
           "Marokko"
         ], 
-        "ne:ISO_N3": 504.0, 
+        "fullname": "Morocco", 
         "alias_GER_S": [
           "Konigreich Marokko"
         ], 
@@ -4260,32 +4253,42 @@
         "ne:GEOUNIT": "Morocco", 
         "name": "Morocco", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Maroko"
         ], 
         "alias_HUN_Q": [
           "Marokk\u00f3"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Maroko"
-        ], 
+        "ne:NAME_SORT": "Morocco", 
         "longitude": -7.067, 
         "ne:POP_EST": 34859364.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -1.031999471086351, 
         "iso": "MA", 
         "sw_latitude": 21.420063172063394, 
+        "alias_FRE_V": [
+          "Royaume du Maroc"
+        ], 
+        "ne:SOVEREIGNT": "Morocco", 
+        "alias_FRE_Q": [
+          "Maroc"
+        ], 
         "alias_ENG_A": [
           "MA"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 136600.0, 
-        "wikipedia:id": "19291", 
-        "alias_FRE_Q": [
-          "Maroc"
+        "alias_POR_Q": [
+          "Marrocos"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424893, 
+      "bbox": [
+        -17.02042843267577, 
+        21.420734157796687, 
+        -1.124551153966195, 
+        35.75998810479399
+      ]
     }
   ], 
   "bbox": [

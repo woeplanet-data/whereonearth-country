@@ -6603,20 +6603,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424883, 
-      "bbox": [
-        43.254187046081, 
-        -25.60143442149309, 
-        50.47653689962553, 
-        -12.04055673589197
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Madagascar"
-        ], 
-        "alias_HUN_Q": [
-          "Madagaszk\u00e1r"
         ], 
         "alias_SWE_Q": [
           "Madagaskar"
@@ -6624,9 +6613,15 @@
         "alias_POL_Q": [
           "Madagaskar"
         ], 
+        "hierarchy": [
+          "woe:country=23424883", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -11.943765970913574, 
-        "ne:NAME_SORT": "Madagascar", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Republika Madagaskar"
+        ], 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub9c8\ub2e4\uce74\uc2a4\uce74\ub974"
         ], 
@@ -6637,14 +6632,15 @@
           "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"
         ], 
         "ne:SUBUNIT": "Madagascar", 
+        "ne:ISO_N3": 450.0, 
         "ne:ADM0_A3": "MDG", 
-        "ne:SOVEREIGNT": "Madagascar", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u9054\u52a0\u65af\u52a0"
         ], 
-        "alias_GER_V": [
-          "Republik Madagaskar"
+        "ne:GDP_MD_EST": 20130.0, 
+        "alias_DAN_Q": [
+          "Madagaskar"
         ], 
         "ne:NAME": "Madagascar", 
         "ne:POSTAL": "MG", 
@@ -6670,12 +6666,18 @@
         "ne:ISO_A2": "MG", 
         "date_indexed": "2010-12-02T16:43:54Z", 
         "ne:NAME_FORMA": "Republic of Madagascar", 
-        "fullname": "Madagascar", 
+        "alias_CHI_V": [
+          "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+        ], 
         "ne:GU_A3": "MDG", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Madagascar", 
         "ne:GEOUNIT": "Madagascar", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "MG"
+        ], 
+        "wikipedia:id": "18964", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -6688,41 +6690,42 @@
         "alias_FIN_Q": [
           "Madagaskar"
         ], 
-        "alias_DAN_Q": [
-          "Madagaskar"
+        "alias_GER_V": [
+          "Republik Madagaskar"
         ], 
         "alias_GER_Q": [
           "Madagaskar"
         ], 
-        "ne:ISO_N3": 450.0, 
+        "fullname": "Madagascar", 
         "lang": "ENG", 
         "ne:OID_": 174, 
         "name": "Madagascar", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Madagasikara"
         ], 
-        "alias_CHI_V": [
-          "\u9a6c\u8fbe\u52a0\u65af\u52a0"
+        "alias_HUN_Q": [
+          "Madagaszk\u00e1r"
         ], 
-        "alias_UNK_V": [
-          "Republika Madagaskar"
-        ], 
+        "ne:NAME_SORT": "Madagascar", 
         "longitude": 46.854, 
         "ne:POP_EST": 20653556.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 50.50428633669708, 
         "iso": "MG", 
         "sw_latitude": -25.59853973371027, 
-        "alias_ENG_A": [
-          "MG"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Madagascar", 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 20130.0, 
-        "wikipedia:id": "18964", 
         "ne:ne_10m_adm": "MDG"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424883, 
+      "bbox": [
+        43.254187046081, 
+        -25.60143442149309, 
+        50.47653689962553, 
+        -12.04055673589197
+      ]
     }
   ], 
   "bbox": [

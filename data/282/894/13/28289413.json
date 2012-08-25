@@ -43,11 +43,15 @@
         "alias_POL_Q": [
           "Svalbard"
         ], 
+        "hierarchy": [
+          "woe:country=28289413", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 80.834, 
         "alias_RUM_Q": [
           "Svalbard"
         ], 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc2a4\ubc1c\ube44\ub4dc \uad70\ub3c4"
         ], 
@@ -68,6 +72,9 @@
         ], 
         "alias_CHI_V": [
           "\u65af\u74e6\u5c14\u5df4\u7fa4\u5c9b"
+        ], 
+        "alias_GER_Q": [
+          "Spitzbergen"
         ], 
         "alias_JPN_Q": [
           "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6"
@@ -115,12 +122,8 @@
         ], 
         "lang": "ENG", 
         "name": "Svalbard and Jan Mayen", 
-        "parent_woeid": 1, 
         "alias_HUN_Q": [
           "Spitzberg\u00e1k"
-        ], 
-        "alias_GER_Q": [
-          "Spitzbergen"
         ], 
         "ne_longitude": 36.815, 
         "longitude": 16.097, 
@@ -139,5 +142,11 @@
       }, 
       "id": 28289413
     }
+  ], 
+  "bbox": [
+    -9.08, 
+    70.827, 
+    36.815, 
+    80.834
   ]
 }

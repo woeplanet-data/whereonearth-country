@@ -3835,17 +3835,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424909, 
-      "bbox": [
-        3.314971144228537, 
-        50.80372101501058, 
-        7.092053256873896, 
-        53.510403347378144
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424909", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Paesi Bassi"
         ], 
@@ -3880,8 +3876,8 @@
         "ne:NAME_SORT": "Netherlands", 
         "ne:POP_EST": 16715999.0, 
         "ne:GDP_MD_EST": 672000.0, 
-        "alias_KOR_Q": [
-          "\ub124\ub35c\ub780\ub4dc"
+        "alias_ENG_A": [
+          "NLD"
         ], 
         "alias_POR_V": [
           "Neerl\u00e2ndia"
@@ -3934,8 +3930,8 @@
           "\ub124\ub4e4\ub780\ub4dc"
         ], 
         "ne:ne_10m_adm": "NLD", 
-        "alias_ENG_A": [
-          "NLD"
+        "alias_KOR_Q": [
+          "\ub124\ub35c\ub780\ub4dc"
         ], 
         "ne:SUBUNIT": "Netherlands", 
         "alias_CHI_Q": [
@@ -3949,9 +3945,7 @@
         ], 
         "sw_longitude": -68.4166202399085, 
         "ne:SOV_A3": "NL1", 
-        "alias_RUM_V": [
-          "\u0162\u0103rile de Jos"
-        ], 
+        "ne_latitude": 53.557868957735096, 
         "ne:OID_": 20, 
         "ne:ISO_A3": "NLD", 
         "ne:ISO_A2": "NL", 
@@ -3963,7 +3957,6 @@
         "alias_DAN_V": [
           "Holland"
         ], 
-        "parent_woeid": 1, 
         "longitude": 5.33, 
         "ne:GEOU_DIF": 0.0, 
         "ne:SOVEREIGNT": "Netherlands", 
@@ -3983,7 +3976,9 @@
         "alias_SWE_S": [
           "Nederlanderna"
         ], 
-        "ne_latitude": 53.557868957735096, 
+        "alias_RUM_V": [
+          "\u0162\u0103rile de Jos"
+        ], 
         "alias_RUM_Q": [
           "Olanda"
         ], 
@@ -4011,7 +4006,15 @@
         ], 
         "lang": "DUT", 
         "ne:TYPE": "Country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424909, 
+      "bbox": [
+        3.314971144228537, 
+        50.80372101501058, 
+        7.092053256873896, 
+        53.510403347378144
+      ]
     }
   ], 
   "bbox": [

@@ -6765,28 +6765,23 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424908, 
-      "bbox": [
-        2.691701694356254, 
-        4.240594183769517, 
-        14.577177768622533, 
-        13.865923977102298
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Nigerian"
-        ], 
-        "alias_HUN_Q": [
-          "Nig\u00e9ria"
         ], 
         "alias_ENG_A": [
           "NG"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424908", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.880290832691003, 
-        "ne:NAME_SORT": "Nigeria", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Zvezna republika Nigerija"
+        ], 
+        "placetype": "country", 
         "alias_POR_Q": [
           "Nig\u00e9ria"
         ], 
@@ -6794,12 +6789,13 @@
           "\ub098\uc774\uc9c0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Nigeria", 
+        "ne:ISO_N3": 566.0, 
         "ne:ADM0_A3": "NGA", 
-        "ne:SOVEREIGNT": "Nigeria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5948\u53ca\u5229\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 335400.0, 
         "ne:NAME": "Nigeria", 
         "ne:POSTAL": "NG", 
         "alias_JPN_Q": [
@@ -6821,12 +6817,15 @@
         "ne:ISO_A2": "NG", 
         "date_indexed": "2010-12-02T09:35:13Z", 
         "ne:NAME_FORMA": "Federal Republic of Nigeria", 
-        "fullname": "Nigeria", 
+        "alias_CHI_V": [
+          "\u5948\u53ca\u5229\u4e9e"
+        ], 
         "ne:GU_A3": "NGA", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Nigeria", 
         "ne:GEOUNIT": "Nigeria", 
         "ne:LabelRank": 2, 
+        "wikipedia:id": "21383", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Nigeria", 
@@ -6836,31 +6835,35 @@
         "alias_GER_V": [
           "Bundesrepublik Nigeria"
         ], 
-        "ne:ISO_N3": 566.0, 
+        "fullname": "Nigeria", 
         "lang": "ENG", 
         "name": "Nigeria", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Nigerija"
         ], 
-        "alias_CHI_V": [
-          "\u5948\u53ca\u5229\u4e9e"
+        "alias_HUN_Q": [
+          "Nig\u00e9ria"
         ], 
-        "alias_UNK_V": [
-          "Zvezna republika Nigerija"
-        ], 
+        "ne:NAME_SORT": "Nigeria", 
         "longitude": 8.674, 
         "ne:POP_EST": 149229090.0, 
         "ne_longitude": 14.669936157222338, 
         "iso": "NG", 
         "sw_latitude": 4.271936747483394, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Nigeria", 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 335400.0, 
-        "wikipedia:id": "21383", 
         "ne:ne_10m_adm": "NGA"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424908, 
+      "bbox": [
+        2.691701694356254, 
+        4.240594183769517, 
+        14.577177768622533, 
+        13.865923977102298
+      ]
     }
   ], 
   "bbox": [

@@ -402,7 +402,11 @@
       "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424966", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_S": [
           "Sao Tome e Principe"
         ], 
@@ -437,8 +441,8 @@
         "ne:NAME_SORT": "Sao Tome and Principe", 
         "ne:POP_EST": 212679.0, 
         "ne:GDP_MD_EST": 276.5, 
-        "alias_KOR_Q": [
-          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
+        "alias_ENG_A": [
+          "ST"
         ], 
         "alias_POR_V": [
           "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
@@ -497,8 +501,8 @@
           "\uc0c1\ud1a0\uba54 \ud504\ub9b0\uc2a4\ud398"
         ], 
         "ne:ne_10m_adm": "STP", 
-        "alias_ENG_A": [
-          "ST"
+        "alias_KOR_Q": [
+          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
         ], 
         "ne:SUBUNIT": "Sao Tome and Principe", 
         "alias_CHI_Q": [
@@ -507,14 +511,12 @@
         "alias_CHI_V": [
           "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
         ], 
-        "alias_POL_Q": [
-          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
+        "alias_SWE_S": [
+          "Sao Tome och Principe"
         ], 
         "sw_longitude": 6.462271769138937, 
         "ne:SOV_A3": "STP", 
-        "alias_RUM_V": [
-          "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"
-        ], 
+        "ne_latitude": 1.699638977376068, 
         "ne:OID_": 221, 
         "ne:ISO_A3": "STP", 
         "ne:ISO_A2": "ST", 
@@ -526,7 +528,6 @@
         "alias_DAN_V": [
           "Sao Tom\u00e9 og Principe"
         ], 
-        "parent_woeid": 1, 
         "longitude": 6.619, 
         "ne:GEOU_DIF": 0.0, 
         "ne:SOVEREIGNT": "Sao Tome and Principe", 
@@ -540,10 +541,12 @@
         "alias_SWE_Q": [
           "Sao Tom\u00e9 och Principe"
         ], 
-        "alias_SWE_S": [
-          "Sao Tome och Principe"
+        "alias_POL_Q": [
+          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
         ], 
-        "ne_latitude": 1.699638977376068, 
+        "alias_RUM_V": [
+          "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"
+        ], 
         "alias_RUM_Q": [
           "S\u00e3o Tom\u00e9 \u015ei Pr\u00edncipe"
         ], 

@@ -472,43 +472,38 @@
         "alias_ENG_V": [
           "Republic of Mauritius"
         ], 
-        "ne:ne_10m_adm": "MUS", 
-        "alias_ENG_A": [
-          "MU"
-        ], 
+        "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424894", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -10.316681823871662, 
         "ne:SUBUNIT": "Mauritius", 
-        "alias_UNK_V": [
-          "Republika Mauritius"
-        ], 
-        "placetype": "Country", 
+        "ne:GU_A3": "MUS", 
+        "ne:NAME_SORT": "Mauritius", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Maur\u00edcio"
         ], 
-        "alias_POR_Q": [
-          "Maur\u00edcia"
-        ], 
+        "ne:ne_10m_adm": "MUS", 
         "alias_KOR_Q": [
           "\ubaa8\ub9ac\uc154\uc2a4"
         ], 
         "alias_POR_S": [
           "Mauricia"
         ], 
-        "ne:ISO_N3": 480.0, 
         "ne:ADM0_A3": "MUS", 
-        "ne:SOVEREIGNT": "Mauritius", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6a21\u91cc\u897f\u65af"
         ], 
+        "ne:GDP_MD_EST": 15270.0, 
         "alias_ITA_V": [
           "Maurizio"
         ], 
         "alias_CHI_V": [
           "\u6a21\u91cc\u897f\u65af"
         ], 
-        "ne:NAME_SORT": "Mauritius", 
         "alias_JPN_Q": [
           "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
         ], 
@@ -531,7 +526,10 @@
         "ne:ISO_A2": "MU", 
         "date_indexed": "2010-12-02T08:58:29Z", 
         "ne:SOV_A3": "MUS", 
-        "ne:GU_A3": "MUS", 
+        "fullname": "Mauritius", 
+        "alias_ENG_A": [
+          "MU"
+        ], 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Mauritius", 
         "ne:SU_A3": "MUS", 
@@ -541,42 +539,47 @@
         ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "\u00cele Maurice"
+        ], 
         "ne:ABBREV": "Mus.", 
         "alias_CZE_Q": [
           "Mauricius"
         ], 
+        "alias_FRE_S": [
+          "Ile Maurice"
+        ], 
         "alias_GER_V": [
           "Republik Mauritius"
         ], 
-        "ne:GDP_MD_EST": 15270.0, 
+        "ne:ISO_N3": 480.0, 
         "ne:NAME": "Mauritius", 
         "lang": "ENG", 
         "name": "Mauritius", 
         "alias_UNK_S": [
           "Maritius"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "M\u00e1rit\u00edus"
         ], 
         "ne:POSTAL": "MU", 
-        "ne_longitude": 63.4942944745697, 
+        "alias_UNK_V": [
+          "Republika Mauritius"
+        ], 
         "longitude": 57.552, 
         "ne:POP_EST": 1284264.0, 
         "ne:TYPE": "Sovereign country", 
+        "ne_longitude": 63.4942944745697, 
         "iso": "MU", 
         "sw_latitude": -20.51755788202908, 
-        "alias_FRE_V": [
-          "\u00cele Maurice"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Mauritius", 
-        "alias_FRE_S": [
-          "Ile Maurice"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Mauritius", 
         "alias_FRE_Q": [
           "Maurice"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Maur\u00edcia"
         ]
       }, 
       "id": 23424894

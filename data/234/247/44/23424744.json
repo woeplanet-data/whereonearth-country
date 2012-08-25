@@ -220,28 +220,31 @@
         "alias_POL_Q": [
           "Andora"
         ], 
+        "hierarchy": [
+          "woe:country=23424744", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.64936167468633, 
-        "ne:GU_A3": "AND", 
-        "ne_longitude": 1.765090779413271, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Andorra", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "AND", 
         "alias_ENG_A": [
           "AD"
         ], 
         "ne:SUBUNIT": "Andorra", 
-        "ne:ISO_N3": 20.0, 
-        "ne:POP_EST": 83888.0, 
         "ne:ADM0_A3": "AND", 
-        "ne:SOVEREIGNT": "Andorra", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u5b89\u9053\u723e"
         ], 
+        "ne:GDP_MD_EST": 3660.0, 
         "ne:NAME": "Andorra", 
         "alias_CHI_V": [
           "\u5b89\u9053\u5c14"
         ], 
-        "ne:NAME_SORT": "Andorra", 
+        "alias_KOR_Q": [
+          "\uc548\ub3c4\ub77c"
+        ], 
         "alias_JPN_Q": [
           "\u30a2\u30f3\u30c9\u30e9"
         ], 
@@ -262,47 +265,47 @@
         "ne:ISO_A2": "AD", 
         "date_indexed": "2010-12-02T07:50:33Z", 
         "ne:SOV_A3": "AND", 
-        "alias_KOR_Q": [
-          "\uc548\ub3c4\ub77c"
-        ], 
+        "fullname": "Andorra", 
+        "ne:GU_A3": "AND", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Andorra", 
         "ne:SU_A3": "AND", 
         "ne:LabelRank": 5, 
+        "wikipedia:id": "600", 
         "ne:FeatureCla": "Adm-0 country", 
+        "alias_UNK_V": [
+          "Principat d'Andorra"
+        ], 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Les Vall\u00e9es d\u2019 Andorre"
+        ], 
         "ne:ABBREV": "And.", 
         "alias_GER_V": [
           "F\u00fcrstentum Andorra"
         ], 
-        "ne:GDP_MD_EST": 3660.0, 
+        "ne:ISO_N3": 20.0, 
         "alias_GER_S": [
           "Fuerstentum Andorra"
         ], 
         "lang": "UNK", 
         "name": "Andorra", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Andora"
         ], 
         "ne:POSTAL": "AND", 
-        "alias_UNK_V": [
-          "Principat d'Andorra"
-        ], 
+        "ne_longitude": 1.765090779413271, 
         "longitude": 1.6, 
+        "ne:POP_EST": 83888.0, 
+        "iso": "AD", 
+        "sw_latitude": 42.42867746999369, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Andorra", 
         "alias_FRE_S": [
           "Principalite d'Andorre"
         ], 
-        "iso": "AD", 
-        "sw_latitude": 42.42867746999369, 
-        "alias_FRE_V": [
-          "Les Vall\u00e9es d\u2019 Andorre"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Andorra", 
-        "wikipedia:id": "600", 
         "alias_FRE_Q": [
           "Andorre"
         ]

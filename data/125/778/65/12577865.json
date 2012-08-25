@@ -37,8 +37,12 @@
         "alias_KOR_Q": [
           "\uc62c\ub780\ub4dc \uc81c\ub3c4"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Alandzkie"
+        "alias_ENG_P": [
+          "Aland Islands"
+        ], 
+        "hierarchy": [
+          "woe:country=12577865", 
+          "woe:planet=1"
         ], 
         "ne_latitude": 60.666, 
         "alias_SWE_S": [
@@ -47,7 +51,7 @@
         "alias_RUM_Q": [
           "Insulele \u00c5land"
         ], 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc544\ubca0\ub09c\ub9c8"
         ], 
@@ -72,8 +76,8 @@
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
         ], 
-        "alias_ENG_P": [
-          "Aland Islands"
+        "alias_POL_Q": [
+          "Wyspy Alandzkie"
         ], 
         "alias_SPA_Q": [
           "\u00c5land"
@@ -115,7 +119,6 @@
         ], 
         "lang": "SWE", 
         "name": "\u00c5land", 
-        "parent_woeid": 1, 
         "alias_HUN_Q": [
           "\u00c5land"
         ], 
@@ -133,5 +136,11 @@
       }, 
       "id": 12577865
     }
+  ], 
+  "bbox": [
+    19.263, 
+    59.736, 
+    21.324, 
+    60.666
   ]
 }

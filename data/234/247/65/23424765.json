@@ -4649,40 +4649,47 @@
           ]
         ]
       }, 
-      "id": 23424765, 
       "type": "Feature", 
+      "id": 23424765, 
+      "bbox": [
+        23.199493849386187, 
+        51.31950348571566, 
+        32.69364301934604, 
+        56.169129950578814
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Belarus"
         ], 
-        "ne:ne_10m_adm": "BLR", 
+        "alias_HUN_Q": [
+          "Belorusszia"
+        ], 
         "alias_SWE_Q": [
           "Vitryssland"
         ], 
         "alias_POL_Q": [
           "Bia\u0142oru\u015b"
         ], 
+        "hierarchy": [
+          "woe:country=23424765", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 56.1568059287834, 
         "ne:SUBUNIT": "Belarus", 
-        "ne:GU_A3": "BLR", 
-        "alias_UNK_V": [
-          "Bielorusko"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Belarus", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ubca0\ub77c\ub8e8\uc2a4"
         ], 
-        "alias_POR_Q": [
-          "Bielorr\u00fassia"
-        ], 
+        "ne:ne_10m_adm": "BLR", 
         "alias_KOR_Q": [
           "\ubca8\ub77c\ub8e8\uc2a4"
         ], 
         "alias_POR_S": [
           "Bielorrussia"
         ], 
-        "ne:ISO_N3": 112.0, 
         "ne:ADM0_A3": "BLR", 
+        "ne:SOVEREIGNT": "Belarus", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u767d\u4fc4\u7f85\u65af"
@@ -4690,8 +4697,8 @@
         "alias_ITA_Q": [
           "Bielorussia"
         ], 
-        "alias_DAN_Q": [
-          "Hviderusland"
+        "alias_GER_V": [
+          "Wei\u00dfru\u00dfland"
         ], 
         "ne:NAME": "Belarus", 
         "ne:POSTAL": "BY", 
@@ -4699,7 +4706,6 @@
           "\u30d9\u30e9\u30eb\u30fc\u30b7"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30d9\u30e9\u30eb\u30fc\u30b7\u5171\u548c\u56fd"
         ], 
@@ -4724,17 +4730,13 @@
         "ne:ISO_A2": "BY", 
         "date_indexed": "2010-12-02T16:32:57Z", 
         "ne:NAME_FORMA": "Republic of Belarus", 
-        "alias_CHI_V": [
-          "\u767d\u4fc4\u7f57\u65af"
-        ], 
-        "alias_ENG_A": [
-          "BY"
-        ], 
+        "fullname": "Belarus", 
+        "lang": "ENG", 
+        "ne:GU_A3": "BLR", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Belarus", 
         "ne:GEOUNIT": "Belarus", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 114100.0, 
         "alias_SPA_V": [
           "Bielorrusia"
         ], 
@@ -4747,34 +4749,40 @@
         "alias_CZE_Q": [
           "B\u011blorusko"
         ], 
+        "alias_FRE_V": [
+          "B\u00e9larus"
+        ], 
         "alias_FIN_Q": [
           "Valko-Ven\u00e4j\u00e4"
         ], 
-        "alias_GER_V": [
-          "Wei\u00dfru\u00dfland"
+        "alias_DAN_Q": [
+          "Hviderusland"
         ], 
         "alias_GER_Q": [
           "Wei\u00dfrussland"
         ], 
-        "fullname": "Belarus", 
+        "ne:ISO_N3": 112.0, 
         "alias_GER_S": [
           "Weissrussland"
         ], 
-        "lang": "ENG", 
+        "alias_ENG_A": [
+          "BY"
+        ], 
         "ne:OID_": 91, 
         "name": "Belarus", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Belorusija"
         ], 
-        "alias_HUN_Q": [
-          "Belorusszia"
+        "alias_CHI_V": [
+          "\u767d\u4fc4\u7f57\u65af"
         ], 
         "alias_HUN_V": [
           "Feh\u00e9roroszorsz\u00e1g"
         ], 
-        "ne:NAME_SORT": "Belarus", 
+        "alias_UNK_V": [
+          "Bielorusko"
+        ], 
         "longitude": 27.974, 
         "ne:POP_EST": 9648533.0, 
         "alias_UNK_S": [
@@ -4786,21 +4794,16 @@
         "alias_HUN_S": [
           "Feheroroszorszag"
         ], 
-        "alias_FRE_V": [
-          "B\u00e9larus"
-        ], 
-        "ne:SOVEREIGNT": "Belarus", 
-        "ne:SU_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 114100.0, 
         "alias_FRE_Q": [
           "Bi\u00e9lorussie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Bielorr\u00fassia"
         ]
-      }, 
-      "bbox": [
-        23.199493849386187, 
-        51.31950348571566, 
-        32.69364301934604, 
-        56.169129950578814
-      ]
+      }
     }
   ], 
   "bbox": [

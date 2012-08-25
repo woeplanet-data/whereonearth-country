@@ -31,9 +31,6 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "alias_RUM_V": [
-          "Insula Christmas"
-        ], 
         "alias_ENG_V": [
           "Christmas Islander"
         ], 
@@ -43,12 +40,18 @@
         "alias_SWE_S": [
           "Juloen"
         ], 
+        "hierarchy": [
+          "woe:country=23424869", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -10.416, 
         "alias_RUM_Q": [
           "Insula Cr\u0103ciunului"
         ], 
-        "ne_longitude": 105.72, 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Jule\u00f8en"
+        ], 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc544\uc77c\ub79c\ub4dc"
         ], 
@@ -61,6 +64,9 @@
         "alias_ENG_A": [
           "CX"
         ], 
+        "alias_CZE_Q": [
+          "V\u00e1no\u010dn\u00ed Ostrov"
+        ], 
         "alias_CHI_Q": [
           "\u8056\u8a95\u5cf6"
         ], 
@@ -72,6 +78,9 @@
         ], 
         "alias_CHI_V": [
           "\u5723\u8bde\u5c9b"
+        ], 
+        "alias_GER_Q": [
+          "Weihnachtsinsel"
         ], 
         "alias_JPN_Q": [
           "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"
@@ -89,8 +98,13 @@
           "Joulusaari"
         ], 
         "sw_longitude": 105.539, 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "Insula Christmas"
+        ], 
         "latitude": -10.496, 
+        "alias_SPA_V": [
+          "Isla Navidad"
+        ], 
         "woe:id": 23424869, 
         "alias_NOR_Q": [
           "Christmas\u00f8ya"
@@ -99,17 +113,12 @@
         "alias_KOR_Q": [
           "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"
         ], 
-        "alias_DUT_V": [
-          "Christmas Eiland"
-        ], 
-        "alias_SPA_V": [
-          "Isla Navidad"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_DUT_Q": [
           "Christmaseiland"
         ], 
-        "alias_CZE_Q": [
-          "V\u00e1no\u010dn\u00ed Ostrov"
+        "alias_DUT_V": [
+          "Christmas Eiland"
         ], 
         "alias_DAN_S": [
           "Juleoen"
@@ -125,16 +134,10 @@
         "alias_UNK_S": [
           "Christmasoya"
         ], 
-        "parent_woeid": 1, 
         "alias_HUN_Q": [
           "Kar\u00e1csony-Sziget"
         ], 
-        "alias_GER_Q": [
-          "Weihnachtsinsel"
-        ], 
-        "alias_UNK_V": [
-          "Jule\u00f8en"
-        ], 
+        "ne_longitude": 105.72, 
         "longitude": 105.629, 
         "iso": "CX", 
         "sw_latitude": -10.576, 
@@ -151,5 +154,11 @@
       }, 
       "id": 23424869
     }
+  ], 
+  "bbox": [
+    105.539, 
+    -10.576, 
+    105.72, 
+    -10.416
   ]
 }

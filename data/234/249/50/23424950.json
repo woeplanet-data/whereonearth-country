@@ -11683,43 +11683,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424950, 
-      "bbox": [
-        -9.392883673530648, 
-        35.946850083961465, 
-        3.039484083680549, 
-        43.74833771420099
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Spanish State"
         ], 
-        "ne:ne_10m_adm": "ESP", 
         "alias_SWE_Q": [
           "Spanien"
         ], 
         "alias_ENG_P": [
           "Spain"
         ], 
+        "hierarchy": [
+          "woe:country=23424950", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 43.80518259730745, 
         "alias_RUM_Q": [
           "Spania"
         ], 
-        "ne:NAME_SORT": "Spain", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Ispan\u00eda"
+        ], 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uc5d0\uc2a4\ud30c\ub0d0"
         ], 
-        "alias_POR_Q": [
-          "Espanha"
-        ], 
+        "ne:ne_10m_adm": "ESP", 
         "alias_KOR_Q": [
           "\uc2a4\ud398\uc778"
         ], 
         "ne:SUBUNIT": "Spain", 
+        "ne:ISO_N3": 724.0, 
         "ne:ADM0_A3": "ESP", 
-        "ne:SOVEREIGNT": "Spain", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u897f\u73ed\u7259"
@@ -11727,8 +11722,8 @@
         "alias_ITA_Q": [
           "Spagna"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Spanien"
+        "alias_DAN_Q": [
+          "Spanien"
         ], 
         "ne:NAME": "Spain", 
         "ne:POSTAL": "E", 
@@ -11738,8 +11733,6 @@
         "alias_POL_Q": [
           "Hiszpania"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "Espa\u00f1a, Spain", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "alias_SPA_S": [
@@ -11765,9 +11758,11 @@
         "ne:ADMIN": "Spain", 
         "ne:SU_A3": "ESP", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 1403000.0, 
         "alias_SPA_V": [
           "la Madre Patria"
         ], 
+        "wikipedia:id": "26667", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -11781,13 +11776,13 @@
         "alias_FIN_Q": [
           "Espanja"
         ], 
-        "alias_DAN_Q": [
-          "Spanien"
+        "alias_GER_V": [
+          "K\u00f6nigreich Spanien"
         ], 
         "alias_GER_Q": [
           "Spanien"
         ], 
-        "ne:ISO_N3": 724.0, 
+        "fullname": "Espa\u00f1a, Spain", 
         "alias_GER_S": [
           "Konigreich Spanien"
         ], 
@@ -11798,7 +11793,6 @@
         "alias_UNK_S": [
           "Ispania"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Espanya"
         ], 
@@ -11808,9 +11802,7 @@
         "alias_HUN_V": [
           "Spanjolorsz\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Ispan\u00eda"
-        ], 
+        "ne:NAME_SORT": "Spain", 
         "longitude": -2.989, 
         "ne:POP_EST": 40525002.0, 
         "ne:TYPE": "Sovereign country", 
@@ -11820,16 +11812,27 @@
         "alias_HUN_S": [
           "Spanjolorszag"
         ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Spain", 
+        "alias_FRE_Q": [
+          "Espagne"
+        ], 
         "alias_ENG_A": [
           "ES"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 1403000.0, 
-        "wikipedia:id": "26667", 
-        "alias_FRE_Q": [
-          "Espagne"
+        "alias_POR_Q": [
+          "Espanha"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424950, 
+      "bbox": [
+        -9.392883673530648, 
+        35.946850083961465, 
+        3.039484083680549, 
+        43.74833771420099
+      ]
     }
   ], 
   "bbox": [

@@ -3653,17 +3653,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424810, 
-      "bbox": [
-        12.240111118222558, 
-        48.55530528420721, 
-        18.853144158613617, 
-        51.117267767941414
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424810", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Cechia"
         ], 
@@ -3695,8 +3691,8 @@
         "ne:NAME_SORT": "Czech Republic", 
         "ne:POP_EST": 10211904.0, 
         "ne:GDP_MD_EST": 265200.0, 
-        "alias_KOR_Q": [
-          "\uccb4\ucf54"
+        "alias_ENG_A": [
+          "CZE"
         ], 
         "alias_POR_V": [
           "Rep\u00fablica Tcheca"
@@ -3755,8 +3751,8 @@
           "\uccb4\ucf54\uacf5\ud654\uad6d"
         ], 
         "ne:ne_10m_adm": "CZE", 
-        "alias_ENG_A": [
-          "CZE"
+        "alias_KOR_Q": [
+          "\uccb4\ucf54"
         ], 
         "ne:SUBUNIT": "Czech Republic", 
         "alias_CHI_Q": [
@@ -3765,9 +3761,7 @@
         "ne:LEVEL": 2.0, 
         "sw_longitude": 12.076140991528007, 
         "ne:SOV_A3": "CZE", 
-        "alias_RUM_V": [
-          "Republica Ceh\u0103"
-        ], 
+        "ne_latitude": 51.04001230947176, 
         "ne:OID_": 117, 
         "ne:ISO_A3": "CZE", 
         "ne:ISO_A2": "CZ", 
@@ -3779,7 +3773,6 @@
         "alias_DAN_V": [
           "Tjekkiet"
         ], 
-        "parent_woeid": 1, 
         "longitude": 15.475, 
         "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
@@ -3799,7 +3792,9 @@
         "alias_POL_Q": [
           "Czechy"
         ], 
-        "ne_latitude": 51.04001230947176, 
+        "alias_RUM_V": [
+          "Republica Ceh\u0103"
+        ], 
         "alias_RUM_Q": [
           "Cehia"
         ], 
@@ -3832,7 +3827,15 @@
         "ne:ISO_N3": 203.0, 
         "lang": "CZE", 
         "ne:TYPE": "Sovereign country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424810, 
+      "bbox": [
+        12.240111118222558, 
+        48.55530528420721, 
+        18.853144158613617, 
+        51.117267767941414
+      ]
     }
   ], 
   "bbox": [

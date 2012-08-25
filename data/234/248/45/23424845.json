@@ -12487,37 +12487,44 @@
           ]
         ]
       }, 
-      "id": 23424845, 
       "type": "Feature", 
+      "id": 23424845, 
+      "bbox": [
+        -24.326184047939336, 
+        63.49638296167582, 
+        -13.60973222497981, 
+        66.52679230413587
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Iceland"
         ], 
-        "ne:ne_10m_adm": "ISL", 
+        "alias_HUN_Q": [
+          "Izland"
+        ], 
         "alias_SWE_Q": [
           "Island"
         ], 
         "alias_ENG_P": [
           "Iceland"
         ], 
+        "hierarchy": [
+          "woe:country=23424845", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 66.5637934371765, 
-        "ne:GU_A3": "ISL", 
         "alias_RUM_Q": [
           "Islanda"
         ], 
-        "alias_UNK_V": [
-          "Islanti"
-        ], 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Isl\u00e2ndia"
-        ], 
+        "ne:NAME_SORT": "Iceland", 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "ISL", 
         "alias_KOR_Q": [
           "\uc544\uc774\uc2ac\ub780\ub4dc"
         ], 
         "ne:SUBUNIT": "Iceland", 
-        "ne:ISO_N3": 352.0, 
         "ne:ADM0_A3": "ISL", 
+        "ne:SOVEREIGNT": "Iceland", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u51b0\u5cf6"
@@ -12525,8 +12532,8 @@
         "alias_ITA_Q": [
           "Islanda"
         ], 
-        "alias_DAN_Q": [
-          "Island"
+        "alias_GER_V": [
+          "Republik Island"
         ], 
         "ne:NAME": "Iceland", 
         "ne:POSTAL": "IS", 
@@ -12559,17 +12566,12 @@
         "ne:ISO_A2": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
         "ne:NAME_FORMA": "Republic of Iceland", 
-        "alias_CHI_V": [
-          "\u51b0\u5c9b"
-        ], 
-        "alias_ENG_A": [
-          "IS"
-        ], 
+        "fullname": "\u00cdsland, Iceland", 
+        "ne:GU_A3": "ISL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Iceland", 
         "ne:SU_A3": "ISL", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 12710.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -12583,44 +12585,45 @@
         "alias_FIN_Q": [
           "Islannin"
         ], 
-        "alias_GER_V": [
-          "Republik Island"
+        "alias_DAN_Q": [
+          "Island"
         ], 
         "alias_GER_Q": [
           "Island"
         ], 
-        "fullname": "\u00cdsland, Iceland", 
+        "ne:ISO_N3": 352.0, 
         "lang": "UNK", 
         "ne:OID_": 146, 
         "ne:GEOUNIT": "Iceland", 
         "name": "\u00cdsland", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Islandija"
         ], 
-        "alias_HUN_Q": [
-          "Izland"
+        "alias_CHI_V": [
+          "\u51b0\u5c9b"
         ], 
-        "ne:NAME_SORT": "Iceland", 
+        "alias_UNK_V": [
+          "Islanti"
+        ], 
         "longitude": -19.021, 
         "ne:POP_EST": 306694.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -13.502323568074416, 
         "iso": "IS", 
         "sw_latitude": 63.39644154862451, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Iceland", 
-        "ne:SU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "IS"
+        ], 
+        "ne:GDP_MD_EST": 12710.0, 
         "alias_FRE_Q": [
           "Islande"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Isl\u00e2ndia"
         ]
-      }, 
-      "bbox": [
-        -24.326184047939336, 
-        63.49638296167582, 
-        -13.60973222497981, 
-        66.52679230413587
-      ]
+      }
     }
   ], 
   "bbox": [

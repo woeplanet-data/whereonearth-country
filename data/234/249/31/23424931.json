@@ -40,8 +40,12 @@
         "alias_ENG_P": [
           "Reunion"
         ], 
+        "hierarchy": [
+          "woe:country=23424931", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -20.857, 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub9ac\uc720\ub2c8\uc628"
         ], 
@@ -88,7 +92,6 @@
         ], 
         "lang": "FRE", 
         "name": "La R\u00e9union", 
-        "parent_woeid": 1, 
         "ne_longitude": 55.845, 
         "longitude": 55.532, 
         "iso": "RE", 
@@ -100,5 +103,11 @@
       }, 
       "id": 23424931
     }
+  ], 
+  "bbox": [
+    55.219, 
+    -21.372, 
+    55.845, 
+    -20.857
   ]
 }

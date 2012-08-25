@@ -1181,44 +1181,41 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424770, 
-      "bbox": [
-        88.81424848832056, 
-        26.719402981059957, 
-        92.10371178585974, 
-        28.296438503527217
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Bhutan"
         ], 
-        "ne:ne_10m_adm": "BTN", 
-        "alias_KOR_Q": [
-          "\ubd80\ud0c4"
-        ], 
+        "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424770", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 28.320623880955708, 
         "ne:SUBUNIT": "Bhutan", 
-        "ne:NAME_SORT": "Bhutan", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "But\u00e3o"
+        "ne:GU_A3": "BTN", 
+        "alias_UNK_V": [
+          "Kraljevina Butan"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "BTN", 
         "alias_ENG_A": [
           "BT"
         ], 
         "alias_POR_S": [
           "Butao"
         ], 
+        "ne:ISO_N3": 64.0, 
         "ne:ADM0_A3": "BTN", 
-        "ne:SOVEREIGNT": "Bhutan", 
-        "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e0d\u4e39"
         ], 
+        "ne:GDP_MD_EST": 3524.0, 
         "ne:NAME": "Bhutan", 
         "ne:POSTAL": "BT", 
+        "alias_CZE_Q": [
+          "Bh\u00fat\u00e1n"
+        ], 
         "alias_JPN_Q": [
           "\u30d6\u30fc\u30bf\u30f3"
         ], 
@@ -1241,57 +1238,63 @@
         "ne:ISO_A2": "BT", 
         "date_indexed": "2010-12-02T17:56:39Z", 
         "ne:NAME_FORMA": "Kingdom of Bhutan", 
-        "fullname": "Bhutan", 
-        "ne:GU_A3": "BTN", 
+        "alias_KOR_Q": [
+          "\ubd80\ud0c4"
+        ], 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Bhutan", 
         "ne:GEOUNIT": "Bhutan", 
-        "alias_DUT_V": [
-          "Bhoetan"
-        ], 
         "ne:LabelRank": 2, 
         "alias_SPA_V": [
           "Bhut\u00e1n"
         ], 
+        "wikipedia:id": "2421391", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Bhutan", 
-        "alias_CZE_Q": [
-          "Bh\u00fat\u00e1n"
+        "alias_DUT_V": [
+          "Bhoetan"
         ], 
         "alias_GER_V": [
           "K\u00f6nigreich Bhutan"
         ], 
-        "ne:ISO_N3": 64.0, 
+        "fullname": "Bhutan", 
         "alias_GER_S": [
           "Koenigreich Bhutan"
         ], 
         "lang": "ENG", 
         "name": "Bhutan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Butan"
         ], 
         "alias_HUN_Q": [
           "Bhut\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Butan"
-        ], 
+        "ne:NAME_SORT": "Bhutan", 
         "longitude": 90.442, 
         "ne:POP_EST": 691141.0, 
         "ne_longitude": 92.08877648931161, 
         "iso": "BT", 
         "sw_latitude": 26.696149393773027, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 3524.0, 
-        "wikipedia:id": "2421391", 
+        "ne:SOVEREIGNT": "Bhutan", 
         "alias_FRE_Q": [
           "Bhoutan"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "But\u00e3o"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424770, 
+      "bbox": [
+        88.81424848832056, 
+        26.719402981059957, 
+        92.10371178585974, 
+        28.296438503527217
+      ]
     }
   ], 
   "bbox": [

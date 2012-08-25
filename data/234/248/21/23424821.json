@@ -1589,43 +1589,35 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424821, 
-      "bbox": [
-        -16.841524624081273, 
-        13.130284125211332, 
-        -13.844963344772408, 
-        13.876491807505985
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Gambia, The"
         ], 
-        "alias_HUN_Q": [
-          "Gambia"
-        ], 
-        "ne:ne_10m_adm": "GMB", 
         "alias_SWE_Q": [
           "Gambia"
         ], 
         "alias_POL_Q": [
           "Gambia"
         ], 
+        "hierarchy": [
+          "woe:country=23424821", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 13.819984435993973, 
         "alias_RUM_Q": [
           "Gambia"
         ], 
-        "ne:NAME_SORT": "Gambia", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "G\u00e2mbia"
+        "alias_UNK_V": [
+          "Republika Gambija"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "GMB", 
         "alias_KOR_Q": [
           "\uac10\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Gambia", 
+        "ne:ISO_N3": 270.0, 
         "ne:ADM0_A3": "GMB", 
-        "ne:SOVEREIGNT": "Gambia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7518\u6bd4\u4e9e"
@@ -1633,8 +1625,8 @@
         "alias_ITA_Q": [
           "Gambia"
         ], 
-        "alias_GER_V": [
-          "Republik Gambia"
+        "alias_DAN_Q": [
+          "Gambia"
         ], 
         "ne:NAME": "Gambia", 
         "ne:POSTAL": "GM", 
@@ -1663,12 +1655,19 @@
         "ne:ISO_A2": "GM", 
         "date_indexed": "2010-12-02T08:51:00Z", 
         "ne:NAME_FORMA": "Republic of the Gambia", 
-        "fullname": "The Gambia", 
+        "alias_CHI_V": [
+          "\u5188\u6bd4\u4e9a"
+        ], 
         "ne:GU_A3": "GMB", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Gambia", 
         "ne:GEOUNIT": "Gambia", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 2272.0, 
+        "alias_ENG_A": [
+          "GM"
+        ], 
+        "wikipedia:id": "65656", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1681,43 +1680,47 @@
         "alias_FIN_Q": [
           "Gambia"
         ], 
-        "alias_DAN_Q": [
-          "Gambia"
+        "alias_GER_V": [
+          "Republik Gambia"
         ], 
         "alias_GER_Q": [
           "Gambia"
         ], 
-        "ne:ISO_N3": 270.0, 
+        "fullname": "The Gambia", 
         "lang": "ENG", 
         "ne:OID_": 133, 
         "name": "The Gambia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gambija"
         ], 
-        "alias_CHI_V": [
-          "\u5188\u6bd4\u4e9a"
+        "alias_HUN_Q": [
+          "Gambia"
         ], 
-        "alias_UNK_V": [
-          "Republika Gambija"
-        ], 
+        "ne:NAME_SORT": "Gambia", 
         "longitude": -15.311, 
         "ne:POP_EST": 1782893.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -13.818712525052973, 
         "iso": "GM", 
         "sw_latitude": 13.064836731287983, 
-        "alias_ENG_A": [
-          "GM"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 2272.0, 
-        "wikipedia:id": "65656", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Gambia", 
         "alias_FRE_Q": [
           "Gambie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "G\u00e2mbia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424821, 
+      "bbox": [
+        -16.841524624081273, 
+        13.130284125211332, 
+        -13.844963344772408, 
+        13.876491807505985
+      ]
     }
   ], 
   "bbox": [

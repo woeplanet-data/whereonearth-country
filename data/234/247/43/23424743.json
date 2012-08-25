@@ -1663,45 +1663,38 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424743, 
-      "bbox": [
-        43.58274580259273, 
-        38.74120148371222, 
-        46.50571984231797, 
-        41.248128567055595
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Hayastan"
         ], 
-        "alias_HUN_Q": [
-          "\u00d6rm\u00e9nyorsz\u00e1g"
-        ], 
-        "ne:ne_10m_adm": "ARM", 
         "alias_SWE_Q": [
           "Armenien"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424743", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.290452372831155, 
-        "ne:NAME_SORT": "Armenia", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Republika Armenija"
+        ], 
+        "placetype": "country", 
         "alias_POR_V": [
           "Arm\u00eania"
         ], 
-        "alias_POR_Q": [
-          "Arm\u00e9nia"
-        ], 
+        "ne:ne_10m_adm": "ARM", 
         "alias_KOR_Q": [
           "\uc544\ub974\uba54\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Armenia", 
+        "ne:ISO_N3": 51.0, 
         "ne:ADM0_A3": "ARM", 
-        "ne:SOVEREIGNT": "Armenia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e9e\u7f8e\u5c3c\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 18770.0, 
         "ne:NAME": "Armenia", 
         "ne:POSTAL": "ARM", 
         "alias_JPN_Q": [
@@ -1723,12 +1716,18 @@
         "ne:ISO_A2": "AM", 
         "date_indexed": "2010-12-02T12:16:10Z", 
         "ne:NAME_FORMA": "Republic of Armenia", 
-        "fullname": "Armenia", 
+        "alias_CHI_V": [
+          "\u4e9a\u7f8e\u5c3c\u4e9a"
+        ], 
         "ne:GU_A3": "ARM", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Armenia", 
         "ne:GEOUNIT": "Armenia", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "AM"
+        ], 
+        "wikipedia:id": "10918072", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1741,45 +1740,49 @@
         "alias_CZE_Q": [
           "Arm\u00e9nie"
         ], 
-        "alias_FRE_S": [
-          "Armenie"
-        ], 
         "alias_DAN_Q": [
           "Armenien"
         ], 
         "alias_GER_Q": [
           "Armenien"
         ], 
-        "ne:ISO_N3": 51.0, 
+        "fullname": "Armenia", 
         "lang": "ENG", 
         "name": "Armenia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Armen\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u4e9a\u7f8e\u5c3c\u4e9a"
+        "alias_HUN_Q": [
+          "\u00d6rm\u00e9nyorsz\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Republika Armenija"
-        ], 
+        "ne:NAME_SORT": "Armenia", 
         "longitude": 45.04, 
         "ne:POP_EST": 2967004.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 46.60261234547039, 
         "iso": "AM", 
         "sw_latitude": 38.86370127384886, 
-        "alias_ENG_A": [
-          "AM"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 18770.0, 
-        "wikipedia:id": "10918072", 
+        "ne:SOVEREIGNT": "Armenia", 
         "alias_FRE_Q": [
           "Arm\u00e9nie"
+        ], 
+        "alias_FRE_S": [
+          "Armenie"
+        ], 
+        "alias_POR_Q": [
+          "Arm\u00e9nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424743, 
+      "bbox": [
+        43.58274580259273, 
+        38.74120148371222, 
+        46.50571984231797, 
+        41.248128567055595
+      ]
     }
   ], 
   "bbox": [

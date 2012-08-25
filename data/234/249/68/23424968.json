@@ -1111,36 +1111,46 @@
           ]
         ]
       }, 
-      "id": 23424968, 
       "type": "Feature", 
+      "id": 23424968, 
+      "bbox": [
+        124.96868248911623, 
+        -9.393173109579294, 
+        127.33592817597463, 
+        -8.273344821814398
+      ], 
       "properties": {
-        "alias_ENG_P": [
-          "East Timor"
-        ], 
         "alias_ENG_V": [
           "Timorese"
+        ], 
+        "alias_HUN_Q": [
+          "Kelet-Timor"
         ], 
         "alias_SWE_Q": [
           "\u00d6sttimor"
         ], 
-        "alias_DAN_S": [
-          "Osttimor"
+        "hierarchy": [
+          "woe:country=23424968", 
+          "woe:planet=1"
         ], 
         "alias_SWE_S": [
           "Osttimor"
         ], 
+        "alias_FIN_Q": [
+          "It\u00e4-Timor"
+        ], 
         "ne_latitude": -8.135316263320462, 
         "ne:SUBUNIT": "East Timor", 
-        "ne:GU_A3": "TLS", 
         "alias_RUM_Q": [
           "Timorul de Est"
         ], 
-        "alias_UNK_V": [
-          "Republik Demokratik Timor Timur"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "East Timor (Timor Leste)", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Timor Leste"
+        ], 
+        "alias_POL_Q": [
+          "Timor Wschodni"
         ], 
         "ne:ne_10m_adm": "TLS", 
         "alias_KOR_Q": [
@@ -1149,8 +1159,8 @@
         "alias_POR_S": [
           "Republica Democratica de Timor-Leste"
         ], 
-        "ne:ISO_N3": 626.0, 
         "ne:ADM0_A3": "TLS", 
+        "ne:SOVEREIGNT": "East Timor", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6771\u5e1d\u6c76"
@@ -1165,8 +1175,8 @@
         "alias_JPN_Q": [
           "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb"
         ], 
-        "alias_POL_Q": [
-          "Timor Wschodni"
+        "alias_ENG_P": [
+          "East Timor"
         ], 
         "alias_JPN_V": [
           "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u5171\u548c\u56fd"
@@ -1195,17 +1205,12 @@
         "ne:ISO_A2": "TL", 
         "date_indexed": "2010-12-02T07:50:18Z", 
         "ne:NAME_FORMA": "East Timor (Timor Leste)", 
-        "alias_CHI_V": [
-          "\u4e1c\u5e1d\u6c76"
-        ], 
-        "alias_ENG_A": [
-          "TL"
-        ], 
+        "fullname": "Timor-Leste, East Timor", 
+        "ne:GU_A3": "TLS", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "East Timor", 
         "ne:GEOUNIT": "East Timor", 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 2520.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1216,8 +1221,8 @@
         "alias_CZE_Q": [
           "V\u00fdchodn\u00ed Timor"
         ], 
-        "alias_FIN_Q": [
-          "It\u00e4-Timor"
+        "alias_DAN_S": [
+          "Osttimor"
         ], 
         "alias_DAN_Q": [
           "\u00d8sttimor"
@@ -1225,35 +1230,33 @@
         "alias_GER_Q": [
           "Osttimor"
         ], 
-        "fullname": "Timor-Leste, East Timor", 
+        "ne:ISO_N3": 626.0, 
         "ne:NAME": "East Timor", 
         "lang": "POR", 
         "ne:OID_": 122, 
         "name": "Timor-Leste", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Kelet-Timor"
+        "alias_CHI_V": [
+          "\u4e1c\u5e1d\u6c76"
         ], 
-        "ne:NAME_SORT": "East Timor (Timor Leste)", 
+        "alias_UNK_V": [
+          "Republik Demokratik Timor Timur"
+        ], 
         "longitude": 126.12, 
         "ne:POP_EST": 1131612.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 127.31355147362655, 
         "iso": "TL", 
         "sw_latitude": -9.501227722468641, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "East Timor", 
+        "alias_ENG_A": [
+          "TL"
+        ], 
+        "ne:GDP_MD_EST": 2520.0, 
         "alias_FRE_Q": [
           "Timor Oriental"
         ]
-      }, 
-      "bbox": [
-        124.96868248911623, 
-        -9.393173109579294, 
-        127.33592817597463, 
-        -8.273344821814398
-      ]
+      }
     }
   ], 
   "bbox": [

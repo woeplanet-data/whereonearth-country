@@ -2432,9 +2432,13 @@
           "\ud0a4\ub9ac\ubc14\uc2dc"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424867", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 4.722891133800999, 
-        "ne:NAME_SORT": "Kiribati", 
-        "placetype": "Country", 
+        "ne_longitude": 176.85104455641857, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud0a4\ub9ac\ubc14\ud2f0"
         ], 
@@ -2446,13 +2450,12 @@
           "KI"
         ], 
         "ne:SUBUNIT": "Kiribati", 
-        "ne:ISO_N3": 296.0, 
         "ne:ADM0_A3": "KIR", 
-        "ne:SOVEREIGNT": "Kiribati", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5409\u91cc\u5df4\u65af"
         ], 
+        "ne:GDP_MD_EST": 579.5, 
         "ne:NAME": "Kiribati", 
         "alias_CHI_V": [
           "\u5409\u91cc\u5df4\u65af"
@@ -2476,6 +2479,7 @@
         "ne:ISO_A2": "KI", 
         "date_indexed": "2010-12-02T17:42:25Z", 
         "ne:SOV_A3": "KIR", 
+        "fullname": "Kiribati", 
         "ne:GU_A3": "KIR", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Kiribati", 
@@ -2487,20 +2491,19 @@
         "alias_GER_V": [
           "Republik Kiribati"
         ], 
-        "ne:GDP_MD_EST": 579.5, 
+        "ne:ISO_N3": 296.0, 
         "lang": "ENG", 
         "name": "Kiribati", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "KI", 
-        "ne_longitude": 176.85104455641857, 
+        "ne:NAME_SORT": "Kiribati", 
         "longitude": 159.161, 
         "ne:POP_EST": 112850.0, 
         "iso": "KI", 
         "sw_latitude": -11.461211446350106, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Kiribati"
+        "ne:SOVEREIGNT": "Kiribati"
       }, 
       "id": 23424867
     }

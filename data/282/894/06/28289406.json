@@ -2295,58 +2295,55 @@
         "alias_SWE_V": [
           "Franska Syd- och Antarktis Territorier"
         ], 
-        "ne:ne_10m_adm": "ATF", 
         "alias_SWE_Q": [
           "Franska sydterritorierna"
         ], 
         "alias_POL_Q": [
           "Francuskie Terytoria Po\u0142udniowe I Antarktyczne"
         ], 
+        "hierarchy": [
+          "woe:country=28289406", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -11.550559997376993, 
-        "ne:GU_A3": "ATF", 
         "alias_RUM_Q": [
           "Teritoriile Australe \u015ei Antarctice Franceze"
         ], 
-        "ne:NAME_SORT": "French Southern and Antarctic Lands", 
-        "placetype": "Country", 
+        "ne_longitude": 77.5856824141186, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc9c0\uc5ed"
         ], 
         "alias_POR_V": [
           "Territ\u00f3rios Franceses do Sul"
         ], 
-        "alias_POR_Q": [
-          "Terras Austrais E Ant\u00e1rticas Francesas"
-        ], 
+        "ne:ne_10m_adm": "ATF", 
         "alias_ENG_A": [
           "TF"
         ], 
         "ne:SUBUNIT": "French Southern and Antarctic Lands", 
-        "ne:ISO_N3": 260.0, 
-        "alias_CZE_Q": [
-          "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
-        ], 
-        "ne:SOVEREIGNT": "France", 
+        "ne:ADM0_A3": "ATF", 
         "ne:ScaleRank": 3, 
         "alias_ITA_Q": [
           "Terre Australi E Antartiche Francesi"
         ], 
-        "alias_GER_V": [
-          "Franz\u00f6sische S\u00fcdgebiete"
+        "alias_DAN_Q": [
+          "Franske Sydlige Territorier"
         ], 
         "alias_ITA_V": [
           "Territori Francesi Meridionali"
         ], 
-        "ne:TERR_": "Fr.", 
         "ne:POSTAL": "TF", 
-        "alias_GER_Q": [
-          "Franz\u00f6sische S\u00fcd- Und Antarktisgebiete"
+        "alias_KOR_Q": [
+          "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
+        ], 
+        "alias_DAN_V": [
+          "Franske overs\u00f8iske omr\u00e5der"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30e9\u30f3\u30b9\u9818\u6975\u5357\u8af8\u5cf6"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne:SU_A3": "ATF", 
         "alias_JPN_V": [
           "\u30d5\u30e9\u30f3\u30b9\u5357\u90e8\u9818"
         ], 
@@ -2354,17 +2351,13 @@
         "alias_SPA_Q": [
           "Tierras Australes Y Ant\u00e1rticas Francesas"
         ], 
-        "alias_FIN_Q": [
-          "Ranskan Etel\u00e4iset Ja Antarktiset Alueet"
-        ], 
+        "ne:TERR_": "Fr.", 
         "alias_FIN_S": [
           "Ranskan ulkopuoliset etelaiset alueet"
         ], 
         "sw_longitude": 39.69373173059432, 
         "ne:NAME_FORMA": "Territory of the French Southern and Antarctic Lands", 
-        "alias_FIN_V": [
-          "Ranskan etel\u00e4iset alueet"
-        ], 
+        "ne:SU_A3": "ATF", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -22.341, 
         "alias_NOR_S": [
@@ -2378,18 +2371,23 @@
         "ne:ISO_A2": "TF", 
         "date_indexed": "2010-12-02T08:53:34Z", 
         "ne:SOV_A3": "FR1", 
-        "alias_FRE_V": [
-          "Territoires d\u2019Outre-mer (France)"
-        ], 
-        "alias_KOR_Q": [
-          "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
-        ], 
+        "fullname": "French Southern Territories", 
+        "ne:GU_A3": "ATF", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "French Southern and Antarctic Lands", 
-        "ne:GEOUNIT": "French Southern and Antarctic Lands", 
+        "alias_FIN_V": [
+          "Ranskan etel\u00e4iset alueet"
+        ], 
+        "alias_DUT_V": [
+          "Franse Gebieden in de zuidelijke Indische Oceaan"
+        ], 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 0.0, 
         "alias_SPA_V": [
           "Territorios Australes Franceses"
+        ], 
+        "alias_RUM_V": [
+          "Teritoriile Franceze de Sud"
         ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
@@ -2397,26 +2395,28 @@
           "Franse Zuidelijke en Antarctische Gebieden"
         ], 
         "ne:ABBREV": "Fr. S.A.L.", 
-        "alias_DUT_V": [
-          "Franse Gebieden in de zuidelijke Indische Oceaan"
+        "alias_CZE_Q": [
+          "Francouzsk\u00e1 Ji\u017en\u00ed a Antarktick\u00e1 \u00dazem\u00ed"
         ], 
-        "ne:ADM0_A3": "ATF", 
-        "alias_DAN_Q": [
-          "Franske Sydlige Territorier"
+        "alias_FIN_Q": [
+          "Ranskan Etel\u00e4iset Ja Antarktiset Alueet"
         ], 
-        "alias_DAN_V": [
-          "Franske overs\u00f8iske omr\u00e5der"
+        "alias_GER_V": [
+          "Franz\u00f6sische S\u00fcdgebiete"
         ], 
-        "ne:GDP_MD_EST": 0.0, 
+        "alias_GER_Q": [
+          "Franz\u00f6sische S\u00fcd- Und Antarktisgebiete"
+        ], 
+        "ne:ISO_N3": 260.0, 
         "ne:NAME": "Fr. S. and Antarctic Lands", 
         "lang": "ENG", 
         "ne:OID_": 39, 
+        "ne:GEOUNIT": "French Southern and Antarctic Lands", 
         "name": "French Southern Territories", 
         "alias_CZE_V": [
           "Francouzsk\u00e1 ji\u017en\u00ed teritoria"
         ], 
         "ne:TYPE": "Dependency", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "alias_HUN_Q": [
           "Francia D\u00e9li \u00c9s Antarktiszi Ter\u00fcletek"
@@ -2424,18 +2424,21 @@
         "alias_HUN_V": [
           "Francia D\u00e9li Ter\u00fcletek"
         ], 
-        "ne_longitude": 77.5856824141186, 
+        "ne:NAME_SORT": "French Southern and Antarctic Lands", 
         "longitude": 40.386, 
         "ne:POP_EST": 140.0, 
         "ne:GEOU_DIF": 0.0, 
         "iso": "TF", 
         "sw_latitude": -49.7216150919308, 
-        "alias_RUM_V": [
-          "Teritoriile Franceze de Sud"
+        "alias_FRE_V": [
+          "Territoires d\u2019Outre-mer (France)"
         ], 
-        "fullname": "French Southern Territories", 
+        "ne:SOVEREIGNT": "France", 
         "alias_FRE_Q": [
           "Terres Australes Et Antarctiques Fran\u00e7aises"
+        ], 
+        "alias_POR_Q": [
+          "Terras Austrais E Ant\u00e1rticas Francesas"
         ]
       }, 
       "id": 28289406

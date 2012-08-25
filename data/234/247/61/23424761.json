@@ -3561,17 +3561,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424761, 
-      "bbox": [
-        15.750026075918981, 
-        42.65, 
-        19.59976, 
-        45.23377676043094
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424761", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Bosnia-Erzegovina"
         ], 
@@ -3600,8 +3596,8 @@
         "ne:NAME_SORT": "Bosnia and Herzegovina", 
         "ne:POP_EST": 4613414.0, 
         "ne:GDP_MD_EST": 29700.0, 
-        "alias_KOR_Q": [
-          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+        "alias_ENG_A": [
+          "BIH"
         ], 
         "alias_POR_V": [
           "B\u00f3snia-Herzegovina"
@@ -3652,8 +3648,8 @@
           "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
         ], 
         "ne:ne_10m_adm": "BIH", 
-        "alias_ENG_A": [
-          "BIH"
+        "alias_KOR_Q": [
+          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
         ], 
         "ne:SUBUNIT": "Bosnia and Herzegovina", 
         "alias_CHI_Q": [
@@ -3677,7 +3673,6 @@
         "alias_DAN_V": [
           "Bosnien og Hercegovina"
         ], 
-        "parent_woeid": 1, 
         "longitude": 17.677, 
         "alias_FRE_V": [
           "Bosnie-Herz\u00e9govine"
@@ -3734,7 +3729,15 @@
         "ne:ISO_N3": 70.0, 
         "lang": "UNK", 
         "ne:TYPE": "Sovereign country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424761, 
+      "bbox": [
+        15.750026075918981, 
+        42.65, 
+        19.59976, 
+        45.23377676043094
+      ]
     }
   ], 
   "bbox": [

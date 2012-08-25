@@ -79837,46 +79837,53 @@
           ]
         ]
       }, 
-      "id": 23424828, 
       "type": "Feature", 
+      "id": 23424828, 
+      "bbox": [
+        -73.297, 
+        60.03676, 
+        -12.20855, 
+        83.64513
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Greenlander"
         ], 
-        "ne:ne_10m_adm": "GRL", 
+        "alias_HUN_Q": [
+          "Gr\u00f6nland"
+        ], 
         "alias_SWE_Q": [
           "Gr\u00f6nland"
         ], 
         "alias_SWE_S": [
           "Gronland"
         ], 
+        "hierarchy": [
+          "woe:country=23424828", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 83.63381093402974, 
         "ne:SUBUNIT": "Greenland", 
-        "ne:GU_A3": "GRL", 
         "alias_RUM_Q": [
           "Groenlanda"
         ], 
-        "alias_UNK_V": [
-          "Gr\u00f6nlanti"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Greenland", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uadf8\ub9b0\ub79c\ub4dc"
         ], 
         "alias_POR_V": [
           "Gro\u00eanlandia"
         ], 
-        "alias_POR_Q": [
-          "Gronel\u00e2ndia"
-        ], 
+        "ne:ne_10m_adm": "GRL", 
         "alias_KOR_Q": [
           "\uadf8\ub9b0\ub780\ub4dc"
         ], 
         "alias_POR_S": [
           "Gronelandia"
         ], 
-        "ne:ISO_N3": 304.0, 
         "ne:ADM0_A3": "GRL", 
+        "ne:SOVEREIGNT": "Denmark", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u683c\u9675\u862d"
@@ -79886,8 +79893,8 @@
         ], 
         "ne:NAME": "Greenland", 
         "ne:POSTAL": "GL", 
-        "alias_DAN_V": [
-          "Kalaalit Nunnat"
+        "alias_GER_Q": [
+          "Gr\u00f6nland"
         ], 
         "alias_JPN_Q": [
           "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9"
@@ -79895,6 +79902,8 @@
         "alias_POL_Q": [
           "Grenlandia"
         ], 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Greenland", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Groenlandia"
@@ -79921,17 +79930,11 @@
         "ne:ISO_A2": "GL", 
         "date_indexed": "2010-12-02T17:40:29Z", 
         "ne:NAME_FORMA": null, 
-        "alias_CHI_V": [
-          "\u683c\u9675\u5170"
-        ], 
-        "alias_ENG_A": [
-          "GL"
-        ], 
+        "ne:GU_A3": "GRL", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Greenland", 
         "ne:SU_A3": "GRL", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 1100.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -79948,10 +79951,10 @@
         "alias_DAN_Q": [
           "Gr\u00f8nland"
         ], 
-        "alias_GER_Q": [
-          "Gr\u00f6nland"
+        "alias_DAN_V": [
+          "Kalaalit Nunnat"
         ], 
-        "fullname": "Greenland", 
+        "ne:ISO_N3": 304.0, 
         "alias_GER_S": [
           "Gronland"
         ], 
@@ -79962,36 +79965,36 @@
         "alias_UNK_S": [
           "Groenlanti"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gr\u00e6nland"
         ], 
-        "alias_HUN_Q": [
-          "Gr\u00f6nland"
+        "alias_CHI_V": [
+          "\u683c\u9675\u5170"
         ], 
-        "ne:NAME_SORT": "Greenland", 
+        "alias_UNK_V": [
+          "Gr\u00f6nlanti"
+        ], 
         "longitude": -42.177, 
         "ne:POP_EST": 57600.0, 
         "ne:TYPE": "Country", 
         "ne_longitude": -11.376174275708593, 
         "iso": "GL", 
         "sw_latitude": 59.792372131434135, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "GL"
+        ], 
         "alias_CZE_S": [
           "Gronsko"
         ], 
-        "ne:SOVEREIGNT": "Denmark", 
-        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1100.0, 
         "alias_FRE_Q": [
           "Groenland"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Gronel\u00e2ndia"
         ]
-      }, 
-      "bbox": [
-        -73.297, 
-        60.03676, 
-        -12.20855, 
-        83.64513
-      ]
+      }
     }
   ], 
   "bbox": [

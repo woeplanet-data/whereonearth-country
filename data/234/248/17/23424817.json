@@ -4145,39 +4145,38 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": "Fr.", 
         "alias_ENG_V": [
           "Territory of French Polynesia"
         ], 
-        "ne:ne_10m_adm": "PYF", 
+        "alias_HUN_Q": [
+          "Francia Polin\u00e9zia"
+        ], 
         "alias_SWE_Q": [
           "Franska Polynesien"
         ], 
         "alias_POL_Q": [
           "Polinezja Francuska"
         ], 
+        "hierarchy": [
+          "woe:country=23424817", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -7.950314635950747, 
-        "ne:POSTAL": "PF", 
+        "ne:GU_A3": "PYF", 
         "alias_RUM_Q": [
           "Polinezia Francez\u0103"
         ], 
-        "alias_UNK_V": [
-          "Fransk Polynesien"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "French Polynesia", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud504\ub791\uc2a4\ub839\ud3f4\ub9ac\ub124\uc2dc\uc544"
         ], 
-        "alias_POR_Q": [
-          "Polin\u00e9sia Francesa"
-        ], 
+        "ne:ne_10m_adm": "PYF", 
         "alias_ENG_A": [
           "PF"
         ], 
         "ne:SUBUNIT": "French Polynesia", 
-        "ne:ISO_N3": 258.0, 
         "ne:ADM0_A3": "PYF", 
-        "ne:SOVEREIGNT": "France", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
@@ -4186,21 +4185,17 @@
           "Polinesia Francese"
         ], 
         "ne:NAME": "Fr. Polynesia", 
-        "alias_CHI_V": [
-          "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
-        ], 
-        "ne:NAME_SORT": "French Polynesia", 
+        "ne:POSTAL": "PF", 
         "alias_JPN_Q": [
           "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "French Polynesia", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Polinesia Francesa"
         ], 
-        "alias_FIN_Q": [
-          "Ranskan Polynesia"
-        ], 
+        "ne:TERR_": "Fr.", 
         "sw_longitude": -151.783547119917, 
         "ne:NAME_FORMA": "Territory of French Polynesia", 
         "ne:GEOUNIT": "French Polynesia", 
@@ -4214,6 +4209,9 @@
         "ne:ISO_A2": "PF", 
         "date_indexed": "2010-12-02T17:05:52Z", 
         "ne:SOV_A3": "FR1", 
+        "alias_FRE_V": [
+          "Territoire de la Polyn\u00e9sie Fran\u00e7aise"
+        ], 
         "alias_KOR_Q": [
           "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"
         ], 
@@ -4221,7 +4219,7 @@
         "ne:ADMIN": "French Polynesia", 
         "ne:SU_A3": "PYF", 
         "ne:LabelRank": 5, 
-        "ne:TYPE": "Dependency", 
+        "ne:GDP_MD_EST": 4718.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -4234,46 +4232,51 @@
         "alias_CZE_Q": [
           "Francouzsk\u00e1 Polyn\u00e9sie"
         ], 
-        "ne:GU_A3": "PYF", 
+        "alias_FRE_S": [
+          "Territoire de la Polynesie Francaise"
+        ], 
+        "alias_FIN_Q": [
+          "Ranskan Polynesia"
+        ], 
         "alias_DAN_Q": [
           "Fransk Polynesien"
         ], 
         "alias_GER_Q": [
           "Franz\u00f6sisch-Polynesien"
         ], 
-        "ne:GDP_MD_EST": 4718.0, 
+        "ne:ISO_N3": 258.0, 
         "alias_GER_S": [
           "Franzosisch-Polynesien"
         ], 
         "lang": "ENG", 
         "ne:OID_": 38, 
         "name": "French Polynesia", 
-        "alias_UNK_S": [
-          "Franska Polynesia"
-        ], 
-        "parent_woeid": 1, 
+        "ne:TYPE": "Dependency", 
         "alias_UNK_Q": [
           "Franska P\u00f3l\u00fdnes\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Francia Polin\u00e9zia"
+        "alias_CHI_V": [
+          "\u6cd5\u5c6c\u73bb\u91cc\u5c3c\u897f\u4e9e"
         ], 
-        "ne_longitude": -134.94206864485585, 
+        "alias_UNK_V": [
+          "Fransk Polynesien"
+        ], 
         "longitude": -149.376, 
         "ne:POP_EST": 287032.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_UNK_S": [
+          "Franska Polynesia"
+        ], 
+        "ne_longitude": -134.94206864485585, 
         "iso": "PF", 
         "sw_latitude": -27.641309102687828, 
-        "alias_FRE_V": [
-          "Territoire de la Polyn\u00e9sie Fran\u00e7aise"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "French Polynesia", 
-        "alias_FRE_S": [
-          "Territoire de la Polynesie Francaise"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "France", 
         "alias_FRE_Q": [
           "Polyn\u00e9sie Fran\u00e7aise"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Polin\u00e9sia Francesa"
         ]
       }, 
       "id": 23424817

@@ -484,28 +484,32 @@
         "alias_ENG_V": [
           "Macao"
         ], 
+        "alias_HUN_Q": [
+          "Maka\u00f3"
+        ], 
         "alias_SWE_Q": [
           "Macao"
         ], 
         "alias_POL_Q": [
           "Makau"
         ], 
+        "hierarchy": [
+          "woe:country=20070017", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 22.21766306559438, 
-        "ne:POSTAL": "MO", 
+        "ne:GU_A3": "MAC", 
         "alias_RUM_Q": [
           "Macao"
         ], 
-        "ne:NAME_SORT": "Macau S.A.R", 
-        "placetype": "Country", 
-        "ne:TERR_": "China", 
+        "ne_longitude": 113.58751590986878, 
+        "placetype": "country", 
         "ne:ne_10m_adm": "MAC", 
         "alias_KOR_Q": [
           "\ub9c8\uce74\uc624"
         ], 
         "ne:SUBUNIT": "Macau S.A.R", 
-        "ne:ISO_N3": 446.0, 
         "ne:ADM0_A3": "MAC", 
-        "ne:SOVEREIGNT": "China", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4e2d\u570b\u6fb3\u9580"
@@ -513,13 +517,11 @@
         "alias_ITA_Q": [
           "Macao"
         ], 
-        "alias_GER_V": [
-          "Makao"
+        "alias_DAN_Q": [
+          "Macao"
         ], 
         "ne:NAME": "Macau", 
-        "alias_CHI_V": [
-          "\u4e2d\u570b\u6fb3\u9580"
-        ], 
+        "ne:POSTAL": "MO", 
         "alias_JPN_Q": [
           "\u30de\u30ab\u30aa"
         ], 
@@ -531,9 +533,7 @@
         "alias_SPA_Q": [
           "Macao"
         ], 
-        "alias_FIN_Q": [
-          "Macao"
-        ], 
+        "ne:TERR_": "China", 
         "sw_longitude": 113.52106001838325, 
         "ne:NAME_FORMA": "Macau Special Administrative Region", 
         "ne:GEOUNIT": "Macau S.A.R", 
@@ -547,6 +547,7 @@
         "ne:ISO_A2": "MO", 
         "date_indexed": "2010-12-02T16:32:52Z", 
         "ne:SOV_A3": "CH1", 
+        "fullname": "Macau", 
         "alias_ENG_A": [
           "MO"
         ], 
@@ -554,36 +555,38 @@
         "ne:ADMIN": "Macau S.A.R", 
         "ne:SU_A3": "MAC", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 18140.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Mac.", 
         "alias_CZE_Q": [
           "Macao"
         ], 
-        "ne:GU_A3": "MAC", 
-        "alias_DAN_Q": [
+        "alias_FIN_Q": [
           "Macao"
+        ], 
+        "alias_GER_V": [
+          "Makao"
         ], 
         "alias_GER_Q": [
           "Macao"
         ], 
-        "ne:GDP_MD_EST": 18140.0, 
+        "ne:ISO_N3": 446.0, 
         "lang": "ENG", 
         "ne:OID_": 13, 
         "name": "Macau", 
         "ne:TYPE": "Country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Maka\u00f3"
+        "alias_CHI_V": [
+          "\u4e2d\u570b\u6fb3\u9580"
         ], 
-        "ne_longitude": 113.58751590986878, 
+        "ne:NAME_SORT": "Macau S.A.R", 
         "longitude": 113.547, 
         "ne:POP_EST": 559846.0, 
         "iso": "MO", 
         "sw_latitude": 22.105370178183662, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Macau", 
+        "ne:SOVEREIGNT": "China", 
         "alias_FRE_Q": [
           "Macao"
         ]

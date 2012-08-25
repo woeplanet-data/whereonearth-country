@@ -1017,41 +1017,42 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Marshallislands"
         ], 
-        "ne:ne_10m_adm": "MHL", 
+        "alias_HUN_Q": [
+          "Marshall-Szigetek"
+        ], 
+        "longitude": 171.082, 
         "alias_SWE_Q": [
           "Marshall\u00f6arna"
         ], 
         "alias_SWE_S": [
           "Marshalloarna"
         ], 
+        "hierarchy": [
+          "woe:country=23424932", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.610220438831334, 
-        "ne:POSTAL": "MH", 
+        "ne:GU_A3": "MHL", 
         "alias_RUM_Q": [
           "Insulele Marshall"
         ], 
-        "ne_longitude": 172.02994348236172, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Marshall Islands", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub9c8\uc0ec\uad70\ub3c4"
         ], 
         "alias_POR_V": [
           "IlhasMarshall"
         ], 
-        "alias_POR_Q": [
-          "Ilhas Marshall"
-        ], 
+        "ne:ne_10m_adm": "MHL", 
         "alias_ENG_A": [
           "MH"
         ], 
         "ne:SUBUNIT": "Marshall Islands", 
-        "ne:ISO_N3": 584.0, 
-        "ne:POP_EST": 64522.0, 
         "ne:ADM0_A3": "MHL", 
-        "ne:SOVEREIGNT": "Marshall Islands", 
         "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u99ac\u7d39\u723e\u7fa4\u5cf6"
@@ -1059,16 +1060,16 @@
         "alias_ITA_Q": [
           "Isole Marshall"
         ], 
-        "alias_DAN_Q": [
-          "Marshall\u00f8erne"
+        "alias_GER_V": [
+          "Marshall-Inseln"
         ], 
         "alias_ITA_V": [
           "Marshall, isole"
         ], 
-        "alias_CHI_V": [
-          "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b"
+        "ne:POSTAL": "MH", 
+        "alias_CZE_Q": [
+          "Marshallovy Ostrovy"
         ], 
-        "ne:NAME_SORT": "Marshall Islands", 
         "alias_JPN_Q": [
           "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6"
         ], 
@@ -1082,9 +1083,7 @@
         "alias_SPA_Q": [
           "Islas Marshall"
         ], 
-        "alias_FIN_Q": [
-          "Marshallinsaaret"
-        ], 
+        "ne:TERR_": null, 
         "sw_longitude": 165.28244836491575, 
         "ne:NAME_FORMA": "Republic of the Marshall Islands", 
         "ne:GEOUNIT": "Marshall Islands", 
@@ -1101,41 +1100,45 @@
         "ne:ISO_A2": "MH", 
         "date_indexed": "2010-12-02T09:35:37Z", 
         "ne:SOV_A3": "MHL", 
+        "fullname": "Marshall Islands", 
+        "alias_FRE_V": [
+          "Marshall, \u00eeles"
+        ], 
         "alias_KOR_Q": [
           "\ub9c8\uc15c \uc81c\ub3c4"
         ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Marshall Islands", 
         "ne:SU_A3": "MHL", 
-        "alias_DUT_V": [
-          "Marshall eilanden"
-        ], 
         "ne:LabelRank": 5, 
-        "ne:TYPE": "Sovereign country", 
+        "ne:GDP_MD_EST": 133.5, 
         "alias_SPA_V": [
           "Marshall"
         ], 
+        "wikipedia:id": "19147", 
         "ne:FeatureCla": "Adm-0 country", 
+        "alias_UNK_V": [
+          "Marshall\u00f8erne"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Marshalleilanden"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "M. Is.", 
-        "alias_CZE_Q": [
-          "Marshallovy Ostrovy"
+        "alias_DUT_V": [
+          "Marshall eilanden"
         ], 
-        "ne:GU_A3": "MHL", 
-        "alias_DAN_S": [
-          "Marshalloerne"
+        "alias_FIN_Q": [
+          "Marshallinsaaret"
         ], 
-        "alias_GER_V": [
-          "Marshall-Inseln"
+        "alias_DAN_Q": [
+          "Marshall\u00f8erne"
         ], 
         "alias_GER_Q": [
           "Marshallinseln"
         ], 
-        "ne:GDP_MD_EST": 133.5, 
+        "ne:ISO_N3": 584.0, 
         "ne:NAME": "Marshall Is.", 
         "lang": "ENG", 
         "ne:OID_": 180, 
@@ -1143,34 +1146,34 @@
         "alias_CZE_V": [
           "Marshalovy ostrovy"
         ], 
-        "alias_UNK_S": [
-          "Marshalloyene"
-        ], 
-        "parent_woeid": 1, 
+        "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Marshallovi otoki"
         ], 
-        "alias_HUN_Q": [
-          "Marshall-Szigetek"
+        "alias_CHI_V": [
+          "\u9a6c\u7ecd\u5c14\u7fa4\u5c9b"
         ], 
-        "alias_UNK_V": [
-          "Marshall\u00f8erne"
+        "ne_longitude": 172.02994348236172, 
+        "alias_DAN_S": [
+          "Marshalloerne"
         ], 
-        "longitude": 171.082, 
+        "ne:POP_EST": 64522.0, 
+        "alias_UNK_S": [
+          "Marshalloyene"
+        ], 
+        "iso": "MH", 
+        "sw_latitude": 4.573597921276217, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Marshall Islands", 
+        "alias_FRE_Q": [
+          "\u00celes Marshall"
+        ], 
         "alias_FRE_S": [
           "Iles Marshall"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "MH", 
-        "sw_latitude": 4.573597921276217, 
-        "alias_FRE_V": [
-          "Marshall, \u00eeles"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Marshall Islands", 
-        "wikipedia:id": "19147", 
-        "alias_FRE_Q": [
-          "\u00celes Marshall"
+        "alias_POR_Q": [
+          "Ilhas Marshall"
         ]
       }, 
       "id": 23424932

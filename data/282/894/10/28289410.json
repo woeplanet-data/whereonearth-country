@@ -37,10 +37,14 @@
         "alias_SWE_S": [
           "Bouveton"
         ], 
+        "hierarchy": [
+          "woe:country=28289410", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -54.399, 
-        "placetype": "Country", 
-        "alias_KOR_Q": [
-          "\ubd80\ubca0 \uc12c"
+        "placetype": "country", 
+        "alias_ENG_A": [
+          "BV"
         ], 
         "alias_CHI_Q": [
           "\u5e03\u7ef4\u5c9b"
@@ -71,8 +75,8 @@
           "Bouvet\u00f8ya"
         ], 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "alias_ENG_A": [
-          "BV"
+        "alias_KOR_Q": [
+          "\ubd80\ubca0 \uc12c"
         ], 
         "alias_DAN_S": [
           "Bouvetoen"
@@ -82,7 +86,6 @@
         ], 
         "lang": "ENG", 
         "name": "Bouvet Island", 
-        "parent_woeid": 1, 
         "ne_longitude": 3.435, 
         "longitude": 3.4, 
         "iso": "BV", 
@@ -97,5 +100,11 @@
       }, 
       "id": 28289410
     }
+  ], 
+  "bbox": [
+    3.365, 
+    -54.468, 
+    3.435, 
+    -54.399
   ]
 }

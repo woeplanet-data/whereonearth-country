@@ -40,11 +40,15 @@
         "alias_POL_Q": [
           "Martynika"
         ], 
+        "hierarchy": [
+          "woe:country=23424884", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 14.879, 
         "alias_RUM_Q": [
           "Martinica"
         ], 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ub9d0\ud2f0\ub2c8\ud06c"
         ], 
@@ -76,7 +80,6 @@
         ], 
         "lang": "ENG", 
         "name": "Martinique", 
-        "parent_woeid": 1, 
         "ne_longitude": -60.816, 
         "longitude": -61.023, 
         "iso": "MQ", 
@@ -85,5 +88,11 @@
       }, 
       "id": 23424884
     }
+  ], 
+  "bbox": [
+    -61.23, 
+    14.382, 
+    -60.816, 
+    14.879
   ]
 }

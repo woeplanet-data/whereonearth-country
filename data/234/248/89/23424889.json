@@ -3171,8 +3171,14 @@
           ]
         ]
       }, 
-      "id": 23424889, 
       "type": "Feature", 
+      "id": 23424889, 
+      "bbox": [
+        32.68816531752313, 
+        -16.801299737213093, 
+        35.77190473810836, 
+        -9.23059905358906
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Malawian"
@@ -3181,9 +3187,13 @@
           "\ub9d0\ub77c\uc704"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424889", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -9.381235046687209, 
-        "ne:NAME_SORT": "Malawi", 
-        "placetype": "Country", 
+        "ne_longitude": 35.90429894993582, 
+        "placetype": "country", 
         "alias_POR_V": [
           "Malavi"
         ], 
@@ -3194,13 +3204,12 @@
           "MW"
         ], 
         "ne:SUBUNIT": "Malawi", 
-        "ne:ISO_N3": 454.0, 
         "ne:ADM0_A3": "MWI", 
+        "ne:SOVEREIGNT": "Malawi", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u62c9\u5a01"
         ], 
-        "ne:GDP_MD_EST": 11810.0, 
         "ne:NAME": "Malawi", 
         "alias_CHI_V": [
           "\u9a6c\u62c9\u7ef4"
@@ -3227,6 +3236,7 @@
         "ne:ISO_A2": "MW", 
         "date_indexed": "2010-12-02T17:40:29Z", 
         "ne:NAME_FORMA": "Republic of Malawi", 
+        "fullname": "Malawi", 
         "ne:GU_A3": "MWI", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Malawi", 
@@ -3238,31 +3248,24 @@
         "alias_GER_Q": [
           "Republik Malawi"
         ], 
-        "fullname": "Malawi", 
+        "ne:ISO_N3": 454.0, 
         "lang": "ENG", 
         "name": "Malawi", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Republika Malavi"
         ], 
         "ne:POSTAL": "MW", 
-        "ne_longitude": 35.90429894993582, 
+        "ne:NAME_SORT": "Malawi", 
         "longitude": 34.295, 
         "ne:POP_EST": 14268711.0, 
         "iso": "MW", 
         "sw_latitude": -17.13533538769444, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Malawi", 
+        "ne:GDP_MD_EST": 11810.0, 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "MWI"
-      }, 
-      "bbox": [
-        32.68816531752313, 
-        -16.801299737213093, 
-        35.77190473810836, 
-        -9.23059905358906
-      ]
+      }
     }
   ], 
   "bbox": [

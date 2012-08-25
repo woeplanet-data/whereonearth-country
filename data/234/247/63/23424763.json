@@ -18495,20 +18495,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424763, 
-      "bbox": [
-        92.30323449093868, 
-        9.932959906448545, 
-        101.18000532430754, 
-        28.335945136014345
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Burmese"
-        ], 
-        "alias_HUN_Q": [
-          "Mianmar"
         ], 
         "alias_SWE_Q": [
           "Burma"
@@ -18516,12 +18505,18 @@
         "alias_POL_Q": [
           "Birma"
         ], 
+        "hierarchy": [
+          "woe:country=23424763", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 28.53846588179688, 
         "alias_RUM_Q": [
           "Birmania"
         ], 
-        "ne:NAME_SORT": "Myanmar", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Mjanmar"
+        ], 
+        "placetype": "country", 
         "alias_POR_V": [
           "Mianmar"
         ], 
@@ -18530,8 +18525,8 @@
           "\ubbf8\uc580\ub9c8"
         ], 
         "ne:SUBUNIT": "Myanmar", 
+        "ne:ISO_N3": 104.0, 
         "ne:ADM0_A3": "MMR", 
-        "ne:SOVEREIGNT": "Myanmar", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7dec\u7538"
@@ -18539,8 +18534,8 @@
         "alias_ITA_Q": [
           "Birmania"
         ], 
-        "alias_GER_V": [
-          "Union Myanmar"
+        "alias_DAN_Q": [
+          "Burma"
         ], 
         "ne:NAME": "Myanmar", 
         "ne:POSTAL": "MM", 
@@ -18569,52 +18564,60 @@
         "ne:ISO_A2": "MM", 
         "date_indexed": "2010-12-02T17:58:18Z", 
         "ne:NAME_FORMA": "Union of Burma", 
-        "fullname": "Myanmar", 
+        "alias_CHI_V": [
+          "\u7f05\u7538"
+        ], 
         "ne:GU_A3": "MMR", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Myanmar", 
         "ne:GEOUNIT": "Myanmar", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 55130.0, 
         "alias_SPA_V": [
           "Birmania (Myanmar)"
         ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Myan.", 
-        "alias_DAN_Q": [
-          "Burma"
+        "alias_GER_V": [
+          "Union Myanmar"
         ], 
-        "ne:ISO_N3": 104.0, 
+        "fullname": "Myanmar", 
         "lang": "ENG", 
         "ne:OID_": 190, 
         "name": "Myanmar", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u7f05\u7538"
+        "alias_HUN_Q": [
+          "Mianmar"
         ], 
         "alias_HUN_V": [
           "Burma"
         ], 
-        "alias_UNK_V": [
-          "Mjanmar"
-        ], 
+        "ne:NAME_SORT": "Myanmar", 
         "longitude": 96.683, 
         "ne:POP_EST": 48137741.0, 
         "ne_longitude": 101.17385502186295, 
         "iso": "MM", 
         "sw_latitude": 9.790540466250704, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Myanmar", 
         "alias_ENG_A": [
           "MM"
         ], 
-        "ne:GDP_MD_EST": 55130.0, 
         "wikipedia:id": "19457", 
         "alias_FRE_Q": [
           "Birmanie"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424763, 
+      "bbox": [
+        92.30323449093868, 
+        9.932959906448545, 
+        101.18000532430754, 
+        28.335945136014345
+      ]
     }
   ], 
   "bbox": [

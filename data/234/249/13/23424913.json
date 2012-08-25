@@ -2869,8 +2869,14 @@
           ]
         ]
       }, 
-      "id": 23424913, 
       "type": "Feature", 
+      "id": 23424913, 
+      "bbox": [
+        -58.04469438336068, 
+        1.817667141116601, 
+        -53.9580446030709, 
+        6.025291449401664
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Suriname"
@@ -2879,30 +2885,31 @@
         "alias_POL_Q": [
           "Surinam"
         ], 
+        "hierarchy": [
+          "woe:country=23424913", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 6.006016947853198, 
         "alias_RUM_Q": [
           "Surinam"
         ], 
-        "alias_UNK_V": [
-          "Republika Surinam"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Suriname", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "SUR", 
         "alias_KOR_Q": [
           "\uc218\ub9ac\ub0a8"
         ], 
         "ne:SUBUNIT": "Suriname", 
-        "ne:ISO_N3": 740.0, 
         "ne:ADM0_A3": "SUR", 
+        "ne:SOVEREIGNT": "Suriname", 
         "alias_SWE_Q": [
           "Surinam"
         ], 
         "alias_CHI_Q": [
           "\u8607\u5229\u5357"
         ], 
-        "ne:GDP_MD_EST": 4254.0, 
-        "alias_DAN_Q": [
-          "Surinam"
+        "alias_GER_V": [
+          "Republik Suriname"
         ], 
         "ne:NAME": "Suriname", 
         "alias_CHI_V": [
@@ -2935,47 +2942,43 @@
         "ne:ISO_A2": "SR", 
         "date_indexed": "2010-12-02T12:16:16Z", 
         "ne:NAME_FORMA": "Republic of Suriname", 
+        "fullname": "Suriname", 
         "ne:GU_A3": "SUR", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Suriname", 
         "ne:SU_A3": "SUR", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "SR"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Sur.", 
         "alias_CZE_Q": [
           "Surinam"
         ], 
-        "alias_GER_V": [
-          "Republik Suriname"
+        "alias_DAN_Q": [
+          "Surinam"
         ], 
-        "fullname": "Suriname", 
+        "ne:ISO_N3": 740.0, 
         "lang": "ENG", 
         "ne:OID_": 237, 
         "ne:GEOUNIT": "Suriname", 
         "name": "Suriname", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "SR", 
-        "ne:NAME_SORT": "Suriname", 
+        "alias_UNK_V": [
+          "Republika Surinam"
+        ], 
         "longitude": -56.032, 
         "ne:POP_EST": 481267.0, 
         "ne_longitude": -53.988818726112555, 
         "iso": "SR", 
         "sw_latitude": 1.833506774737998, 
-        "alias_ENG_A": [
-          "SR"
-        ], 
-        "ne:SOVEREIGNT": "Suriname"
-      }, 
-      "bbox": [
-        -58.04469438336068, 
-        1.817667141116601, 
-        -53.9580446030709, 
-        6.025291449401664
-      ]
+        "ne:GEOU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 4254.0
+      }
     }
   ], 
   "bbox": [

@@ -174,36 +174,33 @@
         "alias_ENG_V": [
           "Republic of Singapore"
         ], 
-        "ne:ne_10m_adm": "SGP", 
-        "alias_ENG_A": [
-          "SG"
-        ], 
+        "ne:ScaleRank": 3, 
         "alias_POL_Q": [
           "Singapur"
         ], 
+        "hierarchy": [
+          "woe:country=23424948", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 1.448465678456245, 
-        "ne_longitude": 104.00386315929893, 
-        "placetype": "Country", 
+        "ne:GU_A3": "SGP", 
+        "ne:NAME_SORT": "Singapore", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Cingapura"
         ], 
-        "alias_POR_Q": [
-          "Singapura"
-        ], 
+        "ne:ne_10m_adm": "SGP", 
         "alias_KOR_Q": [
           "\uc2f1\uac00\ud3ec\ub974"
         ], 
         "ne:SUBUNIT": "Singapore", 
-        "ne:ISO_N3": 702.0, 
         "ne:ADM0_A3": "SGP", 
-        "ne:SOVEREIGNT": "Singapore", 
-        "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u65b0\u52a0\u5761"
         ], 
+        "ne:GDP_MD_EST": 237300.0, 
         "ne:NAME": "Singapore", 
         "ne:POSTAL": "SG", 
-        "ne:NAME_SORT": "Singapore", 
         "alias_JPN_Q": [
           "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"
         ], 
@@ -230,7 +227,10 @@
         "ne:ISO_A2": "SG", 
         "date_indexed": "2010-12-02T08:53:28Z", 
         "ne:SOV_A3": "SGP", 
-        "ne:GU_A3": "SGP", 
+        "fullname": "Singapore", 
+        "alias_ENG_A": [
+          "SG"
+        ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Singapore", 
         "ne:SU_A3": "SGP", 
@@ -238,7 +238,11 @@
         "alias_SPA_V": [
           "Rep\u00fablica de Singapur"
         ], 
+        "wikipedia:id": "27318", 
         "ne:FeatureCla": "Adm-0 country", 
+        "alias_UNK_V": [
+          "Republika Singapur"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Sing.", 
         "alias_CZE_Q": [
@@ -250,30 +254,29 @@
         "alias_GER_Q": [
           "Singapur"
         ], 
-        "ne:GDP_MD_EST": 237300.0, 
+        "ne:ISO_N3": 702.0, 
         "lang": "ENG", 
         "name": "Singapore", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Sing-gap'ol"
         ], 
         "alias_HUN_Q": [
           "Szingap\u00far"
         ], 
-        "alias_UNK_V": [
-          "Republika Singapur"
-        ], 
+        "ne_longitude": 104.00386315929893, 
         "longitude": 103.828, 
         "ne:POP_EST": 4657542.0, 
         "iso": "SG", 
         "sw_latitude": 1.264161682164413, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "fullname": "Singapore", 
-        "wikipedia:id": "27318", 
+        "ne:SOVEREIGNT": "Singapore", 
         "alias_FRE_Q": [
           "Singapour"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Singapura"
         ]
       }, 
       "id": 23424948

@@ -5819,20 +5819,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424813, 
-      "bbox": [
-        -180.0, 
-        -18.28799, 
-        180.00000000000014, 
-        -16.02088225674123
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Fiji Islands"
-        ], 
-        "alias_HUN_Q": [
-          "Fidzsi-Szigetek"
         ], 
         "alias_KOR_Q": [
           "\ud53c\uc9c0"
@@ -5840,16 +5829,20 @@
         "alias_POL_Q": [
           "Fid\u017ci"
         ], 
+        "hierarchy": [
+          "woe:country=23424813", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -12.475413106395905, 
-        "ne_longitude": 179.99937951713645, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Fiji", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "FJI", 
         "alias_ENG_A": [
           "FJ"
         ], 
         "ne:SUBUNIT": "Fiji", 
+        "ne:ISO_N3": 242.0, 
         "ne:ADM0_A3": "FJI", 
-        "ne:SOVEREIGNT": "Fiji", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6590\u6fdf"
@@ -5887,17 +5880,19 @@
         "ne:ISO_A2": "FJ", 
         "date_indexed": "2010-12-02T16:12:16Z", 
         "ne:SOV_A3": "FJI", 
-        "fullname": "Fiji", 
+        "alias_CHI_V": [
+          "\u6590\u6d4e"
+        ], 
         "ne:GU_A3": "FJI", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Fiji", 
         "ne:GEOUNIT": "Fiji", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 3579.0, 
+        "wikipedia:id": "10707", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "\u00celes Fidji"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Fiji", 
         "alias_CZE_Q": [
           "Fid\u017ei"
@@ -5911,37 +5906,45 @@
         "alias_GER_Q": [
           "Fidschi"
         ], 
-        "ne:ISO_N3": 242.0, 
+        "fullname": "Fiji", 
         "ne:NAME": "Fiji", 
         "lang": "ENG", 
         "name": "Fiji", 
         "alias_UNK_S": [
           "Fijioeerne"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Fiji\u00f8erne"
         ], 
-        "alias_CHI_V": [
-          "\u6590\u6d4e"
+        "alias_HUN_Q": [
+          "Fidzsi-Szigetek"
         ], 
         "alias_HUN_V": [
           "Fidzsi"
         ], 
-        "ne:NAME_SORT": "Fiji", 
+        "ne_longitude": 179.99937951713645, 
         "longitude": 177.973, 
         "ne:POP_EST": 944720.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "FJ", 
         "sw_latitude": -21.71128346731254, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "\u00celes Fidji"
+        ], 
+        "ne:SOVEREIGNT": "Fiji", 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 3579.0, 
-        "wikipedia:id": "10707", 
         "alias_FRE_Q": [
           "Fidji"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424813, 
+      "bbox": [
+        -180.0, 
+        -18.28799, 
+        180.00000000000014, 
+        -16.02088225674123
+      ]
     }
   ], 
   "bbox": [

@@ -68005,14 +68005,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424782, 
-      "bbox": [
-        -75.64439531116545, 
-        -55.61183, 
-        -66.95992, 
-        -17.58001189541929
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Chile"
@@ -68021,16 +68013,20 @@
           "\uce60\ub808"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424782", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -17.506578877659337, 
-        "ne_longitude": -66.42010127799821, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Chile", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "CHL", 
         "alias_ENG_A": [
           "CL"
         ], 
         "ne:SUBUNIT": "Chile", 
+        "ne:ISO_N3": 152.0, 
         "ne:ADM0_A3": "CHL", 
-        "ne:SOVEREIGNT": "Chile", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u667a\u5229"
@@ -68059,12 +68055,13 @@
         "ne:ISO_A2": "CL", 
         "date_indexed": "2010-12-02T12:15:39Z", 
         "ne:NAME_FORMA": "Republic of Chile", 
-        "fullname": "Chile", 
         "ne:GU_A3": "CHL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Chile", 
         "ne:GEOUNIT": "Chile", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 244500.0, 
+        "wikipedia:id": "5489", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -68074,27 +68071,33 @@
         "alias_GER_V": [
           "Republik Chile"
         ], 
-        "ne:ISO_N3": 152.0, 
+        "fullname": "Chile", 
         "lang": "ENG", 
         "name": "Chile", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Chiri"
         ], 
-        "ne:NAME_SORT": "Chile", 
+        "ne_longitude": -66.42010127799821, 
         "longitude": -71.341, 
         "ne:POP_EST": 16601707.0, 
         "iso": "CL", 
         "sw_latitude": -55.91488047270987, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Chile", 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 244500.0, 
-        "wikipedia:id": "5489", 
         "alias_FRE_Q": [
           "Chili"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424782, 
+      "bbox": [
+        -75.64439531116545, 
+        -55.61183, 
+        -66.95992, 
+        -17.58001189541929
+      ]
     }
   ], 
   "bbox": [

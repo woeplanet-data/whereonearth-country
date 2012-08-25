@@ -2349,41 +2349,33 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424956, 
-      "bbox": [
-        35.70079796727475, 
-        32.312937526980775, 
-        42.34959109881177, 
-        37.2298725449041
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Syrian Arab Republic"
         ], 
-        "alias_HUN_Q": [
-          "Sz\u00edria"
-        ], 
-        "ne:ne_10m_adm": "SYR", 
         "alias_SWE_Q": [
           "Syrien"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424956", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 37.32490631155683, 
         "alias_RUM_Q": [
           "Siria"
         ], 
-        "ne:NAME_SORT": "Syria", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "S\u00edria"
+        "alias_UNK_V": [
+          "Sirska arabska republika"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "SYR", 
         "alias_KOR_Q": [
           "\uc2dc\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Syria", 
+        "ne:ISO_N3": 760.0, 
         "ne:ADM0_A3": "SYR", 
-        "ne:SOVEREIGNT": "Syria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6558\u5229\u4e9e"
@@ -2391,15 +2383,14 @@
         "alias_ITA_Q": [
           "Siria"
         ], 
-        "alias_GER_V": [
-          "Arabische Republik Syrien"
+        "alias_DAN_Q": [
+          "Syrien"
         ], 
         "ne:NAME": "Syria", 
         "ne:POSTAL": "SYR", 
         "alias_JPN_Q": [
           "\u30b7\u30ea\u30a2"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
         ], 
@@ -2421,15 +2412,19 @@
         "ne:ISO_A2": "SY", 
         "date_indexed": "2010-12-02T07:50:25Z", 
         "ne:NAME_FORMA": "Syrian Arab Republic", 
-        "fullname": "Syria", 
+        "alias_CHI_V": [
+          "\u53d9\u5229\u4e9a"
+        ], 
         "ne:GU_A3": "SYR", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Syria", 
         "ne:SU_A3": "SYR", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 98830.0, 
         "alias_SPA_V": [
           "Siria, Republica Arabe"
         ], 
+        "wikipedia:id": "7515849", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2442,48 +2437,56 @@
         "alias_FIN_Q": [
           "Syyria"
         ], 
-        "alias_DAN_Q": [
-          "Syrien"
+        "alias_GER_V": [
+          "Arabische Republik Syrien"
         ], 
         "alias_GER_Q": [
           "Syrien"
         ], 
-        "ne:ISO_N3": 760.0, 
+        "fullname": "Syria", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Syria", 
         "name": "Syria", 
         "alias_UNK_S": [
           "Syrland"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "S\u00fdrland"
         ], 
-        "alias_CHI_V": [
-          "\u53d9\u5229\u4e9a"
+        "alias_HUN_Q": [
+          "Sz\u00edria"
         ], 
         "alias_HUN_V": [
           "Sz\u00edriai Arab K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Sirska arabska republika"
-        ], 
+        "ne:NAME_SORT": "Syria", 
         "longitude": 39.056, 
         "ne:POP_EST": 20178485.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 42.37718550657178, 
         "iso": "SY", 
         "sw_latitude": 32.313041687163675, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Syria", 
+        "alias_FRE_Q": [
+          "Syrie"
+        ], 
         "alias_ENG_A": [
           "SY"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 98830.0, 
-        "wikipedia:id": "7515849", 
-        "alias_FRE_Q": [
-          "Syrie"
+        "alias_POR_Q": [
+          "S\u00edria"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424956, 
+      "bbox": [
+        35.70079796727475, 
+        32.312937526980775, 
+        42.34959109881177, 
+        37.2298725449041
+      ]
     }
   ], 
   "bbox": [

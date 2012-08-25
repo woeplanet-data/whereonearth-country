@@ -2153,43 +2153,35 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424742, 
-      "bbox": [
-        19.304486118250793, 
-        39.62499766698397, 
-        21.0200403174764, 
-        42.68824738216557
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Albania"
         ], 
-        "alias_HUN_Q": [
-          "Alb\u00e1nia"
-        ], 
-        "ne:ne_10m_adm": "ALB", 
         "alias_SWE_Q": [
           "Albanien"
         ], 
         "alias_ENG_P": [
           "Albania"
         ], 
+        "hierarchy": [
+          "woe:country=23424742", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 42.65481353749786, 
         "alias_RUM_Q": [
           "Albania"
         ], 
-        "ne:NAME_SORT": "Albania", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Alb\u00e2nia"
+        "alias_UNK_V": [
+          "Arubania"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "ALB", 
         "alias_KOR_Q": [
           "\uc54c\ubc14\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Albania", 
+        "ne:ISO_N3": 8.0, 
         "ne:ADM0_A3": "ALB", 
-        "ne:SOVEREIGNT": "Albania", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u5df4\u5c3c\u4e9e"
@@ -2197,8 +2189,8 @@
         "alias_ITA_Q": [
           "Albania"
         ], 
-        "alias_GER_V": [
-          "Republik Albanien"
+        "alias_DAN_Q": [
+          "Albanien"
         ], 
         "ne:NAME": "Albania", 
         "ne:POSTAL": "AL", 
@@ -2208,7 +2200,6 @@
         "alias_POL_Q": [
           "Albania"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30d0\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -2230,12 +2221,19 @@
         "ne:ISO_A2": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
         "ne:NAME_FORMA": "Republic of Albania", 
-        "fullname": "Shqip\u00ebri, Albania", 
+        "alias_CHI_V": [
+          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+        ], 
         "ne:GU_A3": "ALB", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Albania", 
         "ne:GEOUNIT": "Albania", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 21810.0, 
+        "alias_ENG_A": [
+          "ALB"
+        ], 
+        "wikipedia:id": "738", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2249,45 +2247,50 @@
         "alias_FIN_Q": [
           "Albania"
         ], 
-        "alias_DAN_Q": [
-          "Albanien"
+        "alias_GER_V": [
+          "Republik Albanien"
         ], 
         "alias_GER_Q": [
           "Albanien"
         ], 
-        "ne:ISO_N3": 8.0, 
+        "fullname": "Shqip\u00ebri, Albania", 
         "lang": "UNK", 
         "ne:OID_": 79, 
         "name": "Shqip\u00ebri", 
         "alias_UNK_S": [
           "Shqiperi"
         ], 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Alban\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
+        "alias_HUN_Q": [
+          "Alb\u00e1nia"
         ], 
-        "alias_UNK_V": [
-          "Arubania"
-        ], 
+        "ne:NAME_SORT": "Albania", 
         "longitude": 20.17, 
         "ne:POP_EST": 3639453.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 21.03667932123608, 
         "iso": "AL", 
         "sw_latitude": 39.63701324478362, 
-        "alias_ENG_A": [
-          "ALB"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 21810.0, 
-        "wikipedia:id": "738", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Albania", 
         "alias_FRE_Q": [
           "Albanie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Alb\u00e2nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424742, 
+      "bbox": [
+        19.304486118250793, 
+        39.62499766698397, 
+        21.0200403174764, 
+        42.68824738216557
+      ]
     }
   ], 
   "bbox": [

@@ -304,11 +304,13 @@
         "alias_POL_Q": [
           "Dominika"
         ], 
-        "ne_latitude": 15.633672180830189, 
-        "alias_UNK_V": [
-          "Zveza Dominika"
+        "hierarchy": [
+          "woe:country=23424798", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 15.633672180830189, 
+        "ne:NAME_SORT": "Dominica", 
+        "placetype": "country", 
         "alias_POR_V": [
           "Dom\u00ednica"
         ], 
@@ -317,16 +319,14 @@
           "DM"
         ], 
         "ne:SUBUNIT": "Dominica", 
-        "ne:ISO_N3": 212.0, 
         "ne:ADM0_A3": "DMA", 
-        "ne:SOVEREIGNT": "Dominica", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u591a\u7c73\u5c3c\u514b"
         ], 
+        "ne:GDP_MD_EST": 719.6, 
         "ne:NAME": "Dominica", 
         "ne:POSTAL": "DM", 
-        "ne:NAME_SORT": "Dominica", 
         "alias_JPN_Q": [
           "\u30c9\u30df\u30cb\u30ab"
         ], 
@@ -347,6 +347,7 @@
         "ne:ISO_A2": "DM", 
         "date_indexed": "2010-12-02T16:32:46Z", 
         "ne:SOV_A3": "DMA", 
+        "fullname": "Dominica", 
         "ne:GU_A3": "DMA", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Dominica", 
@@ -354,19 +355,23 @@
         "ne:LabelRank": 7, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "\u00cele Dominique"
+        ], 
         "ne:ABBREV": "D'inca", 
         "alias_CZE_Q": [
           "Dominika"
         ], 
+        "alias_FRE_S": [
+          "Ile Dominique"
+        ], 
         "alias_GER_V": [
           "Commonwealth Dominica"
         ], 
-        "ne:GDP_MD_EST": 719.6, 
+        "ne:ISO_N3": 212.0, 
         "lang": "ENG", 
         "name": "Dominica", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "D\u00f3min\u00edka"
         ], 
@@ -376,19 +381,17 @@
         "alias_HUN_V": [
           "Dominika"
         ], 
-        "ne_longitude": -61.24855647848577, 
+        "alias_UNK_V": [
+          "Zveza Dominika"
+        ], 
         "longitude": -61.364, 
         "ne:POP_EST": 72660.0, 
+        "ne_longitude": -61.24855647848577, 
         "iso": "DM", 
         "sw_latitude": 15.201657206183597, 
-        "alias_FRE_V": [
-          "\u00cele Dominique"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Dominica", 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Dominica", 
-        "alias_FRE_S": [
-          "Ile Dominique"
-        ], 
         "alias_FRE_Q": [
           "Dominique"
         ]

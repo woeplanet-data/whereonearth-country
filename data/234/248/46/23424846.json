@@ -79263,43 +79263,35 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424846, 
-      "bbox": [
-        95.29302615761733, 
-        -10.359987481327963, 
-        141.0338517600139, 
-        5.479820868344817
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Indonesia"
         ], 
-        "alias_HUN_Q": [
-          "Indon\u00e9zia"
-        ], 
-        "ne:ne_10m_adm": "IDN", 
         "alias_SWE_Q": [
           "Indonesien"
         ], 
         "alias_ENG_P": [
           "Indonesia"
         ], 
+        "hierarchy": [
+          "woe:country=23424846", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 5.909950460368051, 
         "alias_RUM_Q": [
           "Indonezia"
         ], 
-        "ne:NAME_SORT": "Indonesia", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Indon\u00e9sia"
+        "alias_UNK_V": [
+          "Republika Indonezija"
         ], 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "IDN", 
         "alias_KOR_Q": [
           "\uc778\ub3c4\ub124\uc2dc\uc544"
         ], 
         "ne:SUBUNIT": "Indonesia", 
+        "ne:ISO_N3": 360.0, 
         "ne:ADM0_A3": "IDN", 
-        "ne:SOVEREIGNT": "Indonesia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5370\u5ea6\u5c3c\u897f\u4e9e"
@@ -79307,8 +79299,8 @@
         "alias_ITA_Q": [
           "Indonesia"
         ], 
-        "alias_GER_V": [
-          "Republik Indonesien"
+        "alias_DAN_Q": [
+          "Indonesien"
         ], 
         "ne:NAME": "Indonesia", 
         "ne:POSTAL": "INDO", 
@@ -79339,15 +79331,19 @@
         "ne:ISO_A2": "ID", 
         "date_indexed": "2010-12-02T16:54:32Z", 
         "ne:NAME_FORMA": "Republic of Indonesia", 
-        "fullname": "Republik Indonesia, Indonesia", 
-        "alias_FRE_V": [
-          "Indes orientales n\u00e9erlandaises"
+        "alias_CHI_V": [
+          "\u5370\u5ea6\u5c3c\u897f\u4e9a"
         ], 
         "ne:GU_A3": "IDN", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Indonesia", 
         "ne:GEOUNIT": "Indonesia", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 914600.0, 
+        "alias_ENG_A": [
+          "ID"
+        ], 
+        "wikipedia:id": "14579", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -79361,49 +79357,56 @@
         "alias_CZE_Q": [
           "Indon\u00e9sie"
         ], 
-        "alias_FRE_S": [
-          "Indonesie"
-        ], 
         "alias_FIN_Q": [
           "Indonesia"
         ], 
-        "alias_DAN_Q": [
-          "Indonesien"
+        "alias_GER_V": [
+          "Republik Indonesien"
         ], 
         "alias_GER_Q": [
           "Indonesien"
         ], 
-        "ne:ISO_N3": 360.0, 
+        "fullname": "Republik Indonesia, Indonesia", 
         "lang": "UNK", 
         "ne:OID_": 148, 
         "name": "Republik Indonesia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ind\u00f3nes\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u5370\u5ea6\u5c3c\u897f\u4e9a"
+        "alias_HUN_Q": [
+          "Indon\u00e9zia"
         ], 
-        "alias_UNK_V": [
-          "Republika Indonezija"
-        ], 
+        "ne:NAME_SORT": "Indonesia", 
         "longitude": 113.917, 
         "ne:POP_EST": 240271522.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 140.97762699431934, 
         "iso": "ID", 
         "sw_latitude": -10.922743021624015, 
-        "alias_ENG_A": [
-          "ID"
+        "alias_FRE_V": [
+          "Indes orientales n\u00e9erlandaises"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 914600.0, 
-        "wikipedia:id": "14579", 
+        "ne:SOVEREIGNT": "Indonesia", 
         "alias_FRE_Q": [
           "Indon\u00e9sie"
+        ], 
+        "alias_FRE_S": [
+          "Indonesie"
+        ], 
+        "alias_POR_Q": [
+          "Indon\u00e9sia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424846, 
+      "bbox": [
+        95.29302615761733, 
+        -10.359987481327963, 
+        141.0338517600139, 
+        5.479820868344817
+      ]
     }
   ], 
   "bbox": [

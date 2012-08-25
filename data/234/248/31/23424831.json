@@ -40,11 +40,15 @@
         "alias_POL_Q": [
           "Gwadelupa"
         ], 
+        "hierarchy": [
+          "woe:country=23424831", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 16.517, 
         "alias_RUM_Q": [
           "Guadelupa"
         ], 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uacfc\ub2ec\ub85c\ud504"
         ], 
@@ -70,7 +74,6 @@
         "date_indexed": "2010-12-02T08:50:01Z", 
         "lang": "ENG", 
         "name": "Guadeloupe", 
-        "parent_woeid": 1, 
         "ne_longitude": -61.0, 
         "longitude": -61.677, 
         "iso": "GP", 
@@ -79,5 +82,11 @@
       }, 
       "id": 23424831
     }
+  ], 
+  "bbox": [
+    -61.807, 
+    15.831, 
+    -61.0, 
+    16.517
   ]
 }

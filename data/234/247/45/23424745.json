@@ -6531,8 +6531,14 @@
           ]
         ]
       }, 
-      "id": 23424745, 
       "type": "Feature", 
+      "id": 23424745, 
+      "bbox": [
+        11.64009606288161, 
+        -17.93063648851971, 
+        24.079905226342902, 
+        -4.438023369976122
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Angolan"
@@ -6541,23 +6547,24 @@
           "\uc559\uace8\ub77c"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": -4.391203714658943, 
-        "alias_UNK_V": [
-          "Republika Angola"
+        "hierarchy": [
+          "woe:country=23424745", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": -4.391203714658943, 
+        "ne:NAME_SORT": "Angola", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "AGO", 
         "alias_ENG_A": [
           "AO"
         ], 
         "ne:SUBUNIT": "Angola", 
-        "ne:ISO_N3": 24.0, 
         "ne:ADM0_A3": "AGO", 
+        "ne:SOVEREIGNT": "Angola", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b89\u54e5\u62c9"
         ], 
-        "ne:GDP_MD_EST": 110300.0, 
         "ne:NAME": "Angola", 
         "ne:POSTAL": "AO", 
         "alias_JPN_Q": [
@@ -6579,6 +6586,7 @@
         "ne:ISO_A2": "AO", 
         "date_indexed": "2010-12-02T17:52:20Z", 
         "ne:NAME_FORMA": "Republic of Angola", 
+        "fullname": "Angola", 
         "ne:GU_A3": "AGO", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Angola", 
@@ -6590,30 +6598,25 @@
         "alias_GER_V": [
           "Republik Angola"
         ], 
-        "fullname": "Angola", 
+        "ne:ISO_N3": 24.0, 
         "lang": "ENG", 
         "name": "Angola", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Ang\u00f3la"
         ], 
-        "ne:NAME_SORT": "Angola", 
+        "alias_UNK_V": [
+          "Republika Angola"
+        ], 
         "longitude": 17.907, 
         "ne:POP_EST": 12799293.0, 
         "ne_longitude": 24.06171431433637, 
         "iso": "AO", 
         "sw_latitude": -18.031404723897893, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Angola", 
+        "ne:GDP_MD_EST": 110300.0, 
         "ne:SU_DIF": 0.0
-      }, 
-      "bbox": [
-        11.64009606288161, 
-        -17.93063648851971, 
-        24.079905226342902, 
-        -4.438023369976122
-      ]
+      }
     }
   ], 
   "bbox": [

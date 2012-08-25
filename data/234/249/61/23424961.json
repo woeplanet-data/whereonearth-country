@@ -4999,46 +4999,53 @@
           ]
         ]
       }, 
-      "id": 23424961, 
       "type": "Feature", 
+      "id": 23424961, 
+      "bbox": [
+        67.44221967964131, 
+        36.73817129164692, 
+        74.98000247589542, 
+        40.960213324541414
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Tajikistan"
         ], 
-        "ne:ne_10m_adm": "TJK", 
+        "alias_HUN_Q": [
+          "T\u00e1dzsikiszt\u00e1n"
+        ], 
         "alias_SWE_Q": [
           "Tadzjikistan"
         ], 
         "alias_POL_Q": [
           "Tad\u017cykistan"
         ], 
+        "hierarchy": [
+          "woe:country=23424961", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 41.039976704989115, 
         "ne:SUBUNIT": "Tajikistan", 
-        "ne:GU_A3": "TJK", 
         "alias_RUM_Q": [
           "Tadjikistan"
         ], 
-        "alias_UNK_V": [
-          "Tojikistan"
-        ], 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Tajikistan", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud0c0\uc9c0\ud06c\uc2a4\ud0c4"
         ], 
         "alias_POR_V": [
           "Tajiquist\u00e3o"
         ], 
-        "alias_POR_Q": [
-          "Tadjiquist\u00e3o"
-        ], 
+        "ne:ne_10m_adm": "TJK", 
         "alias_ENG_A": [
           "TJ"
         ], 
         "alias_POR_S": [
           "Tajiquistao"
         ], 
-        "ne:ISO_N3": 762.0, 
         "ne:ADM0_A3": "TJK", 
+        "ne:SOVEREIGNT": "Tajikistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5854\u5409\u514b\u65af\u5766"
@@ -5046,11 +5053,17 @@
         "alias_ITA_Q": [
           "Tagikistan"
         ], 
-        "alias_DAN_Q": [
-          "Tadsjikistan"
+        "alias_GER_V": [
+          "Republik Tadschikistan"
         ], 
         "ne:NAME": "Tajikistan", 
         "ne:POSTAL": "TJ", 
+        "alias_KOR_Q": [
+          "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+        ], 
+        "alias_CZE_Q": [
+          "T\u00e1d\u017eikist\u00e1n"
+        ], 
         "alias_JPN_Q": [
           "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
         ], 
@@ -5082,69 +5095,59 @@
         "ne:ISO_A2": "TJ", 
         "date_indexed": "2010-12-02T12:16:45Z", 
         "ne:NAME_FORMA": "Republic of Tajikistan", 
-        "alias_CHI_V": [
-          "\u5854\u5409\u514b\u65af\u5766"
-        ], 
-        "alias_KOR_Q": [
-          "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
-        ], 
+        "fullname": "Tajikistan", 
+        "ne:GU_A3": "TJK", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Tajikistan", 
         "ne:GEOUNIT": "Tajikistan", 
-        "alias_DUT_V": [
-          "Tadjzjikistan"
-        ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 13160.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Tadzjikistan"
         ], 
         "ne:ABBREV": "Tjk.", 
-        "alias_CZE_Q": [
-          "T\u00e1d\u017eikist\u00e1n"
+        "alias_DUT_V": [
+          "Tadjzjikistan"
         ], 
         "alias_FIN_Q": [
           "Tad\u017eikistan"
         ], 
-        "alias_GER_V": [
-          "Republik Tadschikistan"
+        "alias_DAN_Q": [
+          "Tadsjikistan"
         ], 
         "alias_GER_Q": [
           "Tadschikistan"
         ], 
-        "fullname": "Tajikistan", 
+        "ne:ISO_N3": 762.0, 
         "lang": "ENG", 
         "ne:OID_": 243, 
         "name": "Tajikistan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "T\u00e1dzsikiszt\u00e1n"
+        "alias_CHI_V": [
+          "\u5854\u5409\u514b\u65af\u5766"
         ], 
         "alias_HUN_V": [
           "Tadzsikiszt\u00e1n"
         ], 
-        "ne:NAME_SORT": "Tajikistan", 
+        "alias_UNK_V": [
+          "Tojikistan"
+        ], 
         "longitude": 71.262, 
         "ne:POP_EST": 7349145.0, 
         "ne_longitude": 75.1641247964335, 
         "iso": "TJ", 
         "sw_latitude": 36.67864084874016, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Tajikistan", 
+        "ne:GDP_MD_EST": 13160.0, 
         "alias_FRE_Q": [
           "Tadjikistan"
+        ], 
+        "alias_POR_Q": [
+          "Tadjiquist\u00e3o"
         ]
-      }, 
-      "bbox": [
-        67.44221967964131, 
-        36.73817129164692, 
-        74.98000247589542, 
-        40.960213324541414
-      ]
+      }
     }
   ], 
   "bbox": [

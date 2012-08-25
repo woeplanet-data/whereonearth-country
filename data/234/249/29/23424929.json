@@ -5184,47 +5184,47 @@
         "alias_ENG_V": [
           "Republic of Guinea-Bissau"
         ], 
-        "ne:ne_10m_adm": "GNB", 
+        "alias_HUN_Q": [
+          "Bissau-Guinea"
+        ], 
         "alias_KOR_Q": [
           "\uae30\ub2c8\ube44\uc0ac\uc6b0"
         ], 
         "alias_POL_Q": [
           "Gwinea Bissau"
         ], 
+        "hierarchy": [
+          "woe:country=23424929", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 12.679433898907718, 
         "ne:SUBUNIT": "Guinea Bissau", 
-        "ne:POSTAL": "GW", 
         "alias_RUM_Q": [
           "Guineea-Bissau"
         ], 
-        "ne:NAME_SORT": "Guinea Bissau (Guinea-Bissau)", 
-        "placetype": "Country", 
+        "ne_longitude": -13.66071183292425, 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uae30\ub124\ube44\uc18c"
         ], 
         "alias_POR_V": [
           "Guin\u00e9 Bissau"
         ], 
-        "alias_POR_Q": [
-          "Guin\u00e9-Bissau"
-        ], 
+        "ne:ne_10m_adm": "GNB", 
         "alias_ENG_A": [
           "GW"
         ], 
         "alias_POR_S": [
           "Guine-Bissau"
         ], 
-        "ne:ISO_N3": 624.0, 
         "ne:ADM0_A3": "GNB", 
-        "ne:SOVEREIGNT": "Guinea Bissau", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
         ], 
+        "ne:GDP_MD_EST": 904.2, 
         "ne:NAME": "Guinea Bissau", 
-        "alias_CHI_V": [
-          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
-        ], 
+        "ne:POSTAL": "GW", 
         "alias_JPN_Q": [
           "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6"
         ], 
@@ -5245,6 +5245,7 @@
         "ne:ISO_A2": "GW", 
         "date_indexed": "2010-12-02T09:57:34Z", 
         "ne:SOV_A3": "GNB", 
+        "fullname": "Guinea-Bissau", 
         "ne:GU_A3": "GNB", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Guinea Bissau", 
@@ -5259,27 +5260,29 @@
         "alias_GER_V": [
           "Republik Guinea-Bissau"
         ], 
-        "ne:GDP_MD_EST": 904.2, 
+        "ne:ISO_N3": 624.0, 
         "lang": "ENG", 
         "name": "Guinea-Bissau", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gvineja Bissau"
         ], 
-        "alias_HUN_Q": [
-          "Bissau-Guinea"
+        "alias_CHI_V": [
+          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
         ], 
-        "ne_longitude": -13.66071183292425, 
+        "ne:NAME_SORT": "Guinea Bissau (Guinea-Bissau)", 
         "longitude": -15.177, 
         "ne:POP_EST": 1533964.0, 
         "iso": "GW", 
         "sw_latitude": 10.927447814722683, 
         "ne:GEOU_DIF": 0.0, 
-        "fullname": "Guinea-Bissau", 
-        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Guinea Bissau", 
         "alias_FRE_Q": [
           "Guin\u00e9e-Bissau"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Guin\u00e9-Bissau"
         ]
       }, 
       "id": 23424929

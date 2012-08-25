@@ -145259,17 +145259,13 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424936, 
-      "bbox": [
-        -180.0, 
-        41.15141612402135, 
-        180.00000000000014, 
-        81.2504
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
-        "placetype": "Country", 
+        "hierarchy": [
+          "woe:country=23424936", 
+          "woe:planet=1"
+        ], 
+        "placetype": "country", 
         "alias_ITA_Q": [
           "Russia"
         ], 
@@ -145301,8 +145297,8 @@
         "ne:NAME_SORT": "Russia", 
         "ne:POP_EST": 140041247.0, 
         "ne:GDP_MD_EST": 2266000.0, 
-        "alias_ENG_A": [
-          "RU"
+        "alias_KOR_Q": [
+          "\ub7ec\uc2dc\uc544"
         ], 
         "alias_POR_Q": [
           "R\u00fassia"
@@ -145350,8 +145346,8 @@
           "Russia"
         ], 
         "ne:ne_10m_adm": "RUS", 
-        "alias_KOR_Q": [
-          "\ub7ec\uc2dc\uc544"
+        "alias_ENG_A": [
+          "RU"
         ], 
         "ne:SUBUNIT": "Russia", 
         "alias_CHI_Q": [
@@ -145363,9 +145359,7 @@
         "ne:LEVEL": 2.0, 
         "sw_longitude": -179.99900834195893, 
         "ne:SOV_A3": "RUS", 
-        "alias_RUM_V": [
-          "Federa\u021bia Rus\u0103"
-        ], 
+        "ne_latitude": 81.85836374953307, 
         "ne:OID_": 214, 
         "ne:ISO_A3": "RUS", 
         "ne:ISO_A2": "RU", 
@@ -145374,7 +145368,6 @@
         "alias_DAN_Q": [
           "Rusland"
         ], 
-        "parent_woeid": 1, 
         "longitude": 108.832, 
         "alias_FRE_V": [
           "F\u00e9d\u00e9ration de Russie"
@@ -145396,7 +145389,9 @@
         "alias_POL_Q": [
           "Rosja"
         ], 
-        "ne_latitude": 81.85836374953307, 
+        "alias_RUM_V": [
+          "Federa\u021bia Rus\u0103"
+        ], 
         "alias_RUM_Q": [
           "Rusia"
         ], 
@@ -145432,7 +145427,15 @@
         ], 
         "lang": "UNK", 
         "ne:TYPE": "Sovereign country"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424936, 
+      "bbox": [
+        -180.0, 
+        41.15141612402135, 
+        180.00000000000014, 
+        81.2504
+      ]
     }
   ], 
   "bbox": [

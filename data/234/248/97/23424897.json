@@ -240,31 +240,33 @@
         "alias_ENG_V": [
           "Malta Island"
         ], 
+        "alias_HUN_Q": [
+          "M\u00e1lta"
+        ], 
         "alias_ENG_A": [
           "MLT"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424897", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 36.07531850205383, 
-        "ne:POSTAL": "M", 
-        "ne_longitude": 14.567720174049327, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Malta", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "MLT", 
         "alias_KOR_Q": [
           "\ubab0\ud0c0"
         ], 
         "ne:SUBUNIT": "Malta", 
-        "ne:ISO_N3": 470.0, 
         "ne:ADM0_A3": "MLT", 
-        "ne:SOVEREIGNT": "Malta", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u99ac\u723e\u4ed6"
         ], 
+        "ne:GDP_MD_EST": 9962.0, 
         "ne:NAME": "Malta", 
-        "alias_CHI_V": [
-          "\u99ac\u723e\u4ed6"
-        ], 
-        "ne:NAME_SORT": "Malta", 
+        "ne:POSTAL": "M", 
         "alias_JPN_Q": [
           "\u30de\u30eb\u30bf"
         ], 
@@ -284,39 +286,40 @@
         "ne:ISO_A2": "MT", 
         "date_indexed": "2010-12-02T07:50:18Z", 
         "ne:SOV_A3": "MLT", 
+        "fullname": "Malta", 
         "ne:GU_A3": "MLT", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Malta", 
         "ne:SU_A3": "MLT", 
         "ne:LabelRank": 5, 
+        "wikipedia:id": "19137", 
         "ne:FeatureCla": "Adm-0 country", 
+        "alias_UNK_V": [
+          "M\u00e1lta"
+        ], 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Malta", 
         "alias_GER_V": [
           "Republik Malta"
         ], 
-        "ne:GDP_MD_EST": 9962.0, 
+        "ne:ISO_N3": 470.0, 
         "lang": "ENG", 
         "name": "Malta", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Mal'ta"
         ], 
-        "alias_HUN_Q": [
-          "M\u00e1lta"
+        "alias_CHI_V": [
+          "\u99ac\u723e\u4ed6"
         ], 
-        "alias_UNK_V": [
-          "M\u00e1lta"
-        ], 
+        "ne_longitude": 14.567720174049327, 
         "longitude": 14.448, 
         "ne:POP_EST": 405165.0, 
         "iso": "MT", 
         "sw_latitude": 35.8010199996004, 
         "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Malta", 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Malta", 
-        "wikipedia:id": "19137", 
         "alias_FRE_Q": [
           "Malte"
         ]

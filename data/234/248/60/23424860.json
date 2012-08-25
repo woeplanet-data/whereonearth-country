@@ -1421,38 +1421,47 @@
           ]
         ]
       }, 
-      "id": 23424860, 
       "type": "Feature", 
+      "id": 23424860, 
+      "bbox": [
+        34.92260257339143, 
+        29.197494615184453, 
+        39.19546837744497, 
+        33.378686428352225
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Jordanian"
         ], 
-        "ne:ne_10m_adm": "JOR", 
+        "alias_HUN_Q": [
+          "Jord\u00e1nia"
+        ], 
         "alias_SWE_Q": [
           "Jordanien"
         ], 
         "alias_POL_Q": [
           "Jordania"
         ], 
+        "hierarchy": [
+          "woe:country=23424860", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 33.37168507918017, 
-        "ne:GU_A3": "JOR", 
         "alias_RUM_Q": [
           "Iordania"
         ], 
-        "ne:NAME_SORT": "Jordan", 
-        "placetype": "Country", 
-        "alias_POR_Q": [
-          "Jord\u00e2nia"
-        ], 
+        "ne_longitude": 39.291999145502984, 
+        "placetype": "country", 
+        "ne:ne_10m_adm": "JOR", 
         "alias_KOR_Q": [
           "\uc694\ub974\ub2e8"
         ], 
         "ne:SUBUNIT": "Jordan", 
-        "ne:ISO_N3": 400.0, 
         "alias_ARA_V": [
           "Al Urdun"
         ], 
         "ne:ADM0_A3": "JOR", 
+        "ne:SOVEREIGNT": "Jordan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d04\u65e6"
@@ -1487,17 +1496,12 @@
         "ne:ISO_A2": "JO", 
         "date_indexed": "2010-12-02T12:08:12Z", 
         "ne:NAME_FORMA": "Hashemite Kingdom of Jordan", 
-        "alias_CHI_V": [
-          "\u7ea6\u65e6"
-        ], 
-        "alias_ENG_A": [
-          "JO"
-        ], 
+        "fullname": "Jordan", 
+        "ne:GU_A3": "JOR", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Jordan", 
         "ne:SU_A3": "JOR", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 31610.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1514,35 +1518,34 @@
         "alias_GER_Q": [
           "Jordanien"
         ], 
-        "fullname": "Jordan", 
+        "ne:ISO_N3": 400.0, 
         "lang": "ENG", 
         "name": "Jordan", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Urdunn"
         ], 
-        "alias_HUN_Q": [
-          "Jord\u00e1nia"
+        "alias_CHI_V": [
+          "\u7ea6\u65e6"
         ], 
-        "ne_longitude": 39.291999145502984, 
+        "ne:NAME_SORT": "Jordan", 
         "longitude": 37.139, 
         "ne:POP_EST": 6342948.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "JO", 
         "sw_latitude": 29.189950663432484, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Jordan", 
-        "ne:SU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "JO"
+        ], 
+        "ne:GDP_MD_EST": 31610.0, 
         "alias_FRE_Q": [
           "Jordanie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Jord\u00e2nia"
         ]
-      }, 
-      "bbox": [
-        34.92260257339143, 
-        29.197494615184453, 
-        39.19546837744497, 
-        33.378686428352225
-      ]
+      }
     }
   ], 
   "bbox": [

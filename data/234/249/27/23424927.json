@@ -676,30 +676,30 @@
           "PW"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne_latitude": 7.733895975692562, 
-        "alias_UNK_V": [
-          "Republika Palau"
+        "hierarchy": [
+          "woe:country=23424927", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 7.733895975692562, 
+        "ne:NAME_SORT": "Palau", 
+        "placetype": "country", 
         "ne:ne_10m_adm": "PLW", 
         "alias_KOR_Q": [
           "\ud314\ub77c\uc6b0"
         ], 
         "ne:SUBUNIT": "Palau", 
-        "ne:ISO_N3": 585.0, 
         "ne:ADM0_A3": "PLW", 
-        "ne:SOVEREIGNT": "Palau", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e1b\u7409"
         ], 
+        "ne:GDP_MD_EST": 164.0, 
         "alias_ITA_V": [
           "Isole Palau"
         ], 
         "alias_CHI_V": [
           "\u5e15\u52b3"
         ], 
-        "ne:NAME_SORT": "Palau", 
         "alias_JPN_Q": [
           "\u30d1\u30e9\u30aa"
         ], 
@@ -724,6 +724,7 @@
         "ne:ISO_A2": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:SOV_A3": "PLW", 
+        "fullname": "Palau", 
         "ne:GU_A3": "PLW", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Palau", 
@@ -731,29 +732,31 @@
         "ne:LabelRank": 2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Belau"
+        ], 
         "ne:ABBREV": "Palau", 
         "alias_GER_V": [
           "Republik Palau"
         ], 
-        "ne:GDP_MD_EST": 164.0, 
+        "ne:ISO_N3": 585.0, 
         "ne:NAME": "Palau", 
         "lang": "ENG", 
         "name": "Palau", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "PW", 
-        "ne_longitude": 134.66354211457497, 
+        "alias_UNK_V": [
+          "Republika Palau"
+        ], 
         "longitude": 134.564, 
         "ne:POP_EST": 20796.0, 
+        "ne_longitude": 134.66354211457497, 
         "iso": "PW", 
         "sw_latitude": 2.949020080408545, 
         "ne:ISO_A3": "PLW", 
-        "alias_FRE_V": [
-          "Belau"
-        ], 
-        "fullname": "Palau", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Palau", 
         "alias_FRE_Q": [
           "Palaos"
         ]

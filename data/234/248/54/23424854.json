@@ -6335,20 +6335,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424854, 
-      "bbox": [
-        -8.60288021486862, 
-        4.338288479017308, 
-        -2.562189500326241, 
-        10.524060777219134
-      ], 
       "properties": {
         "alias_ENG_V": [
           "C\u00f4te d'Ivoire"
-        ], 
-        "alias_HUN_Q": [
-          "Elef\u00e1ntcsontpart"
         ], 
         "alias_SWE_Q": [
           "Elfenbenskusten"
@@ -6356,14 +6345,21 @@
         "alias_ENG_P": [
           "Ivory Coast"
         ], 
+        "hierarchy": [
+          "woe:country=23424854", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 10.726478169841158, 
         "alias_RUM_Q": [
           "Coasta de Filde\u015f"
         ], 
-        "ne_longitude": -2.50632808413917, 
-        "placetype": "Country", 
+        "ne:NAME_SORT": "Ivory Coast (C\u00f4te d'Ivoire)", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ucf54\ud2b8\ub514\ubd80\uc640\ub974"
+        ], 
+        "alias_RUM_V": [
+          "C\u00f4te d'Ivoire"
         ], 
         "alias_POR_Q": [
           "Costa do Marfim"
@@ -6372,8 +6368,8 @@
           "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
         ], 
         "ne:SUBUNIT": "Ivory Coast", 
+        "ne:ISO_N3": 384.0, 
         "ne:ADM0_A3": "CIV", 
-        "ne:SOVEREIGNT": "Ivory Coast", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8c61\u7259\u6d77\u5cb8"
@@ -6381,8 +6377,8 @@
         "alias_ITA_Q": [
           "Costa d'Avorio"
         ], 
-        "alias_GER_V": [
-          "C\u00f4te d\u2019Ivoire"
+        "alias_DAN_Q": [
+          "Elfenbenskysten"
         ], 
         "alias_ITA_V": [
           "Costa d\u2019Avorio"
@@ -6418,13 +6414,15 @@
         "ne:ISO_A2": "CI", 
         "date_indexed": "2010-12-02T09:35:19Z", 
         "ne:NAME_FORMA": "Republic of Cote D'Ivoire", 
-        "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast", 
-        "lang": "FRE", 
+        "alias_CHI_V": [
+          "\u8c61\u7259\u6d77\u5cb8"
+        ], 
         "ne:GU_A3": "CIV", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Ivory Coast", 
         "ne:GEOUNIT": "Ivory Coast", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 33850.0, 
         "alias_SPA_V": [
           "Republica C\u00f4te d'Ivoire"
         ], 
@@ -6438,47 +6436,52 @@
         "alias_CZE_Q": [
           "Pob\u0159e\u017e\u00ed Slonoviny"
         ], 
-        "alias_FRE_V": [
-          "C\u00f4te-d'Ivoire"
-        ], 
         "alias_FIN_Q": [
           "Norsunluurannikko"
         ], 
-        "alias_DAN_Q": [
-          "Elfenbenskysten"
+        "alias_GER_V": [
+          "C\u00f4te d\u2019Ivoire"
         ], 
         "alias_GER_Q": [
           "Elfenbeink\u00fcste"
         ], 
-        "ne:ISO_N3": 384.0, 
+        "fullname": "C\u00f4te d\u00b4Ivoire, Ivory Coast", 
         "alias_GER_S": [
           "Republik Cote d\u00b4Ivoire"
         ], 
         "ne:NAME": "Ivory Coast", 
-        "alias_ENG_A": [
-          "CI"
-        ], 
+        "lang": "FRE", 
         "ne:OID_": 154, 
         "name": "C\u00f4te d\u00b4Ivoire", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u8c61\u7259\u6d77\u5cb8"
+        "alias_HUN_Q": [
+          "Elef\u00e1ntcsontpart"
         ], 
-        "ne:NAME_SORT": "Ivory Coast (C\u00f4te d'Ivoire)", 
+        "ne_longitude": -2.50632808413917, 
         "longitude": -5.547, 
         "ne:POP_EST": 20617068.0, 
         "ne:GEOU_DIF": 0.0, 
         "iso": "CI", 
         "sw_latitude": 4.343922017943413, 
-        "alias_RUM_V": [
-          "C\u00f4te d'Ivoire"
+        "alias_FRE_V": [
+          "C\u00f4te-d'Ivoire"
         ], 
-        "ne:GDP_MD_EST": 33850.0, 
+        "ne:SOVEREIGNT": "Ivory Coast", 
+        "alias_ENG_A": [
+          "CI"
+        ], 
         "wikipedia:id": "57744", 
         "ne:ne_10m_adm": "CIV"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424854, 
+      "bbox": [
+        -8.60288021486862, 
+        4.338288479017308, 
+        -2.562189500326241, 
+        10.524060777219134
+      ]
     }
   ], 
   "bbox": [

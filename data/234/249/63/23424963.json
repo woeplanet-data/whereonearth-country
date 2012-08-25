@@ -40,13 +40,17 @@
         "alias_SWE_S": [
           "Tokelauoarna"
         ], 
+        "hierarchy": [
+          "woe:country=23424963", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": -8.533, 
-        "placetype": "Country", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud1a0\ucf08\ub77c\uc6b0\uc81c\ub3c4"
         ], 
-        "alias_KOR_Q": [
-          "\ud1a0\ucf08\ub77c\uc6b0"
+        "alias_ENG_A": [
+          "TK"
         ], 
         "alias_CHI_Q": [
           "\u6258\u514b\u52de"
@@ -65,15 +69,14 @@
         "latitude": -9.383, 
         "woe:id": 23424963, 
         "date_indexed": "2010-12-02T08:53:23Z", 
-        "alias_ENG_A": [
-          "TK"
+        "alias_KOR_Q": [
+          "\ud1a0\ucf08\ub77c\uc6b0"
         ], 
         "alias_DUT_Q": [
           "Tokelau-Eilanden"
         ], 
         "lang": "ENG", 
         "name": "Tokelau", 
-        "parent_woeid": 1, 
         "alias_HUN_Q": [
           "Tokelau-Szigetek"
         ], 
@@ -85,5 +88,11 @@
       }, 
       "id": 23424963
     }
+  ], 
+  "bbox": [
+    -172.517, 
+    -9.434, 
+    -171.182, 
+    -8.533
   ]
 }

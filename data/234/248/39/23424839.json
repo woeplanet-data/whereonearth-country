@@ -2599,14 +2599,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424839, 
-      "bbox": [
-        -74.45803361682478, 
-        18.030992743395004, 
-        -71.62487321642283, 
-        19.915683905511912
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Haiti"
@@ -2615,9 +2607,15 @@
           "HT"
         ], 
         "ne:LEVEL": 2.0, 
+        "hierarchy": [
+          "woe:country=23424839", 
+          "woe:planet=1"
+        ], 
         "ne_latitude": 20.089575907824482, 
-        "ne:NAME_SORT": "Haiti", 
-        "placetype": "Country", 
+        "alias_UNK_V": [
+          "Republika Haiti"
+        ], 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\ud558\uc774\ud2f0"
         ], 
@@ -2626,12 +2624,13 @@
           "\uc544\uc774\ud2f0"
         ], 
         "ne:SUBUNIT": "Haiti", 
+        "ne:ISO_N3": 332.0, 
         "ne:ADM0_A3": "HTI", 
-        "ne:SOVEREIGNT": "Haiti", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6d77\u5730"
         ], 
+        "ne:GDP_MD_EST": 11500.0, 
         "ne:NAME": "Haiti", 
         "ne:POSTAL": "HT", 
         "alias_JPN_Q": [
@@ -2656,10 +2655,6 @@
         "ne:ISO_A2": "HT", 
         "date_indexed": "2010-12-02T17:52:09Z", 
         "ne:NAME_FORMA": "Republic of Haiti", 
-        "fullname": "Haiti", 
-        "alias_FRE_V": [
-          "R\u00e9publique d\u2019Ha\u00efti"
-        ], 
         "ne:GU_A3": "HTI", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Haiti", 
@@ -2674,27 +2669,35 @@
         "alias_GER_V": [
           "Republik Haiti"
         ], 
-        "ne:ISO_N3": 332.0, 
+        "fullname": "Haiti", 
         "lang": "ENG", 
         "name": "Haiti", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "ne:SU_DIF": 0.0, 
-        "alias_UNK_V": [
-          "Republika Haiti"
-        ], 
+        "ne:NAME_SORT": "Haiti", 
         "longitude": -72.292, 
         "ne:POP_EST": 9035536.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -71.63911088138221, 
         "iso": "HT", 
         "sw_latitude": 18.02577423124471, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 11500.0, 
+        "alias_FRE_V": [
+          "R\u00e9publique d\u2019Ha\u00efti"
+        ], 
+        "ne:SOVEREIGNT": "Haiti", 
         "wikipedia:id": "13373", 
         "alias_FRE_Q": [
           "Ha\u00efti"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424839, 
+      "bbox": [
+        -74.45803361682478, 
+        18.030992743395004, 
+        -71.62487321642283, 
+        19.915683905511912
+      ]
     }
   ], 
   "bbox": [

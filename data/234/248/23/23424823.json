@@ -2025,41 +2025,48 @@
           ]
         ]
       }, 
-      "id": 23424823, 
       "type": "Feature", 
+      "id": 23424823, 
+      "bbox": [
+        39.955008579270924, 
+        41.06444468847411, 
+        46.63790815612058, 
+        43.553104153002316
+      ], 
       "properties": {
         "alias_ENG_V": [
           "Georgian Soviet Socialist Republic"
         ], 
-        "ne:ne_10m_adm": "GEO", 
+        "alias_HUN_Q": [
+          "Gr\u00fazia"
+        ], 
         "alias_SWE_Q": [
           "Georgien"
         ], 
         "alias_POL_Q": [
           "Gruzja"
         ], 
-        "ne_latitude": 43.575842590752615, 
-        "alias_UNK_V": [
-          "Sakartvelo"
+        "hierarchy": [
+          "woe:country=23424823", 
+          "woe:planet=1"
         ], 
-        "placetype": "Country", 
+        "ne_latitude": 43.575842590752615, 
+        "ne:NAME_SORT": "Georgia", 
+        "placetype": "country", 
         "alias_KOR_V": [
           "\uadf8\ub8e8\uc9c0\uc544"
         ], 
-        "alias_POR_Q": [
-          "Ge\u00f3rgia"
-        ], 
+        "ne:ne_10m_adm": "GEO", 
         "alias_KOR_Q": [
           "\uadf8\ub8e8\uc9c0\uc57c"
         ], 
         "ne:SUBUNIT": "Georgia", 
-        "ne:ISO_N3": 268.0, 
         "ne:ADM0_A3": "GEO", 
+        "ne:SOVEREIGNT": "Georgia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u55ac\u6cbb\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 21510.0, 
         "ne:NAME": "Georgia", 
         "ne:POSTAL": "GE", 
         "alias_JPN_Q": [
@@ -2082,17 +2089,12 @@
         "ne:ISO_A2": "GE", 
         "date_indexed": "2010-12-02T17:51:59Z", 
         "ne:NAME_FORMA": null, 
-        "alias_CHI_V": [
-          "\u55ac\u6cbb\u4e9e"
-        ], 
+        "fullname": "Georgia", 
         "ne:GU_A3": "GEO", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Georgia", 
         "ne:GEOUNIT": "Georgia", 
         "ne:LabelRank": 2, 
-        "alias_ENG_A": [
-          "GE"
-        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2105,45 +2107,46 @@
         "alias_CZE_Q": [
           "Gruzie"
         ], 
+        "alias_FRE_S": [
+          "Georgie"
+        ], 
         "alias_DAN_Q": [
           "Georgien"
         ], 
         "alias_GER_Q": [
           "Georgien"
         ], 
-        "fullname": "Georgia", 
+        "ne:ISO_N3": 268.0, 
         "lang": "ENG", 
         "name": "Georgia", 
         "ne:TYPE": "Sovereign country", 
-        "parent_woeid": 1, 
         "alias_UNK_Q": [
           "Gruzija"
         ], 
-        "alias_HUN_Q": [
-          "Gr\u00fazia"
+        "alias_CHI_V": [
+          "\u55ac\u6cbb\u4e9e"
         ], 
-        "ne:NAME_SORT": "Georgia", 
+        "alias_UNK_V": [
+          "Sakartvelo"
+        ], 
         "longitude": 43.366, 
         "ne:POP_EST": 4615807.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 46.69480310034879, 
         "iso": "GE", 
         "sw_latitude": 41.04411082000942, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Georgia", 
-        "alias_FRE_S": [
-          "Georgie"
+        "alias_ENG_A": [
+          "GE"
         ], 
+        "ne:GDP_MD_EST": 21510.0, 
         "alias_FRE_Q": [
           "G\u00e9orgie"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "alias_POR_Q": [
+          "Ge\u00f3rgia"
         ]
-      }, 
-      "bbox": [
-        39.955008579270924, 
-        41.06444468847411, 
-        46.63790815612058, 
-        43.553104153002316
-      ]
+      }
     }
   ], 
   "bbox": [
