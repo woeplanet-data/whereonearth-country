@@ -28,7 +28,50 @@ for to be sending me a pull request if you've already got that data at hand.
 The long version
 --
 
-I still need to write it.
+_Forking GeoPlanet one place type a time._
+
+This is an active but still experimental project to create a community-driven
+project to maintain and update the Creative Commons licensed GeoPlanet dataset.
+
+Rather than create a single repository with every record the plan is to create
+smaller datasets organized by placetype in the hopes that they will be more
+manageable to download and to update by users interested in particular place types.
+
+Each location (country) is stored as a separate GeoJSON file. GeoJSON was
+chosen because it has wide support in variety of GIS tools, most programming
+languages (and specifically JavaScript), can be edited using any old text editor
+(or Github's own "edit this page" functionality) and allows for any number of
+custom key/value pairs using the GeoJSON _properties_ dictionary.
+
+The naming convention for records is the building's Where On Earth (WOE) ID
+followed by a ".json" extension. Records are stored in nested directories that
+correspond to their WOE ID. The top level directory would be the first three
+digits of a WOE ID, the second level directory would be the following three
+digits (four through six) and so on until their are no more digits in the WOE
+ID.
+
+This repository includes countries from GeoPlanet (versions 7.3 through 7.6) as
+compiled by [woedb](http://woe.spum.org). Where possible records have already
+been updated to include corresponding concordances, for example Wikipedia or
+Geonames IDs.
+
+Each record contains a bounding box or a complex polygon defining the contour of
+the country. Polygons are sourced from the August 2012 release of the [Natural
+Earth 1:10m country boundaries](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
+
+A word about Github
+--
+
+In the long-run Github may not be the best venue for managing all of these
+records. But it's not an entirely crazy idea either so we're going to try it for
+a while because it's easy and safe.
+
+Other WOE repositories
+--
+
+* [whereonearth-airport](https://github.com/straup/whereonearth-airport)
+
+* [whereonearth-building](https://github.com/straup/whereonearth-building)
 
 See also
 --
