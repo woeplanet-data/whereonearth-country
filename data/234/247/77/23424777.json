@@ -4817,20 +4817,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424777, 
-      "bbox": [
-        13.540393507550789, 
-        7.421924546738012, 
-        23.886890000000108, 
-        23.40972
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Chad"
-        ], 
-        "alias_HUN_Q": [
-          "Cs\u00e1d"
         ], 
         "alias_SWE_Q": [
           "Tchad"
@@ -4846,7 +4835,7 @@
         "alias_RUM_Q": [
           "Ciad"
         ], 
-        "ne_longitude": 23.984406372271707, 
+        "ne:NAME_SORT": "Chad", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ucc60\ub4dc"
@@ -4856,8 +4845,34 @@
           "\ucc28\ub4dc"
         ], 
         "ne:SUBUNIT": "Chad", 
+        "ne:ISO_N3": 148.0, 
         "ne:ADM0_A3": "TCD", 
-        "ne:SOVEREIGNT": "Chad", 
+        "children": [
+          "woe:state=56190455", 
+          "woe:state=2344945", 
+          "woe:state=56190451", 
+          "woe:state=2344948", 
+          "woe:state=56190452", 
+          "woe:state=2344949", 
+          "woe:state=56013481", 
+          "woe:state=2344950", 
+          "woe:state=2344951", 
+          "woe:state=2344952", 
+          "woe:state=2344953", 
+          "woe:state=56013482", 
+          "woe:state=56013483", 
+          "woe:state=56013484", 
+          "woe:state=2344955", 
+          "woe:state=2344956", 
+          "woe:state=2344957", 
+          "woe:state=56190453", 
+          "woe:state=2344958", 
+          "woe:state=56190454", 
+          "woe:state=56013485", 
+          "woe:state=2344946", 
+          "woe:historicalstate=2344947", 
+          "woe:historicalstate=2344954"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u67e5\u5fb7"
@@ -4865,8 +4880,8 @@
         "alias_ITA_Q": [
           "Ciad"
         ], 
-        "alias_GER_V": [
-          "Republik Tschad"
+        "alias_DAN_Q": [
+          "Tchad"
         ], 
         "ne:NAME": "Chad", 
         "ne:POSTAL": "TD", 
@@ -4878,6 +4893,9 @@
           "\u30c1\u30e3\u30c9\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Chade"
+        ], 
         "ne:TERR_": null, 
         "alias_FIN_S": [
           "Tsad"
@@ -4895,15 +4913,18 @@
         "ne:ISO_A2": "TD", 
         "date_indexed": "2010-12-02T08:53:23Z", 
         "ne:SOV_A3": "TCD", 
-        "fullname": "Chad", 
-        "alias_FRE_V": [
-          "R\u00e9publique du Tchad"
+        "alias_CHI_V": [
+          "\u67e5\u5fb7"
         ], 
         "ne:GU_A3": "TCD", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Chad", 
         "ne:GEOUNIT": "Chad", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 15860.0, 
+        "alias_ENG_A": [
+          "TCD"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -4916,13 +4937,13 @@
         "alias_FIN_Q": [
           "T\u0161ad"
         ], 
-        "alias_DAN_Q": [
-          "Tchad"
+        "alias_GER_V": [
+          "Republik Tschad"
         ], 
         "alias_GER_Q": [
           "Tschad"
         ], 
-        "ne:ISO_N3": 148.0, 
+        "fullname": "Chad", 
         "lang": "ENG", 
         "ne:OID_": 109, 
         "name": "Chad", 
@@ -4930,27 +4951,32 @@
         "alias_UNK_Q": [
           "Tsjad"
         ], 
-        "alias_CHI_V": [
-          "\u67e5\u5fb7"
+        "alias_HUN_Q": [
+          "Cs\u00e1d"
         ], 
-        "ne:NAME_SORT": "Chad", 
+        "ne_longitude": 23.984406372271707, 
         "longitude": 18.738, 
         "ne:POP_EST": 10329208.0, 
         "ne:GEOU_DIF": 0.0, 
         "iso": "TD", 
         "sw_latitude": 7.45556671190387, 
-        "alias_ENG_A": [
-          "TCD"
+        "alias_FRE_V": [
+          "R\u00e9publique du Tchad"
         ], 
-        "ne:GDP_MD_EST": 15860.0, 
+        "ne:SOVEREIGNT": "Chad", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Tchad"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Chade"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424777, 
+      "bbox": [
+        13.540393507550789, 
+        7.421924546738012, 
+        23.886890000000108, 
+        23.40972
+      ]
     }
   ], 
   "bbox": [

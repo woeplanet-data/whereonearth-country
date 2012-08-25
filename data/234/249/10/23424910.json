@@ -62983,9 +62983,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Norwegian"
+        ], 
+        "alias_POR_Q": [
+          "Noruega"
         ], 
         "ne:ScaleRank": 1, 
         "alias_ENG_P": [
@@ -62996,21 +63000,18 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 80.76974802721715, 
-        "ne:GU_A3": "NOR", 
         "alias_RUM_Q": [
           "Norvegia"
         ], 
-        "alias_UNK_V": [
-          "Norje"
-        ], 
+        "ne:NAME_SORT": "Norway", 
         "placetype": "country", 
         "ne:ne_10m_adm": "NOR", 
         "alias_ENG_A": [
           "NO"
         ], 
         "ne:SUBUNIT": "Norway", 
-        "ne:ISO_N3": 578.0, 
         "ne:ADM0_A3": "NOR", 
+        "ne:SOVEREIGNT": "Norway", 
         "alias_CHI_Q": [
           "\u632a\u5a01"
         ], 
@@ -63021,6 +63022,9 @@
           "Norvegia"
         ], 
         "ne:POSTAL": "N", 
+        "alias_KOR_Q": [
+          "\ub178\ub974\uc6e8\uc774"
+        ], 
         "alias_JPN_Q": [
           "\u30ce\u30eb\u30a6\u30a7\u30fc"
         ], 
@@ -63048,15 +63052,12 @@
         "ne:ISO_A2": "NO", 
         "date_indexed": "2010-12-02T10:20:58Z", 
         "ne:NAME_FORMA": "Kingdom of Norway", 
-        "alias_KOR_Q": [
-          "\ub178\ub974\uc6e8\uc774"
-        ], 
+        "fullname": "Norge, Norway", 
+        "ne:GU_A3": "NOR", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Norway", 
         "ne:GEOUNIT": "Norway", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 276400.0, 
-        "wikipedia:id": "21241", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -63067,6 +63068,9 @@
         "alias_CZE_Q": [
           "Norsko"
         ], 
+        "alias_FRE_S": [
+          "Norvege"
+        ], 
         "alias_FIN_Q": [
           "Norja"
         ], 
@@ -63076,7 +63080,7 @@
         "alias_GER_Q": [
           "Norwegen"
         ], 
-        "fullname": "Norge, Norway", 
+        "ne:ISO_N3": 578.0, 
         "alias_GER_S": [
           "Konigreich Norwegen"
         ], 
@@ -63086,41 +63090,226 @@
         "alias_UNK_S": [
           "Norvigia"
         ], 
+        "ne:ISO_A3": "NOR", 
         "alias_UNK_Q": [
           "Noregur"
         ], 
         "alias_HUN_Q": [
           "Norv\u00e9gia"
         ], 
-        "ne:NAME_SORT": "Norway", 
+        "children": [
+          "woe:landfeature=29362558", 
+          "woe:landfeature=29362561", 
+          "woe:landfeature=29362589", 
+          "woe:landfeature=29362562", 
+          "woe:landfeature=29362563", 
+          "woe:landfeature=29362586", 
+          "woe:landfeature=29362587", 
+          "woe:landfeature=29362567", 
+          "woe:landfeature=29362568", 
+          "woe:landfeature=29362570", 
+          "woe:landfeature=29362576", 
+          "woe:landfeature=29362577", 
+          "woe:landfeature=29362578", 
+          "woe:landfeature=29362579", 
+          "woe:landfeature=29362580", 
+          "woe:landfeature=29362588", 
+          "woe:landfeature=29362574", 
+          "woe:landfeature=29362575", 
+          "woe:colloquial=56190605", 
+          "woe:colloquial=56190601", 
+          "woe:colloquial=56190602", 
+          "woe:colloquial=56190603", 
+          "woe:colloquial=56190604", 
+          "woe:colloquial=56190600", 
+          "woe:drainage=29358152", 
+          "woe:drainage=29362436", 
+          "woe:drainage=29358226", 
+          "woe:drainage=29358231", 
+          "woe:drainage=29358236", 
+          "woe:drainage=29362442", 
+          "woe:drainage=29358383", 
+          "woe:drainage=29358433", 
+          "woe:drainage=29358450", 
+          "woe:drainage=29358506", 
+          "woe:drainage=29358623", 
+          "woe:drainage=29358781", 
+          "woe:drainage=29358810", 
+          "woe:drainage=29358817", 
+          "woe:drainage=29358836", 
+          "woe:drainage=29358843", 
+          "woe:drainage=29358878", 
+          "woe:drainage=29358886", 
+          "woe:drainage=29358940", 
+          "woe:drainage=29358947", 
+          "woe:drainage=29358958", 
+          "woe:drainage=29358985", 
+          "woe:drainage=29362453", 
+          "woe:drainage=29359002", 
+          "woe:drainage=29359005", 
+          "woe:drainage=29359028", 
+          "woe:drainage=29359032", 
+          "woe:drainage=29359156", 
+          "woe:drainage=29359174", 
+          "woe:drainage=29359164", 
+          "woe:drainage=29362457", 
+          "woe:drainage=29359243", 
+          "woe:drainage=29359281", 
+          "woe:drainage=29359305", 
+          "woe:drainage=29359326", 
+          "woe:drainage=29359331", 
+          "woe:drainage=29359358", 
+          "woe:drainage=29359484", 
+          "woe:drainage=29359511", 
+          "woe:drainage=29359519", 
+          "woe:drainage=29359631", 
+          "woe:drainage=29359670", 
+          "woe:drainage=29359698", 
+          "woe:drainage=29359661", 
+          "woe:drainage=29359692", 
+          "woe:drainage=29359729", 
+          "woe:drainage=29359739", 
+          "woe:drainage=29359742", 
+          "woe:drainage=29359779", 
+          "woe:drainage=29359796", 
+          "woe:drainage=29359799", 
+          "woe:drainage=29359809", 
+          "woe:drainage=29359985", 
+          "woe:drainage=29360000", 
+          "woe:drainage=29360185", 
+          "woe:drainage=29360220", 
+          "woe:drainage=29360261", 
+          "woe:drainage=29360300", 
+          "woe:drainage=29360344", 
+          "woe:drainage=29362478", 
+          "woe:drainage=29360367", 
+          "woe:drainage=29360408", 
+          "woe:drainage=29360411", 
+          "woe:drainage=29360443", 
+          "woe:drainage=29360470", 
+          "woe:drainage=29360476", 
+          "woe:drainage=29360493", 
+          "woe:drainage=29360399", 
+          "woe:drainage=29360421", 
+          "woe:drainage=29360547", 
+          "woe:drainage=29360581", 
+          "woe:drainage=29360603", 
+          "woe:drainage=29360607", 
+          "woe:drainage=29362491", 
+          "woe:drainage=29360614", 
+          "woe:drainage=29360613", 
+          "woe:drainage=29360618", 
+          "woe:drainage=29360650", 
+          "woe:drainage=29362495", 
+          "woe:drainage=29360689", 
+          "woe:drainage=29360697", 
+          "woe:drainage=29360739", 
+          "woe:drainage=29362503", 
+          "woe:drainage=29360793", 
+          "woe:drainage=29360801", 
+          "woe:drainage=29360892", 
+          "woe:drainage=29362509", 
+          "woe:drainage=29360935", 
+          "woe:drainage=29360942", 
+          "woe:drainage=29362510", 
+          "woe:drainage=29361038", 
+          "woe:drainage=29361041", 
+          "woe:drainage=29361057", 
+          "woe:drainage=29361059", 
+          "woe:drainage=29361060", 
+          "woe:drainage=29361024", 
+          "woe:drainage=29361056", 
+          "woe:drainage=29361122", 
+          "woe:drainage=29362516", 
+          "woe:drainage=29361176", 
+          "woe:drainage=29361246", 
+          "woe:drainage=29361271", 
+          "woe:drainage=29362521", 
+          "woe:drainage=29361303", 
+          "woe:drainage=29361371", 
+          "woe:drainage=29361377", 
+          "woe:drainage=29361443", 
+          "woe:drainage=29362529", 
+          "woe:drainage=29361495", 
+          "woe:drainage=29361585", 
+          "woe:drainage=29361630", 
+          "woe:drainage=29362533", 
+          "woe:drainage=29361641", 
+          "woe:drainage=29361699", 
+          "woe:drainage=29361729", 
+          "woe:drainage=29362536", 
+          "woe:drainage=29361792", 
+          "woe:drainage=29362539", 
+          "woe:drainage=29361844", 
+          "woe:drainage=29361895", 
+          "woe:drainage=29361248", 
+          "woe:drainage=29361563", 
+          "woe:drainage=29362543", 
+          "woe:drainage=29362072", 
+          "woe:drainage=29362076", 
+          "woe:drainage=29362101", 
+          "woe:drainage=29362548", 
+          "woe:drainage=29362175", 
+          "woe:drainage=29362549", 
+          "woe:drainage=29362550", 
+          "woe:drainage=29362239", 
+          "woe:drainage=29362284", 
+          "woe:drainage=29362327", 
+          "woe:drainage=29362349", 
+          "woe:drainage=29362385", 
+          "woe:drainage=29362389", 
+          "woe:drainage=29362422", 
+          "woe:drainage=29362428", 
+          "woe:drainage=29360858", 
+          "woe:drainage=29360719", 
+          "woe:drainage=29360734", 
+          "woe:drainage=29360848", 
+          "woe:drainage=29360863", 
+          "woe:state=2346385", 
+          "woe:state=2346386", 
+          "woe:state=2346387", 
+          "woe:state=2346388", 
+          "woe:state=2346389", 
+          "woe:state=2346390", 
+          "woe:state=2346391", 
+          "woe:state=2346393", 
+          "woe:state=2346392", 
+          "woe:state=2346394", 
+          "woe:state=2346395", 
+          "woe:state=2346397", 
+          "woe:state=2346398", 
+          "woe:state=2346399", 
+          "woe:state=2346400", 
+          "woe:state=2346401", 
+          "woe:state=2346402", 
+          "woe:state=2346403", 
+          "woe:state=2346396", 
+          "woe:island=12478224"
+        ], 
+        "alias_UNK_V": [
+          "Norje"
+        ], 
         "longitude": 12.665, 
         "ne:POP_EST": 4676305.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 33.64102624521422, 
         "iso": "NO", 
         "sw_latitude": -54.462359313600835, 
-        "ne:ISO_A3": "NOR", 
         "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Norway", 
+        "ne:GDP_MD_EST": 276400.0, 
+        "wikipedia:id": "21241", 
         "alias_FRE_Q": [
           "Norv\u00e8ge"
-        ], 
-        "alias_FRE_S": [
-          "Norvege"
-        ], 
-        "alias_POR_Q": [
-          "Noruega"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424910, 
       "bbox": [
         4.992078077829007, 
         58.078884182357285, 
         31.293418409965483, 
         80.6571442735935
-      ]
+      ], 
+      "id": 23424910
     }
   ], 
   "bbox": [

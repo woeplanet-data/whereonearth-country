@@ -4121,9 +4121,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Belgium"
+        ], 
+        "alias_HUN_Q": [
+          "Belgium"
         ], 
         "alias_SWE_Q": [
           "Belgien"
@@ -4139,9 +4143,7 @@
         "alias_RUM_Q": [
           "Belgia"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Belgija"
-        ], 
+        "ne:NAME_SORT": "Belgium", 
         "placetype": "country", 
         "alias_POR_V": [
           "Belgia"
@@ -4151,8 +4153,8 @@
           "\ubca8\uae30\uc5d0"
         ], 
         "ne:SUBUNIT": "Belgium", 
-        "ne:ISO_N3": 56.0, 
         "ne:ADM0_A3": "BEL", 
+        "ne:SOVEREIGNT": "Belgium", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6bd4\u5229\u6642"
@@ -4160,11 +4162,14 @@
         "alias_ITA_Q": [
           "Belgio"
         ], 
-        "alias_DAN_Q": [
-          "Belgien"
+        "alias_GER_V": [
+          "K\u00f6nigreich Belgien"
         ], 
         "ne:NAME": "Belgium", 
         "ne:POSTAL": "B", 
+        "alias_CZE_Q": [
+          "Belgie"
+        ], 
         "alias_JPN_Q": [
           "\u30d9\u30eb\u30ae\u30fc"
         ], 
@@ -4197,40 +4202,33 @@
         "ne:ISO_A2": "BE", 
         "date_indexed": "2010-12-02T16:32:27Z", 
         "ne:NAME_FORMA": "Kingdom of Belgium", 
-        "alias_CHI_V": [
-          "\u6bd4\u5229\u65f6"
+        "fullname": "Belgi\u00eb, Belgium", 
+        "alias_FRE_V": [
+          "Royaume de Belgique"
         ], 
         "ne:GU_A3": "BEL", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Belgium", 
         "ne:SU_A3": "BEL", 
-        "alias_DUT_V": [
-          "Koninkrijk Belgi\u00eb"
-        ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 389300.0, 
-        "alias_ENG_A": [
-          "BEL"
-        ], 
-        "wikipedia:id": "3343", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Belg.", 
-        "alias_CZE_Q": [
-          "Belgie"
+        "alias_DUT_V": [
+          "Koninkrijk Belgi\u00eb"
         ], 
         "alias_FIN_Q": [
           "Belgia"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Belgien"
+        "alias_DAN_Q": [
+          "Belgien"
         ], 
         "alias_GER_Q": [
           "Belgien"
         ], 
-        "fullname": "Belgi\u00eb, Belgium", 
+        "ne:ISO_N3": 56.0, 
         "alias_GER_S": [
           "Konigreich Belgien"
         ], 
@@ -4241,39 +4239,56 @@
         "alias_UNK_S": [
           "Velgio"
         ], 
+        "alias_POR_Q": [
+          "B\u00e9lgica"
+        ], 
         "alias_UNK_Q": [
           "Belgicko"
         ], 
-        "alias_HUN_Q": [
-          "Belgium"
+        "alias_CHI_V": [
+          "\u6bd4\u5229\u65f6"
         ], 
-        "ne:NAME_SORT": "Belgium", 
+        "children": [
+          "woe:colloquial=55864895", 
+          "woe:colloquial=55864897", 
+          "woe:state=7153308", 
+          "woe:state=22525997", 
+          "woe:state=7153299", 
+          "woe:state=7153301", 
+          "woe:state=7153300", 
+          "woe:state=7153302", 
+          "woe:state=7153303", 
+          "woe:state=7153304", 
+          "woe:state=55965974", 
+          "woe:state=22525998", 
+          "woe:state=7153305"
+        ], 
+        "alias_UNK_V": [
+          "Kraljevina Belgija"
+        ], 
         "longitude": 4.477, 
         "ne:POP_EST": 10414336.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 6.374484007399985, 
         "iso": "BE", 
         "sw_latitude": 49.49510418608672, 
-        "alias_FRE_V": [
-          "Royaume de Belgique"
-        ], 
-        "ne:SOVEREIGNT": "Belgium", 
-        "alias_FRE_Q": [
-          "Belgique"
+        "alias_ENG_A": [
+          "BEL"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "B\u00e9lgica"
+        "ne:GDP_MD_EST": 389300.0, 
+        "wikipedia:id": "3343", 
+        "alias_FRE_Q": [
+          "Belgique"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424757, 
       "bbox": [
         2.513573032246143, 
         49.529483547557504, 
         6.15665815595878, 
         51.47502370869813
-      ]
+      ], 
+      "id": 23424757
     }
   ], 
   "bbox": [

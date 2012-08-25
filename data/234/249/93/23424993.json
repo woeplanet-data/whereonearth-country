@@ -333,20 +333,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424993, 
-      "bbox": [
-        30.67660851412964, 
-        -27.285879408478998, 
-        32.07166548028107, 
-        -25.66019052500895
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Kingdom of Swaziland"
-        ], 
-        "alias_HUN_Q": [
-          "Szv\u00e1zif\u00f6ld"
         ], 
         "alias_ENG_A": [
           "SZ"
@@ -360,7 +349,9 @@
         ], 
         "ne_latitude": -25.73599904374332, 
         "ne:SUBUNIT": "Swaziland", 
-        "ne:NAME_SORT": "Swaziland", 
+        "alias_UNK_V": [
+          "Kraljevina Svazi"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc2a4\uc640\uc9c8\ub79c\ub4dc"
@@ -374,12 +365,19 @@
         "alias_POR_S": [
           "Suazilandia"
         ], 
+        "ne:ISO_N3": 748.0, 
         "ne:ADM0_A3": "SWZ", 
-        "ne:SOVEREIGNT": "Swaziland", 
+        "children": [
+          "woe:state=20069889", 
+          "woe:state=20069891", 
+          "woe:state=20069892", 
+          "woe:state=20069890"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u53f2\u74e6\u6fdf\u862d"
         ], 
+        "ne:GDP_MD_EST": 5702.0, 
         "ne:NAME": "Swaziland", 
         "ne:POSTAL": "SZ", 
         "alias_JPN_Q": [
@@ -405,7 +403,9 @@
         "ne:ISO_A2": "SZ", 
         "date_indexed": "2010-12-02T12:16:52Z", 
         "ne:NAME_FORMA": "Kingdom of Swaziland", 
-        "fullname": "Swaziland", 
+        "alias_CHI_V": [
+          "\u53f2\u74e6\u6fdf\u862d"
+        ], 
         "ne:GU_A3": "SWZ", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Swaziland", 
@@ -432,7 +432,7 @@
         "alias_GER_Q": [
           "Swasiland"
         ], 
-        "ne:ISO_N3": 748.0, 
+        "fullname": "Swaziland", 
         "alias_GER_S": [
           "Koenigreich Swasiland"
         ], 
@@ -442,22 +442,28 @@
         "alias_UNK_Q": [
           "Svazi"
         ], 
-        "alias_CHI_V": [
-          "\u53f2\u74e6\u6fdf\u862d"
+        "alias_HUN_Q": [
+          "Szv\u00e1zif\u00f6ld"
         ], 
-        "alias_UNK_V": [
-          "Kraljevina Svazi"
-        ], 
+        "ne:NAME_SORT": "Swaziland", 
         "longitude": 31.466, 
         "ne:POP_EST": 1123913.0, 
         "ne_longitude": 32.11739831567138, 
         "iso": "SZ", 
         "sw_latitude": -27.31626434294766, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 5702.0, 
+        "ne:SOVEREIGNT": "Swaziland", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "SWZ"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424993, 
+      "bbox": [
+        30.67660851412964, 
+        -27.285879408478998, 
+        32.07166548028107, 
+        -25.66019052500895
+      ]
     }
   ], 
   "bbox": [

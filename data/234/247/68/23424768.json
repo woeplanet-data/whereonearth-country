@@ -43407,6 +43407,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Federative Republic of Brazil"
@@ -43425,9 +43426,7 @@
         "alias_RUM_Q": [
           "Brazilia"
         ], 
-        "alias_UNK_V": [
-          "Burajiru"
-        ], 
+        "ne:NAME_SORT": "Brazil", 
         "placetype": "country", 
         "alias_POR_V": [
           "Estados Unidos do Brazil"
@@ -43437,8 +43436,8 @@
           "\ube0c\ub77c\uc9c8"
         ], 
         "ne:SUBUNIT": "Brazil", 
-        "ne:ISO_N3": 76.0, 
         "ne:ADM0_A3": "BRA", 
+        "ne:SOVEREIGNT": "Brazil", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u897f"
@@ -43446,8 +43445,8 @@
         "alias_ITA_Q": [
           "Brasile"
         ], 
-        "alias_DAN_Q": [
-          "Brasilien"
+        "alias_GER_V": [
+          "F\u00f6derative Republik Brasilien"
         ], 
         "ne:NAME": "Brazil", 
         "ne:POSTAL": "BR", 
@@ -43480,16 +43479,12 @@
         "ne:ISO_A2": "BR", 
         "date_indexed": "2010-12-02T18:01:28Z", 
         "ne:NAME_FORMA": "Federative Republic of Brazil", 
+        "fullname": "Brasil, Brazil", 
         "ne:GU_A3": "BRA", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Brazil", 
         "ne:SU_A3": "BRA", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 1993000.0, 
-        "alias_ENG_A": [
-          "BR"
-        ], 
-        "wikipedia:id": "3383", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -43503,16 +43498,19 @@
         "alias_CZE_Q": [
           "Braz\u00edlie"
         ], 
+        "alias_FRE_S": [
+          "Bresil"
+        ], 
         "alias_FIN_Q": [
           "Brasilia"
         ], 
-        "alias_GER_V": [
-          "F\u00f6derative Republik Brasilien"
+        "alias_DAN_Q": [
+          "Brasilien"
         ], 
         "alias_GER_Q": [
           "Brasilien"
         ], 
-        "fullname": "Brasil, Brazil", 
+        "ne:ISO_N3": 76.0, 
         "alias_GER_S": [
           "Foderative Republik Brasilien"
         ], 
@@ -43527,30 +43525,80 @@
         "alias_HUN_Q": [
           "Braz\u00edlia"
         ], 
-        "ne:NAME_SORT": "Brazil", 
+        "children": [
+          "woe:timezone=56043571", 
+          "woe:timezone=56043573", 
+          "woe:timezone=56043569", 
+          "woe:timezone=56043579", 
+          "woe:timezone=56043574", 
+          "woe:timezone=56043575", 
+          "woe:timezone=56043570", 
+          "woe:timezone=56043572", 
+          "woe:timezone=28350781", 
+          "woe:timezone=56043577", 
+          "woe:timezone=56043582", 
+          "woe:timezone=56043578", 
+          "woe:timezone=28350792", 
+          "woe:state=2344844", 
+          "woe:state=2344845", 
+          "woe:state=2344846", 
+          "woe:state=2344847", 
+          "woe:state=2344848", 
+          "woe:state=2344849", 
+          "woe:state=2344850", 
+          "woe:state=2344851", 
+          "woe:state=2344852", 
+          "woe:state=2344854", 
+          "woe:state=2344855", 
+          "woe:state=2344853", 
+          "woe:state=2344856", 
+          "woe:state=2344859", 
+          "woe:state=2344858", 
+          "woe:state=2344857", 
+          "woe:state=2344860", 
+          "woe:state=2344861", 
+          "woe:state=2344862", 
+          "woe:state=2344863", 
+          "woe:state=2344864", 
+          "woe:state=2344865", 
+          "woe:state=2344866", 
+          "woe:state=2344867", 
+          "woe:state=2344869", 
+          "woe:state=2344868", 
+          "woe:state=2344870", 
+          "woe:drainage=26354191", 
+          "woe:drainage=26354172", 
+          "woe:drainage=26354169", 
+          "woe:drainage=26354192", 
+          "woe:drainage=26354199", 
+          "woe:drainage=26354189"
+        ], 
+        "alias_UNK_V": [
+          "Burajiru"
+        ], 
         "longitude": -54.388, 
         "ne:POP_EST": 198739269.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -28.876346395269564, 
         "iso": "BR", 
         "sw_latitude": -33.742280374903544, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Brazil", 
-        "alias_FRE_S": [
-          "Bresil"
+        "alias_ENG_A": [
+          "BR"
         ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1993000.0, 
+        "wikipedia:id": "3383", 
         "alias_FRE_Q": [
           "Br\u00e9sil"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424768, 
       "bbox": [
         -73.98723548042966, 
         -33.768377780900764, 
         -34.729993455533034, 
         5.244486395687602
-      ]
+      ], 
+      "id": 23424768
     }
   ], 
   "bbox": [

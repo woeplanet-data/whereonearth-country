@@ -9255,9 +9255,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "People's Republic of Bangladesh"
+        ], 
+        "alias_HUN_Q": [
+          "Banglades"
         ], 
         "alias_ENG_A": [
           "BD"
@@ -9270,7 +9274,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 26.6235440065996, 
-        "ne:NAME_SORT": "Bangladesh", 
+        "ne_longitude": 92.64285119635053, 
         "placetype": "country", 
         "alias_POR_V": [
           "Bangladeche"
@@ -9280,13 +9284,12 @@
           "\ubc29\uae00\ub77c\ub370\uc2dc"
         ], 
         "ne:SUBUNIT": "Bangladesh", 
-        "ne:ISO_N3": 50.0, 
         "ne:ADM0_A3": "BGD", 
+        "ne:SOVEREIGNT": "Bangladesh", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b5f\u52a0\u62c9"
         ], 
-        "ne:GDP_MD_EST": 224000.0, 
         "ne:NAME": "Bangladesh", 
         "ne:POSTAL": "BD", 
         "alias_JPN_Q": [
@@ -9309,15 +9312,12 @@
         "ne:ISO_A2": "BD", 
         "date_indexed": "2010-12-02T12:16:33Z", 
         "ne:NAME_FORMA": "People's Republic of Bangladesh", 
-        "alias_CHI_V": [
-          "\u5b5f\u52a0\u62c9\u56fd"
-        ], 
+        "fullname": "Bangladesh", 
         "ne:GU_A3": "BGD", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Bangladesh", 
         "ne:GEOUNIT": "Bangladesh", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "3454", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Bang.", 
@@ -9330,33 +9330,42 @@
         "alias_GER_Q": [
           "Bangladesch"
         ], 
-        "fullname": "Bangladesh", 
+        "ne:ISO_N3": 50.0, 
         "lang": "ENG", 
         "name": "Bangladesh", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Bangladess"
         ], 
-        "alias_HUN_Q": [
-          "Banglades"
+        "alias_CHI_V": [
+          "\u5b5f\u52a0\u62c9\u56fd"
         ], 
-        "ne_longitude": 92.64285119635053, 
+        "children": [
+          "woe:island=12466962", 
+          "woe:state=23706410", 
+          "woe:state=2344790", 
+          "woe:state=2344791", 
+          "woe:state=2344792", 
+          "woe:state=2344793", 
+          "woe:state=23706411"
+        ], 
+        "ne:NAME_SORT": "Bangladesh", 
         "longitude": 90.351, 
         "ne:POP_EST": 156050883.0, 
         "iso": "BD", 
         "sw_latitude": 20.738476868022204, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Bangladesh", 
-        "ne:SU_DIF": 0.0
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 224000.0, 
+        "wikipedia:id": "3454"
       }, 
-      "type": "Feature", 
-      "id": 23424759, 
       "bbox": [
         88.08442223506242, 
         20.670883287025347, 
         92.67272098182556, 
         26.446525580342723
-      ]
+      ], 
+      "id": 23424759
     }
   ], 
   "bbox": [

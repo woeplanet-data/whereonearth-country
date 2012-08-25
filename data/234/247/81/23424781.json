@@ -56387,6 +56387,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_POL_V": [
           "Chi\u0144ska Republika Ludowa"
@@ -56396,6 +56397,9 @@
         ], 
         "alias_SWE_V": [
           "Folkrepubliken Kina"
+        ], 
+        "alias_POR_Q": [
+          "China"
         ], 
         "alias_SWE_Q": [
           "Kina"
@@ -56411,9 +56415,7 @@
         "alias_RUM_Q": [
           "China"
         ], 
-        "alias_UNK_V": [
-          "Aomen"
-        ], 
+        "ne:NAME_SORT": "China", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d"
@@ -56426,14 +56428,14 @@
           "\uc911\uad6d"
         ], 
         "ne:SUBUNIT": "China", 
-        "ne:ISO_N3": 156.0, 
         "ne:ADM0_A3": "CHN", 
+        "ne:SOVEREIGNT": "China", 
         "ne:ScaleRank": 1, 
         "alias_ITA_Q": [
           "Cina"
         ], 
-        "alias_DAN_Q": [
-          "Kina"
+        "alias_GER_V": [
+          "China - Volksrepublik"
         ], 
         "alias_ITA_V": [
           "Repubblica Popolare Cinese"
@@ -56441,8 +56443,8 @@
         "alias_CHI_V": [
           "\u4e2d\u56fd"
         ], 
-        "alias_GER_Q": [
-          "China"
+        "alias_CZE_Q": [
+          "\u010c\u00edna"
         ], 
         "alias_JPN_Q": [
           "\u4e2d\u56fd"
@@ -56475,22 +56477,21 @@
         "ne:ISO_A2": "CN", 
         "date_indexed": "2010-12-02T08:51:54Z", 
         "ne:NAME_FORMA": "People's Republic of China", 
+        "fullname": "\u4e2d\u570b, China", 
+        "alias_FRE_V": [
+          "R\u00e9publique Populaire de Chine"
+        ], 
         "ne:GU_A3": "CHN", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "China", 
         "ne:SU_A3": "CHN", 
-        "alias_DUT_V": [
-          "Volksrepubliek China"
+        "alias_DAN_V": [
+          "Folkerepublikken Kina"
         ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 7973000.0, 
         "alias_SPA_V": [
           "Rep\u00fablica Popular China"
         ], 
-        "alias_RUM_V": [
-          "Republica Popular\u0103 Chinez\u0103"
-        ], 
-        "wikipedia:id": "5405", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -56498,19 +56499,22 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "China", 
-        "alias_CZE_Q": [
-          "\u010c\u00edna"
+        "alias_DUT_V": [
+          "Volksrepubliek China"
+        ], 
+        "alias_FRE_S": [
+          "Republique Populaire de Chine"
         ], 
         "alias_FIN_Q": [
           "Kiina"
         ], 
-        "alias_GER_V": [
-          "China - Volksrepublik"
+        "alias_DAN_Q": [
+          "Kina"
         ], 
-        "alias_DAN_V": [
-          "Folkerepublikken Kina"
+        "alias_GER_Q": [
+          "China"
         ], 
-        "fullname": "\u4e2d\u570b, China", 
+        "ne:ISO_N3": 156.0, 
         "ne:NAME": "China", 
         "lang": "CHI", 
         "ne:OID_": 11, 
@@ -56520,44 +56524,87 @@
           "\u010c\u00ednsk\u00e1 lidov\u00e1 republika"
         ], 
         "ne:TYPE": "Country", 
+        "ne:ISO_A3": "CHN", 
         "alias_UNK_Q": [
           "Kitajska"
         ], 
         "ne:POSTAL": "CN", 
-        "ne:NAME_SORT": "China", 
+        "children": [
+          "woe:island=12467950", 
+          "woe:island=12467952", 
+          "woe:island=12497556", 
+          "woe:island=12467984", 
+          "woe:island=12467986", 
+          "woe:island=12467988", 
+          "woe:state=12578012", 
+          "woe:state=12578018", 
+          "woe:state=12578009", 
+          "woe:state=12578011", 
+          "woe:state=12577995", 
+          "woe:state=12578016", 
+          "woe:state=12578017", 
+          "woe:state=12578010", 
+          "woe:state=12578022", 
+          "woe:state=12578014", 
+          "woe:state=12578013", 
+          "woe:state=12578019", 
+          "woe:state=12578006", 
+          "woe:state=12578003", 
+          "woe:state=12577994", 
+          "woe:state=12577993", 
+          "woe:state=12578000", 
+          "woe:state=12577999", 
+          "woe:state=12577992", 
+          "woe:state=12578020", 
+          "woe:state=12578002", 
+          "woe:state=12578001", 
+          "woe:state=12578005", 
+          "woe:state=12577997", 
+          "woe:state=23424920", 
+          "woe:state=12578004", 
+          "woe:state=12578007", 
+          "woe:state=12578008", 
+          "woe:state=20070171", 
+          "woe:state=12578015", 
+          "woe:state=12577996", 
+          "woe:state=12577998", 
+          "woe:airport=12512162", 
+          "woe:drainage=26354144", 
+          "woe:timezone=56043593", 
+          "woe:timezone=56043594", 
+          "woe:timezone=56043595", 
+          "woe:timezone=56043597", 
+          "woe:timezone=56043596"
+        ], 
+        "alias_UNK_V": [
+          "Aomen"
+        ], 
         "longitude": 104.166, 
         "ne:POP_EST": 1338612968.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 134.77257938699165, 
         "iso": "CN", 
         "sw_latitude": 18.16915049297326, 
-        "ne:ISO_A3": "CHN", 
-        "alias_FRE_V": [
-          "R\u00e9publique Populaire de Chine"
+        "alias_RUM_V": [
+          "Republica Popular\u0103 Chinez\u0103"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "China", 
-        "alias_FRE_Q": [
-          "Chine"
-        ], 
+        "ne:GDP_MD_EST": 7973000.0, 
         "alias_ENG_A": [
           "CHN"
         ], 
-        "alias_FRE_S": [
-          "Republique Populaire de Chine"
-        ], 
-        "alias_POR_Q": [
-          "China"
+        "wikipedia:id": "5405", 
+        "alias_FRE_Q": [
+          "Chine"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424781, 
       "bbox": [
         73.67537926625485, 
         18.197700913968617, 
         135.02631147678673, 
         53.45880442973464
-      ]
+      ], 
+      "id": 23424781
     }
   ], 
   "bbox": [

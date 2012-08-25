@@ -4681,20 +4681,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424987, 
-      "bbox": [
-        11.734198846085121, 
-        -29.04546192801728, 
-        25.08444339366457, 
-        -16.94134286872407
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Namibia"
-        ], 
-        "alias_HUN_Q": [
-          "Nam\u00edbia"
         ], 
         "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
@@ -4703,19 +4692,38 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -16.951057230723137, 
-        "ne:GU_A3": "NAM", 
-        "ne:NAME_SORT": "Namibia", 
+        "alias_UNK_V": [
+          "Republika Namibija"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "NAM", 
         "alias_KOR_Q": [
           "\ub098\ubbf8\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Namibia", 
+        "ne:ISO_N3": 516.0, 
         "ne:ADM0_A3": "NAM", 
-        "ne:SOVEREIGNT": "Namibia", 
+        "children": [
+          "woe:state=20069834", 
+          "woe:state=20069837", 
+          "woe:state=20069844", 
+          "woe:state=20069838", 
+          "woe:state=20069845", 
+          "woe:state=20069839", 
+          "woe:state=20069840", 
+          "woe:state=20069820", 
+          "woe:state=20069836", 
+          "woe:state=20069842", 
+          "woe:state=20069843", 
+          "woe:state=20069841", 
+          "woe:state=20069835", 
+          "woe:landfeature=56057539", 
+          "woe:landfeature=55863650"
+        ], 
         "alias_CHI_Q": [
           "\u7d0d\u7c73\u6bd4\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 13250.0, 
         "ne:NAME": "Namibia", 
         "ne:POSTAL": "NA", 
         "alias_JPN_Q": [
@@ -4725,6 +4733,9 @@
           "\u30ca\u30df\u30d3\u30a2\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Nam\u00edbia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 11.718230020794664, 
         "ne:SOV_A3": "NAM", 
@@ -4737,10 +4748,10 @@
         "ne:ISO_A2": "NA", 
         "date_indexed": "2010-12-02T07:50:17Z", 
         "ne:NAME_FORMA": "Republic of Namibia", 
-        "fullname": "Namibia", 
-        "alias_ENG_A": [
-          "NA"
+        "alias_CHI_V": [
+          "\u7eb3\u7c73\u6bd4\u4e9a"
         ], 
+        "ne:GU_A3": "NAM", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Namibia", 
         "ne:GEOUNIT": "Namibia", 
@@ -4757,34 +4768,40 @@
         "alias_GER_V": [
           "Republik Namibia"
         ], 
-        "ne:ISO_N3": 516.0, 
+        "fullname": "Namibia", 
         "lang": "ENG", 
         "name": "Namibia", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Namib\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u7eb3\u7c73\u6bd4\u4e9a"
+        "alias_HUN_Q": [
+          "Nam\u00edbia"
         ], 
-        "alias_UNK_V": [
-          "Republika Namibija"
-        ], 
+        "ne:NAME_SORT": "Namibia", 
         "longitude": 18.486, 
         "ne:POP_EST": 2108665.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 25.25978072111053, 
         "iso": "NA", 
         "sw_latitude": -28.959368184344015, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 13250.0, 
+        "alias_ENG_A": [
+          "NA"
+        ], 
+        "ne:SOVEREIGNT": "Namibia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Namibie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Nam\u00edbia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424987, 
+      "bbox": [
+        11.734198846085121, 
+        -29.04546192801728, 
+        25.08444339366457, 
+        -16.94134286872407
+      ]
     }
   ], 
   "bbox": [

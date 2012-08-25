@@ -19019,9 +19019,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Aotearoa"
+        ], 
+        "alias_HUN_Q": [
+          "\u00daj-Z\u00e9land"
         ], 
         "alias_SWE_Q": [
           "Nya Zeeland"
@@ -19038,7 +19042,7 @@
         "alias_RUM_Q": [
           "Noua Zeeland\u0103"
         ], 
-        "ne:NAME_SORT": "New Zealand", 
+        "ne_longitude": 178.84404952002205, 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ub274\uc9c8\ub780\ub4dc"
@@ -19050,8 +19054,8 @@
         "alias_POR_S": [
           "Nova Zelandia"
         ], 
-        "ne:ISO_N3": 554.0, 
         "ne:ADM0_A3": "NZL", 
+        "ne:SOVEREIGNT": "New Zealand", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d10\u897f\u862d"
@@ -19065,6 +19069,7 @@
           "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "New Zealand", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Nueva Zelanda"
@@ -19081,19 +19086,14 @@
         "ne:ISO_A2": "NZ", 
         "date_indexed": "2010-12-02T17:02:39Z", 
         "ne:NAME_FORMA": null, 
-        "alias_CHI_V": [
-          "\u65b0\u897f\u5170"
-        ], 
         "ne:GU_A3": "NZL", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "New Zealand", 
         "ne:GEOUNIT": "New Zealand", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 116700.0, 
         "alias_SPA_V": [
           "Nueva Zelandia"
         ], 
-        "wikipedia:id": "4913064", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -19103,51 +19103,162 @@
         "alias_CZE_Q": [
           "Nov\u00fd Z\u00e9land"
         ], 
+        "alias_FRE_S": [
+          "Nouvelle-Zelande"
+        ], 
         "alias_FIN_Q": [
           "Uusi-Seelanti"
-        ], 
-        "alias_ENG_A": [
-          "NZ"
         ], 
         "alias_GER_Q": [
           "Neuseeland"
         ], 
-        "fullname": "New Zealand", 
+        "ne:ISO_N3": 554.0, 
         "lang": "ENG", 
         "name": "New Zealand", 
         "ne:TYPE": "Country", 
+        "alias_POR_Q": [
+          "Nova Zel\u00e2ndia"
+        ], 
         "alias_UNK_Q": [
           "Nova Zelandija"
         ], 
-        "alias_HUN_Q": [
-          "\u00daj-Z\u00e9land"
+        "alias_CHI_V": [
+          "\u65b0\u897f\u5170"
         ], 
-        "ne_longitude": 178.84404952002205, 
+        "children": [
+          "woe:landfeature=28737065", 
+          "woe:landfeature=28736641", 
+          "woe:landfeature=28736643", 
+          "woe:landfeature=56025311", 
+          "woe:landfeature=56025342", 
+          "woe:landfeature=56025352", 
+          "woe:landfeature=28737135", 
+          "woe:landfeature=56025343", 
+          "woe:landfeature=56025316", 
+          "woe:landfeature=28736667", 
+          "woe:landfeature=56025327", 
+          "woe:landfeature=56025338", 
+          "woe:landfeature=56025335", 
+          "woe:landfeature=56025332", 
+          "woe:landfeature=56025312", 
+          "woe:landfeature=28736992", 
+          "woe:landfeature=56025331", 
+          "woe:landfeature=56025340", 
+          "woe:landfeature=56025317", 
+          "woe:landfeature=56025333", 
+          "woe:landfeature=56025339", 
+          "woe:landfeature=56025341", 
+          "woe:landfeature=56025329", 
+          "woe:landfeature=56025315", 
+          "woe:landfeature=56025355", 
+          "woe:landfeature=56025344", 
+          "woe:landfeature=56025314", 
+          "woe:landfeature=56025337", 
+          "woe:landfeature=56025336", 
+          "woe:landfeature=56025330", 
+          "woe:landfeature=28736993", 
+          "woe:landfeature=28737120", 
+          "woe:landfeature=28737116", 
+          "woe:landfeature=56025334", 
+          "woe:landfeature=56025353", 
+          "woe:landfeature=28737117", 
+          "woe:landfeature=28737126", 
+          "woe:landfeature=56025326", 
+          "woe:landfeature=28737131", 
+          "woe:landfeature=28737113", 
+          "woe:colloquial=56025284", 
+          "woe:colloquial=56025288", 
+          "woe:colloquial=22726690", 
+          "woe:drainage=26354308", 
+          "woe:drainage=26354302", 
+          "woe:drainage=28737077", 
+          "woe:drainage=28736670", 
+          "woe:drainage=28736619", 
+          "woe:drainage=28736728", 
+          "woe:drainage=28736976", 
+          "woe:drainage=28736983", 
+          "woe:drainage=28736984", 
+          "woe:drainage=26354304", 
+          "woe:drainage=28736985", 
+          "woe:drainage=28737091", 
+          "woe:drainage=28737092", 
+          "woe:drainage=28737000", 
+          "woe:drainage=28737001", 
+          "woe:drainage=26354289", 
+          "woe:drainage=28736612", 
+          "woe:drainage=26354305", 
+          "woe:drainage=28737103", 
+          "woe:drainage=28737104", 
+          "woe:drainage=28737032", 
+          "woe:drainage=28737070", 
+          "woe:drainage=28737039", 
+          "woe:drainage=28737068", 
+          "woe:drainage=28737115", 
+          "woe:drainage=28737043", 
+          "woe:drainage=28737119", 
+          "woe:drainage=28737112", 
+          "woe:drainage=26354291", 
+          "woe:drainage=28737132", 
+          "woe:drainage=26354293", 
+          "woe:drainage=28737059", 
+          "woe:county=55875860", 
+          "woe:county=55875865", 
+          "woe:county=55875881", 
+          "woe:county=55875848", 
+          "woe:county=55875863", 
+          "woe:county=55875847", 
+          "woe:county=55875857", 
+          "woe:county=55875845", 
+          "woe:state=15021756", 
+          "woe:state=15021753", 
+          "woe:state=15021751", 
+          "woe:state=56126020", 
+          "woe:state=15021761", 
+          "woe:state=15021760", 
+          "woe:state=15021764", 
+          "woe:state=15021759", 
+          "woe:state=15021758", 
+          "woe:state=15021755", 
+          "woe:state=15021754", 
+          "woe:state=15021750", 
+          "woe:state=15021763", 
+          "woe:state=15021757", 
+          "woe:state=15021765", 
+          "woe:state=15021762", 
+          "woe:state=15021752", 
+          "woe:sea=55863403", 
+          "woe:island=12497431", 
+          "woe:island=12497438", 
+          "woe:island=12497439", 
+          "woe:island=12509382", 
+          "woe:island=12497371", 
+          "woe:island=12497481", 
+          "woe:timezone=28350937", 
+          "woe:timezone=28350938"
+        ], 
+        "ne:NAME_SORT": "New Zealand", 
         "longitude": 170.367, 
         "ne:POP_EST": 4213418.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "NZ", 
         "sw_latitude": -52.5773064168165, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "NZ"
+        ], 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "New Zealand", 
+        "ne:GDP_MD_EST": 116700.0, 
+        "wikipedia:id": "4913064", 
         "alias_FRE_Q": [
           "Nouvelle-Z\u00e9lande"
-        ], 
-        "alias_FRE_S": [
-          "Nouvelle-Zelande"
-        ], 
-        "alias_POR_Q": [
-          "Nova Zel\u00e2ndia"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424916, 
       "bbox": [
         166.50914432196473, 
         -46.641235446967855, 
         178.51709354076283, 
         -34.45066171645034
-      ]
+      ], 
+      "id": 23424916
     }
   ], 
   "bbox": [

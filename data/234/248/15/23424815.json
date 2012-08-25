@@ -995,6 +995,16 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:island=12490173", 
+          "woe:state=2345342", 
+          "woe:state=2345340", 
+          "woe:state=2345341", 
+          "woe:state=2345343", 
+          "woe:timezone=56043583", 
+          "woe:timezone=28350962", 
+          "woe:timezone=28350969"
+        ], 
         "alias_ITA_Q": [
           "Stati Federati di Micronesia"
         ], 
@@ -1026,8 +1036,8 @@
         "ne:NAME_SORT": "Micronesia, Federated States of", 
         "ne:POP_EST": 107434.0, 
         "ne:GDP_MD_EST": 238.1, 
-        "alias_KOR_Q": [
-          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29"
+        "alias_ENG_A": [
+          "FM"
         ], 
         "alias_POR_V": [
           "Micron\u00e9sia, Estados Federados da"
@@ -1072,8 +1082,8 @@
           "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"
         ], 
         "ne:ne_10m_adm": "FSM", 
-        "alias_ENG_A": [
-          "FM"
+        "alias_KOR_Q": [
+          "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29"
         ], 
         "ne:SUBUNIT": "Federated States of Micronesia", 
         "alias_CHI_Q": [
@@ -1082,12 +1092,12 @@
         "alias_CHI_V": [
           "\u5bc6\u514b\u7f85\u5c3c\u897f\u4e9e\u806f\u90a6"
         ], 
-        "ne:LEVEL": 2.0, 
+        "alias_POL_Q": [
+          "Mikronezja"
+        ], 
         "sw_longitude": 138.0640580654458, 
         "ne:SOV_A3": "FSM", 
-        "alias_RUM_V": [
-          "Micronezia, Republica Federal\u0103"
-        ], 
+        "ne_latitude": 9.588692322242053, 
         "ne:OID_": 130, 
         "ne:ISO_A3": "FSM", 
         "ne:ISO_A2": "FM", 
@@ -1117,10 +1127,10 @@
         "alias_SWE_Q": [
           "Mikronesiens Federerade Stater"
         ], 
-        "alias_POL_Q": [
-          "Mikronezja"
+        "ne:LEVEL": 2.0, 
+        "alias_RUM_V": [
+          "Micronezia, Republica Federal\u0103"
         ], 
-        "ne_latitude": 9.588692322242053, 
         "alias_RUM_Q": [
           "Statele Federate Ale Microneziei"
         ], 

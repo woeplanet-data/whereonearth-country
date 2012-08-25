@@ -1173,14 +1173,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424774, 
-      "bbox": [
-        29.024926385216787, 
-        -4.499983412294092, 
-        30.752262811004954, 
-        -2.348486830254238
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Burundian"
@@ -1194,19 +1186,41 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -2.303062438640481, 
-        "ne:NAME_SORT": "Burundi", 
+        "alias_UNK_V": [
+          "B\u00farund\u00ed"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "BDI", 
         "alias_ENG_A": [
           "BI"
         ], 
         "ne:SUBUNIT": "Burundi", 
+        "ne:ISO_N3": 108.0, 
         "ne:ADM0_A3": "BDI", 
-        "ne:SOVEREIGNT": "Burundi", 
+        "children": [
+          "woe:state=2344902", 
+          "woe:state=2344900", 
+          "woe:state=56017453", 
+          "woe:state=2344903", 
+          "woe:state=2344904", 
+          "woe:state=2344905", 
+          "woe:state=2344906", 
+          "woe:state=2344907", 
+          "woe:state=2344908", 
+          "woe:state=2344909", 
+          "woe:state=2344910", 
+          "woe:state=2344901", 
+          "woe:state=2344911", 
+          "woe:state=56017454", 
+          "woe:state=2344912", 
+          "woe:state=2344913", 
+          "woe:state=2344914"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u84b2\u9686\u5730"
         ], 
+        "ne:GDP_MD_EST": 3102.0, 
         "ne:NAME": "Burundi", 
         "alias_CHI_V": [
           "\u84b2\u9686\u5730"
@@ -1230,7 +1244,6 @@
         "ne:ISO_A2": "BI", 
         "date_indexed": "2010-12-02T08:58:52Z", 
         "ne:NAME_FORMA": "Republic of Burundi", 
-        "fullname": "Burundi", 
         "ne:GU_A3": "BDI", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Burundi", 
@@ -1242,23 +1255,29 @@
         "alias_GER_V": [
           "Republik Burundi"
         ], 
-        "ne:ISO_N3": 108.0, 
+        "fullname": "Burundi", 
         "lang": "ENG", 
         "name": "Burundi", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "BI", 
-        "alias_UNK_V": [
-          "B\u00farund\u00ed"
-        ], 
+        "ne:NAME_SORT": "Burundi", 
         "longitude": 29.92, 
         "ne:POP_EST": 8988091.0, 
         "ne_longitude": 30.833962443262465, 
         "iso": "BI", 
         "sw_latitude": -4.463344014747037, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 3102.0
-      }
+        "ne:SOVEREIGNT": "Burundi"
+      }, 
+      "type": "Feature", 
+      "id": 23424774, 
+      "bbox": [
+        29.024926385216787, 
+        -4.499983412294092, 
+        30.752262811004954, 
+        -2.348486830254238
+      ]
     }
   ], 
   "bbox": [

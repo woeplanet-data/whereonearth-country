@@ -971,14 +971,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424870, 
-      "bbox": [
-        46.568713413281756, 
-        28.526062730416143, 
-        48.416094191283946, 
-        30.059069932570722
-      ], 
       "properties": {
         "alias_ENG_V": [
           "State of Kuwait"
@@ -997,28 +989,40 @@
         "alias_RUM_Q": [
           "Kuweit"
         ], 
-        "ne:NAME_SORT": "Kuwait", 
+        "alias_UNK_V": [
+          "K\u00fava\u00edt"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "KWT", 
         "alias_KOR_Q": [
           "\ucfe0\uc6e8\uc774\ud2b8"
         ], 
         "ne:SUBUNIT": "Kuwait", 
+        "ne:ISO_N3": 414.0, 
         "alias_ARA_V": [
           "Al-Kuwayt"
         ], 
         "ne:ADM0_A3": "KWT", 
-        "ne:SOVEREIGNT": "Kuwait", 
+        "children": [
+          "woe:state=20070169", 
+          "woe:state=20070166", 
+          "woe:state=20070168", 
+          "woe:state=20070165", 
+          "woe:state=20070167", 
+          "woe:state=55943079"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u79d1\u5a01\u7279"
         ], 
+        "ne:GDP_MD_EST": 149100.0, 
         "ne:NAME": "Kuwait", 
         "ne:POSTAL": "KW", 
         "alias_JPN_Q": [
           "\u30af\u30a6\u30a7\u30fc\u30c8"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30af\u30a6\u30a7\u30a4\u30c8"
         ], 
@@ -1035,10 +1039,6 @@
         "ne:ISO_A2": "KW", 
         "date_indexed": "2010-12-02T08:53:01Z", 
         "ne:NAME_FORMA": "State of Kuwait", 
-        "fullname": "Kuwait", 
-        "alias_FRE_V": [
-          "Koweit"
-        ], 
         "ne:GU_A3": "KWT", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Kuwait", 
@@ -1056,7 +1056,7 @@
         "alias_GER_V": [
           "Staat Kuwait"
         ], 
-        "ne:ISO_N3": 414.0, 
+        "fullname": "Kuwait", 
         "lang": "ENG", 
         "name": "Kuwait", 
         "ne:TYPE": "Sovereign country", 
@@ -1066,9 +1066,7 @@
         "alias_HUN_Q": [
           "Kuvait"
         ], 
-        "alias_UNK_V": [
-          "K\u00fava\u00edt"
-        ], 
+        "ne:NAME_SORT": "Kuwait", 
         "longitude": 47.494, 
         "ne:POP_EST": 2691158.0, 
         "alias_UNK_S": [
@@ -1077,13 +1075,23 @@
         "ne_longitude": 48.43299157731758, 
         "iso": "KW", 
         "sw_latitude": 28.53350494449201, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 149100.0, 
+        "alias_FRE_V": [
+          "Koweit"
+        ], 
+        "ne:SOVEREIGNT": "Kuwait", 
         "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Kowe\u00eft"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424870, 
+      "bbox": [
+        46.568713413281756, 
+        28.526062730416143, 
+        48.416094191283946, 
+        30.059069932570722
+      ]
     }
   ], 
   "bbox": [

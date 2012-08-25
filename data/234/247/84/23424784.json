@@ -51,9 +51,7 @@
         "alias_RUM_Q": [
           "Insulele Cocos"
         ], 
-        "alias_UNK_V": [
-          "Cocos\u00f8erne (Keeling\u00f8erne)"
-        ], 
+        "ne_longitude": 96.936, 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ucf54\ucf54\uc2a4 \uad70\ub3c4"
@@ -67,8 +65,14 @@
         "alias_ENG_A": [
           "CC"
         ], 
-        "alias_CZE_Q": [
-          "Kokosov\u00e9 Ostrovy"
+        "children": [
+          "woe:town=1062839", 
+          "woe:island=23509212", 
+          "woe:island=23509210", 
+          "woe:island=23509214", 
+          "woe:island=12489308", 
+          "woe:island=12489313", 
+          "woe:island=23509213"
         ], 
         "alias_CHI_Q": [
           "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5cf6"
@@ -82,8 +86,8 @@
         "alias_CHI_V": [
           "\u79d1\u79d1\u65af\uff08\u57fa\u6797\uff09\u7fa4\u5c9b"
         ], 
-        "alias_GER_Q": [
-          "Kokosinseln"
+        "alias_DAN_V": [
+          "Cocos Islands"
         ], 
         "alias_JPN_Q": [
           "\u30b3\u30b3\u30b9 (\u30ad\u30fc\u30ea\u30f3\u30b0) \u8af8\u5cf6"
@@ -117,20 +121,23 @@
           "Kokos\u00f8yene"
         ], 
         "date_indexed": "2010-12-02T12:15:51Z", 
-        "alias_FRE_V": [
-          "\u00celes des Cocos"
-        ], 
         "alias_KOR_Q": [
           "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"
+        ], 
+        "alias_DUT_V": [
+          "Cocos-Keeling-eilanden"
         ], 
         "alias_SPA_V": [
           "Islas Cocos (Keeling)"
         ], 
+        "alias_RUM_V": [
+          "Insulele Cocos (Keeling)"
+        ], 
         "alias_DUT_Q": [
           "Cocoseilanden"
         ], 
-        "alias_DUT_V": [
-          "Cocos-Keeling-eilanden"
+        "alias_CZE_Q": [
+          "Kokosov\u00e9 Ostrovy"
         ], 
         "alias_DAN_S": [
           "Keelingoerne"
@@ -138,8 +145,8 @@
         "alias_DAN_Q": [
           "Cocos\u00f8erne"
         ], 
-        "alias_DAN_V": [
-          "Cocos Islands"
+        "alias_GER_Q": [
+          "Kokosinseln"
         ], 
         "lang": "ENG", 
         "name": "Cocos (Keeling) Islands", 
@@ -152,12 +159,14 @@
         "alias_HUN_V": [
           "K\u00f3kusz-szigetek"
         ], 
-        "ne_longitude": 96.936, 
+        "alias_UNK_V": [
+          "Cocos\u00f8erne (Keeling\u00f8erne)"
+        ], 
         "longitude": 96.835, 
         "iso": "CC", 
         "sw_latitude": -12.2, 
-        "alias_RUM_V": [
-          "Insulele Cocos (Keeling)"
+        "alias_FRE_V": [
+          "\u00celes des Cocos"
         ], 
         "fullname": "Cocos (Keeling) Islands", 
         "alias_FRE_S": [

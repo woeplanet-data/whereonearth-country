@@ -11983,6 +11983,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
         "hierarchy": [
@@ -11990,6 +11991,36 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:island=12496074", 
+          "woe:island=12496117", 
+          "woe:island=12495133", 
+          "woe:island=12496113", 
+          "woe:historicalcounty=28997250", 
+          "woe:historicalcounty=28997253", 
+          "woe:historicalcounty=28997279", 
+          "woe:historicalcounty=28997338", 
+          "woe:state=2345966", 
+          "woe:state=2345969", 
+          "woe:state=2345967", 
+          "woe:state=2345970", 
+          "woe:state=2345974", 
+          "woe:state=2345971", 
+          "woe:state=2345975", 
+          "woe:state=2345968", 
+          "woe:state=20069923", 
+          "woe:state=23701285", 
+          "woe:state=20069922", 
+          "woe:state=2345972", 
+          "woe:state=2345964", 
+          "woe:state=2345963", 
+          "woe:state=2345973", 
+          "woe:state=2345965", 
+          "woe:drainage=26354385", 
+          "woe:drainage=26354384", 
+          "woe:drainage=28742117", 
+          "woe:drainage=26354386"
+        ], 
         "alias_ITA_Q": [
           "Corea del Sud"
         ], 
@@ -12152,14 +12183,13 @@
         "lang": "KOR", 
         "ne:TYPE": "Sovereign country"
       }, 
-      "type": "Feature", 
-      "id": 23424868, 
       "bbox": [
         124.26562462778531, 
         37.669070542952724, 
         130.78000735893113, 
         42.985386867843786
-      ]
+      ], 
+      "id": 23424868
     }
   ], 
   "bbox": [

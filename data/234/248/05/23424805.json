@@ -4191,9 +4191,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Estonia"
+        ], 
+        "alias_HUN_Q": [
+          "\u00c9sztorsz\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Estland"
@@ -4209,9 +4213,7 @@
         "alias_RUM_Q": [
           "Estonia"
         ], 
-        "alias_UNK_V": [
-          "Republika Estonija"
-        ], 
+        "ne:NAME_SORT": "Estonia", 
         "placetype": "country", 
         "alias_POR_V": [
           "Est\u00f4nia"
@@ -4221,8 +4223,8 @@
           "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Estonia", 
-        "ne:ISO_N3": 233.0, 
         "ne:ADM0_A3": "EST", 
+        "ne:SOVEREIGNT": "Estonia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u611b\u6c99\u5c3c\u4e9e"
@@ -4230,8 +4232,8 @@
         "alias_ITA_Q": [
           "Estonia"
         ], 
-        "alias_DAN_Q": [
-          "Estland"
+        "alias_GER_V": [
+          "Republik Estland"
         ], 
         "ne:NAME": "Estonia", 
         "ne:POSTAL": "EST", 
@@ -4241,6 +4243,7 @@
         "alias_POL_Q": [
           "Estonia"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a8\u30b9\u30c8\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -4262,23 +4265,19 @@
         "ne:ISO_A2": "EE", 
         "date_indexed": "2010-12-02T16:43:34Z", 
         "ne:NAME_FORMA": "Republic of Estonia", 
-        "alias_CHI_V": [
-          "\u7231\u6c99\u5c3c\u4e9a"
-        ], 
+        "fullname": "Eesti, Estonia", 
         "ne:GU_A3": "EST", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Estonia", 
         "ne:GEOUNIT": "Estonia", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 27410.0, 
-        "alias_ENG_A": [
-          "EE"
-        ], 
-        "wikipedia:id": "28222445", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Estland"
+        ], 
+        "alias_POR_Q": [
+          "Est\u00f3nia"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Est.", 
@@ -4288,53 +4287,88 @@
         "alias_FIN_Q": [
           "Viro"
         ], 
-        "alias_GER_V": [
-          "Republik Estland"
+        "alias_DAN_Q": [
+          "Estland"
         ], 
         "alias_GER_Q": [
           "Estland"
         ], 
-        "fullname": "Eesti, Estonia", 
+        "ne:ISO_N3": 233.0, 
         "lang": "UNK", 
         "ne:OID_": 128, 
         "name": "Eesti", 
         "alias_UNK_S": [
           "Esthonia"
         ], 
+        "alias_HUN_S": [
+          "Esztorszag"
+        ], 
         "alias_UNK_Q": [
           "Eistland"
         ], 
-        "alias_HUN_Q": [
-          "\u00c9sztorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u7231\u6c99\u5c3c\u4e9a"
         ], 
-        "ne:NAME_SORT": "Estonia", 
+        "children": [
+          "woe:state=2345276", 
+          "woe:state=2345277", 
+          "woe:state=2345278", 
+          "woe:state=2345279", 
+          "woe:state=2345280", 
+          "woe:state=2345282", 
+          "woe:state=2345281", 
+          "woe:state=2345283", 
+          "woe:state=2345284", 
+          "woe:state=2345285", 
+          "woe:state=2345286", 
+          "woe:state=2345287", 
+          "woe:state=2345288", 
+          "woe:state=2345289", 
+          "woe:state=2345290", 
+          "woe:landfeature=56057298", 
+          "woe:zone=24868244", 
+          "woe:zone=24868246", 
+          "woe:zone=24868247", 
+          "woe:zone=24868248", 
+          "woe:zone=24868249", 
+          "woe:zone=24868250", 
+          "woe:zone=24868251", 
+          "woe:zone=24868252", 
+          "woe:zone=24868253", 
+          "woe:zone=24868254", 
+          "woe:zone=24868255", 
+          "woe:zone=24868256", 
+          "woe:zone=24868257", 
+          "woe:zone=24868258", 
+          "woe:drainage=26354395", 
+          "woe:drainage=26354382"
+        ], 
+        "alias_UNK_V": [
+          "Republika Estonija"
+        ], 
         "longitude": 25.807, 
         "ne:POP_EST": 1299371.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 28.186475463644484, 
         "iso": "EE", 
         "sw_latitude": 57.515818583424235, 
-        "alias_HUN_S": [
-          "Esztorszag"
-        ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Estonia", 
-        "alias_FRE_Q": [
-          "Estonie"
+        "alias_ENG_A": [
+          "EE"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Est\u00f3nia"
+        "ne:GDP_MD_EST": 27410.0, 
+        "wikipedia:id": "28222445", 
+        "alias_FRE_Q": [
+          "Estonie"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424805, 
       "bbox": [
         23.339795363058645, 
         57.47452830670383, 
         28.13169925305175, 
         59.61109039981133
-      ]
+      ], 
+      "id": 23424805
     }
   ], 
   "bbox": [

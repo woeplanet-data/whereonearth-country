@@ -37,17 +37,14 @@
         "alias_KOR_Q": [
           "\uc62c\ub780\ub4dc \uc81c\ub3c4"
         ], 
-        "alias_ENG_P": [
-          "Aland Islands"
+        "alias_SWE_S": [
+          "Aaland"
         ], 
         "hierarchy": [
           "woe:country=12577865", 
           "woe:planet=1"
         ], 
         "ne_latitude": 60.666, 
-        "alias_SWE_S": [
-          "Aaland"
-        ], 
         "alias_RUM_Q": [
           "Insulele \u00c5land"
         ], 
@@ -55,11 +52,44 @@
         "alias_KOR_V": [
           "\uc544\ubca0\ub09c\ub9c8"
         ], 
+        "alias_POL_Q": [
+          "Wyspy Alandzkie"
+        ], 
         "alias_POR_Q": [
           "\u00c5land"
         ], 
         "alias_ENG_A": [
           "AX"
+        ], 
+        "alias_CZE_Q": [
+          "\u00c5landy"
+        ], 
+        "children": [
+          "woe:island=12507126", 
+          "woe:island=12471443", 
+          "woe:island=12471456", 
+          "woe:island=12507122", 
+          "woe:island=12472031", 
+          "woe:island=12472442", 
+          "woe:island=12472621", 
+          "woe:island=12507125", 
+          "woe:state=12590629", 
+          "woe:state=12590630", 
+          "woe:state=12590631", 
+          "woe:state=12590632", 
+          "woe:state=12590633", 
+          "woe:state=12590634", 
+          "woe:state=12590635", 
+          "woe:state=12590637", 
+          "woe:state=12590636", 
+          "woe:state=12590638", 
+          "woe:state=12590639", 
+          "woe:state=12590640", 
+          "woe:state=12590641", 
+          "woe:state=12590642", 
+          "woe:state=12590643", 
+          "woe:state=12590644", 
+          "woe:zone=24868284"
         ], 
         "alias_CHI_Q": [
           "\u5967\u862d\u7fa4\u5cf6"
@@ -76,8 +106,8 @@
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
         ], 
-        "alias_POL_Q": [
-          "Wyspy Alandzkie"
+        "alias_ENG_P": [
+          "Aland Islands"
         ], 
         "alias_SPA_Q": [
           "\u00c5land"
@@ -96,9 +126,6 @@
           "\u00c5land"
         ], 
         "date_indexed": "2010-12-02T17:06:00Z", 
-        "alias_DUT_V": [
-          "\u00c5landseilanden"
-        ], 
         "alias_SPA_V": [
           "Islas de Aland"
         ], 
@@ -108,8 +135,8 @@
         "alias_DUT_S": [
           "Aalandseilanden"
         ], 
-        "alias_CZE_Q": [
-          "\u00c5landy"
+        "alias_DUT_V": [
+          "\u00c5landseilanden"
         ], 
         "alias_DAN_Q": [
           "\u00c5land"

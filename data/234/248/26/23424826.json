@@ -276,6 +276,9 @@
         "alias_ENG_V": [
           "Grenadian"
         ], 
+        "alias_POR_Q": [
+          "Granada"
+        ], 
         "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
         "hierarchy": [
@@ -283,19 +286,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 12.529623921555725, 
-        "ne:GU_A3": "GRD", 
-        "ne_longitude": -61.42089738017992, 
+        "ne:NAME_SORT": "Grenada", 
         "placetype": "country", 
         "ne:ne_10m_adm": "GRD", 
         "alias_KOR_Q": [
           "\uadf8\ub808\ub098\ub2e4"
         ], 
         "ne:SUBUNIT": "Grenada", 
+        "ne:ISO_N3": 308.0, 
         "ne:ADM0_A3": "GRD", 
+        "ne:SOVEREIGNT": "Grenada", 
         "alias_CHI_Q": [
           "\u683c\u745e\u90a3\u9054"
         ], 
-        "ne:GDP_MD_EST": 1161.0, 
         "ne:NAME": "Grenada", 
         "alias_CHI_V": [
           "\u683c\u745e\u90a3\u9054"
@@ -303,7 +306,6 @@
         "alias_JPN_Q": [
           "\u30b0\u30ec\u30ca\u30c0"
         ], 
-        "fullname": "Grenada", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Granada"
@@ -320,34 +322,41 @@
         "ne:ISO_A2": "GD", 
         "date_indexed": "2010-12-02T17:52:39Z", 
         "ne:SOV_A3": "GRD", 
-        "alias_ENG_A": [
-          "GD"
-        ], 
+        "ne:GU_A3": "GRD", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Grenada", 
         "ne:SU_A3": "GRD", 
         "ne:LabelRank": 8, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Gren.", 
-        "ne:ISO_N3": 308.0, 
+        "fullname": "Grenada", 
         "lang": "ENG", 
         "name": "Grenada", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "GD", 
-        "ne:NAME_SORT": "Grenada", 
+        "children": [
+          "woe:island=12484068", 
+          "woe:state=2345473", 
+          "woe:state=2345474", 
+          "woe:state=2345475", 
+          "woe:state=2345476", 
+          "woe:state=2345477", 
+          "woe:state=2345478"
+        ], 
+        "ne_longitude": -61.42089738017992, 
         "longitude": -61.699, 
         "ne:POP_EST": 90739.0, 
         "iso": "GD", 
         "sw_latitude": 12.002627665021492, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Grenada", 
+        "alias_ENG_A": [
+          "GD"
+        ], 
+        "ne:GDP_MD_EST": 1161.0, 
         "alias_FRE_Q": [
           "Grenade"
-        ], 
-        "alias_POR_Q": [
-          "Granada"
         ]
       }, 
       "id": 23424826

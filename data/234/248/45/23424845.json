@@ -12487,20 +12487,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424845, 
-      "bbox": [
-        -24.326184047939336, 
-        63.49638296167582, 
-        -13.60973222497981, 
-        66.52679230413587
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Rep. Iceland"
         ], 
-        "alias_HUN_Q": [
-          "Izland"
+        "alias_POR_Q": [
+          "Isl\u00e2ndia"
         ], 
         "alias_SWE_Q": [
           "Island"
@@ -12516,15 +12508,60 @@
         "alias_RUM_Q": [
           "Islanda"
         ], 
-        "ne:NAME_SORT": "Iceland", 
+        "alias_UNK_V": [
+          "Islanti"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "ISL", 
         "alias_KOR_Q": [
           "\uc544\uc774\uc2ac\ub780\ub4dc"
         ], 
         "ne:SUBUNIT": "Iceland", 
+        "ne:ISO_N3": 352.0, 
         "ne:ADM0_A3": "ISL", 
-        "ne:SOVEREIGNT": "Iceland", 
+        "children": [
+          "woe:island=12476115", 
+          "woe:island=24548840", 
+          "woe:island=12476152", 
+          "woe:island=12476106", 
+          "woe:state=20070100", 
+          "woe:state=20070101", 
+          "woe:state=2345687", 
+          "woe:state=2345690", 
+          "woe:state=2345688", 
+          "woe:state=2345689", 
+          "woe:state=2345691", 
+          "woe:state=2345692", 
+          "woe:state=2345693", 
+          "woe:state=2345694", 
+          "woe:state=20070102", 
+          "woe:state=20070103", 
+          "woe:state=20070104", 
+          "woe:state=20070105", 
+          "woe:state=2345695", 
+          "woe:state=20070106", 
+          "woe:state=2345696", 
+          "woe:state=20070107", 
+          "woe:state=2345697", 
+          "woe:state=2345698", 
+          "woe:state=2345699", 
+          "woe:state=20070108", 
+          "woe:state=2345700", 
+          "woe:state=20070109", 
+          "woe:state=20070110", 
+          "woe:state=20070111", 
+          "woe:state=20070112", 
+          "woe:state=2345701", 
+          "woe:state=2345702", 
+          "woe:state=2345703", 
+          "woe:state=2345704", 
+          "woe:state=2345705", 
+          "woe:state=20070113", 
+          "woe:state=2345706", 
+          "woe:state=2345707", 
+          "woe:state=2345708", 
+          "woe:state=2345709"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u51b0\u5cf6"
@@ -12532,8 +12569,8 @@
         "alias_ITA_Q": [
           "Islanda"
         ], 
-        "alias_GER_V": [
-          "Republik Island"
+        "alias_DAN_Q": [
+          "Island"
         ], 
         "ne:NAME": "Iceland", 
         "ne:POSTAL": "IS", 
@@ -12566,12 +12603,18 @@
         "ne:ISO_A2": "IS", 
         "date_indexed": "2010-12-02T09:55:32Z", 
         "ne:NAME_FORMA": "Republic of Iceland", 
-        "fullname": "\u00cdsland, Iceland", 
+        "alias_CHI_V": [
+          "\u51b0\u5c9b"
+        ], 
         "ne:GU_A3": "ISL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Iceland", 
         "ne:SU_A3": "ISL", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 12710.0, 
+        "alias_ENG_A": [
+          "IS"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -12585,13 +12628,13 @@
         "alias_FIN_Q": [
           "Islannin"
         ], 
-        "alias_DAN_Q": [
-          "Island"
+        "alias_GER_V": [
+          "Republik Island"
         ], 
         "alias_GER_Q": [
           "Island"
         ], 
-        "ne:ISO_N3": 352.0, 
+        "fullname": "\u00cdsland, Iceland", 
         "lang": "UNK", 
         "ne:OID_": 146, 
         "ne:GEOUNIT": "Iceland", 
@@ -12600,30 +12643,30 @@
         "alias_UNK_Q": [
           "Islandija"
         ], 
-        "alias_CHI_V": [
-          "\u51b0\u5c9b"
+        "alias_HUN_Q": [
+          "Izland"
         ], 
-        "alias_UNK_V": [
-          "Islanti"
-        ], 
+        "ne:NAME_SORT": "Iceland", 
         "longitude": -19.021, 
         "ne:POP_EST": 306694.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -13.502323568074416, 
         "iso": "IS", 
         "sw_latitude": 63.39644154862451, 
-        "alias_ENG_A": [
-          "IS"
-        ], 
-        "ne:GDP_MD_EST": 12710.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Iceland", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Islande"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Isl\u00e2ndia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424845, 
+      "bbox": [
+        -24.326184047939336, 
+        63.49638296167582, 
+        -13.60973222497981, 
+        66.52679230413587
+      ]
     }
   ], 
   "bbox": [

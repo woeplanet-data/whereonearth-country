@@ -6889,6 +6889,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Malian"
@@ -6902,22 +6903,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 24.99506459560331, 
-        "alias_UNK_V": [
-          "Republika Mali"
-        ], 
+        "ne:NAME_SORT": "Mali", 
         "placetype": "country", 
         "ne:ne_10m_adm": "MLI", 
         "alias_KOR_Q": [
           "\ub9d0\ub9ac"
         ], 
         "ne:SUBUNIT": "Mali", 
-        "ne:ISO_N3": 466.0, 
         "ne:ADM0_A3": "MLI", 
+        "ne:SOVEREIGNT": "Mali", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u5229"
         ], 
-        "ne:GDP_MD_EST": 14590.0, 
         "ne:NAME": "Mali", 
         "alias_CHI_V": [
           "\u99ac\u5229"
@@ -6944,6 +6942,7 @@
         "ne:ISO_A2": "ML", 
         "date_indexed": "2010-12-02T08:58:41Z", 
         "ne:NAME_FORMA": "Republic of Mali", 
+        "fullname": "Mali", 
         "ne:GU_A3": "MLI", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Mali", 
@@ -6955,30 +6954,42 @@
         "alias_GER_V": [
           "Republik Mali"
         ], 
-        "fullname": "Mali", 
+        "ne:ISO_N3": 466.0, 
         "lang": "ENG", 
         "name": "Mali", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "ML", 
-        "ne:NAME_SORT": "Mali", 
+        "children": [
+          "woe:state=2346180", 
+          "woe:state=2346181", 
+          "woe:state=2346182", 
+          "woe:state=55999799", 
+          "woe:state=2346186", 
+          "woe:state=2346183", 
+          "woe:state=2346184", 
+          "woe:state=2346185", 
+          "woe:state=2346187"
+        ], 
+        "alias_UNK_V": [
+          "Republika Mali"
+        ], 
         "longitude": -3.999, 
         "ne:POP_EST": 12666987.0, 
         "ne_longitude": 4.235637654332322, 
         "iso": "ML", 
         "sw_latitude": 10.140054016636157, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Mali", 
+        "ne:GDP_MD_EST": 14590.0, 
         "wikipedia:id": "19127"
       }, 
-      "type": "Feature", 
-      "id": 23424891, 
       "bbox": [
         -12.170750291380301, 
         10.096360785355444, 
         4.270209995143802, 
         24.974574082941
-      ]
+      ], 
+      "id": 23424891
     }
   ], 
   "bbox": [

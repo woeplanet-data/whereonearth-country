@@ -6765,9 +6765,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Nigerian"
+        ], 
+        "alias_HUN_Q": [
+          "Nig\u00e9ria"
         ], 
         "alias_ENG_A": [
           "NG"
@@ -6778,9 +6782,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 13.880290832691003, 
-        "alias_UNK_V": [
-          "Zvezna republika Nigerija"
-        ], 
+        "ne:NAME_SORT": "Nigeria", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Nig\u00e9ria"
@@ -6789,13 +6791,12 @@
           "\ub098\uc774\uc9c0\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Nigeria", 
-        "ne:ISO_N3": 566.0, 
         "ne:ADM0_A3": "NGA", 
+        "ne:SOVEREIGNT": "Nigeria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5948\u53ca\u5229\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 335400.0, 
         "ne:NAME": "Nigeria", 
         "ne:POSTAL": "NG", 
         "alias_JPN_Q": [
@@ -6817,15 +6818,12 @@
         "ne:ISO_A2": "NG", 
         "date_indexed": "2010-12-02T09:35:13Z", 
         "ne:NAME_FORMA": "Federal Republic of Nigeria", 
-        "alias_CHI_V": [
-          "\u5948\u53ca\u5229\u4e9e"
-        ], 
+        "fullname": "Nigeria", 
         "ne:GU_A3": "NGA", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Nigeria", 
         "ne:GEOUNIT": "Nigeria", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "21383", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Nigeria", 
@@ -6835,35 +6833,77 @@
         "alias_GER_V": [
           "Bundesrepublik Nigeria"
         ], 
-        "fullname": "Nigeria", 
+        "ne:ISO_N3": 566.0, 
         "lang": "ENG", 
         "name": "Nigeria", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Nigerija"
         ], 
-        "alias_HUN_Q": [
-          "Nig\u00e9ria"
+        "alias_CHI_V": [
+          "\u5948\u53ca\u5229\u4e9e"
         ], 
-        "ne:NAME_SORT": "Nigeria", 
+        "children": [
+          "woe:state=2346362", 
+          "woe:state=2346363", 
+          "woe:state=2346349", 
+          "woe:state=2346353", 
+          "woe:state=2346343", 
+          "woe:state=20070152", 
+          "woe:state=2346354", 
+          "woe:state=2346355", 
+          "woe:state=2346350", 
+          "woe:state=2346364", 
+          "woe:state=20070153", 
+          "woe:state=2346365", 
+          "woe:state=20070151", 
+          "woe:state=2346366", 
+          "woe:state=2346345", 
+          "woe:state=20070155", 
+          "woe:state=2346356", 
+          "woe:state=2346367", 
+          "woe:state=2346351", 
+          "woe:state=2346357", 
+          "woe:state=2346352", 
+          "woe:state=2346368", 
+          "woe:state=2346369", 
+          "woe:state=2346358", 
+          "woe:state=2346342", 
+          "woe:state=20070154", 
+          "woe:state=2346359", 
+          "woe:state=2346346", 
+          "woe:state=2346347", 
+          "woe:state=2346370", 
+          "woe:state=2346360", 
+          "woe:state=2346348", 
+          "woe:state=2346344", 
+          "woe:state=2346361", 
+          "woe:state=2346371", 
+          "woe:state=2346372", 
+          "woe:state=20070150", 
+          "woe:drainage=26354126"
+        ], 
+        "alias_UNK_V": [
+          "Zvezna republika Nigerija"
+        ], 
         "longitude": 8.674, 
         "ne:POP_EST": 149229090.0, 
         "ne_longitude": 14.669936157222338, 
         "iso": "NG", 
         "sw_latitude": 4.271936747483394, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Nigeria", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 335400.0, 
+        "wikipedia:id": "21383", 
         "ne:ne_10m_adm": "NGA"
       }, 
-      "type": "Feature", 
-      "id": 23424908, 
       "bbox": [
         2.691701694356254, 
         4.240594183769517, 
         14.577177768622533, 
         13.865923977102298
-      ]
+      ], 
+      "id": 23424908
     }
   ], 
   "bbox": [

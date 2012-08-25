@@ -40,8 +40,8 @@
         ], 
         "ne_latitude": 29.475, 
         "placetype": "country", 
-        "alias_KOR_Q": [
-          "\uc774\ub77c\ud06c-\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc911\ub9bd\uc9c0\ub300"
+        "alias_ENG_A": [
+          "XE"
         ], 
         "alias_JPN_Q": [
           "\u30a4\u30e9\u30af\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2\u4e2d\u7acb\u5730\u5e2f"
@@ -56,9 +56,9 @@
         "alias_NOR_Q": [
           "Irakisk-Saidi Arabisk n\u00f8ytral sone"
         ], 
-        "date_indexed": "2010-12-02T17:04:11Z", 
-        "alias_ENG_A": [
-          "XE"
+        "sw_latitude": 28.778, 
+        "alias_KOR_Q": [
+          "\uc774\ub77c\ud06c-\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc911\ub9bd\uc9c0\ub300"
         ], 
         "alias_DAN_Q": [
           "Irak-Saudiarabien Neutral Zone"
@@ -68,7 +68,7 @@
         "ne_longitude": 46.558, 
         "longitude": 45.638, 
         "iso": "XE", 
-        "sw_latitude": 28.778, 
+        "date_indexed": "2010-12-02T17:04:11Z", 
         "fullname": "Iraq-Saudi Arabia Neutral Zone"
       }, 
       "id": 23424998

@@ -5733,9 +5733,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Cameroon"
+        ], 
+        "alias_HUN_Q": [
+          "Kamerun"
         ], 
         "alias_SWE_Q": [
           "Kamerun"
@@ -5752,9 +5756,7 @@
         "alias_RUM_Q": [
           "Camerun"
         ], 
-        "alias_UNK_V": [
-          "Republika Kamerun"
-        ], 
+        "ne:NAME_SORT": "Cameroon", 
         "placetype": "country", 
         "alias_POR_V": [
           "Rep\u00fablica dos Camar\u00f5es"
@@ -5766,8 +5768,8 @@
         "alias_POR_S": [
           "Camaroes"
         ], 
-        "ne:ISO_N3": 120.0, 
         "ne:ADM0_A3": "CMR", 
+        "ne:SOVEREIGNT": "Cameroon", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5580\u9ea5\u9686"
@@ -5775,8 +5777,8 @@
         "alias_ITA_Q": [
           "Camerun"
         ], 
-        "alias_DAN_Q": [
-          "Cameroun"
+        "alias_GER_V": [
+          "Republik Kamerun"
         ], 
         "ne:NAME": "Cameroon", 
         "ne:POSTAL": "CM", 
@@ -5807,19 +5809,15 @@
         "ne:ISO_A2": "CM", 
         "date_indexed": "2010-12-02T10:22:30Z", 
         "ne:NAME_FORMA": "Republic of Cameroon", 
-        "alias_CHI_V": [
-          "\u5580\u9ea6\u9686"
+        "fullname": "Cameroon", 
+        "alias_FRE_V": [
+          "R\u00e9publique du Cameroun"
         ], 
         "ne:GU_A3": "CMR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Cameroon", 
         "ne:SU_A3": "CMR", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 42750.0, 
-        "alias_ENG_A": [
-          "CM"
-        ], 
-        "wikipedia:id": "5447", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5832,51 +5830,65 @@
         "alias_FIN_Q": [
           "Kamerun"
         ], 
-        "alias_GER_V": [
-          "Republik Kamerun"
+        "alias_DAN_Q": [
+          "Cameroun"
         ], 
         "alias_GER_Q": [
           "Kamerun"
         ], 
-        "fullname": "Cameroon", 
+        "ne:ISO_N3": 120.0, 
         "lang": "ENG", 
         "ne:OID_": 105, 
         "ne:GEOUNIT": "Cameroon", 
         "name": "Cameroon", 
         "ne:TYPE": "Sovereign country", 
+        "alias_POR_Q": [
+          "Camar\u00f5es"
+        ], 
         "alias_UNK_Q": [
           "Kamer\u00fan"
         ], 
-        "alias_HUN_Q": [
-          "Kamerun"
+        "alias_CHI_V": [
+          "\u5580\u9ea6\u9686"
         ], 
-        "ne:NAME_SORT": "Cameroon", 
+        "children": [
+          "woe:state=2345038", 
+          "woe:state=2345039", 
+          "woe:state=2345033", 
+          "woe:state=2345040", 
+          "woe:state=2345034", 
+          "woe:state=2345041", 
+          "woe:state=2345035", 
+          "woe:state=2345036", 
+          "woe:state=2345042", 
+          "woe:state=2345037"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kamerun"
+        ], 
         "longitude": 12.343, 
         "ne:POP_EST": 18879301.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 16.207723429180533, 
         "iso": "CM", 
         "sw_latitude": 1.654551290270703, 
-        "alias_FRE_V": [
-          "R\u00e9publique du Cameroun"
-        ], 
-        "ne:SOVEREIGNT": "Cameroon", 
-        "alias_FRE_Q": [
-          "Cameroun"
+        "alias_ENG_A": [
+          "CM"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Camar\u00f5es"
+        "ne:GDP_MD_EST": 42750.0, 
+        "wikipedia:id": "5447", 
+        "alias_FRE_Q": [
+          "Cameroun"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424785, 
       "bbox": [
         8.48881554529089, 
         1.727672634280296, 
         16.012852410555354, 
         12.85939626713733
-      ]
+      ], 
+      "id": 23424785
     }
   ], 
   "bbox": [

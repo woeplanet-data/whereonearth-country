@@ -3653,6 +3653,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
         "hierarchy": [
@@ -3660,6 +3661,27 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:landfeature=56057293", 
+          "woe:landfeature=56057295", 
+          "woe:state=20070472", 
+          "woe:state=20070503", 
+          "woe:state=20070502", 
+          "woe:state=20070500", 
+          "woe:state=20070466", 
+          "woe:state=20070498", 
+          "woe:state=20070471", 
+          "woe:state=20070470", 
+          "woe:state=20070465", 
+          "woe:state=20070501", 
+          "woe:state=20070468", 
+          "woe:state=20070467", 
+          "woe:state=20070469", 
+          "woe:state=20070499", 
+          "woe:historicalstate=56043552", 
+          "woe:historicalstate=29229285", 
+          "woe:drainage=26354245"
+        ], 
         "alias_ITA_Q": [
           "Cechia"
         ], 
@@ -3691,8 +3713,8 @@
         "ne:NAME_SORT": "Czech Republic", 
         "ne:POP_EST": 10211904.0, 
         "ne:GDP_MD_EST": 265200.0, 
-        "alias_ENG_A": [
-          "CZE"
+        "alias_KOR_Q": [
+          "\uccb4\ucf54"
         ], 
         "alias_POR_V": [
           "Rep\u00fablica Tcheca"
@@ -3751,8 +3773,8 @@
           "\uccb4\ucf54\uacf5\ud654\uad6d"
         ], 
         "ne:ne_10m_adm": "CZE", 
-        "alias_KOR_Q": [
-          "\uccb4\ucf54"
+        "alias_ENG_A": [
+          "CZE"
         ], 
         "ne:SUBUNIT": "Czech Republic", 
         "alias_CHI_Q": [
@@ -3761,7 +3783,9 @@
         "ne:LEVEL": 2.0, 
         "sw_longitude": 12.076140991528007, 
         "ne:SOV_A3": "CZE", 
-        "ne_latitude": 51.04001230947176, 
+        "alias_RUM_V": [
+          "Republica Ceh\u0103"
+        ], 
         "ne:OID_": 117, 
         "ne:ISO_A3": "CZE", 
         "ne:ISO_A2": "CZ", 
@@ -3792,9 +3816,7 @@
         "alias_POL_Q": [
           "Czechy"
         ], 
-        "alias_RUM_V": [
-          "Republica Ceh\u0103"
-        ], 
+        "ne_latitude": 51.04001230947176, 
         "alias_RUM_Q": [
           "Cehia"
         ], 
@@ -3828,14 +3850,13 @@
         "lang": "CZE", 
         "ne:TYPE": "Sovereign country"
       }, 
-      "type": "Feature", 
-      "id": 23424810, 
       "bbox": [
         12.240111118222558, 
         48.55530528420721, 
         18.853144158613617, 
         51.117267767941414
-      ]
+      ], 
+      "id": 23424810
     }
   ], 
   "bbox": [

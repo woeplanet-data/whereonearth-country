@@ -145259,6 +145259,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
         "hierarchy": [
@@ -145266,6 +145267,121 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:landfeature=56058353", 
+          "woe:colloquial=55869019", 
+          "woe:colloquial=23509542", 
+          "woe:drainage=26354134", 
+          "woe:drainage=26354473", 
+          "woe:drainage=26354197", 
+          "woe:state=20070520", 
+          "woe:state=20070517", 
+          "woe:state=20070530", 
+          "woe:state=20070529", 
+          "woe:state=2346888", 
+          "woe:state=20070508", 
+          "woe:state=2346890", 
+          "woe:state=2346866", 
+          "woe:state=2346891", 
+          "woe:state=2346892", 
+          "woe:state=2346867", 
+          "woe:state=2346868", 
+          "woe:state=2346893", 
+          "woe:state=2346894", 
+          "woe:state=20070513", 
+          "woe:state=2346869", 
+          "woe:state=2346870", 
+          "woe:state=20070521", 
+          "woe:state=2346896", 
+          "woe:state=2346897", 
+          "woe:state=2346871", 
+          "woe:state=2346938", 
+          "woe:state=2346872", 
+          "woe:state=2346899", 
+          "woe:state=20070514", 
+          "woe:state=20070522", 
+          "woe:state=2346873", 
+          "woe:state=2346901", 
+          "woe:state=2346883", 
+          "woe:state=20070519", 
+          "woe:state=20070526", 
+          "woe:state=2346902", 
+          "woe:state=2346874", 
+          "woe:state=20070510", 
+          "woe:state=20070515", 
+          "woe:state=2346903", 
+          "woe:state=2346884", 
+          "woe:state=20070524", 
+          "woe:state=2346904", 
+          "woe:state=2346905", 
+          "woe:state=2346907", 
+          "woe:state=2346908", 
+          "woe:state=20070512", 
+          "woe:state=2346875", 
+          "woe:state=2346876", 
+          "woe:state=2346911", 
+          "woe:state=2346910", 
+          "woe:state=2346912", 
+          "woe:state=20070509", 
+          "woe:state=2346895", 
+          "woe:state=2346913", 
+          "woe:state=2346914", 
+          "woe:state=2346915", 
+          "woe:state=2346916", 
+          "woe:state=2346917", 
+          "woe:state=2346918", 
+          "woe:state=20070511", 
+          "woe:state=2346886", 
+          "woe:state=2346920", 
+          "woe:state=2346921", 
+          "woe:state=2346922", 
+          "woe:state=2346881", 
+          "woe:state=2346937", 
+          "woe:state=2346906", 
+          "woe:state=2346924", 
+          "woe:state=2346877", 
+          "woe:state=2346925", 
+          "woe:state=20070507", 
+          "woe:state=2346887", 
+          "woe:state=2346926", 
+          "woe:state=2346927", 
+          "woe:state=2346878", 
+          "woe:state=2346928", 
+          "woe:state=2346929", 
+          "woe:state=2346898", 
+          "woe:state=20070528", 
+          "woe:state=2346879", 
+          "woe:state=2346880", 
+          "woe:state=2346931", 
+          "woe:state=20070518", 
+          "woe:state=2346932", 
+          "woe:state=2346933", 
+          "woe:state=2346934", 
+          "woe:state=2346935", 
+          "woe:state=20070525", 
+          "woe:state=2346936", 
+          "woe:state=20070516", 
+          "woe:island=12469889", 
+          "woe:island=12469852", 
+          "woe:island=12469919", 
+          "woe:timezone=56043611", 
+          "woe:timezone=28350829", 
+          "woe:timezone=56043612", 
+          "woe:timezone=28350837", 
+          "woe:timezone=28350841", 
+          "woe:timezone=56043607", 
+          "woe:timezone=56043608", 
+          "woe:timezone=56043610", 
+          "woe:timezone=56043609", 
+          "woe:timezone=28350865", 
+          "woe:timezone=28350866", 
+          "woe:timezone=28350900", 
+          "woe:timezone=56043614", 
+          "woe:timezone=28350915", 
+          "woe:timezone=56043613", 
+          "woe:historicalstate=20070523", 
+          "woe:historicalstate=20070527"
+        ], 
         "alias_ITA_Q": [
           "Russia"
         ], 
@@ -145297,8 +145413,8 @@
         "ne:NAME_SORT": "Russia", 
         "ne:POP_EST": 140041247.0, 
         "ne:GDP_MD_EST": 2266000.0, 
-        "alias_KOR_Q": [
-          "\ub7ec\uc2dc\uc544"
+        "alias_ENG_A": [
+          "RU"
         ], 
         "alias_POR_Q": [
           "R\u00fassia"
@@ -145346,8 +145462,8 @@
           "Russia"
         ], 
         "ne:ne_10m_adm": "RUS", 
-        "alias_ENG_A": [
-          "RU"
+        "alias_KOR_Q": [
+          "\ub7ec\uc2dc\uc544"
         ], 
         "ne:SUBUNIT": "Russia", 
         "alias_CHI_Q": [
@@ -145359,7 +145475,9 @@
         "ne:LEVEL": 2.0, 
         "sw_longitude": -179.99900834195893, 
         "ne:SOV_A3": "RUS", 
-        "ne_latitude": 81.85836374953307, 
+        "alias_RUM_V": [
+          "Federa\u021bia Rus\u0103"
+        ], 
         "ne:OID_": 214, 
         "ne:ISO_A3": "RUS", 
         "ne:ISO_A2": "RU", 
@@ -145389,9 +145507,7 @@
         "alias_POL_Q": [
           "Rosja"
         ], 
-        "alias_RUM_V": [
-          "Federa\u021bia Rus\u0103"
-        ], 
+        "ne_latitude": 81.85836374953307, 
         "alias_RUM_Q": [
           "Rusia"
         ], 
@@ -145428,14 +145544,13 @@
         "lang": "UNK", 
         "ne:TYPE": "Sovereign country"
       }, 
-      "type": "Feature", 
-      "id": 23424936, 
       "bbox": [
         -180.0, 
         41.15141612402135, 
         180.00000000000014, 
         81.2504
-      ]
+      ], 
+      "id": 23424936
     }
   ], 
   "bbox": [

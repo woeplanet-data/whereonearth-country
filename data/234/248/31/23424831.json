@@ -58,6 +58,17 @@
         "alias_KOR_Q": [
           "\uacfc\ub4e4\ub8e8\ud504"
         ], 
+        "children": [
+          "woe:island=12505704", 
+          "woe:island=28298840", 
+          "woe:state=24549706", 
+          "woe:state=28358256", 
+          "woe:historicalstate=24549707", 
+          "woe:historicalstate=24549704", 
+          "woe:historicalstate=24549703", 
+          "woe:historicalstate=24549705", 
+          "woe:historicalstate=24549708"
+        ], 
         "alias_ITA_Q": [
           "Guadalupa"
         ], 

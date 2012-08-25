@@ -11815,20 +11815,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424976, 
-      "bbox": [
-        22.085608351334855, 
-        44.36147858334407, 
-        40.08078901546935, 
-        52.335074571331695
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Ukrainian"
         ], 
-        "alias_HUN_Q": [
-          "Ukrajna"
+        "alias_POR_Q": [
+          "Ucr\u00e2nia"
         ], 
         "alias_SWE_Q": [
           "Ukraina"
@@ -11845,7 +11837,9 @@
         "alias_RUM_Q": [
           "Ucraina"
         ], 
-        "ne:NAME_SORT": "Ukraine", 
+        "alias_UNK_V": [
+          "Ukra\u00efna"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "UKR", 
         "alias_KOR_Q": [
@@ -11854,8 +11848,45 @@
         "alias_POR_S": [
           "Ucrania"
         ], 
+        "ne:ISO_N3": 804.0, 
         "ne:ADM0_A3": "UKR", 
-        "ne:SOVEREIGNT": "Ukraine", 
+        "children": [
+          "woe:timezone=56043618", 
+          "woe:timezone=56043615", 
+          "woe:timezone=56043617", 
+          "woe:timezone=56043616", 
+          "woe:state=2347544", 
+          "woe:state=2347534", 
+          "woe:state=2347535", 
+          "woe:state=2347536", 
+          "woe:state=2347537", 
+          "woe:state=2347538", 
+          "woe:state=2347539", 
+          "woe:state=2347540", 
+          "woe:state=2347541", 
+          "woe:state=2347542", 
+          "woe:state=2347543", 
+          "woe:state=20070188", 
+          "woe:state=2347545", 
+          "woe:state=2347546", 
+          "woe:state=2347547", 
+          "woe:state=2347548", 
+          "woe:state=2347549", 
+          "woe:state=2347550", 
+          "woe:state=2347551", 
+          "woe:state=20070189", 
+          "woe:state=2347552", 
+          "woe:state=2347553", 
+          "woe:state=2347554", 
+          "woe:state=2347555", 
+          "woe:state=2347556", 
+          "woe:state=2347557", 
+          "woe:state=2347558", 
+          "woe:drainage=26789662", 
+          "woe:drainage=26354264", 
+          "woe:drainage=26354265", 
+          "woe:drainage=26354266"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u514b\u862d"
@@ -11863,8 +11894,8 @@
         "alias_ITA_Q": [
           "Ucraina"
         ], 
-        "alias_GER_V": [
-          "Ukrajina"
+        "alias_DAN_Q": [
+          "Ukraine"
         ], 
         "ne:NAME": "Ukraine", 
         "ne:POSTAL": "UA", 
@@ -11874,7 +11905,6 @@
         "alias_POL_Q": [
           "Ukraina"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a6\u30af\u30e9\u30a4\u30ca\u5171\u548c\u56fd"
         ], 
@@ -11899,12 +11929,18 @@
         "ne:ISO_A2": "UA", 
         "date_indexed": "2010-12-02T08:52:39Z", 
         "ne:NAME_FORMA": null, 
-        "fullname": "Ukrayina, Ukraine", 
+        "alias_CHI_V": [
+          "\u4e4c\u514b\u5170"
+        ], 
         "ne:GU_A3": "UKR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Ukraine", 
         "ne:GEOUNIT": "Ukraine", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 339800.0, 
+        "alias_ENG_A": [
+          "UA"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -11921,13 +11957,13 @@
         "alias_FIN_Q": [
           "Ukraina"
         ], 
-        "alias_DAN_Q": [
-          "Ukraine"
+        "alias_GER_V": [
+          "Ukrajina"
         ], 
         "alias_GER_Q": [
           "Ukraine"
         ], 
-        "ne:ISO_N3": 804.0, 
+        "fullname": "Ukrayina, Ukraine", 
         "lang": "UNK", 
         "ne:OID_": 254, 
         "name": "Ukrayina", 
@@ -11937,30 +11973,31 @@
         "alias_UNK_Q": [
           "Ucra\u00efna"
         ], 
-        "alias_CHI_V": [
-          "\u4e4c\u514b\u5170"
+        "alias_HUN_Q": [
+          "Ukrajna"
         ], 
-        "alias_UNK_V": [
-          "Ukra\u00efna"
-        ], 
+        "ne:NAME_SORT": "Ukraine", 
         "longitude": 31.173, 
         "ne:POP_EST": 45700395.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 40.15954309040518, 
         "iso": "UA", 
         "sw_latitude": 44.38075469993326, 
-        "alias_ENG_A": [
-          "UA"
-        ], 
-        "ne:GDP_MD_EST": 339800.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Ukraine", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Ukraine"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Ucr\u00e2nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424976, 
+      "bbox": [
+        22.085608351334855, 
+        44.36147858334407, 
+        40.08078901546935, 
+        52.335074571331695
+      ]
     }
   ], 
   "bbox": [

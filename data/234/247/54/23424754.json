@@ -143,19 +143,20 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 13.344380391880975, 
-        "ne_longitude": -59.42618709336611, 
+        "ne:NAME_SORT": "Barbados", 
         "placetype": "country", 
         "ne:ne_10m_adm": "BRB", 
         "alias_KOR_Q": [
           "\ubc14\ubca0\uc774\ub3c4\uc2a4"
         ], 
         "ne:SUBUNIT": "Barbados", 
+        "ne:ISO_N3": 52.0, 
         "ne:ADM0_A3": "BRB", 
+        "ne:SOVEREIGNT": "Barbados", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u8c9d\u591a"
         ], 
-        "ne:GDP_MD_EST": 5425.0, 
         "ne:NAME": "Barbados", 
         "alias_CHI_V": [
           "\u5df4\u8c9d\u591a"
@@ -163,7 +164,6 @@
         "alias_JPN_Q": [
           "\u30d0\u30eb\u30d0\u30c9\u30b9"
         ], 
-        "fullname": "Barbados", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": -59.65348588083208, 
@@ -185,19 +185,33 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Barb.", 
-        "ne:ISO_N3": 52.0, 
+        "ne:GDP_MD_EST": 5425.0, 
         "lang": "ENG", 
         "name": "Barbados", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "BB", 
-        "ne:NAME_SORT": "Barbados", 
+        "children": [
+          "woe:island=12481182", 
+          "woe:state=2344730", 
+          "woe:state=2344731", 
+          "woe:state=2344732", 
+          "woe:state=2344733", 
+          "woe:state=2344734", 
+          "woe:state=2344735", 
+          "woe:state=2344736", 
+          "woe:state=2344737", 
+          "woe:state=2344738", 
+          "woe:state=2344739", 
+          "woe:state=2344740"
+        ], 
+        "ne_longitude": -59.42618709336611, 
         "longitude": -59.535, 
         "ne:POP_EST": 284589.0, 
         "iso": "BB", 
         "sw_latitude": 13.050935771286134, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Barbados", 
+        "fullname": "Barbados", 
         "alias_FRE_Q": [
           "Barbade"
         ]

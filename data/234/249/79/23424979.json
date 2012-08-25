@@ -2245,6 +2245,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Oriental Republic of Uruguay"
@@ -2260,9 +2261,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -30.09686981200754, 
-        "alias_UNK_V": [
-          "Vzhodna republika Urugvaj"
-        ], 
+        "ne:NAME_SORT": "Uruguay", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Uruguai"
@@ -2271,13 +2270,12 @@
           "\uc6b0\ub8e8\uacfc\uc774"
         ], 
         "ne:SUBUNIT": "Uruguay", 
-        "ne:ISO_N3": 858.0, 
         "ne:ADM0_A3": "URY", 
+        "ne:SOVEREIGNT": "Uruguay", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u62c9\u572d"
         ], 
-        "ne:GDP_MD_EST": 43160.0, 
         "ne:NAME": "Uruguay", 
         "alias_CHI_V": [
           "\u4e4c\u62c9\u572d"
@@ -2302,19 +2300,19 @@
         "ne:ISO_A2": "UY", 
         "date_indexed": "2010-12-02T17:58:27Z", 
         "ne:NAME_FORMA": "Oriental Republic of Uruguay", 
+        "fullname": "Uruguay", 
         "ne:GU_A3": "URY", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Uruguay", 
         "ne:GEOUNIT": "Uruguay", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "31843", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Ury.", 
         "alias_GER_V": [
           "Republik \u00d6stlich des Uruguay"
         ], 
-        "fullname": "Uruguay", 
+        "ne:ISO_N3": 858.0, 
         "alias_GER_S": [
           "Republik Ostlich des Uruguay"
         ], 
@@ -2325,25 +2323,48 @@
           "Urugvaj"
         ], 
         "ne:POSTAL": "UY", 
-        "ne:NAME_SORT": "Uruguay", 
+        "children": [
+          "woe:state=2347640", 
+          "woe:state=2347641", 
+          "woe:state=2347642", 
+          "woe:state=2347643", 
+          "woe:state=2347644", 
+          "woe:state=2347645", 
+          "woe:state=2347646", 
+          "woe:state=2347647", 
+          "woe:state=2347648", 
+          "woe:state=2347649", 
+          "woe:state=2347650", 
+          "woe:state=2347652", 
+          "woe:state=2347653", 
+          "woe:state=2347651", 
+          "woe:state=2347654", 
+          "woe:state=2347655", 
+          "woe:state=2347656", 
+          "woe:state=2347657", 
+          "woe:state=2347658"
+        ], 
+        "alias_UNK_V": [
+          "Vzhodna republika Urugvaj"
+        ], 
         "longitude": -55.758, 
         "ne:POP_EST": 3494382.0, 
         "ne_longitude": -53.110836140874284, 
         "iso": "UY", 
         "sw_latitude": -34.97341969824218, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Uruguay", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 43160.0, 
+        "wikipedia:id": "31843", 
         "ne:ne_10m_adm": "URY"
       }, 
-      "type": "Feature", 
-      "id": 23424979, 
       "bbox": [
         -58.42707414410439, 
         -34.952646579733624, 
         -53.209588995971544, 
         -30.109686374636127
-      ]
+      ], 
+      "id": 23424979
     }
   ], 
   "bbox": [

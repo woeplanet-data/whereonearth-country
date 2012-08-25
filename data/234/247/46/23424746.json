@@ -276,8 +276,8 @@
         "alias_ENG_V": [
           "Samoa American"
         ], 
-        "alias_HUN_Q": [
-          "Amerikai Szamoa"
+        "alias_POR_Q": [
+          "Samoa Americana"
         ], 
         "alias_SWE_Q": [
           "Amerikanska Samoa"
@@ -290,11 +290,10 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -11.051313984903288, 
-        "ne:GU_A3": "ASM", 
         "alias_RUM_Q": [
           "Samoa American\u0103"
         ], 
-        "ne_longitude": -168.15947261668148, 
+        "ne:NAME_SORT": "American Samoa", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc544\uba54\ub9ac\uce78 \uc0ac\ubaa8\uc544"
@@ -304,7 +303,18 @@
           "AS"
         ], 
         "ne:SUBUNIT": "American Samoa", 
+        "children": [
+          "woe:island=12485831", 
+          "woe:island=12485832", 
+          "woe:island=12485828", 
+          "woe:state=24549646", 
+          "woe:state=24549644", 
+          "woe:state=24549643", 
+          "woe:state=24549645"
+        ], 
+        "ne:ISO_N3": 16.0, 
         "ne:ADM0_A3": "ASM", 
+        "ne:SOVEREIGNT": "United States of America", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u7f8e\u5c6c\u85a9\u6469\u4e9e"
@@ -312,13 +322,16 @@
         "alias_ITA_Q": [
           "Samoa Americane"
         ], 
-        "alias_DAN_Q": [
-          "Amerikansk Samoa"
+        "alias_GER_V": [
+          "Amerikanisch Samoa"
         ], 
         "ne:NAME": "American Samoa", 
         "ne:POSTAL": "AS", 
-        "alias_DAN_V": [
-          "Amerikanske Jomfruoeer"
+        "alias_KOR_Q": [
+          "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
+        ], 
+        "alias_CZE_Q": [
+          "Americk\u00e1 Samoa"
         ], 
         "alias_JPN_Q": [
           "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2"
@@ -352,21 +365,14 @@
         "ne:ISO_A2": "AS", 
         "date_indexed": "2010-12-02T17:40:22Z", 
         "ne:SOV_A3": "US1", 
-        "fullname": "American Samoa", 
-        "alias_FRE_V": [
-          "Samoa Am\u00e9ricain"
+        "alias_CHI_V": [
+          "\u7f8e\u5c5e\u8428\u6469\u4e9a"
         ], 
-        "alias_KOR_Q": [
-          "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
-        ], 
+        "ne:GU_A3": "ASM", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "American Samoa", 
         "ne:SU_A3": "ASM", 
-        "alias_DUT_V": [
-          "Amerikaans Samoa"
-        ], 
         "ne:LabelRank": 7, 
-        "ne:GDP_MD_EST": 575.3, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -374,46 +380,49 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Am. Samoa", 
-        "alias_CZE_Q": [
-          "Americk\u00e1 Samoa"
-        ], 
-        "alias_FRE_S": [
-          "Samoa Americaines"
+        "alias_DUT_V": [
+          "Amerikaans Samoa"
         ], 
         "alias_FIN_Q": [
           "Amerikan Samoa"
         ], 
-        "alias_GER_V": [
-          "Amerikanisch Samoa"
+        "alias_DAN_Q": [
+          "Amerikansk Samoa"
         ], 
-        "alias_GER_Q": [
-          "Amerikanisch-Samoa"
+        "alias_DAN_V": [
+          "Amerikanske Jomfruoeer"
         ], 
-        "ne:ISO_N3": 16.0, 
+        "ne:GDP_MD_EST": 575.3, 
         "lang": "ENG", 
         "ne:OID_": 61, 
         "name": "American Samoa", 
         "ne:TYPE": "Dependency", 
+        "ne:ISO_A3": "ASM", 
         "alias_UNK_Q": [
           "Amerika Samoa"
         ], 
-        "alias_CHI_V": [
-          "\u7f8e\u5c5e\u8428\u6469\u4e9a"
+        "alias_HUN_Q": [
+          "Amerikai Szamoa"
         ], 
-        "ne:NAME_SORT": "American Samoa", 
+        "alias_GER_Q": [
+          "Amerikanisch-Samoa"
+        ], 
+        "ne_longitude": -168.15947261668148, 
         "longitude": -170.702, 
         "ne:POP_EST": 65628.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "AS", 
         "sw_latitude": -14.532910257659893, 
-        "ne:ISO_A3": "ASM", 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "United States of America", 
-        "alias_FRE_Q": [
-          "Samoa Am\u00e9ricaines"
+        "alias_FRE_V": [
+          "Samoa Am\u00e9ricain"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Samoa Americana"
+        "fullname": "American Samoa", 
+        "alias_FRE_S": [
+          "Samoa Americaines"
+        ], 
+        "alias_FRE_Q": [
+          "Samoa Am\u00e9ricaines"
         ]
       }, 
       "id": 23424746

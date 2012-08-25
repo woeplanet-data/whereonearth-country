@@ -6571,9 +6571,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Bahamas"
+        ], 
+        "alias_HUN_Q": [
+          "Bahama-Szigetek"
         ], 
         "alias_SWE_Q": [
           "Bahamas"
@@ -6589,10 +6593,69 @@
         "alias_RUM_Q": [
           "Bahamas"
         ], 
-        "alias_UNK_V": [
-          "Zveza Bahami"
-        ], 
+        "ne:NAME_SORT": "Bahamas, The", 
         "placetype": "country", 
+        "children": [
+          "woe:colloquial=28358288", 
+          "woe:state=2344778", 
+          "woe:state=24551241", 
+          "woe:state=2344769", 
+          "woe:state=24551258", 
+          "woe:state=2344770", 
+          "woe:state=24551242", 
+          "woe:state=24551243", 
+          "woe:state=24551244", 
+          "woe:state=2344779", 
+          "woe:state=24551238", 
+          "woe:state=24551245", 
+          "woe:state=2344771", 
+          "woe:state=24551246", 
+          "woe:state=2344776", 
+          "woe:state=24551240", 
+          "woe:state=2344772", 
+          "woe:state=2344773", 
+          "woe:state=24551247", 
+          "woe:state=2344774", 
+          "woe:state=24551248", 
+          "woe:state=2344777", 
+          "woe:state=24551249", 
+          "woe:state=24551250", 
+          "woe:state=24551251", 
+          "woe:state=2344775", 
+          "woe:state=24551252", 
+          "woe:state=2344789", 
+          "woe:state=24551253", 
+          "woe:state=24551254", 
+          "woe:state=24551255", 
+          "woe:state=24551256", 
+          "woe:state=24551257", 
+          "woe:island=12481769", 
+          "woe:island=12506258", 
+          "woe:island=12481270", 
+          "woe:island=12481279", 
+          "woe:island=12481768", 
+          "woe:island=12481703", 
+          "woe:island=12481770", 
+          "woe:island=12481780", 
+          "woe:island=12481781", 
+          "woe:island=12481717", 
+          "woe:island=12506257", 
+          "woe:island=12481262", 
+          "woe:island=12481405", 
+          "woe:island=12481771", 
+          "woe:island=12481778", 
+          "woe:island=12481783", 
+          "woe:island=12481534", 
+          "woe:island=12506249", 
+          "woe:island=12481521", 
+          "woe:island=12481525", 
+          "woe:island=12481528", 
+          "woe:island=12481538", 
+          "woe:island=12481575", 
+          "woe:island=12481749", 
+          "woe:island=12481585", 
+          "woe:island=12481640"
+        ], 
         "alias_POR_V": [
           "Baamas"
         ], 
@@ -6601,8 +6664,8 @@
           "\ubc14\ud558\ub9c8"
         ], 
         "ne:SUBUNIT": "The Bahamas", 
-        "ne:ISO_N3": 44.0, 
         "ne:ADM0_A3": "BHS", 
+        "ne:SOVEREIGNT": "The Bahamas", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u54c8\u99ac"
@@ -6610,13 +6673,16 @@
         "alias_ITA_Q": [
           "Bahamas"
         ], 
-        "alias_DAN_Q": [
-          "Bahamas"
+        "alias_GER_V": [
+          "Commonwealth der Bahamas"
         ], 
         "alias_ITA_V": [
           "Bahama"
         ], 
         "ne:POSTAL": "BS", 
+        "alias_CZE_Q": [
+          "Bahamy"
+        ], 
         "alias_JPN_Q": [
           "\u30d0\u30cf\u30de"
         ], 
@@ -6644,86 +6710,81 @@
         "ne:ISO_A2": "BS", 
         "date_indexed": "2010-12-02T07:50:25Z", 
         "ne:NAME_FORMA": "Commonwealth of the Bahamas", 
-        "alias_CHI_V": [
-          "\u5df4\u54c8\u9a6c"
+        "fullname": "The Bahamas", 
+        "alias_FRE_V": [
+          "Bahamas, \u00celes"
         ], 
         "ne:GU_A3": "BHS", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "The Bahamas", 
         "ne:SU_A3": "BHS", 
-        "alias_DUT_V": [
-          "Bahama\u2019s"
-        ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 9093.0, 
-        "alias_ENG_A": [
-          "BS"
-        ], 
-        "wikipedia:id": "3451", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Bahama's"
         ], 
         "ne:ABBREV": "Bhs.", 
-        "alias_CZE_Q": [
-          "Bahamy"
+        "alias_DUT_V": [
+          "Bahama\u2019s"
+        ], 
+        "alias_FRE_S": [
+          "Bahamas, Iles"
         ], 
         "alias_FIN_Q": [
           "Bahama"
         ], 
-        "alias_GER_V": [
-          "Commonwealth der Bahamas"
+        "alias_DAN_Q": [
+          "Bahamas"
         ], 
         "alias_GER_Q": [
           "Bahamas"
         ], 
-        "fullname": "The Bahamas", 
+        "ne:ISO_N3": 44.0, 
         "ne:NAME": "Bahamas", 
         "lang": "ENG", 
         "ne:OID_": 245, 
         "ne:GEOUNIT": "The Bahamas", 
         "name": "The Bahamas", 
         "ne:TYPE": "Sovereign country", 
+        "alias_POR_Q": [
+          "Bahamas"
+        ], 
         "alias_UNK_Q": [
           "Bahami"
         ], 
-        "alias_HUN_Q": [
-          "Bahama-Szigetek"
+        "alias_CHI_V": [
+          "\u5df4\u54c8\u9a6c"
         ], 
         "alias_HUN_V": [
           "Baham\u00e1k"
         ], 
-        "ne:NAME_SORT": "Bahamas, The", 
+        "alias_UNK_V": [
+          "Zveza Bahami"
+        ], 
         "longitude": -78.08, 
         "ne:POP_EST": 309156.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -72.74539994352085, 
         "iso": "BS", 
         "sw_latitude": 20.91753570617449, 
-        "alias_FRE_V": [
-          "Bahamas, \u00celes"
+        "alias_ENG_A": [
+          "BS"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "The Bahamas", 
+        "ne:GDP_MD_EST": 9093.0, 
+        "wikipedia:id": "3451", 
         "alias_FRE_Q": [
-          "Bahamas"
-        ], 
-        "alias_FRE_S": [
-          "Bahamas, Iles"
-        ], 
-        "alias_POR_Q": [
           "Bahamas"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424758, 
       "bbox": [
         -78.98, 
         23.71, 
         -77.0, 
         27.04
-      ]
+      ], 
+      "id": 23424758
     }
   ], 
   "bbox": [

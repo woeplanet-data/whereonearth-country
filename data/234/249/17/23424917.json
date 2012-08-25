@@ -4437,6 +4437,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Paraguay"
@@ -4452,9 +4453,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -19.286728617047075, 
-        "alias_UNK_V": [
-          "Republika Paragvaj"
-        ], 
+        "ne:NAME_SORT": "Paraguay", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Paraguai"
@@ -4463,13 +4462,12 @@
           "PY"
         ], 
         "ne:SUBUNIT": "Paraguay", 
-        "ne:ISO_N3": 600.0, 
         "ne:ADM0_A3": "PRY", 
+        "ne:SOVEREIGNT": "Paraguay", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u62c9\u572d"
         ], 
-        "ne:GDP_MD_EST": 28890.0, 
         "ne:NAME": "Paraguay", 
         "ne:POSTAL": "PY", 
         "alias_JPN_Q": [
@@ -4492,44 +4490,68 @@
         "ne:ISO_A2": "PY", 
         "date_indexed": "2010-12-02T12:08:38Z", 
         "ne:NAME_FORMA": "Republic of Paraguay", 
+        "fullname": "Paraguay", 
         "ne:GU_A3": "PRY", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Paraguay", 
         "ne:GEOUNIT": "Paraguay", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "23420", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Para.", 
         "alias_GER_V": [
           "Republik Paraguay"
         ], 
-        "fullname": "Paraguay", 
+        "ne:ISO_N3": 600.0, 
         "lang": "ENG", 
         "name": "Paraguay", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Paragvaj"
         ], 
-        "ne:NAME_SORT": "Paraguay", 
+        "children": [
+          "woe:state=2346463", 
+          "woe:state=2346448", 
+          "woe:state=2346449", 
+          "woe:state=20070148", 
+          "woe:state=2346450", 
+          "woe:state=2346451", 
+          "woe:state=2346452", 
+          "woe:state=2346464", 
+          "woe:state=2346453", 
+          "woe:state=2346454", 
+          "woe:state=2346455", 
+          "woe:state=2346456", 
+          "woe:state=2346457", 
+          "woe:state=2346458", 
+          "woe:state=2346460", 
+          "woe:state=2346461", 
+          "woe:state=2346462", 
+          "woe:state=2346459", 
+          "woe:drainage=26354194", 
+          "woe:drainage=26354193"
+        ], 
+        "alias_UNK_V": [
+          "Republika Paragvaj"
+        ], 
         "longitude": -58.453, 
         "ne:POP_EST": 6995655.0, 
         "ne_longitude": -54.24528885911502, 
         "iso": "PY", 
         "sw_latitude": -27.586842142422498, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Paraguay", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 28890.0, 
+        "wikipedia:id": "23420", 
         "ne:ne_10m_adm": "PRY"
       }, 
-      "type": "Feature", 
-      "id": 23424917, 
       "bbox": [
         -62.685057135657885, 
         -27.548499037386293, 
         -54.29295956075452, 
         -19.342746677327426
-      ]
+      ], 
+      "id": 23424917
     }
   ], 
   "bbox": [

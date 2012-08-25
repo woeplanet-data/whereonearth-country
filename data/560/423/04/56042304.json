@@ -70,7 +70,7 @@
         "alias_RUM_Q": [
           "Saint Barth\u00e9lemy"
         ], 
-        "ne_longitude": -62.790917115027725, 
+        "ne:NAME_SORT": "Saint Barthelemy", 
         "placetype": "country", 
         "alias_POR_Q": [
           "S\u00e3o Bartolomeu"
@@ -79,18 +79,16 @@
           "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
         ], 
         "ne:SUBUNIT": "Saint Barthelemy", 
-        "alias_FRE_A": [
-          "BL"
-        ], 
+        "ne:ISO_N3": 652.0, 
+        "ne:POP_EST": 7448.0, 
         "ne:ADM0_A3": "BLM", 
-        "ne:GDP_MD_EST": 255.0, 
+        "ne:SOVEREIGNT": "France", 
         "ne:NAME": "St. Barthelemy", 
         "ne:POSTAL": "BL", 
         "alias_JPN_Q": [
           "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
         ], 
         "ne:LEVEL": 2.0, 
-        "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "San Bartolom\u00e9"
@@ -114,25 +112,35 @@
         "ne:LabelRank": 8, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
-        "alias_FRE_V": [
-          "Saint-Barth"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "St. B.", 
         "alias_GER_V": [
           "Sankt Bartholom\u00e4us"
         ], 
-        "ne:ISO_N3": 652.0, 
+        "fullname": "Saint-Barth\u00e9lemy, Saint-Barth\u00e9l\u00e9my", 
         "lang": "FRE", 
         "name": "Saint-Barth\u00e9lemy", 
         "ne:TYPE": "Dependency", 
         "ne:SU_DIF": 0.0, 
-        "ne:NAME_SORT": "Saint Barthelemy", 
+        "children": [
+          "woe:town=80486", 
+          "woe:town=80675", 
+          "woe:town=80749", 
+          "woe:town=80766", 
+          "woe:town=80804", 
+          "woe:island=12484135"
+        ], 
+        "ne_longitude": -62.790917115027725, 
         "longitude": -62.834, 
-        "ne:POP_EST": 7448.0, 
+        "alias_FRE_A": [
+          "BL"
+        ], 
         "iso": "BL", 
         "sw_latitude": 17.881803691223865, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "France", 
+        "alias_FRE_V": [
+          "Saint-Barth"
+        ], 
+        "ne:GDP_MD_EST": 255.0, 
         "alias_FRE_S": [
           "Saint-Barthelemy"
         ], 

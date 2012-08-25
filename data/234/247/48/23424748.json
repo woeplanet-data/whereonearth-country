@@ -54855,6 +54855,7 @@
           ]
         ]
       }, 
+      "id": 23424748, 
       "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
@@ -54872,7 +54873,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -9.2401067096187, 
-        "ne_longitude": 159.10664961838825, 
+        "ne:NAME_SORT": "Australia", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud638\uc8fc"
@@ -54884,19 +54885,109 @@
           "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Australia", 
+        "ne:ISO_N3": 36.0, 
         "ne:ADM0_A3": "AUS", 
-        "ne:SOVEREIGNT": "Australia", 
+        "children": [
+          "woe:island=28595945", 
+          "woe:island=28595891", 
+          "woe:island=28595892", 
+          "woe:island=28595893", 
+          "woe:island=12487236", 
+          "woe:island=28595896", 
+          "woe:island=28595897", 
+          "woe:island=12487241", 
+          "woe:island=12487245", 
+          "woe:island=28595898", 
+          "woe:island=28595900", 
+          "woe:island=28595901", 
+          "woe:island=12487263", 
+          "woe:island=12487271", 
+          "woe:island=28595902", 
+          "woe:island=28595903", 
+          "woe:island=28595904", 
+          "woe:island=28594792", 
+          "woe:island=28595906", 
+          "woe:island=28595907", 
+          "woe:island=28595908", 
+          "woe:island=28595909", 
+          "woe:island=28595910", 
+          "woe:island=28595912", 
+          "woe:island=28595913", 
+          "woe:island=28595915", 
+          "woe:island=28595916", 
+          "woe:island=28595918", 
+          "woe:island=12487336", 
+          "woe:island=12487446", 
+          "woe:island=28595921", 
+          "woe:island=28595924", 
+          "woe:island=28595925", 
+          "woe:island=28595926", 
+          "woe:island=28595927", 
+          "woe:island=28595928", 
+          "woe:island=28595929", 
+          "woe:island=28595930", 
+          "woe:island=28595932", 
+          "woe:island=12487278", 
+          "woe:island=28595938", 
+          "woe:island=28595939", 
+          "woe:island=28595940", 
+          "woe:island=28595942", 
+          "woe:island=28595943", 
+          "woe:island=12487432", 
+          "woe:island=12487447", 
+          "woe:island=28595944", 
+          "woe:state=23424749", 
+          "woe:state=2344699", 
+          "woe:state=23424790", 
+          "woe:state=2344700", 
+          "woe:state=2344701", 
+          "woe:state=2344702", 
+          "woe:state=2344703", 
+          "woe:state=2344704", 
+          "woe:state=2344705", 
+          "woe:state=2344706", 
+          "woe:timezone=28350877", 
+          "woe:timezone=28350878", 
+          "woe:timezone=56043537", 
+          "woe:timezone=56043539", 
+          "woe:timezone=28350879", 
+          "woe:timezone=56043538", 
+          "woe:timezone=28350880", 
+          "woe:timezone=28350881", 
+          "woe:timezone=28350882", 
+          "woe:timezone=28350883", 
+          "woe:timezone=28350884", 
+          "woe:timezone=28350885", 
+          "woe:drainage=28741730", 
+          "woe:drainage=28742091", 
+          "woe:drainage=28742092", 
+          "woe:drainage=28741694", 
+          "woe:drainage=28741718", 
+          "woe:drainage=28742094", 
+          "woe:drainage=28742095", 
+          "woe:drainage=28741695", 
+          "woe:drainage=23685982", 
+          "woe:drainage=28742096", 
+          "woe:drainage=28739943", 
+          "woe:drainage=28737501", 
+          "woe:drainage=28739954", 
+          "woe:drainage=28741698", 
+          "woe:drainage=28742097", 
+          "woe:drainage=26354317", 
+          "woe:drainage=28741701", 
+          "woe:drainage=26354316", 
+          "woe:drainage=28741761"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6fb3\u5927\u5229\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 800200.0, 
         "ne:NAME": "Australia", 
         "ne:POSTAL": "AU", 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
         ], 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "Australia", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 112.90724735541767, 
@@ -54917,6 +55008,10 @@
         "ne:ADMIN": "Australia", 
         "ne:SU_A3": "AUS", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "AU"
+        ], 
+        "wikipedia:id": "4689264", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -54935,7 +55030,7 @@
         "alias_GER_Q": [
           "Australien"
         ], 
-        "ne:ISO_N3": 36.0, 
+        "ne:SOVEREIGNT": "Australia", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Australia", 
         "name": "Australia", 
@@ -54948,30 +55043,26 @@
         "alias_HUN_Q": [
           "Ausztr\u00e1lia"
         ], 
-        "ne:NAME_SORT": "Australia", 
+        "ne_longitude": 159.10664961838825, 
         "longitude": 133.393, 
         "ne:POP_EST": 21262641.0, 
         "ne:TYPE": "Country", 
         "iso": "AU", 
         "sw_latitude": -54.75040374732733, 
-        "alias_ENG_A": [
-          "AU"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 800200.0, 
-        "ne:ne_10m_adm": "AUS", 
-        "wikipedia:id": "4689264", 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Australia", 
         "alias_FRE_Q": [
           "Australie"
-        ]
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:ne_10m_adm": "AUS"
       }, 
       "bbox": [
         113.3389530782625, 
         -43.634597263362096, 
         153.5694690289442, 
         -10.668185723516643
-      ], 
-      "id": 23424748
+      ]
     }
   ], 
   "bbox": [

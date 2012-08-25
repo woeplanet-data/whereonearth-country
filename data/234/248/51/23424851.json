@@ -10739,6 +10739,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Empire of Iran"
@@ -10753,9 +10754,7 @@
         ], 
         "ne_latitude": 39.771526998179596, 
         "ne:SUBUNIT": "Iran", 
-        "alias_UNK_V": [
-          "Islamska republika Iran"
-        ], 
+        "ne:NAME_SORT": "Iran", 
         "placetype": "country", 
         "alias_POR_V": [
           "Ir\u00e3"
@@ -10769,13 +10768,12 @@
         "alias_POR_S": [
           "Irao"
         ], 
-        "ne:ISO_N3": 364.0, 
         "ne:ADM0_A3": "IRN", 
+        "ne:SOVEREIGNT": "Iran", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4f0a\u6717"
         ], 
-        "ne:GDP_MD_EST": 841700.0, 
         "ne:NAME": "Iran", 
         "ne:POSTAL": "IRN", 
         "alias_JPN_Q": [
@@ -10803,6 +10801,7 @@
         "ne:ISO_A2": "IR", 
         "date_indexed": "2010-12-02T08:53:52Z", 
         "ne:NAME_FORMA": "Islamic Republic of Iran", 
+        "fullname": "Iran", 
         "ne:GU_A3": "IRN", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Iran", 
@@ -10811,7 +10810,6 @@
         "alias_SPA_V": [
           "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica)"
         ], 
-        "wikipedia:id": "14653", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Iran", 
@@ -10821,7 +10819,7 @@
         "alias_GER_V": [
           "Islamische Republik Iran"
         ], 
-        "fullname": "Iran", 
+        "ne:ISO_N3": 364.0, 
         "lang": "ENG", 
         "name": "Iran", 
         "ne:TYPE": "Sovereign country", 
@@ -10831,25 +10829,61 @@
         "alias_HUN_Q": [
           "Ir\u00e1n"
         ], 
-        "ne:NAME_SORT": "Iran", 
+        "children": [
+          "woe:colloquial=55966890", 
+          "woe:state=20070198", 
+          "woe:state=2345767", 
+          "woe:state=2345768", 
+          "woe:state=2345781", 
+          "woe:state=2345769", 
+          "woe:state=2345787", 
+          "woe:state=2345772", 
+          "woe:state=2345773", 
+          "woe:state=20070201", 
+          "woe:state=2345774", 
+          "woe:state=2345776", 
+          "woe:state=2345775", 
+          "woe:state=2345788", 
+          "woe:state=2345777", 
+          "woe:state=2345778", 
+          "woe:state=2345771", 
+          "woe:state=2345779", 
+          "woe:state=2345782", 
+          "woe:state=2345783", 
+          "woe:state=2345780", 
+          "woe:state=56189823", 
+          "woe:state=20070200", 
+          "woe:state=20070199", 
+          "woe:state=56189824", 
+          "woe:state=2345784", 
+          "woe:state=2345770", 
+          "woe:state=56189825", 
+          "woe:state=2345785", 
+          "woe:state=2345790", 
+          "woe:state=2345786", 
+          "woe:historicalstate=2345789"
+        ], 
+        "alias_UNK_V": [
+          "Islamska republika Iran"
+        ], 
         "longitude": 53.682, 
         "ne:POP_EST": 66429284.0, 
         "ne_longitude": 63.319628132952005, 
         "iso": "IR", 
         "sw_latitude": 25.076765035101815, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Iran", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 841700.0, 
+        "wikipedia:id": "14653", 
         "ne:ne_10m_adm": "IRN"
       }, 
-      "type": "Feature", 
-      "id": 23424851, 
       "bbox": [
         44.10922529478234, 
         25.0782370061185, 
         63.31663170761959, 
         39.71300263117705
-      ]
+      ], 
+      "id": 23424851
     }
   ], 
   "bbox": [

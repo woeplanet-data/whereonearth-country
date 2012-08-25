@@ -250,8 +250,8 @@
         "alias_SWE_V": [
           "Wallis och Futuna"
         ], 
-        "alias_HUN_Q": [
-          "Wallis \u00c9s Futuna"
+        "alias_POR_Q": [
+          "Wallis E Futuna"
         ], 
         "alias_SWE_Q": [
           "Wallis- och Futuna\u00f6arna"
@@ -264,11 +264,12 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -13.209063415514862, 
-        "ne:GU_A3": "WLF", 
         "alias_RUM_Q": [
           "Wallis \u015ei Futuna"
         ], 
-        "ne:NAME_SORT": "Wallis and Futuna", 
+        "alias_UNK_V": [
+          "Wallis og Futuna\u00f8erne"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc648\ub77c\uc2a4 & \ud4e8\ud22c\ub098"
@@ -281,7 +282,17 @@
           "WF"
         ], 
         "ne:SUBUNIT": "Wallis and Futuna", 
+        "children": [
+          "woe:island=12502684", 
+          "woe:state=24549913", 
+          "woe:state=24549911", 
+          "woe:state=24549910", 
+          "woe:state=24549912", 
+          "woe:state=24549914"
+        ], 
+        "ne:ISO_N3": 876.0, 
         "ne:ADM0_A3": "WLF", 
+        "ne:SOVEREIGNT": "France", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u74e6\u5229\u65af\u548c\u5bcc\u5716\u7d0d\u7fa4\u5cf6"
@@ -289,13 +300,13 @@
         "alias_ITA_Q": [
           "Wallis e Futuna"
         ], 
-        "alias_DAN_Q": [
-          "Wallis Og Futuna"
-        ], 
         "ne:NAME": "Wallis and Futuna", 
         "ne:POSTAL": "WF", 
-        "alias_DAN_V": [
-          "Wallis og Futuna\u00f8erne"
+        "alias_KOR_Q": [
+          "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"
+        ], 
+        "alias_CZE_Q": [
+          "Wallis a Futuna"
         ], 
         "alias_JPN_Q": [
           "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca"
@@ -303,7 +314,6 @@
         "alias_POL_Q": [
           "Wallis I Futuna"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30ef\u30ea\u30fc \u30a8 \u30d5\u30c8\u30a5\u30fc\u30ca\u8af8\u5cf6"
         ], 
@@ -317,6 +327,7 @@
         "ne:SU_A3": "WLF", 
         "provider": "geoplanet 7.6.0", 
         "latitude": -13.283, 
+        "iso": "WF", 
         "woe:id": 23424989, 
         "alias_NOR_Q": [
           "Wallis- Og Futuna\u00f8yene"
@@ -327,20 +338,16 @@
         "ne:ISO_A2": "WF", 
         "date_indexed": "2010-12-02T09:35:31Z", 
         "ne:SOV_A3": "FR1", 
-        "fullname": "Wallis and Futuna", 
-        "alias_KOR_Q": [
-          "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"
+        "alias_CHI_V": [
+          "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
         ], 
+        "ne:GU_A3": "WLF", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Wallis and Futuna", 
         "alias_FIN_V": [
           "Wallis ja Futuna"
         ], 
-        "alias_DUT_V": [
-          "Wallis & Futuna eilanden"
-        ], 
         "ne:LabelRank": 3, 
-        "ne:GDP_MD_EST": 60.0, 
         "alias_RUM_V": [
           "Wallis \u015fi Futuna"
         ], 
@@ -351,52 +358,53 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Wlf.", 
-        "alias_CZE_Q": [
-          "Wallis a Futuna"
+        "alias_DUT_V": [
+          "Wallis & Futuna eilanden"
+        ], 
+        "alias_FRE_V": [
+          "Wallis et Futuna"
         ], 
         "alias_FIN_Q": [
           "Wallis- Ja Futunasaaret"
         ], 
+        "alias_DAN_Q": [
+          "Wallis Og Futuna"
+        ], 
+        "alias_DAN_V": [
+          "Wallis og Futuna\u00f8erne"
+        ], 
+        "ne:GDP_MD_EST": 60.0, 
+        "lang": "ENG", 
+        "ne:OID_": 44, 
         "ne:GEOUNIT": "Wallis and Futuna", 
+        "name": "Wallis and Futuna", 
+        "ne:TYPE": "Dependency", 
+        "ne:ISO_A3": "WLF", 
+        "ne:SU_DIF": 0.0, 
+        "alias_HUN_Q": [
+          "Wallis \u00c9s Futuna"
+        ], 
         "alias_GER_Q": [
           "Wallis Und Futuna"
         ], 
-        "ne:ISO_N3": 876.0, 
-        "lang": "ENG", 
-        "ne:OID_": 44, 
-        "name": "Wallis and Futuna", 
-        "ne:TYPE": "Dependency", 
-        "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u74e6\u5229\u65af\u548c\u5bcc\u56fe\u7eb3\u7fa4\u5c9b"
-        ], 
-        "alias_HUN_V": [
-          "Wallis \u00e9s Futuna"
-        ], 
-        "alias_UNK_V": [
-          "Wallis og Futuna\u00f8erne"
-        ], 
+        "ne:NAME_SORT": "Wallis and Futuna", 
         "longitude": -176.173, 
         "ne:POP_EST": 15289.0, 
         "alias_UNK_S": [
           "Wallis- og Futunaoyene"
         ], 
         "ne_longitude": -176.12456783086478, 
-        "iso": "WF", 
+        "alias_HUN_V": [
+          "Wallis \u00e9s Futuna"
+        ], 
         "sw_latitude": -14.378811136558937, 
-        "ne:ISO_A3": "WLF", 
-        "alias_FRE_V": [
-          "Wallis et Futuna"
-        ], 
-        "ne:SOVEREIGNT": "France", 
-        "alias_FRE_Q": [
-          "Wallis-Et-Futuna"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "fullname": "Wallis and Futuna", 
         "alias_FRE_S": [
           "Iles Wallis et Futuna"
         ], 
-        "alias_POR_Q": [
-          "Wallis E Futuna"
+        "alias_FRE_Q": [
+          "Wallis-Et-Futuna"
         ]
       }, 
       "id": 23424989

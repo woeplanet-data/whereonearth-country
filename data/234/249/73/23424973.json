@@ -6787,20 +6787,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424973, 
-      "bbox": [
-        29.339997592900374, 
-        -11.720938002166747, 
-        40.31659, 
-        -0.95
-      ], 
       "properties": {
         "alias_ENG_V": [
           "United Republic of Tanzania"
-        ], 
-        "alias_HUN_Q": [
-          "Tanz\u00e1nia"
         ], 
         "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
@@ -6809,21 +6798,60 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -0.985830179268888, 
-        "ne:GU_A3": "TZA", 
-        "ne_longitude": 40.44975793442734, 
+        "ne:NAME_SORT": "Tanzania", 
         "placetype": "country", 
         "ne:ne_10m_adm": "TZA", 
         "alias_ENG_A": [
           "TZ"
         ], 
         "ne:SUBUNIT": "Tanzania", 
+        "ne:ISO_N3": 834.0, 
         "ne:ADM0_A3": "TZA", 
-        "ne:SOVEREIGNT": "United Republic of Tanzania", 
+        "children": [
+          "woe:island=12466786", 
+          "woe:island=12466812", 
+          "woe:state=2347352", 
+          "woe:state=2347374", 
+          "woe:state=2347354", 
+          "woe:state=2347355", 
+          "woe:state=2347370", 
+          "woe:state=2347356", 
+          "woe:state=2347357", 
+          "woe:state=2347358", 
+          "woe:state=56025085", 
+          "woe:state=2347359", 
+          "woe:state=2347360", 
+          "woe:state=2347361", 
+          "woe:state=2347362", 
+          "woe:state=2347363", 
+          "woe:state=2347364", 
+          "woe:state=2347371", 
+          "woe:state=2347353", 
+          "woe:state=2347375", 
+          "woe:state=2347365", 
+          "woe:state=2347366", 
+          "woe:state=2347367", 
+          "woe:state=2347368", 
+          "woe:state=2347369", 
+          "woe:state=2347373", 
+          "woe:state=2347372", 
+          "woe:state=2347376", 
+          "woe:landfeature=55857713", 
+          "woe:drainage=56190426", 
+          "woe:drainage=56190433", 
+          "woe:drainage=56190435", 
+          "woe:drainage=56190438", 
+          "woe:drainage=26354456"
+        ], 
         "alias_CHI_Q": [
           "\u5766\u5c1a\u5c3c\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 54250.0, 
         "ne:NAME": "Tanzania", 
         "ne:POSTAL": "TZ", 
+        "alias_KOR_Q": [
+          "\ud0c4\uc790\ub2c8\uc544"
+        ], 
         "alias_JPN_Q": [
           "\u30bf\u30f3\u30b6\u30cb\u30a2"
         ], 
@@ -6831,6 +6859,9 @@
           "\u30bf\u30f3\u30b6\u30cb\u30a2\u9023\u5408\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Tanz\u00e2nia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 29.32103153467085, 
         "ne:SOV_A3": "TZA", 
@@ -6845,10 +6876,10 @@
         "ne:ISO_A2": "TZ", 
         "date_indexed": "2010-12-02T12:16:03Z", 
         "ne:NAME_FORMA": "United Republic of Tanzania", 
-        "fullname": "Tanzania", 
-        "alias_KOR_Q": [
-          "\ud0c4\uc790\ub2c8\uc544"
+        "alias_CHI_V": [
+          "\u5766\u5c1a\u5c3c\u4e9e"
         ], 
+        "ne:GU_A3": "TZA", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "United Republic of Tanzania", 
         "ne:SU_A3": "TZA", 
@@ -6874,7 +6905,7 @@
         "alias_GER_Q": [
           "Tansania"
         ], 
-        "ne:ISO_N3": 834.0, 
+        "fullname": "Tanzania", 
         "lang": "ENG", 
         "ne:GEOUNIT": "Tanzania", 
         "name": "Tanzania", 
@@ -6882,24 +6913,29 @@
         "alias_UNK_Q": [
           "Tansan\u00eda"
         ], 
-        "alias_CHI_V": [
-          "\u5766\u5c1a\u5c3c\u4e9e"
+        "alias_HUN_Q": [
+          "Tanz\u00e1nia"
         ], 
-        "ne:NAME_SORT": "Tanzania", 
+        "ne_longitude": 40.44975793442734, 
         "longitude": 34.885, 
         "ne:POP_EST": 41048532.0, 
         "iso": "TZ", 
         "sw_latitude": -11.731272480997745, 
         "ne:GEOU_DIF": 1.0, 
-        "ne:GDP_MD_EST": 54250.0, 
+        "ne:SOVEREIGNT": "United Republic of Tanzania", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Tanzanie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Tanz\u00e2nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424973, 
+      "bbox": [
+        29.339997592900374, 
+        -11.720938002166747, 
+        40.31659, 
+        -0.95
+      ]
     }
   ], 
   "bbox": [

@@ -532,8 +532,8 @@
         "alias_ENG_V": [
           "Comoran"
         ], 
-        "alias_HUN_Q": [
-          "Comore-Szigetek"
+        "alias_POR_Q": [
+          "Comores"
         ], 
         "alias_SWE_Q": [
           "Komorerna"
@@ -546,11 +546,12 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -11.361372579044016, 
-        "ne:GU_A3": "COM", 
         "alias_RUM_Q": [
           "Comore"
         ], 
-        "ne:NAME_SORT": "Comoros", 
+        "alias_UNK_V": [
+          "Comores"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ucf54\ubaa8\ub974"
@@ -563,10 +564,21 @@
           "KM"
         ], 
         "ne:SUBUNIT": "Comoros", 
+        "children": [
+          "woe:island=12465417", 
+          "woe:island=12465419", 
+          "woe:island=12465381", 
+          "woe:island=12465404", 
+          "woe:state=2345043", 
+          "woe:state=2345044", 
+          "woe:state=2345045"
+        ], 
+        "ne:ISO_N3": 174.0, 
         "alias_ARA_V": [
           "Al-Qumur"
         ], 
         "ne:ADM0_A3": "COM", 
+        "ne:SOVEREIGNT": "Comoros", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u845b\u6469"
@@ -574,11 +586,14 @@
         "alias_ITA_Q": [
           "Comore"
         ], 
-        "alias_DAN_Q": [
-          "Comorerne"
+        "alias_GER_V": [
+          "Komoreninseln"
         ], 
         "ne:NAME": "Comoros", 
         "ne:POSTAL": "KM", 
+        "alias_KOR_Q": [
+          "\ucf54\ubaa8\ub85c"
+        ], 
         "alias_JPN_Q": [
           "\u30b3\u30e2\u30ed"
         ], 
@@ -604,18 +619,14 @@
         "ne:ISO_A2": "KM", 
         "date_indexed": "2010-12-02T17:06:00Z", 
         "ne:SOV_A3": "COM", 
-        "fullname": "Comoros", 
-        "alias_FRE_V": [
-          "Comores (Archipel)"
+        "alias_CHI_V": [
+          "\u845b\u6469"
         ], 
-        "alias_KOR_Q": [
-          "\ucf54\ubaa8\ub85c"
-        ], 
+        "ne:GU_A3": "COM", 
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Comoros", 
         "ne:SU_A3": "COM", 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 751.2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -625,19 +636,16 @@
         "alias_CZE_Q": [
           "Komory"
         ], 
-        "alias_FRE_S": [
-          "Iles Comores"
-        ], 
         "alias_FIN_Q": [
           "Komorit"
         ], 
-        "alias_GER_V": [
-          "Komoreninseln"
+        "alias_DAN_Q": [
+          "Comorerne"
         ], 
         "alias_GER_Q": [
           "Komoren"
         ], 
-        "ne:ISO_N3": 174.0, 
+        "ne:GDP_MD_EST": 751.2, 
         "lang": "ENG", 
         "ne:OID_": 112, 
         "name": "Comoros", 
@@ -645,27 +653,28 @@
         "alias_UNK_Q": [
           "Islamska zvezna republika Komori"
         ], 
-        "alias_CHI_V": [
-          "\u845b\u6469"
+        "alias_HUN_Q": [
+          "Comore-Szigetek"
         ], 
         "alias_HUN_V": [
           "Comor-szigetek"
         ], 
-        "alias_UNK_V": [
-          "Comores"
-        ], 
+        "ne:NAME_SORT": "Comoros", 
         "longitude": 43.36, 
         "ne:POP_EST": 752438.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 44.5295605878369, 
         "iso": "KM", 
         "sw_latitude": -12.380535176394673, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Comoros", 
-        "alias_FRE_Q": [
-          "Comores"
+        "alias_FRE_V": [
+          "Comores (Archipel)"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
+        "fullname": "Comoros", 
+        "alias_FRE_S": [
+          "Iles Comores"
+        ], 
+        "alias_FRE_Q": [
           "Comores"
         ]
       }, 

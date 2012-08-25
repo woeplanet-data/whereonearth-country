@@ -1785,6 +1785,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Guatemala"
@@ -1800,22 +1801,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 17.816019592394753, 
-        "alias_UNK_V": [
-          "Republika Gvatemala"
-        ], 
+        "ne:NAME_SORT": "Guatemala", 
         "placetype": "country", 
         "ne:ne_10m_adm": "GTM", 
         "alias_ENG_A": [
           "GT"
         ], 
         "ne:SUBUNIT": "Guatemala", 
-        "ne:ISO_N3": 320.0, 
         "ne:ADM0_A3": "GTM", 
+        "ne:SOVEREIGNT": "Guatemala", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u74dc\u5730\u99ac\u62c9"
         ], 
-        "ne:GDP_MD_EST": 68580.0, 
         "ne:NAME": "Guatemala", 
         "alias_CHI_V": [
           "\u5371\u5730\u9a6c\u62c9"
@@ -1840,20 +1838,22 @@
         "ne:ISO_A2": "GT", 
         "date_indexed": "2010-12-02T16:55:27Z", 
         "ne:NAME_FORMA": "Republic of Guatemala", 
+        "fullname": "Guatemala", 
         "ne:GU_A3": "GTM", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Guatemala", 
         "ne:GEOUNIT": "Guatemala", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "17238567", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Guat\u00e9mala"
+        ], 
         "ne:ABBREV": "Guat.", 
         "alias_GER_V": [
           "Republik Guatemala"
         ], 
-        "fullname": "Guatemala", 
+        "ne:ISO_N3": 320.0, 
         "lang": "ENG", 
         "name": "Guatemala", 
         "ne:TYPE": "Sovereign country", 
@@ -1861,26 +1861,50 @@
           "Gvatemala"
         ], 
         "ne:POSTAL": "GT", 
-        "ne:NAME_SORT": "Guatemala", 
+        "children": [
+          "woe:state=2345552", 
+          "woe:state=2345553", 
+          "woe:state=2345554", 
+          "woe:state=2345555", 
+          "woe:state=2345556", 
+          "woe:state=2345557", 
+          "woe:state=2345558", 
+          "woe:state=2345559", 
+          "woe:state=2345560", 
+          "woe:state=2345561", 
+          "woe:state=2345562", 
+          "woe:state=2345563", 
+          "woe:state=2345564", 
+          "woe:state=2345565", 
+          "woe:state=2345566", 
+          "woe:state=2345567", 
+          "woe:state=2345568", 
+          "woe:state=2345569", 
+          "woe:state=2345570", 
+          "woe:state=2345571", 
+          "woe:state=2345572", 
+          "woe:state=2345573"
+        ], 
+        "alias_UNK_V": [
+          "Republika Gvatemala"
+        ], 
         "longitude": -90.232, 
         "ne:POP_EST": 13276517.0, 
         "ne_longitude": -88.22073441634066, 
         "iso": "GT", 
         "sw_latitude": 13.749239400759393, 
-        "alias_FRE_V": [
-          "Guat\u00e9mala"
-        ], 
-        "ne:SOVEREIGNT": "Guatemala", 
-        "ne:SU_DIF": 0.0
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 68580.0, 
+        "wikipedia:id": "17238567"
       }, 
-      "type": "Feature", 
-      "id": 23424834, 
       "bbox": [
         -92.22924862340628, 
         13.735337632700734, 
         -88.22502275262202, 
         17.819326076727478
-      ]
+      ], 
+      "id": 23424834
     }
   ], 
   "bbox": [

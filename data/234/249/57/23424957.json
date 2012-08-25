@@ -2893,9 +2893,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Swiss"
+        ], 
+        "alias_POR_Q": [
+          "Su\u00ed\u00e7a"
         ], 
         "ne:ScaleRank": 1, 
         "alias_POL_Q": [
@@ -2909,13 +2913,10 @@
         "alias_POR_S": [
           "Suica"
         ], 
-        "ne:GU_A3": "CHE", 
         "alias_RUM_Q": [
           "Elve\u0163ia"
         ], 
-        "alias_UNK_V": [
-          "Suisu"
-        ], 
+        "ne:NAME_SORT": "Switzerland", 
         "placetype": "country", 
         "alias_KOR_V": [
           "Suweisu"
@@ -2928,21 +2929,24 @@
           "CHE"
         ], 
         "ne:SUBUNIT": "Switzerland", 
-        "ne:ISO_N3": 756.0, 
         "ne:ADM0_A3": "CHE", 
+        "ne:SOVEREIGNT": "Switzerland", 
         "alias_CHI_Q": [
           "\u745e\u58eb"
         ], 
         "alias_ITA_Q": [
           "Svizzera"
         ], 
-        "alias_DAN_Q": [
-          "Schweiz"
+        "alias_GER_V": [
+          "Schweizerische Eidgenossenschaft"
         ], 
         "alias_ITA_V": [
           "Confederazione Svizzera"
         ], 
         "ne:POSTAL": "CH", 
+        "alias_KOR_Q": [
+          "\uc2a4\uc704\uc2a4"
+        ], 
         "alias_JPN_Q": [
           "\u30b9\u30a4\u30b9"
         ], 
@@ -2977,16 +2981,16 @@
         "ne:ISO_A2": "CH", 
         "date_indexed": "2010-12-02T18:20:52Z", 
         "ne:NAME_FORMA": "Swiss Confederation", 
-        "alias_KOR_Q": [
-          "\uc2a4\uc704\uc2a4"
+        "fullname": "Schweiz, Switzerland", 
+        "alias_FRE_V": [
+          "Conf\u00e9d\u00e9ration Suisse"
         ], 
+        "ne:GU_A3": "CHE", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Switzerland", 
         "ne:SU_A3": "CHE", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 316700.0, 
         "provider": "geoplanet 7.6.0", 
-        "wikipedia:id": "26748", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -3000,52 +3004,98 @@
         "alias_FIN_Q": [
           "Sveitsi"
         ], 
-        "alias_GER_V": [
-          "Schweizerische Eidgenossenschaft"
+        "alias_DAN_Q": [
+          "Schweiz"
         ], 
-        "fullname": "Schweiz, Switzerland", 
+        "ne:ISO_N3": 756.0, 
         "ne:NAME": "Switzerland", 
         "lang": "GER", 
         "ne:OID_": 240, 
         "ne:GEOUNIT": "Switzerland", 
         "name": "Schweiz", 
         "ne:TYPE": "Sovereign country", 
+        "alias_HUN_S": [
+          "Svajc"
+        ], 
         "alias_UNK_Q": [
           "Sviss"
         ], 
         "alias_HUN_Q": [
           "Sv\u00e1jc"
         ], 
-        "ne:NAME_SORT": "Switzerland", 
+        "children": [
+          "woe:state=2347088", 
+          "woe:state=2347089", 
+          "woe:state=2347108", 
+          "woe:state=2347094", 
+          "woe:state=2347104", 
+          "woe:state=2347105", 
+          "woe:state=2347102", 
+          "woe:state=2347083", 
+          "woe:state=2347084", 
+          "woe:state=2347092", 
+          "woe:state=2347085", 
+          "woe:state=2347086", 
+          "woe:state=2347087", 
+          "woe:state=2347090", 
+          "woe:state=2347091", 
+          "woe:state=2347093", 
+          "woe:state=2347095", 
+          "woe:state=2347096", 
+          "woe:state=2347098", 
+          "woe:state=2347099", 
+          "woe:state=2347100", 
+          "woe:state=2347097", 
+          "woe:state=2347101", 
+          "woe:state=2347103", 
+          "woe:state=2347106", 
+          "woe:state=2347107", 
+          "woe:landfeature=23701988", 
+          "woe:landfeature=28742099", 
+          "woe:landfeature=55863635", 
+          "woe:landfeature=56057557", 
+          "woe:zone=24874852", 
+          "woe:zone=24874853", 
+          "woe:zone=24874854", 
+          "woe:zone=24874855", 
+          "woe:zone=24874857", 
+          "woe:zone=24874858", 
+          "woe:zone=24874861", 
+          "woe:zone=24874862", 
+          "woe:zone=24874863", 
+          "woe:zone=24874865", 
+          "woe:zone=24874866", 
+          "woe:zone=24874867", 
+          "woe:zone=24874868", 
+          "woe:zone=24874869", 
+          "woe:drainage=26354227", 
+          "woe:drainage=23485641", 
+          "woe:drainage=26354224", 
+          "woe:drainage=26354226"
+        ], 
+        "alias_UNK_V": [
+          "Suisu"
+        ], 
         "longitude": 8.224, 
         "ne:POP_EST": 7604467.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 10.466626830623994, 
         "iso": "CH", 
         "sw_latitude": 45.820718486152344, 
-        "alias_HUN_S": [
-          "Svajc"
-        ], 
-        "alias_FRE_V": [
-          "Conf\u00e9d\u00e9ration Suisse"
-        ], 
-        "ne:SOVEREIGNT": "Switzerland", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 316700.0, 
+        "wikipedia:id": "26748", 
         "alias_FRE_Q": [
           "Suisse"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Su\u00ed\u00e7a"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424957, 
       "bbox": [
         6.022609490593538, 
         45.776947740250776, 
         10.44270145024663, 
         47.83082754169129
-      ]
+      ], 
+      "id": 23424957
     }
   ], 
   "bbox": [

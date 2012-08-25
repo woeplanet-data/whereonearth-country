@@ -4399,6 +4399,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Guianese"
@@ -4414,9 +4415,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 8.557799174286018, 
-        "alias_UNK_V": [
-          "Republika Gvajana"
-        ], 
+        "ne:NAME_SORT": "Guyana", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uad6c\uc544\ub098"
@@ -4428,13 +4427,12 @@
           "\uac00\uc774\uc544\ub098"
         ], 
         "ne:SUBUNIT": "Guyana", 
-        "ne:ISO_N3": 328.0, 
         "ne:ADM0_A3": "GUY", 
+        "ne:SOVEREIGNT": "Guyana", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u84cb\u4e9e\u90a3"
         ], 
-        "ne:GDP_MD_EST": 2966.0, 
         "alias_ITA_V": [
           "Guiana"
         ], 
@@ -4461,19 +4459,19 @@
         "ne:ISO_A2": "GY", 
         "date_indexed": "2010-12-02T16:33:25Z", 
         "ne:NAME_FORMA": "Cooperative Republic of Guyana", 
+        "fullname": "Guyana", 
         "ne:GU_A3": "GUY", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Guyana", 
         "ne:GEOUNIT": "Guyana", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "17238691", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Guy.", 
         "alias_GER_V": [
           "Kooperative Republik Guyana"
         ], 
-        "fullname": "Guyana", 
+        "ne:ISO_N3": 328.0, 
         "ne:NAME": "Guyana", 
         "lang": "ENG", 
         "name": "Guyana", 
@@ -4482,25 +4480,39 @@
           "Gvajana"
         ], 
         "ne:POSTAL": "GY", 
-        "ne:NAME_SORT": "Guyana", 
+        "children": [
+          "woe:state=2345603", 
+          "woe:state=2345604", 
+          "woe:state=2345605", 
+          "woe:state=2345606", 
+          "woe:state=2345607", 
+          "woe:state=2345608", 
+          "woe:state=2345609", 
+          "woe:state=2345610", 
+          "woe:state=2345611", 
+          "woe:state=2345612"
+        ], 
+        "alias_UNK_V": [
+          "Republika Gvajana"
+        ], 
         "longitude": -58.938, 
         "ne:POP_EST": 772298.0, 
         "ne_longitude": -56.48181901100932, 
         "iso": "GY", 
         "sw_latitude": 1.18582021134462, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Guyana", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 2966.0, 
+        "wikipedia:id": "17238691", 
         "ne:ne_10m_adm": "GUY"
       }, 
-      "type": "Feature", 
-      "id": 23424836, 
       "bbox": [
         -61.410302903881956, 
         1.268088283692521, 
         -56.539385748914555, 
         8.367034816924047
-      ]
+      ], 
+      "id": 23424836
     }
   ], 
   "bbox": [

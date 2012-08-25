@@ -368,9 +368,14 @@
         "alias_ENG_V": [
           "Virgingorda"
         ], 
-        "longitude": -64.635, 
+        "alias_POR_Q": [
+          "Ilhas Virgens Brit\u00e2nicas"
+        ], 
         "alias_SWE_Q": [
           "Brittiska Jungfru\u00f6arna"
+        ], 
+        "alias_DAN_S": [
+          "De Britiske Jomfruoer"
         ], 
         "alias_SWE_S": [
           "Brittiska Jungfruoearna"
@@ -381,16 +386,21 @@
         ], 
         "ne_latitude": 18.746040344289653, 
         "ne:SUBUNIT": "British Virgin Islands", 
-        "ne:NAME_SORT": "British Virgin Islands", 
+        "ne:GU_A3": "VGB", 
+        "alias_UNK_V": [
+          "Britiske Jomfru\u00f8yene"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "VGB", 
-        "alias_ENG_A": [
-          "BVI"
+        "alias_KOR_Q": [
+          "\uc601\uad6d\ub839 \ubc84\uc9c4 \uc81c\ub3c4"
         ], 
         "alias_POR_S": [
           "Ilhas Virgens Britanicas"
         ], 
+        "ne:ISO_N3": 92.0, 
         "ne:ADM0_A3": "VGB", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u82f1\u5c5e\u7ef4\u4eac\u7fa4\u5c9b"
@@ -402,9 +412,6 @@
           "Vergini"
         ], 
         "ne:POSTAL": "VG", 
-        "alias_KOR_Q": [
-          "\uc601\uad6d\ub839 \ubc84\uc9c4 \uc81c\ub3c4"
-        ], 
         "alias_JPN_Q": [
           "\u82f1\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
         ], 
@@ -439,13 +446,13 @@
         "ne:ISO_A2": "VG", 
         "date_indexed": "2010-12-02T17:56:39Z", 
         "ne:SOV_A3": "GB1", 
-        "fullname": "British Virgin Islands", 
-        "ne:GU_A3": "VGB", 
+        "alias_ENG_A": [
+          "BVI"
+        ], 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "British Virgin Islands", 
         "ne:SU_A3": "VGB", 
         "ne:LabelRank": 8, 
-        "ne:GDP_MD_EST": 853.4, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -458,7 +465,7 @@
         "alias_DAN_Q": [
           "De Britiske Jomfru\u00f8er"
         ], 
-        "ne:ISO_N3": 92.0, 
+        "ne:GDP_MD_EST": 853.4, 
         "ne:NAME": "British Virgin Is.", 
         "lang": "ENG", 
         "ne:OID_": 51, 
@@ -467,27 +474,52 @@
           "Britiske Jomfruoyene"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_UNK_V": [
-          "Britiske Jomfru\u00f8yene"
+        "children": [
+          "woe:town=329600", 
+          "woe:town=329603", 
+          "woe:town=329605", 
+          "woe:town=329606", 
+          "woe:town=329607", 
+          "woe:town=329611", 
+          "woe:town=329615", 
+          "woe:town=329616", 
+          "woe:town=329617", 
+          "woe:town=329618", 
+          "woe:town=329619", 
+          "woe:town=329620", 
+          "woe:town=329621", 
+          "woe:island=12485812", 
+          "woe:island=12485817", 
+          "woe:island=12485766", 
+          "woe:island=12485772", 
+          "woe:island=12485774", 
+          "woe:island=12485775", 
+          "woe:island=12485776", 
+          "woe:island=12485780", 
+          "woe:island=12485781", 
+          "woe:island=12485786", 
+          "woe:island=12485794", 
+          "woe:island=12485797", 
+          "woe:island=12485798", 
+          "woe:island=12485799", 
+          "woe:island=12485802", 
+          "woe:island=12485816", 
+          "woe:island=12485813"
         ], 
-        "alias_DAN_S": [
-          "De Britiske Jomfruoer"
-        ], 
+        "ne:NAME_SORT": "British Virgin Islands", 
+        "longitude": -64.635, 
         "ne:POP_EST": 24491.0, 
         "ne:TYPE": "Dependency", 
         "ne_longitude": -64.2699999598143, 
         "iso": "VG", 
         "sw_latitude": 18.334695943844807, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "United Kingdom", 
-        "alias_FRE_Q": [
-          "\u00celes Vierges Britanniques"
-        ], 
+        "fullname": "British Virgin Islands", 
         "alias_FRE_S": [
           "Iles Vierges Britanniques"
         ], 
-        "alias_POR_Q": [
-          "Ilhas Virgens Brit\u00e2nicas"
+        "alias_FRE_Q": [
+          "\u00celes Vierges Britanniques"
         ]
       }, 
       "id": 23424983

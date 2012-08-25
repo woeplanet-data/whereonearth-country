@@ -5849,14 +5849,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424887, 
-      "bbox": [
-        87.75126427607671, 
-        41.59740957291635, 
-        119.7728239278975, 
-        52.04736603454669
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Mongolian"
@@ -5870,19 +5862,48 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 52.12958404617834, 
-        "ne:NAME_SORT": "Mongolia", 
+        "alias_UNK_V": [
+          "Mongol Ard Uls"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "MNG", 
         "alias_KOR_Q": [
           "\ubabd\uace8"
         ], 
         "ne:SUBUNIT": "Mongolia", 
+        "ne:ISO_N3": 496.0, 
         "ne:ADM0_A3": "MNG", 
-        "ne:SOVEREIGNT": "Mongolia", 
+        "children": [
+          "woe:timezone=28350819", 
+          "woe:timezone=28350828", 
+          "woe:timezone=28350862", 
+          "woe:state=2346157", 
+          "woe:state=2346159", 
+          "woe:state=2346158", 
+          "woe:state=2346174", 
+          "woe:state=20070014", 
+          "woe:state=2346160", 
+          "woe:state=2346161", 
+          "woe:state=2346162", 
+          "woe:state=2346163", 
+          "woe:state=20070015", 
+          "woe:state=2346164", 
+          "woe:state=2346165", 
+          "woe:state=2346166", 
+          "woe:state=2346167", 
+          "woe:state=2346168", 
+          "woe:state=2346169", 
+          "woe:state=2346170", 
+          "woe:state=2346171", 
+          "woe:state=2346172", 
+          "woe:state=20070016", 
+          "woe:state=2346173"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8499\u53e4"
         ], 
+        "ne:GDP_MD_EST": 9476.0, 
         "ne:NAME": "Mongolia", 
         "ne:POSTAL": "MN", 
         "alias_JPN_Q": [
@@ -5892,6 +5913,9 @@
           "\u30e2\u30f3\u30b4\u30eb\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Mong\u00f3lia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 87.73570886220375, 
         "ne:SOV_A3": "MNG", 
@@ -5904,12 +5928,14 @@
         "ne:ISO_A2": "MN", 
         "date_indexed": "2010-12-02T08:53:23Z", 
         "ne:NAME_FORMA": null, 
-        "fullname": "Mongolia", 
         "ne:GU_A3": "MNG", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Mongolia", 
         "ne:GEOUNIT": "Mongolia", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "MN"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5925,7 +5951,7 @@
         "alias_GER_Q": [
           "Mongolei"
         ], 
-        "ne:ISO_N3": 496.0, 
+        "fullname": "Mongolia", 
         "lang": "ENG", 
         "name": "Mongolia", 
         "ne:TYPE": "Sovereign country", 
@@ -5935,27 +5961,27 @@
         "alias_HUN_Q": [
           "Mong\u00f3lia"
         ], 
-        "alias_UNK_V": [
-          "Mongol Ard Uls"
-        ], 
+        "ne:NAME_SORT": "Mongolia", 
         "longitude": 103.837, 
         "ne:POP_EST": 3041142.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 119.90702681490279, 
         "iso": "MN", 
         "sw_latitude": 41.586144918086035, 
-        "alias_ENG_A": [
-          "MN"
-        ], 
-        "ne:GDP_MD_EST": 9476.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Mongolia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Mongolie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Mong\u00f3lia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424887, 
+      "bbox": [
+        87.75126427607671, 
+        41.59740957291635, 
+        119.7728239278975, 
+        52.04736603454669
+      ]
     }
   ], 
   "bbox": [

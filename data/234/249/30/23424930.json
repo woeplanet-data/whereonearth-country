@@ -937,20 +937,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424930, 
-      "bbox": [
-        50.74391076030369, 
-        24.556330878186724, 
-        51.60670047384881, 
-        26.11458201751587
-      ], 
       "properties": {
         "alias_ENG_V": [
           "State of Qatar"
-        ], 
-        "alias_HUN_Q": [
-          "Katar"
         ], 
         "alias_KOR_Q": [
           "\uce74\ud0c0\ub974"
@@ -963,7 +952,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 26.159851379342598, 
-        "ne_longitude": 51.61708662972279, 
+        "ne:NAME_SORT": "Qatar", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Catar"
@@ -972,14 +961,30 @@
           "QA"
         ], 
         "ne:SUBUNIT": "Qatar", 
+        "ne:ISO_N3": 634.0, 
         "ne:ADM0_A3": "QAT", 
-        "ne:SOVEREIGNT": "Qatar", 
+        "children": [
+          "woe:state=20070004", 
+          "woe:state=20070009", 
+          "woe:state=20070006", 
+          "woe:state=20070010", 
+          "woe:state=20070012", 
+          "woe:state=20070008", 
+          "woe:state=20070011", 
+          "woe:state=20070005", 
+          "woe:state=55922500", 
+          "woe:state=20070007"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5361\u9054"
         ], 
+        "ne:GDP_MD_EST": 91330.0, 
         "ne:NAME": "Qatar", 
         "ne:POSTAL": "QA", 
+        "alias_CZE_Q": [
+          "Katar"
+        ], 
         "alias_JPN_Q": [
           "\u30ab\u30bf\u30fc\u30eb"
         ], 
@@ -1000,20 +1005,19 @@
         "ne:ISO_A2": "QA", 
         "date_indexed": "2010-12-02T12:16:10Z", 
         "ne:NAME_FORMA": "State of Qatar", 
-        "fullname": "Qatar", 
+        "alias_CHI_V": [
+          "\u5361\u9054"
+        ], 
         "ne:GU_A3": "QAT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Qatar", 
         "ne:GEOUNIT": "Qatar", 
-        "alias_DUT_V": [
-          "Quatar"
-        ], 
         "ne:LabelRank": 2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Qatar", 
-        "alias_CZE_Q": [
-          "Katar"
+        "alias_DUT_V": [
+          "Quatar"
         ], 
         "alias_GER_V": [
           "Staat Katar"
@@ -1021,23 +1025,31 @@
         "alias_GER_Q": [
           "Katar"
         ], 
-        "ne:ISO_N3": 634.0, 
+        "fullname": "Qatar", 
         "lang": "ENG", 
         "name": "Qatar", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u5361\u9054"
+        "alias_HUN_Q": [
+          "Katar"
         ], 
-        "ne:NAME_SORT": "Qatar", 
+        "ne_longitude": 51.61708662972279, 
         "longitude": 51.197, 
         "ne:POP_EST": 833285.0, 
         "iso": "QA", 
         "sw_latitude": 24.559871521226512, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 91330.0, 
+        "ne:SOVEREIGNT": "Qatar", 
         "ne:ne_10m_adm": "QAT"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424930, 
+      "bbox": [
+        50.74391076030369, 
+        24.556330878186724, 
+        51.60670047384881, 
+        26.11458201751587
+      ]
     }
   ], 
   "bbox": [

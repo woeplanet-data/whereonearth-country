@@ -684,9 +684,6 @@
         "alias_ENG_V": [
           "Rep. Seychelles"
         ], 
-        "alias_HUN_Q": [
-          "Seychelle-Szigetek"
-        ], 
         "alias_SWE_Q": [
           "Seychellerna"
         ], 
@@ -698,8 +695,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -3.791136982966492, 
-        "ne:GU_A3": "SYC", 
-        "ne:NAME_SORT": "Seychelles", 
+        "alias_UNK_V": [
+          "Seychellerne"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc138\uc774\uc258"
@@ -712,19 +710,23 @@
           "SC"
         ], 
         "ne:SUBUNIT": "Seychelles", 
+        "ne:ISO_N3": 690.0, 
         "ne:ADM0_A3": "SYC", 
+        "ne:SOVEREIGNT": "Seychelles", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u585e\u5e2d\u723e"
         ], 
-        "ne:GDP_MD_EST": 1715.0, 
-        "alias_DAN_Q": [
-          "Seychellerne"
+        "alias_GER_V": [
+          "Republik Seychellen"
         ], 
         "alias_ITA_V": [
           "Seicelle"
         ], 
         "ne:POSTAL": "SC", 
+        "alias_KOR_Q": [
+          "\uc138\uc774\uc178"
+        ], 
         "alias_JPN_Q": [
           "\u30bb\u30fc\u30b7\u30a7\u30eb"
         ], 
@@ -747,13 +749,10 @@
         "ne:ISO_A2": "SC", 
         "date_indexed": "2010-12-02T08:53:34Z", 
         "ne:SOV_A3": "SYC", 
-        "fullname": "Seychelles", 
-        "alias_FRE_V": [
-          "\u00celes Seychelles"
+        "alias_CHI_V": [
+          "\u585e\u5e2d\u723e"
         ], 
-        "alias_KOR_Q": [
-          "\uc138\uc774\uc178"
-        ], 
+        "ne:GU_A3": "SYC", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Seychelles", 
         "ne:SU_A3": "SYC", 
@@ -770,32 +769,64 @@
         "alias_FIN_Q": [
           "Seychellit"
         ], 
-        "alias_GER_V": [
-          "Republik Seychellen"
+        "alias_DAN_Q": [
+          "Seychellerne"
         ], 
         "alias_GER_Q": [
           "Seychellen"
         ], 
-        "ne:ISO_N3": 690.0, 
+        "fullname": "Seychelles", 
         "ne:NAME": "Seychelles", 
         "lang": "ENG", 
         "ne:OID_": 224, 
         "name": "Seychelles", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u585e\u5e2d\u723e"
+        "alias_HUN_Q": [
+          "Seychelle-Szigetek"
         ], 
-        "alias_UNK_V": [
-          "Seychellerne"
+        "children": [
+          "woe:island=12466344", 
+          "woe:island=12466307", 
+          "woe:island=12466321", 
+          "woe:island=12466349", 
+          "woe:state=24549874", 
+          "woe:state=24549869", 
+          "woe:state=24549884", 
+          "woe:state=24549870", 
+          "woe:state=24549872", 
+          "woe:state=24549868", 
+          "woe:state=24549888", 
+          "woe:state=24549877", 
+          "woe:state=24549883", 
+          "woe:state=24549890", 
+          "woe:state=24549871", 
+          "woe:state=24549885", 
+          "woe:state=24549878", 
+          "woe:state=24549875", 
+          "woe:state=24549889", 
+          "woe:state=24549880", 
+          "woe:state=24549887", 
+          "woe:state=24549882", 
+          "woe:state=24549866", 
+          "woe:state=24549881", 
+          "woe:state=24549873", 
+          "woe:state=24549876", 
+          "woe:state=24549879", 
+          "woe:state=24549886", 
+          "woe:state=24549867"
         ], 
+        "ne:NAME_SORT": "Seychelles", 
         "longitude": 55.487, 
         "ne:POP_EST": 87476.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 56.287964315285365, 
         "iso": "SC", 
         "sw_latitude": -9.755682474803507, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Seychelles", 
+        "alias_FRE_V": [
+          "\u00celes Seychelles"
+        ], 
+        "ne:GDP_MD_EST": 1715.0, 
         "alias_FRE_S": [
           "Iles Seychelles"
         ]

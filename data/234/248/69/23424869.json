@@ -48,9 +48,7 @@
         "alias_RUM_Q": [
           "Insula Cr\u0103ciunului"
         ], 
-        "alias_UNK_V": [
-          "Jule\u00f8en"
-        ], 
+        "ne_longitude": 105.72, 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc544\uc77c\ub79c\ub4dc"
@@ -64,8 +62,9 @@
         "alias_ENG_A": [
           "CX"
         ], 
-        "alias_CZE_Q": [
-          "V\u00e1no\u010dn\u00ed Ostrov"
+        "children": [
+          "woe:town=1049073", 
+          "woe:island=12496118"
         ], 
         "alias_CHI_Q": [
           "\u8056\u8a95\u5cf6"
@@ -79,8 +78,8 @@
         "alias_CHI_V": [
           "\u5723\u8bde\u5c9b"
         ], 
-        "alias_GER_Q": [
-          "Weihnachtsinsel"
+        "alias_DAN_V": [
+          "Jule\u00f8en"
         ], 
         "alias_JPN_Q": [
           "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"
@@ -102,9 +101,6 @@
           "Insula Christmas"
         ], 
         "latitude": -10.496, 
-        "alias_SPA_V": [
-          "Isla Navidad"
-        ], 
         "woe:id": 23424869, 
         "alias_NOR_Q": [
           "Christmas\u00f8ya"
@@ -113,12 +109,17 @@
         "alias_KOR_Q": [
           "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_DUT_V": [
+          "Christmas Eiland"
+        ], 
+        "alias_SPA_V": [
+          "Isla Navidad"
+        ], 
         "alias_DUT_Q": [
           "Christmaseiland"
         ], 
-        "alias_DUT_V": [
-          "Christmas Eiland"
+        "alias_CZE_Q": [
+          "V\u00e1no\u010dn\u00ed Ostrov"
         ], 
         "alias_DAN_S": [
           "Juleoen"
@@ -126,9 +127,10 @@
         "alias_GER_V": [
           "Christmasinsel"
         ], 
-        "alias_DAN_V": [
-          "Jule\u00f8en"
+        "alias_GER_Q": [
+          "Weihnachtsinsel"
         ], 
+        "provider": "geoplanet 7.6.0", 
         "lang": "ENG", 
         "name": "Christmas Island", 
         "alias_UNK_S": [
@@ -137,7 +139,9 @@
         "alias_HUN_Q": [
           "Kar\u00e1csony-Sziget"
         ], 
-        "ne_longitude": 105.72, 
+        "alias_UNK_V": [
+          "Jule\u00f8en"
+        ], 
         "longitude": 105.629, 
         "iso": "CX", 
         "sw_latitude": -10.576, 

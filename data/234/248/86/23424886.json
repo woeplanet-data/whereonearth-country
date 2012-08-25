@@ -52,6 +52,27 @@
         "alias_KOR_Q": [
           "\ub9c8\uc694\ud2b8"
         ], 
+        "children": [
+          "woe:island=12465393", 
+          "woe:island=12466043", 
+          "woe:state=24549755", 
+          "woe:state=24549762", 
+          "woe:state=24549756", 
+          "woe:state=24549753", 
+          "woe:state=24549754", 
+          "woe:state=24549760", 
+          "woe:state=24549752", 
+          "woe:state=24549761", 
+          "woe:state=24549748", 
+          "woe:state=24549751", 
+          "woe:state=24549750", 
+          "woe:state=24549757", 
+          "woe:state=24549758", 
+          "woe:state=24549763", 
+          "woe:state=24549764", 
+          "woe:state=24549749", 
+          "woe:state=24549759"
+        ], 
         "alias_CHI_Q": [
           "\u99ac\u7d04\u7279"
         ], 
@@ -65,13 +86,13 @@
         "provider": "geoplanet 7.6.0", 
         "latitude": -12.825, 
         "woe:id": 23424886, 
-        "date_indexed": "2010-12-02T16:11:57Z", 
+        "sw_latitude": -13.0, 
         "lang": "ENG", 
         "name": "Mayotte", 
         "ne_longitude": 45.317, 
         "longitude": 45.137, 
         "iso": "YT", 
-        "sw_latitude": -13.0, 
+        "date_indexed": "2010-12-02T16:11:57Z", 
         "fullname": "Mayotte"
       }, 
       "id": 23424886

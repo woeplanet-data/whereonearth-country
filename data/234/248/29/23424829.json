@@ -12243,9 +12243,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "German"
+        ], 
+        "alias_HUN_Q": [
+          "N\u00e9metorsz\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Tyskland"
@@ -12261,17 +12265,15 @@
         "alias_RUM_Q": [
           "Germania"
         ], 
-        "alias_UNK_V": [
-          "Germanija"
-        ], 
+        "ne:NAME_SORT": "Germany", 
         "placetype": "country", 
         "ne:ne_10m_adm": "DEU", 
         "alias_KOR_Q": [
           "\ub3c5\uc77c"
         ], 
         "ne:SUBUNIT": "Germany", 
-        "ne:ISO_N3": 276.0, 
         "ne:ADM0_A3": "DEU", 
+        "ne:SOVEREIGNT": "Germany", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5fb7\u570b"
@@ -12279,8 +12281,8 @@
         "alias_ITA_Q": [
           "Germania"
         ], 
-        "alias_DAN_Q": [
-          "Tyskland"
+        "alias_GER_V": [
+          "Bundesrepublik Deutschland"
         ], 
         "ne:NAME": "Germany", 
         "ne:POSTAL": "D", 
@@ -12290,6 +12292,7 @@
         "alias_POL_Q": [
           "Niemcy"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30c9\u30a4\u30c4\u9023\u90a6\u5171\u548c\u56fd"
         ], 
@@ -12313,23 +12316,19 @@
         "ne:ISO_A2": "DE", 
         "date_indexed": "2010-12-02T09:50:31Z", 
         "ne:NAME_FORMA": "Federal Republic of Germany", 
-        "alias_CHI_V": [
-          "\u5fb7\u56fd"
-        ], 
+        "fullname": "Deutschland, Germany", 
         "ne:GU_A3": "DEU", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Germany", 
         "ne:SU_A3": "DEU", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 2918000.0, 
-        "alias_ENG_A": [
-          "DEU"
-        ], 
-        "wikipedia:id": "11867", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Duitsland"
+        ], 
+        "alias_POR_Q": [
+          "Alemanha"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Ger.", 
@@ -12339,10 +12338,10 @@
         "alias_FIN_Q": [
           "Deutsland"
         ], 
-        "alias_GER_V": [
-          "Bundesrepublik Deutschland"
+        "alias_DAN_Q": [
+          "Tyskland"
         ], 
-        "fullname": "Deutschland, Germany", 
+        "ne:ISO_N3": 276.0, 
         "lang": "GER", 
         "ne:OID_": 135, 
         "ne:GEOUNIT": "Germany", 
@@ -12350,40 +12349,159 @@
         "alias_UNK_S": [
           "Thyskaland"
         ], 
+        "alias_HUN_S": [
+          "Nemetorszag"
+        ], 
         "alias_UNK_Q": [
           "Alemanya"
         ], 
-        "alias_HUN_Q": [
-          "N\u00e9metorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u5fb7\u56fd"
         ], 
-        "ne:NAME_SORT": "Germany", 
+        "children": [
+          "woe:landfeature=23701991", 
+          "woe:zone=24868433", 
+          "woe:zone=24868476", 
+          "woe:zone=24868577", 
+          "woe:zone=24868579", 
+          "woe:zone=24868741", 
+          "woe:zone=24868750", 
+          "woe:zone=24868752", 
+          "woe:zone=24868779", 
+          "woe:zone=24868880", 
+          "woe:zone=24868886", 
+          "woe:zone=24869046", 
+          "woe:zone=24869092", 
+          "woe:zone=24869114", 
+          "woe:zone=24869137", 
+          "woe:zone=24869141", 
+          "woe:zone=24869144", 
+          "woe:zone=24869146", 
+          "woe:zone=24869150", 
+          "woe:zone=24869161", 
+          "woe:zone=24869175", 
+          "woe:zone=24869200", 
+          "woe:zone=24869252", 
+          "woe:zone=24869453", 
+          "woe:zone=24869584", 
+          "woe:zone=24869589", 
+          "woe:zone=24869592", 
+          "woe:zone=24869638", 
+          "woe:zone=24869640", 
+          "woe:zone=24869648", 
+          "woe:zone=24869651", 
+          "woe:zone=24869652", 
+          "woe:zone=24869804", 
+          "woe:zone=24869832", 
+          "woe:zone=24869834", 
+          "woe:zone=24869969", 
+          "woe:zone=24869991", 
+          "woe:zone=24869998", 
+          "woe:zone=24870002", 
+          "woe:zone=24870005", 
+          "woe:zone=24870020", 
+          "woe:zone=24870226", 
+          "woe:zone=24870247", 
+          "woe:zone=24870257", 
+          "woe:zone=24870258", 
+          "woe:zone=24870259", 
+          "woe:zone=24870349", 
+          "woe:zone=24870388", 
+          "woe:zone=24870435", 
+          "woe:zone=24870733", 
+          "woe:zone=24871065", 
+          "woe:zone=24871067", 
+          "woe:zone=24871107", 
+          "woe:zone=24871150", 
+          "woe:zone=24871188", 
+          "woe:zone=24871215", 
+          "woe:zone=24871228", 
+          "woe:zone=24871238", 
+          "woe:zone=24871253", 
+          "woe:zone=24871254", 
+          "woe:zone=24871262", 
+          "woe:zone=24871297", 
+          "woe:zone=24871516", 
+          "woe:zone=24871518", 
+          "woe:zone=24871550", 
+          "woe:zone=24871578", 
+          "woe:zone=24871605", 
+          "woe:zone=24871613", 
+          "woe:zone=24871632", 
+          "woe:zone=24871658", 
+          "woe:zone=24871773", 
+          "woe:zone=24871804", 
+          "woe:zone=24871805", 
+          "woe:zone=24871936", 
+          "woe:zone=24871940", 
+          "woe:zone=24871964", 
+          "woe:zone=24872037", 
+          "woe:zone=24872040", 
+          "woe:zone=24872041", 
+          "woe:zone=24872217", 
+          "woe:zone=24872221", 
+          "woe:zone=24872223", 
+          "woe:zone=24872226", 
+          "woe:zone=24872534", 
+          "woe:zone=24873032", 
+          "woe:zone=24873210", 
+          "woe:zone=24873457", 
+          "woe:island=12474549", 
+          "woe:island=12474551", 
+          "woe:island=12474510", 
+          "woe:island=12474552", 
+          "woe:state=2345481", 
+          "woe:state=2345482", 
+          "woe:state=2345496", 
+          "woe:state=2345491", 
+          "woe:state=2345483", 
+          "woe:state=2345484", 
+          "woe:state=2345485", 
+          "woe:state=2345492", 
+          "woe:state=2345486", 
+          "woe:state=2345487", 
+          "woe:state=2345488", 
+          "woe:state=2345489", 
+          "woe:state=2345493", 
+          "woe:state=2345494", 
+          "woe:state=2345490", 
+          "woe:state=2345495", 
+          "woe:drainage=26354225", 
+          "woe:drainage=26354177", 
+          "woe:drainage=26354236", 
+          "woe:drainage=26354237", 
+          "woe:drainage=26354129", 
+          "woe:drainage=26354392", 
+          "woe:drainage=26354238", 
+          "woe:historicalstate=24602926", 
+          "woe:historicalstate=24602927"
+        ], 
+        "alias_UNK_V": [
+          "Germanija"
+        ], 
         "longitude": 10.454, 
         "ne:POP_EST": 82329758.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 15.022059366567618, 
         "iso": "DE", 
         "sw_latitude": 47.27112091090886, 
-        "alias_HUN_S": [
-          "Nemetorszag"
-        ], 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Germany", 
-        "alias_FRE_Q": [
-          "Allemagne"
+        "alias_ENG_A": [
+          "DEU"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Alemanha"
+        "ne:GDP_MD_EST": 2918000.0, 
+        "wikipedia:id": "11867", 
+        "alias_FRE_Q": [
+          "Allemagne"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424829, 
       "bbox": [
         5.988658074577813, 
         47.30248769793917, 
         15.016995883858783, 
         54.98310415304803
-      ]
+      ], 
+      "id": 23424829
     }
   ], 
   "bbox": [

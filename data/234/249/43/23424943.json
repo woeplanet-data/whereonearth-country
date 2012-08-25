@@ -5449,9 +5449,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Senegal"
+        ], 
+        "alias_HUN_Q": [
+          "Szeneg\u00e1l"
         ], 
         "ne:ScaleRank": 1, 
         "alias_ENG_P": [
@@ -5462,13 +5466,10 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 16.691385396877337, 
-        "ne:POSTAL": "SN", 
         "alias_RUM_Q": [
           "Senegal"
         ], 
-        "alias_UNK_V": [
-          "Republika Senegal"
-        ], 
+        "ne:NAME_SORT": "Senegal", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Senegal"
@@ -5477,8 +5478,8 @@
           "\uc138\ub124\uac08"
         ], 
         "ne:SUBUNIT": "Senegal", 
-        "ne:ISO_N3": 686.0, 
         "ne:ADM0_A3": "SEN", 
+        "ne:SOVEREIGNT": "Senegal", 
         "alias_SWE_Q": [
           "Senegal"
         ], 
@@ -5488,13 +5489,11 @@
         "alias_ITA_Q": [
           "Senegal"
         ], 
-        "alias_DAN_Q": [
-          "Senegal"
+        "alias_GER_V": [
+          "Republik Senegal"
         ], 
         "ne:NAME": "Senegal", 
-        "alias_CHI_V": [
-          "\u585e\u5185\u52a0\u5c14"
-        ], 
+        "ne:POSTAL": "SN", 
         "alias_JPN_Q": [
           "\u30bb\u30cd\u30ac\u30eb"
         ], 
@@ -5522,15 +5521,15 @@
         "ne:ISO_A2": "SN", 
         "date_indexed": "2010-12-02T08:57:23Z", 
         "ne:NAME_FORMA": "Republic of Senegal", 
+        "fullname": "S\u00e9n\u00e9gal, Senegal", 
+        "alias_FRE_V": [
+          "R\u00e9publique du S\u00e9n\u00e9gal"
+        ], 
         "ne:GU_A3": "SEN", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Senegal", 
         "ne:GEOUNIT": "Senegal", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 21980.0, 
-        "alias_ENG_A": [
-          "SN"
-        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5544,43 +5543,60 @@
         "alias_FIN_Q": [
           "Senegal"
         ], 
-        "alias_GER_V": [
-          "Republik Senegal"
+        "alias_DAN_Q": [
+          "Senegal"
         ], 
         "alias_GER_Q": [
           "Senegal"
         ], 
-        "fullname": "S\u00e9n\u00e9gal, Senegal", 
+        "ne:ISO_N3": 686.0, 
         "lang": "FRE", 
         "ne:OID_": 223, 
         "name": "S\u00e9n\u00e9gal", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Szeneg\u00e1l"
+        "alias_CHI_V": [
+          "\u585e\u5185\u52a0\u5c14"
         ], 
-        "ne:NAME_SORT": "Senegal", 
+        "children": [
+          "woe:state=2346988", 
+          "woe:state=2346989", 
+          "woe:state=2346994", 
+          "woe:state=56055612", 
+          "woe:state=2346995", 
+          "woe:state=2346996", 
+          "woe:state=56055613", 
+          "woe:state=2346993", 
+          "woe:state=56055615", 
+          "woe:state=2346990", 
+          "woe:state=56055614", 
+          "woe:state=2346991", 
+          "woe:state=2346992", 
+          "woe:state=2346997"
+        ], 
+        "alias_UNK_V": [
+          "Republika Senegal"
+        ], 
         "longitude": -14.446, 
         "ne:POP_EST": 13711597.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -11.37777624523406, 
         "iso": "SN", 
         "sw_latitude": 12.305606587504883, 
-        "alias_FRE_V": [
-          "R\u00e9publique du S\u00e9n\u00e9gal"
+        "alias_ENG_A": [
+          "SN"
         ], 
-        "ne:SOVEREIGNT": "Senegal", 
+        "ne:GDP_MD_EST": 21980.0, 
         "wikipedia:id": "27278", 
         "ne:ne_10m_adm": "SEN"
       }, 
-      "type": "Feature", 
-      "id": 23424943, 
       "bbox": [
         -17.62504269049066, 
         12.332089952031057, 
         -11.467899135778524, 
         16.59826365810281
-      ]
+      ], 
+      "id": 23424943
     }
   ], 
   "bbox": [

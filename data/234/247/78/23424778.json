@@ -2867,9 +2867,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Ceylon"
+        ], 
+        "alias_HUN_Q": [
+          "Sr\u00ed Lanka"
         ], 
         "alias_ENG_A": [
           "LK"
@@ -2880,9 +2884,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 9.82942698172505, 
-        "alias_UNK_V": [
-          "Sr\u00ed-Lanka"
-        ], 
+        "ne:NAME_SORT": "Sri Lanka", 
         "placetype": "country", 
         "alias_POR_V": [
           "Sri Lanca"
@@ -2892,13 +2894,12 @@
           "\uc2a4\ub9ac\ub791\uce74"
         ], 
         "ne:SUBUNIT": "Sri Lanka", 
-        "ne:ISO_N3": 144.0, 
         "ne:ADM0_A3": "LKA", 
+        "ne:SOVEREIGNT": "Sri Lanka", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u91cc\u862d\u5361"
         ], 
-        "ne:GDP_MD_EST": 91870.0, 
         "ne:NAME": "Sri Lanka", 
         "ne:POSTAL": "LK", 
         "alias_JPN_Q": [
@@ -2925,9 +2926,7 @@
         "ne:ISO_A2": "LK", 
         "date_indexed": "2010-12-02T17:56:32Z", 
         "ne:NAME_FORMA": "Democratic Socialist Republic of Sri Lanka", 
-        "alias_CHI_V": [
-          "\u65af\u91cc\u5170\u5361"
-        ], 
+        "fullname": "Sri Lanka", 
         "ne:GU_A3": "LKA", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Sri Lanka", 
@@ -2946,17 +2945,30 @@
         "alias_GER_V": [
           "Demokratische Sozialistische Republik Sri Lanka"
         ], 
-        "fullname": "Sri Lanka", 
+        "ne:ISO_N3": 144.0, 
         "lang": "ENG", 
         "name": "Sri Lanka", 
         "alias_UNK_S": [
           "Sri-Lanka"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Sr\u00ed Lanka"
+        "alias_CHI_V": [
+          "\u65af\u91cc\u5170\u5361"
         ], 
-        "ne:NAME_SORT": "Sri Lanka", 
+        "children": [
+          "woe:island=12467072", 
+          "woe:state=2344959", 
+          "woe:state=2344960", 
+          "woe:state=2344961", 
+          "woe:state=2344962", 
+          "woe:state=2344963", 
+          "woe:state=2344964", 
+          "woe:state=2344965", 
+          "woe:state=2344966"
+        ], 
+        "alias_UNK_V": [
+          "Sr\u00ed-Lanka"
+        ], 
         "longitude": 80.79, 
         "ne:POP_EST": 21324791.0, 
         "ne:TYPE": "Sovereign country", 
@@ -2964,17 +2976,16 @@
         "iso": "LK", 
         "sw_latitude": 5.923567199535029, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Sri Lanka", 
+        "ne:GDP_MD_EST": 91870.0, 
         "wikipedia:id": "26750"
       }, 
-      "type": "Feature", 
-      "id": 23424778, 
       "bbox": [
         79.69516686393513, 
         5.968369859232155, 
         81.7879590188914, 
         9.824077663609557
-      ]
+      ], 
+      "id": 23424778
     }
   ], 
   "bbox": [

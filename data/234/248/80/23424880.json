@@ -1253,14 +1253,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424880, 
-      "bbox": [
-        26.999261915807637, 
-        -30.645105889612225, 
-        29.32516645683259, 
-        -28.64750172293757
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Lesotho"
@@ -1274,7 +1266,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -28.570761413812363, 
-        "ne:NAME_SORT": "Lesotho", 
+        "alias_UNK_V": [
+          "Kraljevina Lesoto"
+        ], 
         "placetype": "country", 
         "alias_POR_Q": [
           "Lesoto"
@@ -1283,12 +1277,25 @@
           "\ub808\uc18c\ud1a0"
         ], 
         "ne:SUBUNIT": "Lesotho", 
+        "ne:ISO_N3": 426.0, 
         "ne:ADM0_A3": "LSO", 
-        "ne:SOVEREIGNT": "Lesotho", 
+        "children": [
+          "woe:state=20069865", 
+          "woe:state=20069862", 
+          "woe:state=20069863", 
+          "woe:state=20069869", 
+          "woe:state=20069870", 
+          "woe:state=20069868", 
+          "woe:state=20069861", 
+          "woe:state=20069866", 
+          "woe:state=20069867", 
+          "woe:state=20069864"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8cf4\u7d22\u6258"
         ], 
+        "ne:GDP_MD_EST": 3293.0, 
         "ne:NAME": "Lesotho", 
         "alias_CHI_V": [
           "\u8cf4\u7d22\u6258"
@@ -1317,7 +1324,6 @@
         "ne:ISO_A2": "LS", 
         "date_indexed": "2010-12-02T08:57:23Z", 
         "ne:NAME_FORMA": "Republic of Lesotho", 
-        "fullname": "Lesotho", 
         "ne:GU_A3": "LSO", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Lesotho", 
@@ -1330,7 +1336,7 @@
         "alias_GER_V": [
           "K\u00f6nigreich Lesotho"
         ], 
-        "ne:ISO_N3": 426.0, 
+        "fullname": "Lesotho", 
         "alias_GER_S": [
           "Konigreich Lesotho"
         ], 
@@ -1339,18 +1345,24 @@
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "LS", 
-        "alias_UNK_V": [
-          "Kraljevina Lesoto"
-        ], 
+        "ne:NAME_SORT": "Lesotho", 
         "longitude": 28.247, 
         "ne:POP_EST": 2130819.0, 
         "ne_longitude": 29.43590824351935, 
         "iso": "LS", 
         "sw_latitude": -30.65879933704518, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 3293.0, 
+        "ne:SOVEREIGNT": "Lesotho", 
         "ne:ne_10m_adm": "LSO"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424880, 
+      "bbox": [
+        26.999261915807637, 
+        -30.645105889612225, 
+        29.32516645683259, 
+        -28.64750172293757
+      ]
     }
   ], 
   "bbox": [

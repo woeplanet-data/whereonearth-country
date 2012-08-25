@@ -915,6 +915,22 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:island=12485323", 
+          "woe:island=12485294", 
+          "woe:island=12485304", 
+          "woe:island=12485308", 
+          "woe:island=12485313", 
+          "woe:island=12485332", 
+          "woe:island=12485316", 
+          "woe:island=12485329", 
+          "woe:state=24549929", 
+          "woe:state=24549932", 
+          "woe:state=24549934", 
+          "woe:state=24549933", 
+          "woe:state=24549930", 
+          "woe:state=24549931"
+        ], 
         "alias_ITA_Q": [
           "Isole Turks e Caicos"
         ], 
@@ -946,8 +962,8 @@
         "ne:NAME_SORT": "Turks and Caicos Islands", 
         "ne:POP_EST": 22942.0, 
         "ne:GDP_MD_EST": 216.0, 
-        "alias_ENG_A": [
-          "TC"
+        "alias_KOR_Q": [
+          "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"
         ], 
         "alias_POR_V": [
           "Ilhas Turks e Caicos"
@@ -999,8 +1015,8 @@
           "\ud22c\ub974\ud06c & \uce74\uc774\ucf54\uc2a4 \uad70\ub3c4"
         ], 
         "ne:ne_10m_adm": "TCA", 
-        "alias_KOR_Q": [
-          "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"
+        "alias_ENG_A": [
+          "TC"
         ], 
         "ne:SUBUNIT": "Turks and Caicos Islands", 
         "alias_CHI_Q": [
@@ -1009,12 +1025,14 @@
         "alias_CHI_V": [
           "\u7279\u514b\u65af\u4e0e\u51ef\u79d1\u65af\u7fa4\u5c9b"
         ], 
-        "alias_SWE_S": [
-          "Turks- och Caicosoarna"
+        "alias_POL_Q": [
+          "Turks I Caicos"
         ], 
         "sw_longitude": -72.48050655174913, 
         "ne:SOV_A3": "GB1", 
-        "ne_latitude": 21.959074198239122, 
+        "alias_RUM_V": [
+          "Insulele Turks \u015fi Caicos"
+        ], 
         "ne:OID_": 60, 
         "ne:ISO_A3": "TCA", 
         "ne:ISO_A2": "TC", 
@@ -1046,12 +1064,10 @@
         "alias_SWE_Q": [
           "Turks- och Caicos\u00f6arna"
         ], 
-        "alias_POL_Q": [
-          "Turks I Caicos"
+        "alias_SWE_S": [
+          "Turks- och Caicosoarna"
         ], 
-        "alias_RUM_V": [
-          "Insulele Turks \u015fi Caicos"
-        ], 
+        "ne_latitude": 21.959074198239122, 
         "alias_RUM_Q": [
           "Insulele Turks \u015ei Caicos"
         ], 

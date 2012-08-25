@@ -77163,14 +77163,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 28289409, 
-      "bbox": [
-        -180.0, 
-        -90.0, 
-        180.00000000000014, 
-        -63.27066048950458
-      ], 
       "properties": {
         "ne:ScaleRank": 1, 
         "ne:LEVEL": 2.0, 
@@ -77179,22 +77171,22 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -60.51625335736412, 
-        "ne:GU_A3": "ATA", 
-        "ne_longitude": 180.0000000000001, 
+        "ne:NAME_SORT": "Antarctica", 
         "placetype": "country", 
         "ne:ne_10m_adm": "ATA", 
         "alias_KOR_Q": [
           "\ub0a8\uadf9 \ub300\ub959"
         ], 
         "ne:SUBUNIT": "Antarctica", 
+        "ne:ISO_N3": 10.0, 
         "ne:ADM0_A3": "ATA", 
-        "ne:SOVEREIGNT": "Antarctica", 
         "alias_SWE_Q": [
           "Antraktis"
         ], 
         "alias_CHI_Q": [
           "\u5357\u6781\u6d32"
         ], 
+        "ne:GDP_MD_EST": 0.0, 
         "ne:NAME": "Antarctica", 
         "alias_FIN_Q": [
           "Antarktis"
@@ -77202,7 +77194,6 @@
         "alias_JPN_Q": [
           "\u5357\u6975"
         ], 
-        "fullname": "Antarctica", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": "Multiple claims held in abeyance", 
         "sw_longitude": -179.99900834195893, 
@@ -77218,34 +77209,43 @@
         "ne:ISO_A2": "AQ", 
         "sw_latitude": -89.99982838943765, 
         "ne:NAME_FORMA": null, 
-        "alias_ENG_A": [
-          "AQ"
-        ], 
+        "ne:GU_A3": "ATA", 
         "ne:MAP_COLOR": 0.0, 
         "ne:ADMIN": "Antarctica", 
         "ne:GEOUNIT": "Antarctica", 
         "ne:LabelRank": 2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Ant.", 
         "alias_DAN_Q": [
           "Antarktis"
         ], 
-        "ne:ISO_N3": 10.0, 
+        "ne:SOVEREIGNT": "Antarctica", 
         "lang": "ENG", 
         "ne:OID_": 69, 
         "name": "Antarctica", 
         "ne:TYPE": "Indeterminate", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "AQ", 
-        "ne:NAME_SORT": "Antarctica", 
+        "ne_longitude": 180.0000000000001, 
         "longitude": 0.0, 
         "ne:POP_EST": 4000.0, 
         "iso": "AQ", 
         "date_indexed": "2010-12-02T16:32:46Z", 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 0.0
-      }
+        "alias_ENG_A": [
+          "AQ"
+        ], 
+        "fullname": "Antarctica"
+      }, 
+      "type": "Feature", 
+      "id": 28289409, 
+      "bbox": [
+        -180.0, 
+        -90.0, 
+        180.00000000000014, 
+        -63.27066048950458
+      ]
     }
   ], 
   "bbox": [

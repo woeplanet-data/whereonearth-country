@@ -16543,6 +16543,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Socialist Republic of Vietnam"
@@ -16556,8 +16557,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 23.366275126250443, 
-        "ne:GU_A3": "VNM", 
-        "ne:NAME_SORT": "Vietnam", 
+        "ne_longitude": 109.47283166569775, 
         "placetype": "country", 
         "alias_POR_V": [
           "Vietn\u00e3"
@@ -16567,14 +16567,16 @@
           "VN"
         ], 
         "ne:SUBUNIT": "Vietnam", 
-        "ne:ISO_N3": 704.0, 
         "ne:ADM0_A3": "VNM", 
+        "ne:SOVEREIGNT": "Vietnam", 
         "alias_CHI_Q": [
           "\u8d8a\u5357"
         ], 
-        "ne:GDP_MD_EST": 241700.0, 
         "ne:NAME": "Vietnam", 
         "ne:POSTAL": "VN", 
+        "alias_KOR_Q": [
+          "\ubca0\ud2b8\ub0a8"
+        ], 
         "alias_JPN_Q": [
           "\u30d9\u30c8\u30ca\u30e0"
         ], 
@@ -16583,6 +16585,9 @@
           "\u30d9\u30c8\u30ca\u30e0\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Vietname"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 102.11865523288668, 
         "ne:SOV_A3": "VNM", 
@@ -16595,53 +16600,119 @@
         "ne:ISO_A2": "VN", 
         "date_indexed": "2010-12-02T08:52:49Z", 
         "ne:NAME_FORMA": "Socialist Republic of Vietnam", 
-        "alias_KOR_Q": [
-          "\ubca0\ud2b8\ub0a8"
-        ], 
+        "fullname": "Vietnam", 
+        "ne:GU_A3": "VNM", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Vietnam", 
         "ne:GEOUNIT": "Vietnam", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "202354", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "Viet Nam"
+        ], 
         "ne:ABBREV": "Viet.", 
         "alias_DUT_V": [
           "Viet-Nam"
         ], 
-        "fullname": "Vietnam", 
+        "ne:ISO_N3": 704.0, 
         "lang": "ENG", 
         "name": "Vietnam", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "V\u00edetnam"
         ], 
-        "ne_longitude": 109.47283166569775, 
+        "children": [
+          "woe:island=12502645", 
+          "woe:island=12502649", 
+          "woe:island=12502653", 
+          "woe:island=12502654", 
+          "woe:state=2347719", 
+          "woe:state=2347729", 
+          "woe:state=20070087", 
+          "woe:state=20070084", 
+          "woe:state=20070081", 
+          "woe:state=20070088", 
+          "woe:state=2347703", 
+          "woe:state=20070078", 
+          "woe:state=20070086", 
+          "woe:state=2347730", 
+          "woe:state=2347731", 
+          "woe:state=20070082", 
+          "woe:state=2347732", 
+          "woe:state=2347704", 
+          "woe:state=20070085", 
+          "woe:state=28301719", 
+          "woe:state=2347720", 
+          "woe:state=28301718", 
+          "woe:state=2347721", 
+          "woe:state=2347722", 
+          "woe:state=2347733", 
+          "woe:state=2347734", 
+          "woe:state=2347741", 
+          "woe:state=2347727", 
+          "woe:state=2347735", 
+          "woe:state=2347736", 
+          "woe:state=20070080", 
+          "woe:state=2347707", 
+          "woe:state=28301720", 
+          "woe:state=2347728", 
+          "woe:state=2347737", 
+          "woe:state=20070079", 
+          "woe:state=2347738", 
+          "woe:state=2347723", 
+          "woe:state=20070076", 
+          "woe:state=2347708", 
+          "woe:state=2347709", 
+          "woe:state=2347718", 
+          "woe:state=2347740", 
+          "woe:state=2347710", 
+          "woe:state=20070089", 
+          "woe:state=2347742", 
+          "woe:state=2347743", 
+          "woe:state=2347744", 
+          "woe:state=20070091", 
+          "woe:state=2347745", 
+          "woe:state=2347746", 
+          "woe:state=2347711", 
+          "woe:state=20070077", 
+          "woe:state=2347712", 
+          "woe:state=2347747", 
+          "woe:state=2347748", 
+          "woe:state=2347713", 
+          "woe:state=2347714", 
+          "woe:state=2347716", 
+          "woe:state=20070083", 
+          "woe:state=2347715", 
+          "woe:state=2347749", 
+          "woe:state=2347717", 
+          "woe:state=2347750", 
+          "woe:state=2347751", 
+          "woe:state=2347752", 
+          "woe:state=20070090", 
+          "woe:state=2347753", 
+          "woe:drainage=55863661"
+        ], 
+        "ne:NAME_SORT": "Vietnam", 
         "longitude": 107.868, 
         "ne:POP_EST": 86967524.0, 
         "iso": "VN", 
         "sw_latitude": 8.565395609871203, 
-        "alias_FRE_V": [
-          "Viet Nam"
-        ], 
-        "ne:SOVEREIGNT": "Vietnam", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 241700.0, 
+        "wikipedia:id": "202354", 
         "alias_FRE_Q": [
           "Vi\u00eat Nam"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Vietname"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424984, 
       "bbox": [
         102.17043582561358, 
         8.599759629750494, 
         109.33526981001722, 
         23.352063300056912
-      ]
+      ], 
+      "id": 23424984
     }
   ], 
   "bbox": [

@@ -373,19 +373,20 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -5.677688496490504, 
-        "ne_longitude": 179.9066719974308, 
+        "ne:NAME_SORT": "Tuvalu", 
         "placetype": "country", 
         "ne:ne_10m_adm": "TUV", 
         "alias_KOR_Q": [
           "\ud22c\ubc1c\ub8e8"
         ], 
         "ne:SUBUNIT": "Tuvalu", 
+        "ne:ISO_N3": 798.0, 
         "ne:ADM0_A3": "TUV", 
+        "ne:SOVEREIGNT": "Tuvalu", 
         "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u5410\u74e6\u9b6f"
         ], 
-        "ne:GDP_MD_EST": 14.94, 
         "ne:NAME": "Tuvalu", 
         "alias_CHI_V": [
           "\u5410\u74e6\u9b6f"
@@ -393,7 +394,6 @@
         "alias_JPN_Q": [
           "\u30c4\u30d0\u30eb"
         ], 
-        "fullname": "Tuvalu", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": 176.1254557699703, 
@@ -414,23 +414,35 @@
         "ne:LabelRank": 5, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "\u00celes Tuvalu"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Tuv.", 
-        "ne:ISO_N3": 798.0, 
+        "ne:GDP_MD_EST": 14.94, 
         "lang": "ENG", 
         "name": "Tuvalu", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "TV", 
-        "ne:NAME_SORT": "Tuvalu", 
+        "children": [
+          "woe:island=12502327", 
+          "woe:state=24549921", 
+          "woe:state=24549916", 
+          "woe:state=24549924", 
+          "woe:state=24549917", 
+          "woe:state=24549918", 
+          "woe:state=24549923", 
+          "woe:state=24549922", 
+          "woe:state=24549920", 
+          "woe:state=24549919"
+        ], 
+        "ne_longitude": 179.9066719974308, 
         "longitude": 178.691, 
         "ne:POP_EST": 12373.0, 
         "iso": "TV", 
         "sw_latitude": -9.420715840453823, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Tuvalu", 
+        "alias_FRE_V": [
+          "\u00celes Tuvalu"
+        ], 
+        "fullname": "Tuvalu", 
         "alias_FRE_S": [
           "Iles Tuvalu"
         ]

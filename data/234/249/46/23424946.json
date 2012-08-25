@@ -2767,14 +2767,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424946, 
-      "bbox": [
-        -13.246550258832515, 
-        6.785916856305747, 
-        -10.23009355309128, 
-        10.046983954300558
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Sierra Leone"
@@ -2788,7 +2780,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 9.996005961351628, 
-        "ne:NAME_SORT": "Sierra Leone", 
+        "alias_UNK_V": [
+          "Republika Sierra Leone"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc2dc\uc5d0\ub77c \ub9ac\uc628"
@@ -2800,12 +2794,19 @@
           "SL"
         ], 
         "ne:SUBUNIT": "Sierra Leone", 
+        "ne:ISO_N3": 694.0, 
         "ne:ADM0_A3": "SLE", 
-        "ne:SOVEREIGNT": "Sierra Leone", 
+        "children": [
+          "woe:state=2347000", 
+          "woe:state=2347001", 
+          "woe:state=2347002", 
+          "woe:state=2347003"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7345\u5b50\u5c71"
         ], 
+        "ne:GDP_MD_EST": 4285.0, 
         "ne:NAME": "Sierra Leone", 
         "alias_CHI_V": [
           "\u7345\u5b50\u5c71"
@@ -2832,7 +2833,6 @@
         "ne:ISO_A2": "SL", 
         "date_indexed": "2010-12-02T12:08:44Z", 
         "ne:NAME_FORMA": "Republic of Sierra Leone", 
-        "fullname": "Sierra Leone", 
         "ne:GU_A3": "SLE", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Sierra Leone", 
@@ -2844,24 +2844,30 @@
         "alias_GER_V": [
           "Republik Sierra Leone"
         ], 
-        "ne:ISO_N3": 694.0, 
+        "fullname": "Sierra Leone", 
         "lang": "ENG", 
         "name": "Sierra Leone", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "SL", 
-        "alias_UNK_V": [
-          "Republika Sierra Leone"
-        ], 
+        "ne:NAME_SORT": "Sierra Leone", 
         "longitude": -11.796, 
         "ne:POP_EST": 6440053.0, 
         "ne_longitude": -10.282235880888777, 
         "iso": "SL", 
         "sw_latitude": 6.919268697473413, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 4285.0, 
+        "ne:SOVEREIGNT": "Sierra Leone", 
         "ne:ne_10m_adm": "SLE"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424946, 
+      "bbox": [
+        -13.246550258832515, 
+        6.785916856305747, 
+        -10.23009355309128, 
+        10.046983954300558
+      ]
     }
   ], 
   "bbox": [

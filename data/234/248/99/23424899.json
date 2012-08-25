@@ -5576,9 +5576,6 @@
         "alias_ENG_V": [
           "Rep. Maldives"
         ], 
-        "alias_HUN_Q": [
-          "Mald\u00edv-Szigetek"
-        ], 
         "ne:ScaleRank": 3, 
         "alias_POL_Q": [
           "Malediwy"
@@ -5588,11 +5585,12 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 7.107060851852253, 
-        "ne:GU_A3": "MDV", 
         "alias_RUM_Q": [
           "Maldive"
         ], 
-        "ne:NAME_SORT": "Maldives", 
+        "alias_UNK_V": [
+          "Maldiverne"
+        ], 
         "placetype": "country", 
         "alias_POR_Q": [
           "Maldivas"
@@ -5601,7 +5599,9 @@
           "\ubab0\ub514\ube0c"
         ], 
         "ne:SUBUNIT": "Maldives", 
+        "ne:ISO_N3": 462.0, 
         "ne:ADM0_A3": "MDV", 
+        "ne:SOVEREIGNT": "Maldives", 
         "alias_SWE_Q": [
           "Maldiverna"
         ], 
@@ -5611,8 +5611,8 @@
         "alias_ITA_Q": [
           "Maldive"
         ], 
-        "alias_DAN_Q": [
-          "Maldiverne"
+        "alias_GER_V": [
+          "Republik Malediven"
         ], 
         "ne:NAME": "Maldives", 
         "ne:POSTAL": "MV", 
@@ -5641,15 +5641,14 @@
         "ne:ISO_A2": "MV", 
         "date_indexed": "2010-12-02T09:35:37Z", 
         "ne:SOV_A3": "MDV", 
-        "fullname": "Maldives", 
-        "alias_ENG_A": [
-          "MV"
+        "alias_CHI_V": [
+          "\u99ac\u723e\u5730\u592b"
         ], 
+        "ne:GU_A3": "MDV", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Maldives", 
         "ne:SU_A3": "MDV", 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 1716.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5662,13 +5661,13 @@
         "alias_FIN_Q": [
           "Malediivit"
         ], 
-        "alias_GER_V": [
-          "Republik Malediven"
+        "alias_DAN_Q": [
+          "Maldiverne"
         ], 
         "alias_GER_Q": [
           "Malediven"
         ], 
-        "ne:ISO_N3": 462.0, 
+        "ne:GDP_MD_EST": 1716.0, 
         "lang": "ENG", 
         "ne:OID_": 177, 
         "name": "Maldives", 
@@ -5679,19 +5678,58 @@
         "alias_UNK_Q": [
           "Maldivi"
         ], 
-        "alias_CHI_V": [
-          "\u99ac\u723e\u5730\u592b"
+        "alias_HUN_Q": [
+          "Mald\u00edv-Szigetek"
         ], 
-        "alias_UNK_V": [
-          "Maldiverne"
+        "children": [
+          "woe:island=12468394", 
+          "woe:island=12468418", 
+          "woe:island=12468471", 
+          "woe:island=12468504", 
+          "woe:island=12508985", 
+          "woe:island=55863664", 
+          "woe:island=12468574", 
+          "woe:island=12468579", 
+          "woe:island=12468608", 
+          "woe:island=12468652", 
+          "woe:island=12509032", 
+          "woe:island=12509033", 
+          "woe:island=12468718", 
+          "woe:island=12468675", 
+          "woe:island=12468793", 
+          "woe:island=12509076", 
+          "woe:state=20070319", 
+          "woe:state=20070316", 
+          "woe:state=20070322", 
+          "woe:state=20070321", 
+          "woe:state=20070328", 
+          "woe:state=20070327", 
+          "woe:state=20070326", 
+          "woe:state=20070312", 
+          "woe:state=20070318", 
+          "woe:state=20070330", 
+          "woe:state=20070325", 
+          "woe:state=20070313", 
+          "woe:state=20070331", 
+          "woe:state=20070323", 
+          "woe:state=20070315", 
+          "woe:state=20070317", 
+          "woe:state=20070329", 
+          "woe:state=20070314", 
+          "woe:state=20070324", 
+          "woe:state=20070320"
         ], 
+        "ne:NAME_SORT": "Maldives", 
         "longitude": 73.155, 
         "ne:POP_EST": 396334.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 73.7535649006428, 
         "iso": "MV", 
         "sw_latitude": -0.68869069411663, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Maldives", 
+        "alias_ENG_A": [
+          "MV"
+        ], 
+        "fullname": "Maldives", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "MDV"
       }, 

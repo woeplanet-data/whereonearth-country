@@ -19399,14 +19399,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424926, 
-      "bbox": [
-        141.00021040259188, 
-        -10.652476088099931, 
-        156.01996544822478, 
-        -2.500002129734028
-      ], 
       "properties": {
         "alias_POL_V": [
           "Papua Nowa Gwinea"
@@ -19414,8 +19406,8 @@
         "alias_ENG_V": [
           "Papuanewguinea"
         ], 
-        "alias_HUN_Q": [
-          "P\u00e1pua \u00daj-Guinea"
+        "alias_POR_Q": [
+          "Papua-Nova Guin\u00e9"
         ], 
         "alias_SWE_Q": [
           "Papua Nya Guinea"
@@ -19429,10 +19421,11 @@
         ], 
         "ne_latitude": -1.346531677011328, 
         "ne:SUBUNIT": "Papua New Guinea", 
+        "ne:GU_A3": "PNG", 
         "alias_RUM_Q": [
           "Papua Noua Guinee"
         ], 
-        "ne_longitude": 155.96787479708075, 
+        "ne:NAME_SORT": "Papua New Guinea", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
@@ -19447,8 +19440,52 @@
         "alias_POR_S": [
           "Papuasia-Nova Guine"
         ], 
+        "ne:ISO_N3": 598.0, 
         "ne:ADM0_A3": "PNG", 
-        "ne:SOVEREIGNT": "Papua New Guinea", 
+        "children": [
+          "woe:island=12498717", 
+          "woe:island=12498725", 
+          "woe:island=12498726", 
+          "woe:island=12498728", 
+          "woe:island=12498731", 
+          "woe:island=12498824", 
+          "woe:island=12498743", 
+          "woe:island=12498746", 
+          "woe:island=12498751", 
+          "woe:island=12498761", 
+          "woe:island=12498825", 
+          "woe:island=12498769", 
+          "woe:island=12498774", 
+          "woe:island=12498230", 
+          "woe:island=12498827", 
+          "woe:island=12498783", 
+          "woe:island=12498786", 
+          "woe:island=12498791", 
+          "woe:island=12498798", 
+          "woe:island=12498801", 
+          "woe:island=12498812", 
+          "woe:island=12498817", 
+          "woe:state=2346581", 
+          "woe:state=2346588", 
+          "woe:state=2346590", 
+          "woe:state=2346591", 
+          "woe:state=2346589", 
+          "woe:state=2346599", 
+          "woe:state=2346582", 
+          "woe:state=2346592", 
+          "woe:state=2346593", 
+          "woe:state=2346583", 
+          "woe:state=2346594", 
+          "woe:state=2346600", 
+          "woe:state=2346595", 
+          "woe:state=2346587", 
+          "woe:state=2346584", 
+          "woe:state=2346598", 
+          "woe:state=2346585", 
+          "woe:state=2346597", 
+          "woe:state=2346586", 
+          "woe:state=2346596"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
@@ -19456,19 +19493,13 @@
         "alias_ITA_Q": [
           "Papua Nuova Guinea"
         ], 
-        "alias_GER_V": [
-          "Unabh\u00e4ngiger Staat Papua-Neuguinea"
+        "alias_DAN_Q": [
+          "Papua Ny Guinea"
         ], 
         "alias_ITA_V": [
           "Papuasia-Nuova Guinea"
         ], 
         "ne:POSTAL": "PG", 
-        "alias_KOR_Q": [
-          "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
-        ], 
-        "alias_CZE_Q": [
-          "Papua-Nov\u00e1 Guinea"
-        ], 
         "alias_JPN_Q": [
           "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
         ], 
@@ -19497,15 +19528,20 @@
         "ne:ISO_A2": "PG", 
         "date_indexed": "2010-12-02T09:57:28Z", 
         "ne:NAME_FORMA": "Independent State of Papua New Guinea", 
-        "fullname": "Papua New Guinea", 
-        "alias_FRE_V": [
-          "Papouasie-Nouvelle Guin\u00e9e"
+        "alias_CHI_V": [
+          "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
         ], 
-        "ne:GU_A3": "PNG", 
+        "alias_KOR_Q": [
+          "\ud30c\ud478\uc544 \ub274\uae30\ub2c8"
+        ], 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Papua New Guinea", 
         "ne:GEOUNIT": "Papua New Guinea", 
+        "alias_DUT_V": [
+          "Papoea Nieuw Guinea"
+        ], 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 13210.0, 
         "alias_SPA_V": [
           "Pap\u00faa-Nueva Guinea"
         ], 
@@ -19518,22 +19554,19 @@
           "Papua-Nova Guinea"
         ], 
         "ne:ABBREV": "P.N.G.", 
-        "alias_DUT_V": [
-          "Papoea Nieuw Guinea"
-        ], 
-        "alias_FRE_S": [
-          "Papouasie Nouvelle Guinee"
+        "alias_CZE_Q": [
+          "Papua-Nov\u00e1 Guinea"
         ], 
         "alias_FIN_Q": [
           "Papua-Uusi-Guinea"
         ], 
-        "alias_DAN_Q": [
-          "Papua Ny Guinea"
+        "alias_GER_V": [
+          "Unabh\u00e4ngiger Staat Papua-Neuguinea"
         ], 
         "alias_GER_Q": [
           "Papua-Neuguinea"
         ], 
-        "ne:ISO_N3": 598.0, 
+        "fullname": "Papua New Guinea", 
         "alias_GER_S": [
           "Unabhaengiger Staat Papua-Neuguinea"
         ], 
@@ -19548,24 +19581,35 @@
         "alias_UNK_Q": [
           "Papua Nova Gvineja"
         ], 
-        "alias_CHI_V": [
-          "\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e"
+        "alias_HUN_Q": [
+          "P\u00e1pua \u00daj-Guinea"
         ], 
-        "ne:NAME_SORT": "Papua New Guinea", 
+        "ne_longitude": 155.96787479708075, 
         "longitude": 145.859, 
         "ne:POP_EST": 6057263.0, 
+        "ne:GEOU_DIF": 0.0, 
         "iso": "PG", 
         "sw_latitude": -11.63639455189579, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 13210.0, 
-        "alias_FRE_Q": [
-          "Papouasie-Nouvelle-Guin\u00e9e"
+        "alias_FRE_V": [
+          "Papouasie-Nouvelle Guin\u00e9e"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Papua-Nova Guin\u00e9"
+        "ne:SOVEREIGNT": "Papua New Guinea", 
+        "alias_FRE_S": [
+          "Papouasie Nouvelle Guinee"
+        ], 
+        "alias_FRE_Q": [
+          "Papouasie-Nouvelle-Guin\u00e9e"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424926, 
+      "bbox": [
+        141.00021040259188, 
+        -10.652476088099931, 
+        156.01996544822478, 
+        -2.500002129734028
+      ]
     }
   ], 
   "bbox": [

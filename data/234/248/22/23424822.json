@@ -5783,14 +5783,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424822, 
-      "bbox": [
-        8.79799563969317, 
-        -3.978826592630547, 
-        14.425455763413595, 
-        2.326757513839993
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Gabonese Republic"
@@ -5805,7 +5797,9 @@
         ], 
         "ne_latitude": 2.322495015824273, 
         "ne:SUBUNIT": "Gabon", 
-        "ne:NAME_SORT": "Gabon", 
+        "alias_UNK_V": [
+          "Gabonska republika"
+        ], 
         "placetype": "country", 
         "alias_POR_Q": [
           "Gab\u00e3o"
@@ -5816,12 +5810,24 @@
         "alias_POR_S": [
           "Gabao"
         ], 
+        "ne:ISO_N3": 266.0, 
         "ne:ADM0_A3": "GAB", 
-        "ne:SOVEREIGNT": "Gabon", 
+        "children": [
+          "woe:state=2345449", 
+          "woe:state=2345450", 
+          "woe:state=2345451", 
+          "woe:state=2345452", 
+          "woe:state=2345453", 
+          "woe:state=2345454", 
+          "woe:state=2345455", 
+          "woe:state=2345456", 
+          "woe:state=2345457"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u52a0\u5f6d"
         ], 
+        "ne:GDP_MD_EST": 21110.0, 
         "ne:NAME": "Gabon", 
         "alias_CHI_V": [
           "\u52a0\u5f6d"
@@ -5848,7 +5854,6 @@
         "ne:ISO_A2": "GA", 
         "date_indexed": "2010-12-02T08:50:01Z", 
         "ne:NAME_FORMA": "Gabonese Republic", 
-        "fullname": "Gabon", 
         "ne:GU_A3": "GAB", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Gabon", 
@@ -5863,24 +5868,30 @@
         "alias_GER_Q": [
           "Gabun"
         ], 
-        "ne:ISO_N3": 266.0, 
+        "fullname": "Gabon", 
         "lang": "ENG", 
         "name": "Gabon", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "GA", 
-        "alias_UNK_V": [
-          "Gabonska republika"
-        ], 
+        "ne:NAME_SORT": "Gabon", 
         "longitude": 11.599, 
         "ne:POP_EST": 1514993.0, 
         "ne_longitude": 14.498990519482504, 
         "iso": "GA", 
         "sw_latitude": -3.913403421829102, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 21110.0, 
+        "ne:SOVEREIGNT": "Gabon", 
         "ne:ne_10m_adm": "GAB"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424822, 
+      "bbox": [
+        8.79799563969317, 
+        -3.978826592630547, 
+        14.425455763413595, 
+        2.326757513839993
+      ]
     }
   ], 
   "bbox": [

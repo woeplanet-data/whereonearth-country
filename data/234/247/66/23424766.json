@@ -8995,40 +8995,33 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424766, 
-      "bbox": [
-        156.49135786359133, 
-        -10.82636728276212, 
-        162.39864586817222, 
-        -6.59933847415148
-      ], 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Solomon Islander"
         ], 
-        "alias_HUN_Q": [
-          "Salamon-Szigetek"
+        "alias_POR_Q": [
+          "Ilhas Salom\u00e3o"
         ], 
         "alias_SWE_Q": [
           "Salomon\u00f6arna"
+        ], 
+        "alias_SWE_S": [
+          "Salomonoarna"
         ], 
         "hierarchy": [
           "woe:country=23424766", 
           "woe:planet=1"
         ], 
-        "alias_SWE_S": [
-          "Salomonoarna"
-        ], 
-        "alias_FIN_Q": [
-          "Salomonsaaret"
-        ], 
         "ne_latitude": -6.600112812800234, 
         "ne:SUBUNIT": "Solomon Islands", 
+        "ne:GU_A3": "SLB", 
         "alias_RUM_Q": [
           "Insulele Solomon"
         ], 
-        "ne:NAME_SORT": "Solomon Islands", 
+        "alias_UNK_V": [
+          "Salomon\u00f8erne"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc194\ub85c\ubaac"
@@ -9040,8 +9033,26 @@
         "alias_POR_S": [
           "Ilhas Salomao"
         ], 
+        "ne:ISO_N3": 90.0, 
         "ne:ADM0_A3": "SLB", 
-        "ne:SOVEREIGNT": "Solomon Islands", 
+        "children": [
+          "woe:island=12488853", 
+          "woe:island=12489140", 
+          "woe:island=12489142", 
+          "woe:island=12489144", 
+          "woe:island=12488176", 
+          "woe:island=12488603", 
+          "woe:island=12489189", 
+          "woe:island=12489194", 
+          "woe:island=12488857", 
+          "woe:state=2344838", 
+          "woe:state=2344839", 
+          "woe:state=2344840", 
+          "woe:state=2344841", 
+          "woe:state=2344836", 
+          "woe:state=20069919", 
+          "woe:state=2344837"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7d22\u7f85\u9580\u7fa4\u5cf6"
@@ -9049,31 +9060,27 @@
         "alias_ITA_Q": [
           "Isole Salomone"
         ], 
-        "alias_GER_V": [
-          "Solomon-Inseln"
+        "alias_DAN_Q": [
+          "Salomon\u00f8erne"
         ], 
         "alias_ITA_V": [
           "Salomone, isole"
         ], 
         "ne:POSTAL": "SB", 
-        "alias_KOR_Q": [
-          "\uc194\ub85c\ubaac \uc81c\ub3c4"
-        ], 
-        "alias_CZE_Q": [
-          "\u0160alamounovy Ostrovy"
-        ], 
         "alias_JPN_Q": [
           "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6"
         ], 
         "alias_POL_Q": [
           "Wyspy Salomona"
         ], 
-        "fullname": "Solomon Islands", 
+        "ne:GEOU_DIF": 0.0, 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Islas Salom\u00f3n"
         ], 
-        "ne:TERR_": null, 
+        "alias_FIN_Q": [
+          "Salomonsaaret"
+        ], 
         "alias_SPA_S": [
           "Islas Salomon"
         ], 
@@ -9095,14 +9102,20 @@
         "ne:ISO_A2": "SB", 
         "date_indexed": "2010-12-02T09:35:31Z", 
         "ne:NAME_FORMA": null, 
-        "alias_FRE_V": [
-          "\u00celes Salomon"
+        "alias_CHI_V": [
+          "\u7d22\u7f85\u9580\u7fa4\u5cf6"
         ], 
-        "ne:GU_A3": "SLB", 
+        "alias_KOR_Q": [
+          "\uc194\ub85c\ubaac \uc81c\ub3c4"
+        ], 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Solomon Islands", 
         "ne:SU_A3": "SLB", 
+        "alias_DUT_V": [
+          "Salomoneilanden"
+        ], 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 1078.0, 
         "alias_SPA_V": [
           "Salom\u00f3n"
         ], 
@@ -9113,22 +9126,19 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "S. Is.", 
-        "alias_DUT_V": [
-          "Salomoneilanden"
-        ], 
-        "alias_FRE_S": [
-          "Iles Salomon"
+        "alias_CZE_Q": [
+          "\u0160alamounovy Ostrovy"
         ], 
         "alias_DAN_S": [
           "Salomonoerne"
         ], 
-        "alias_DAN_Q": [
-          "Salomon\u00f8erne"
+        "alias_GER_V": [
+          "Solomon-Inseln"
         ], 
         "alias_GER_Q": [
           "Salomonen"
         ], 
-        "ne:ISO_N3": 90.0, 
+        "fullname": "Solomon Islands", 
         "ne:NAME": "Solomon Is.", 
         "lang": "ENG", 
         "ne:OID_": 229, 
@@ -9138,12 +9148,10 @@
         "alias_UNK_Q": [
           "Salomonovi otoki"
         ], 
-        "alias_CHI_V": [
-          "\u7d22\u7f85\u9580\u7fa4\u5cf6"
+        "alias_HUN_Q": [
+          "Salamon-Szigetek"
         ], 
-        "alias_UNK_V": [
-          "Salomon\u00f8erne"
-        ], 
+        "ne:NAME_SORT": "Solomon Islands", 
         "longitude": 160.209, 
         "ne:POP_EST": 595613.0, 
         "alias_UNK_S": [
@@ -9152,16 +9160,26 @@
         "ne_longitude": 168.82579797426672, 
         "iso": "SB", 
         "sw_latitude": -12.290566507754974, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 1078.0, 
-        "alias_FRE_Q": [
-          "Salomon"
+        "alias_FRE_V": [
+          "\u00celes Salomon"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Ilhas Salom\u00e3o"
+        "ne:SOVEREIGNT": "Solomon Islands", 
+        "alias_FRE_S": [
+          "Iles Salomon"
+        ], 
+        "alias_FRE_Q": [
+          "Salomon"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424766, 
+      "bbox": [
+        156.49135786359133, 
+        -10.82636728276212, 
+        162.39864586817222, 
+        -6.59933847415148
+      ]
     }
   ], 
   "bbox": [

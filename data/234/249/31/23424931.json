@@ -58,6 +58,13 @@
         "alias_POR_S": [
           "Reuniao"
         ], 
+        "children": [
+          "woe:island=12466271", 
+          "woe:state=24549829", 
+          "woe:state=24549830", 
+          "woe:state=24549831", 
+          "woe:state=24549828"
+        ], 
         "alias_CHI_Q": [
           "\u7559\u5c3c\u65fa"
         ], 

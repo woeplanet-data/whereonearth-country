@@ -121,8 +121,8 @@
         "alias_ENG_V": [
           "Norfolk Islander"
         ], 
-        "alias_HUN_Q": [
-          "Norfolk-Sziget"
+        "alias_POR_Q": [
+          "Ilha Norfolk"
         ], 
         "alias_SWE_Q": [
           "Norfolk\u00f6n"
@@ -135,11 +135,10 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -28.99760874468373, 
-        "ne:GU_A3": "NFK", 
         "alias_RUM_Q": [
           "Insula Norfolk"
         ], 
-        "ne_longitude": 167.99659794159055, 
+        "ne:NAME_SORT": "Norfolk Island", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ub178\ud3ec\ud06c \uc12c"
@@ -149,7 +148,9 @@
           "NF"
         ], 
         "ne:SUBUNIT": "Norfolk Island", 
+        "ne:ISO_N3": 574.0, 
         "ne:ADM0_A3": "NFK", 
+        "ne:SOVEREIGNT": "Australia", 
         "ne:ScaleRank": 5, 
         "alias_CHI_Q": [
           "\u8afe\u798f\u514b\u5cf6"
@@ -161,13 +162,19 @@
           "Norfolk, isola"
         ], 
         "ne:POSTAL": "NF", 
+        "alias_KOR_Q": [
+          "\ub178\ud37d \uc12c"
+        ], 
+        "alias_CZE_Q": [
+          "Norfolk"
+        ], 
         "alias_JPN_Q": [
           "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
         ], 
         "alias_POL_Q": [
           "Norfolk"
         ], 
-        "fullname": "Norfolk Island", 
+        "ne:GEOU_DIF": 0.0, 
         "ne:FIPS_10_": 0.0, 
         "alias_SPA_Q": [
           "Isla Norfolk"
@@ -189,20 +196,14 @@
         "ne:ISO_A2": "NF", 
         "date_indexed": "2010-12-02T16:42:51Z", 
         "ne:SOV_A3": "AU1", 
-        "alias_FRE_V": [
-          "Norfolk, \u00eele"
+        "alias_CHI_V": [
+          "\u8bfa\u798f\u514b\u5c9b"
         ], 
-        "alias_KOR_Q": [
-          "\ub178\ud37d \uc12c"
-        ], 
+        "ne:GU_A3": "NFK", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Norfolk Island", 
         "ne:SU_A3": "NFK", 
-        "alias_DUT_V": [
-          "Norfolk eiland"
-        ], 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 0.0, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "alias_DUT_Q": [
@@ -210,11 +211,8 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Nfk. I.", 
-        "alias_CZE_Q": [
-          "Norfolk"
-        ], 
-        "alias_FRE_S": [
-          "Ile Norfolk"
+        "alias_DUT_V": [
+          "Norfolk eiland"
         ], 
         "alias_FIN_Q": [
           "Norfolkinsaari"
@@ -225,7 +223,7 @@
         "alias_GER_Q": [
           "Norfolkinsel"
         ], 
-        "ne:ISO_N3": 574.0, 
+        "ne:GDP_MD_EST": 0.0, 
         "ne:NAME": "Norfolk Island", 
         "lang": "ENG", 
         "ne:OID_": 35, 
@@ -237,10 +235,14 @@
         "alias_UNK_Q": [
           "Norfolk\u00f8ya"
         ], 
-        "alias_CHI_V": [
-          "\u8bfa\u798f\u514b\u5c9b"
+        "alias_HUN_Q": [
+          "Norfolk-Sziget"
         ], 
-        "ne:NAME_SORT": "Norfolk Island", 
+        "children": [
+          "woe:town=1049697", 
+          "woe:island=12486670"
+        ], 
+        "ne_longitude": 167.99659794159055, 
         "longitude": 168.05, 
         "ne:POP_EST": 2141.0, 
         "alias_UNK_S": [
@@ -248,14 +250,16 @@
         ], 
         "iso": "NF", 
         "sw_latitude": -29.07998097773816, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Australia", 
-        "alias_FRE_Q": [
-          "\u00cele Norfolk"
+        "alias_FRE_V": [
+          "Norfolk, \u00eele"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Ilha Norfolk"
+        "fullname": "Norfolk Island", 
+        "alias_FRE_S": [
+          "Ile Norfolk"
+        ], 
+        "alias_FRE_Q": [
+          "\u00cele Norfolk"
         ]
       }, 
       "id": 23424905

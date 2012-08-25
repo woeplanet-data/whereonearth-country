@@ -1999,6 +1999,20 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:island=12473108", 
+          "woe:island=12473081", 
+          "woe:island=12473100", 
+          "woe:state=24549689", 
+          "woe:state=24549693", 
+          "woe:state=24549690", 
+          "woe:state=24549695", 
+          "woe:state=24549696", 
+          "woe:state=24549697", 
+          "woe:state=24549691", 
+          "woe:state=24549692", 
+          "woe:state=24549694"
+        ], 
         "alias_ITA_S": [
           "Isole Faeroeer"
         ], 
@@ -2027,8 +2041,8 @@
         "ne:NAME_SORT": "Faroe Islands", 
         "ne:POP_EST": 48856.0, 
         "ne:GDP_MD_EST": 1000.0, 
-        "alias_ENG_A": [
-          "FO"
+        "alias_KOR_Q": [
+          "\ud398\ub85c \uc81c\ub3c4"
         ], 
         "alias_POR_V": [
           "Ilhas Faro\u00e9"
@@ -2085,8 +2099,8 @@
           "\ud30c\ub85c\uc5d0 \uad70\ub3c4"
         ], 
         "ne:ne_10m_adm": "FRO", 
-        "alias_KOR_Q": [
-          "\ud398\ub85c \uc81c\ub3c4"
+        "alias_ENG_A": [
+          "FO"
         ], 
         "ne:SUBUNIT": "Faroe Islands", 
         "alias_CHI_Q": [

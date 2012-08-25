@@ -28467,6 +28467,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_POL_V": [
           "Zjednoczone Kr\u00f3lestwo Wielkiej Brytanii"
@@ -28476,6 +28477,9 @@
         ], 
         "alias_SWE_V": [
           "F\u00f6renade Konungariket"
+        ], 
+        "alias_HUN_Q": [
+          "Egyes\u00fclt Kir\u00e1lys\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Storbritannien"
@@ -28491,18 +28495,15 @@
         "alias_RUM_Q": [
           "Regatul Unit Al Marii Britanii \u015ei Al Irlandei de Nord"
         ], 
-        "ne:NAME_SORT": "United Kingdom", 
+        "ne_longitude": 1.771705363085943, 
         "placetype": "country", 
-        "alias_RUM_V": [
-          "Regatul Unit"
-        ], 
         "ne:ne_10m_adm": "GBR", 
         "alias_KOR_Q": [
           "\uc601\uad6d"
         ], 
         "ne:SUBUNIT": "United Kingdom", 
-        "ne:ISO_N3": 826.0, 
         "ne:ADM0_A3": "GBR", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u82f1\u570b"
@@ -28510,15 +28511,15 @@
         "alias_ITA_Q": [
           "Regno Unito"
         ], 
-        "alias_DAN_Q": [
-          "Storbritannien"
+        "alias_GER_V": [
+          "Gro\u00dfbritannien und Nordirland"
         ], 
         "alias_ITA_V": [
           "Regnounito"
         ], 
         "ne:POSTAL": "GB", 
-        "alias_DAN_V": [
-          "Det Forenede Kongerige Storbritannien og Nordirland"
+        "alias_GER_Q": [
+          "Vereinigtes K\u00f6nigreich"
         ], 
         "alias_JPN_Q": [
           "\u30a4\u30ae\u30ea\u30b9"
@@ -28539,8 +28540,13 @@
         "alias_FIN_V": [
           "Iso-Britannia"
         ], 
-        "provider": "geoplanet 7.6.0", 
+        "alias_RUM_V": [
+          "Regatul Unit"
+        ], 
         "latitude": 54.314, 
+        "alias_SPA_V": [
+          "Reinounido"
+        ], 
         "woe:id": 23424975, 
         "alias_NOR_Q": [
           "Storbritannia"
@@ -28551,23 +28557,23 @@
         "ne:ISO_A2": "GB", 
         "date_indexed": "2010-12-02T12:21:01Z", 
         "ne:NAME_FORMA": "United Kingdom of Great Britain and Northern Ireland", 
-        "alias_CHI_V": [
-          "\u8054\u5408\u738b\u56fd"
+        "fullname": "United Kingdom", 
+        "alias_FRE_V": [
+          "Grande Bretagne"
         ], 
         "ne:GU_A3": "GBR", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "United Kingdom", 
         "ne:SU_A3": "GBR", 
         "ne:LabelRank": 7, 
-        "ne:GDP_MD_EST": 2226000.0, 
-        "alias_SPA_V": [
-          "Reinounido"
-        ], 
-        "wikipedia:id": "31717", 
+        "provider": "geoplanet 7.6.0", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Verenigd Koninkrijk"
+        ], 
+        "alias_POR_Q": [
+          "Reino Unido"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "U.K.", 
@@ -28577,13 +28583,13 @@
         "alias_FIN_Q": [
           "Yhdistynyt Kuningaskunta"
         ], 
-        "alias_GER_V": [
-          "Gro\u00dfbritannien und Nordirland"
+        "alias_DAN_Q": [
+          "Storbritannien"
         ], 
-        "alias_GER_Q": [
-          "Vereinigtes K\u00f6nigreich"
+        "alias_DAN_V": [
+          "Det Forenede Kongerige Storbritannien og Nordirland"
         ], 
-        "fullname": "United Kingdom", 
+        "ne:ISO_N3": 826.0, 
         "alias_GER_S": [
           "Vereinigtes Koenigreich"
         ], 
@@ -28596,42 +28602,63 @@
           "Velk\u00e1 Brit\u00e1nie"
         ], 
         "ne:TYPE": "Country", 
+        "ne:ISO_A3": "GBR", 
         "alias_UNK_Q": [
           "Y Deyrnas Unedig"
         ], 
-        "alias_HUN_Q": [
-          "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+        "alias_CHI_V": [
+          "\u8054\u5408\u738b\u56fd"
         ], 
-        "ne_longitude": 1.771705363085943, 
+        "children": [
+          "woe:colloquial=56070812", 
+          "woe:colloquial=28298150", 
+          "woe:state=24548836", 
+          "woe:state=24554868", 
+          "woe:state=23424847", 
+          "woe:state=20070563", 
+          "woe:state=12578048", 
+          "woe:state=12578049", 
+          "woe:zone=24874902", 
+          "woe:zone=24874941", 
+          "woe:zone=24874943", 
+          "woe:zone=24875108", 
+          "woe:zone=24875141", 
+          "woe:zone=24875144", 
+          "woe:zone=24875180", 
+          "woe:zone=24875192", 
+          "woe:zone=24875203", 
+          "woe:zone=24875258", 
+          "woe:zone=24875290", 
+          "woe:zone=24875407", 
+          "woe:zone=24875436", 
+          "woe:zone=24875445", 
+          "woe:island=12476175", 
+          "woe:island=12480881", 
+          "woe:island=28298958"
+        ], 
+        "ne:NAME_SORT": "United Kingdom", 
         "longitude": -2.23, 
         "ne:POP_EST": 61113205.0, 
-        "ne:GEOU_DIF": 0.0, 
         "iso": "GB", 
         "sw_latitude": 49.90961619098756, 
-        "ne:ISO_A3": "GBR", 
-        "alias_FRE_V": [
-          "Grande Bretagne"
-        ], 
-        "ne:SOVEREIGNT": "United Kingdom", 
-        "alias_FRE_Q": [
-          "Royaume Uni"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 2226000.0, 
         "alias_ENG_A": [
           "GBR"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Reino Unido"
+        "wikipedia:id": "31717", 
+        "alias_FRE_Q": [
+          "Royaume Uni"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424975, 
       "bbox": [
         -7.572167934591079, 
         49.95999990498109, 
         1.681530795914739, 
         58.63500010846633
-      ]
+      ], 
+      "id": 23424975
     }
   ], 
   "bbox": [

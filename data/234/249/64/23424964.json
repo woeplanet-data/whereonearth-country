@@ -973,19 +973,22 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -15.55961761465258, 
-        "ne:NAME_SORT": "Tonga", 
+        "alias_UNK_V": [
+          "Kraljevina Tonga"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "TON", 
         "alias_ENG_A": [
           "TO"
         ], 
         "ne:SUBUNIT": "Tonga", 
+        "ne:ISO_N3": 776.0, 
         "ne:ADM0_A3": "TON", 
+        "ne:SOVEREIGNT": "Tonga", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u6771\u52a0"
         ], 
-        "ne:GDP_MD_EST": 549.0, 
         "ne:NAME": "Tonga", 
         "alias_CHI_V": [
           "\u6c64\u52a0"
@@ -1009,25 +1012,19 @@
         "ne:ISO_A2": "TO", 
         "date_indexed": "2010-12-02T17:58:27Z", 
         "ne:SOV_A3": "TON", 
-        "fullname": "Tonga", 
         "ne:GU_A3": "TON", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Tonga", 
         "ne:SU_A3": "TON", 
         "ne:LabelRank": 5, 
         "ne:FeatureCla": "Adm-0 country", 
-        "alias_UNK_V": [
-          "Kraljevina Tonga"
-        ], 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "\u00celes Tonga"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Tongo", 
         "alias_GER_V": [
           "K\u00f6nigreich Tonga"
         ], 
-        "ne:ISO_N3": 776.0, 
+        "fullname": "Tonga", 
         "alias_GER_S": [
           "Koenigreich Tonga"
         ], 
@@ -1036,13 +1033,28 @@
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "TO", 
-        "ne_longitude": -173.71427567669966, 
+        "children": [
+          "woe:island=12502252", 
+          "woe:island=12502305", 
+          "woe:island=12502157", 
+          "woe:island=12502299", 
+          "woe:island=12502303", 
+          "woe:island=12502306", 
+          "woe:island=12502269", 
+          "woe:state=2347209", 
+          "woe:state=2347210", 
+          "woe:state=2347211"
+        ], 
+        "ne:NAME_SORT": "Tonga", 
         "longitude": -175.196, 
         "ne:POP_EST": 120898.0, 
+        "ne_longitude": -173.71427567669966, 
         "iso": "TO", 
         "sw_latitude": -22.33884206155129, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Tonga", 
+        "alias_FRE_V": [
+          "\u00celes Tonga"
+        ], 
+        "ne:GDP_MD_EST": 549.0, 
         "alias_FRE_S": [
           "Iles Tonga"
         ]

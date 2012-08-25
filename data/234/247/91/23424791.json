@@ -3223,6 +3223,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Costa Rica"
@@ -3238,22 +3239,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 11.209937031952862, 
-        "alias_UNK_V": [
-          "Republika Kostarika"
-        ], 
+        "ne:NAME_SORT": "Costa Rica", 
         "placetype": "country", 
         "ne:ne_10m_adm": "CRI", 
         "alias_KOR_Q": [
           "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
         ], 
         "ne:SUBUNIT": "Costa Rica", 
-        "ne:ISO_N3": 188.0, 
         "ne:ADM0_A3": "CRI", 
+        "ne:SOVEREIGNT": "Costa Rica", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u54e5\u65af\u5927\u9ece\u52a0"
         ], 
-        "ne:GDP_MD_EST": 48320.0, 
         "ne:NAME": "Costa Rica", 
         "alias_CHI_V": [
           "\u54e5\u65af\u5927\u9ece\u52a0"
@@ -3278,12 +3276,12 @@
         "ne:ISO_A2": "CR", 
         "date_indexed": "2010-12-02T12:16:27Z", 
         "ne:NAME_FORMA": "Republic of Costa Rica", 
+        "fullname": "Costa Rica", 
         "ne:GU_A3": "CRI", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Costa Rica", 
         "ne:GEOUNIT": "Costa Rica", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "5551", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "C.R.", 
@@ -3293,7 +3291,7 @@
         "alias_GER_V": [
           "Republik Costa Rica"
         ], 
-        "fullname": "Costa Rica", 
+        "ne:ISO_N3": 188.0, 
         "lang": "ENG", 
         "name": "Costa Rica", 
         "alias_UNK_S": [
@@ -3303,7 +3301,19 @@
           "Kostarika"
         ], 
         "ne:POSTAL": "CR", 
-        "ne:NAME_SORT": "Costa Rica", 
+        "children": [
+          "woe:state=2345082", 
+          "woe:state=2345083", 
+          "woe:state=2345084", 
+          "woe:state=2345085", 
+          "woe:state=2345086", 
+          "woe:state=2345087", 
+          "woe:state=2345088", 
+          "woe:landfeature=55863652"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kostarika"
+        ], 
         "longitude": -84.253, 
         "ne:POP_EST": 4253877.0, 
         "ne:TYPE": "Sovereign country", 
@@ -3311,17 +3321,17 @@
         "iso": "CR", 
         "sw_latitude": 5.514884134892483, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Costa Rica", 
-        "ne:SU_DIF": 0.0
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 48320.0, 
+        "wikipedia:id": "5551"
       }, 
-      "type": "Feature", 
-      "id": 23424791, 
       "bbox": [
         -85.94172543002176, 
         8.225027980985985, 
         -82.54619625520348, 
         11.217119248901597
-      ]
+      ], 
+      "id": 23424791
     }
   ], 
   "bbox": [

@@ -2069,20 +2069,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424874, 
-      "bbox": [
-        21.055800408622417, 
-        55.615106919977634, 
-        28.176709425577997, 
-        57.97015696881519
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Latvia"
         ], 
-        "alias_HUN_Q": [
-          "Lettorsz\u00e1g"
+        "alias_POR_Q": [
+          "Let\u00f3nia"
         ], 
         "alias_SWE_Q": [
           "Lettland"
@@ -2098,7 +2090,7 @@
         "alias_RUM_Q": [
           "Letonia"
         ], 
-        "ne_longitude": 28.217274617127657, 
+        "ne:NAME_SORT": "Latvia", 
         "placetype": "country", 
         "alias_POR_V": [
           "Let\u00f4nia"
@@ -2108,8 +2100,183 @@
           "\ub77c\ud2b8\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Latvia", 
+        "ne:ISO_N3": 428.0, 
         "ne:ADM0_A3": "LVA", 
-        "ne:SOVEREIGNT": "Latvia", 
+        "children": [
+          "woe:landfeature=56058403", 
+          "woe:state=56190554", 
+          "woe:state=55844325", 
+          "woe:state=56190543", 
+          "woe:state=56190531", 
+          "woe:state=56190583", 
+          "woe:state=56190533", 
+          "woe:state=56190569", 
+          "woe:state=55844556", 
+          "woe:state=56190524", 
+          "woe:state=56190545", 
+          "woe:state=56190541", 
+          "woe:state=56190579", 
+          "woe:state=56190553", 
+          "woe:state=56190555", 
+          "woe:state=56190548", 
+          "woe:state=56190596", 
+          "woe:state=55844477", 
+          "woe:state=56190525", 
+          "woe:state=56190575", 
+          "woe:state=56190515", 
+          "woe:state=55844530", 
+          "woe:state=56190536", 
+          "woe:state=56190565", 
+          "woe:state=56190593", 
+          "woe:state=20070122", 
+          "woe:state=56190547", 
+          "woe:state=56190567", 
+          "woe:state=55844641", 
+          "woe:state=56190550", 
+          "woe:state=56190572", 
+          "woe:state=56190577", 
+          "woe:state=56190568", 
+          "woe:state=55844621", 
+          "woe:state=56190557", 
+          "woe:state=55844357", 
+          "woe:state=56190562", 
+          "woe:state=56190592", 
+          "woe:state=56190581", 
+          "woe:state=56190556", 
+          "woe:state=20070120", 
+          "woe:state=56190591", 
+          "woe:state=56190528", 
+          "woe:state=56190598", 
+          "woe:state=20070119", 
+          "woe:state=55844299", 
+          "woe:state=56190513", 
+          "woe:state=56190585", 
+          "woe:state=56190534", 
+          "woe:state=55844426", 
+          "woe:state=56190576", 
+          "woe:state=56190573", 
+          "woe:state=55844184", 
+          "woe:state=20070118", 
+          "woe:state=56190586", 
+          "woe:state=56190587", 
+          "woe:state=56190544", 
+          "woe:state=56190551", 
+          "woe:state=55844714", 
+          "woe:state=56190538", 
+          "woe:state=56190588", 
+          "woe:state=56190512", 
+          "woe:state=56190522", 
+          "woe:state=56190546", 
+          "woe:state=56190563", 
+          "woe:state=56190523", 
+          "woe:state=55844512", 
+          "woe:state=56190514", 
+          "woe:state=55844264", 
+          "woe:state=56190539", 
+          "woe:state=56190594", 
+          "woe:state=56190578", 
+          "woe:state=55844399", 
+          "woe:state=56190584", 
+          "woe:state=56190540", 
+          "woe:state=56190582", 
+          "woe:state=55844470", 
+          "woe:state=56190564", 
+          "woe:state=55844402", 
+          "woe:state=56190520", 
+          "woe:state=56190526", 
+          "woe:state=56190571", 
+          "woe:state=20070121", 
+          "woe:state=20070123", 
+          "woe:state=56190597", 
+          "woe:state=56190589", 
+          "woe:state=56190559", 
+          "woe:state=56190521", 
+          "woe:state=55844352", 
+          "woe:state=56190517", 
+          "woe:state=56190527", 
+          "woe:state=55844261", 
+          "woe:state=56190552", 
+          "woe:state=56190566", 
+          "woe:state=56190558", 
+          "woe:state=55844715", 
+          "woe:state=56190516", 
+          "woe:state=56190570", 
+          "woe:state=56190535", 
+          "woe:state=56190518", 
+          "woe:state=55844583", 
+          "woe:state=56190580", 
+          "woe:state=56190532", 
+          "woe:state=56190549", 
+          "woe:state=56190595", 
+          "woe:state=56190519", 
+          "woe:state=56190561", 
+          "woe:state=56190542", 
+          "woe:state=20070117", 
+          "woe:state=56190590", 
+          "woe:state=56190530", 
+          "woe:state=56190529", 
+          "woe:state=56190599", 
+          "woe:state=55844549", 
+          "woe:state=55844452", 
+          "woe:state=55844585", 
+          "woe:state=56190574", 
+          "woe:state=56190560", 
+          "woe:state=56190537", 
+          "woe:historicalstate=2346018", 
+          "woe:historicalstate=2346019", 
+          "woe:historicalstate=2346020", 
+          "woe:historicalstate=2346021", 
+          "woe:historicalstate=2346022", 
+          "woe:historicalstate=2346023", 
+          "woe:historicalstate=2346024", 
+          "woe:historicalstate=2346025", 
+          "woe:historicalstate=2346026", 
+          "woe:historicalstate=2346027", 
+          "woe:historicalstate=2346028", 
+          "woe:historicalstate=2346029", 
+          "woe:historicalstate=2346030", 
+          "woe:historicalstate=2346031", 
+          "woe:historicalstate=2346032", 
+          "woe:historicalstate=2346033", 
+          "woe:historicalstate=2346034", 
+          "woe:historicalstate=2346035", 
+          "woe:historicalstate=2346036", 
+          "woe:historicalstate=2346037", 
+          "woe:historicalstate=2346038", 
+          "woe:historicalstate=2346039", 
+          "woe:historicalstate=2346040", 
+          "woe:historicalstate=2346041", 
+          "woe:historicalstate=2346042", 
+          "woe:historicalstate=2346043", 
+          "woe:zone=24874097", 
+          "woe:zone=24874098", 
+          "woe:zone=24874099", 
+          "woe:zone=24874100", 
+          "woe:zone=24874101", 
+          "woe:zone=24874102", 
+          "woe:zone=24874103", 
+          "woe:zone=24874104", 
+          "woe:zone=24874105", 
+          "woe:zone=24874106", 
+          "woe:zone=24874107", 
+          "woe:zone=24874108", 
+          "woe:zone=24874109", 
+          "woe:zone=24874110", 
+          "woe:zone=24874111", 
+          "woe:zone=24874112", 
+          "woe:zone=24874113", 
+          "woe:zone=24874114", 
+          "woe:zone=24874115", 
+          "woe:zone=24874116", 
+          "woe:zone=24874117", 
+          "woe:zone=24874118", 
+          "woe:zone=24874119", 
+          "woe:zone=24874120", 
+          "woe:zone=24874121", 
+          "woe:zone=56190607", 
+          "woe:zone=56190606", 
+          "woe:zone=24874122"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u62c9\u812b\u7dad\u4e9e"
@@ -2117,8 +2284,8 @@
         "alias_ITA_Q": [
           "Lettonia"
         ], 
-        "alias_GER_V": [
-          "Republik Lettland"
+        "alias_DAN_Q": [
+          "Letland"
         ], 
         "ne:NAME": "Latvia", 
         "ne:POSTAL": "LV", 
@@ -2151,12 +2318,18 @@
         "ne:ISO_A2": "LV", 
         "date_indexed": "2010-12-02T08:49:48Z", 
         "ne:NAME_FORMA": "Republic of Latvia", 
-        "fullname": "Latvija, Latvia", 
+        "alias_CHI_V": [
+          "\u62c9\u8131\u7ef4\u4e9a"
+        ], 
         "ne:GU_A3": "LVA", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Latvia", 
         "ne:SU_A3": "LVA", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 38860.0, 
+        "alias_ENG_A": [
+          "LV"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2170,45 +2343,47 @@
         "alias_FIN_Q": [
           "Latvia"
         ], 
-        "alias_DAN_Q": [
-          "Letland"
+        "alias_GER_V": [
+          "Republik Lettland"
         ], 
         "alias_GER_Q": [
           "Lettland"
         ], 
-        "ne:ISO_N3": 428.0, 
+        "fullname": "Latvija, Latvia", 
         "lang": "UNK", 
         "ne:OID_": 165, 
         "ne:GEOUNIT": "Latvia", 
         "name": "Latvija", 
         "ne:TYPE": "Sovereign country", 
-        "alias_UNK_Q": [
-          "Republika Latvija"
-        ], 
-        "alias_CHI_V": [
-          "\u62c9\u8131\u7ef4\u4e9a"
-        ], 
-        "ne:NAME_SORT": "Latvia", 
-        "longitude": 24.608, 
-        "ne:POP_EST": 2231503.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "iso": "LV", 
-        "sw_latitude": 55.666990865412686, 
         "alias_HUN_S": [
           "Lettorszag"
         ], 
-        "alias_ENG_A": [
-          "LV"
+        "alias_UNK_Q": [
+          "Republika Latvija"
         ], 
-        "ne:GDP_MD_EST": 38860.0, 
+        "alias_HUN_Q": [
+          "Lettorsz\u00e1g"
+        ], 
+        "ne_longitude": 28.217274617127657, 
+        "longitude": 24.608, 
+        "ne:POP_EST": 2231503.0, 
+        "iso": "LV", 
+        "sw_latitude": 55.666990865412686, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Latvia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Lettonie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Let\u00f3nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424874, 
+      "bbox": [
+        21.055800408622417, 
+        55.615106919977634, 
+        28.176709425577997, 
+        57.97015696881519
+      ]
     }
   ], 
   "bbox": [

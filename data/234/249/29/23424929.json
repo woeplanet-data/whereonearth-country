@@ -5184,9 +5184,6 @@
         "alias_ENG_V": [
           "Republic of Guinea-Bissau"
         ], 
-        "alias_HUN_Q": [
-          "Bissau-Guinea"
-        ], 
         "alias_KOR_Q": [
           "\uae30\ub2c8\ube44\uc0ac\uc6b0"
         ], 
@@ -5202,7 +5199,7 @@
         "alias_RUM_Q": [
           "Guineea-Bissau"
         ], 
-        "ne_longitude": -13.66071183292425, 
+        "ne:NAME_SORT": "Guinea Bissau (Guinea-Bissau)", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uae30\ub124\ube44\uc18c"
@@ -5217,12 +5214,13 @@
         "alias_POR_S": [
           "Guine-Bissau"
         ], 
+        "ne:ISO_N3": 624.0, 
         "ne:ADM0_A3": "GNB", 
+        "ne:SOVEREIGNT": "Guinea Bissau", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
         ], 
-        "ne:GDP_MD_EST": 904.2, 
         "ne:NAME": "Guinea Bissau", 
         "ne:POSTAL": "GW", 
         "alias_JPN_Q": [
@@ -5233,6 +5231,9 @@
           "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Guin\u00e9-Bissau"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": -16.727785603707133, 
         "ne:NAME_FORMA": "Republic of Guinea Bissau", 
@@ -5245,7 +5246,9 @@
         "ne:ISO_A2": "GW", 
         "date_indexed": "2010-12-02T09:57:34Z", 
         "ne:SOV_A3": "GNB", 
-        "fullname": "Guinea-Bissau", 
+        "alias_CHI_V": [
+          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
+        ], 
         "ne:GU_A3": "GNB", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Guinea Bissau", 
@@ -5260,29 +5263,38 @@
         "alias_GER_V": [
           "Republik Guinea-Bissau"
         ], 
-        "ne:ISO_N3": 624.0, 
+        "fullname": "Guinea-Bissau", 
         "lang": "ENG", 
         "name": "Guinea-Bissau", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Gvineja Bissau"
         ], 
-        "alias_CHI_V": [
-          "\u5e7e\u5167\u4e9e\u6bd4\u7d22"
+        "alias_HUN_Q": [
+          "Bissau-Guinea"
         ], 
-        "ne:NAME_SORT": "Guinea Bissau (Guinea-Bissau)", 
+        "children": [
+          "woe:island=12466264", 
+          "woe:state=2346603", 
+          "woe:state=2346611", 
+          "woe:state=2346610", 
+          "woe:state=2346606", 
+          "woe:state=2346607", 
+          "woe:state=2346609", 
+          "woe:state=2346605", 
+          "woe:state=2346604", 
+          "woe:state=2346608"
+        ], 
+        "ne_longitude": -13.66071183292425, 
         "longitude": -15.177, 
         "ne:POP_EST": 1533964.0, 
         "iso": "GW", 
         "sw_latitude": 10.927447814722683, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Guinea Bissau", 
+        "ne:GDP_MD_EST": 904.2, 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Guin\u00e9e-Bissau"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Guin\u00e9-Bissau"
         ]
       }, 
       "id": 23424929

@@ -153,7 +153,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 18.29009918224598, 
-        "ne_longitude": -62.97188798016279, 
+        "ne:NAME_SORT": "Anguilla", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc548\uae38\ub77c"
@@ -166,12 +166,13 @@
           "\uc575\uadc8\ub77c"
         ], 
         "ne:SUBUNIT": "Anguilla", 
+        "ne:ISO_N3": 660.0, 
         "ne:ADM0_A3": "AIA", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b89\u572d\u62c9"
         ], 
-        "ne:GDP_MD_EST": 108.9, 
         "ne:NAME": "Anguilla", 
         "ne:POSTAL": "AI", 
         "alias_JPN_Q": [
@@ -196,7 +197,6 @@
         "ne:ISO_A2": "AI", 
         "date_indexed": "2010-12-02T17:43:23Z", 
         "ne:SOV_A3": "GB1", 
-        "fullname": "Anguilla", 
         "ne:GU_A3": "AIA", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Anguilla", 
@@ -205,18 +205,35 @@
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
         "ne:ABBREV": "Ang.", 
-        "ne:ISO_N3": 660.0, 
+        "fullname": "Anguilla", 
         "lang": "ENG", 
         "name": "Anguilla", 
         "ne:TYPE": "Dependency", 
         "ne:SU_DIF": 0.0, 
-        "ne:NAME_SORT": "Anguilla", 
+        "children": [
+          "woe:island=12481175", 
+          "woe:state=24549648", 
+          "woe:state=24549654", 
+          "woe:state=24549657", 
+          "woe:state=24549653", 
+          "woe:state=24549651", 
+          "woe:state=24549652", 
+          "woe:state=24549650", 
+          "woe:state=24549655", 
+          "woe:state=24549649", 
+          "woe:state=24549656", 
+          "woe:state=24549658", 
+          "woe:state=24549660", 
+          "woe:state=24549659", 
+          "woe:state=24549647"
+        ], 
+        "ne_longitude": -62.97188798016279, 
         "longitude": -63.072, 
         "ne:POP_EST": 14436.0, 
         "iso": "AI", 
         "sw_latitude": 18.168866272138487, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "United Kingdom"
+        "ne:GDP_MD_EST": 108.9
       }, 
       "id": 23424751
     }

@@ -19373,9 +19373,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "French Republic"
+        ], 
+        "alias_HUN_Q": [
+          "Franciaorsz\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Frankrike"
@@ -19392,9 +19396,7 @@
         "alias_RUM_Q": [
           "Fran\u0163a"
         ], 
-        "alias_UNK_V": [
-          "Franc\u00fazsko"
-        ], 
+        "ne:NAME_SORT": "France", 
         "placetype": "country", 
         "alias_KOR_V": [
           "P'urangsu"
@@ -19408,8 +19410,8 @@
         "alias_POR_S": [
           "Franca"
         ], 
-        "ne:ISO_N3": 250.0, 
         "ne:ADM0_A3": "FRA", 
+        "ne:SOVEREIGNT": "France", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6cd5\u570b"
@@ -19417,8 +19419,8 @@
         "alias_ITA_Q": [
           "Francia"
         ], 
-        "alias_DAN_Q": [
-          "Frankrig"
+        "alias_GER_V": [
+          "Franz\u00f6sische Republik"
         ], 
         "ne:NAME": "France", 
         "ne:POSTAL": "F", 
@@ -19426,7 +19428,6 @@
           "\u30d5\u30e9\u30f3\u30b9"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30d5\u30e9\u30f3\u30b9\u5171\u548c\u56fd"
         ], 
@@ -19450,19 +19451,13 @@
         "ne:ISO_A2": "FR", 
         "date_indexed": "2010-12-02T12:04:01Z", 
         "ne:NAME_FORMA": "French Republic", 
-        "alias_CHI_V": [
-          "\u6cd5\u56fd"
-        ], 
+        "fullname": "France", 
+        "lang": "FRE", 
         "ne:GU_A3": "FRA", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "France", 
         "ne:SU_A3": "FRA", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 2128000.0, 
-        "alias_ENG_A": [
-          "FRA"
-        ], 
-        "wikipedia:id": "5843419", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -19472,31 +19467,76 @@
         "alias_CZE_Q": [
           "Francie"
         ], 
+        "alias_FRE_S": [
+          "Gallia"
+        ], 
+        "alias_FRE_V": [
+          "R\u00e9publique Fran\u00e7aise"
+        ], 
         "alias_FIN_Q": [
           "Ranska"
         ], 
-        "alias_GER_V": [
-          "Franz\u00f6sische Republik"
+        "alias_DAN_Q": [
+          "Frankrig"
         ], 
         "alias_GER_Q": [
           "Frankreich"
         ], 
-        "fullname": "France", 
+        "ne:ISO_N3": 250.0, 
         "alias_GER_S": [
           "Franzosische Republik"
         ], 
-        "lang": "FRE", 
+        "alias_ENG_A": [
+          "FRA"
+        ], 
         "ne:OID_": 17, 
         "ne:GEOUNIT": "France", 
         "name": "France", 
         "ne:TYPE": "Country", 
+        "alias_HUN_S": [
+          "Franciaorszag"
+        ], 
         "alias_UNK_Q": [
           "Frakkland"
         ], 
-        "alias_HUN_Q": [
-          "Franciaorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u6cd5\u56fd"
         ], 
-        "ne:NAME_SORT": "France", 
+        "children": [
+          "woe:colloquial=56045214", 
+          "woe:colloquial=23511799", 
+          "woe:colloquial=24602685", 
+          "woe:colloquial=24602686", 
+          "woe:state=7153330", 
+          "woe:state=7153309", 
+          "woe:state=7153310", 
+          "woe:state=7153311", 
+          "woe:state=7153312", 
+          "woe:state=7153313", 
+          "woe:state=7153314", 
+          "woe:state=7153315", 
+          "woe:state=7153316", 
+          "woe:state=7153317", 
+          "woe:state=7153318", 
+          "woe:state=7153320", 
+          "woe:state=7153321", 
+          "woe:state=7153322", 
+          "woe:state=7153323", 
+          "woe:state=7153324", 
+          "woe:state=7153325", 
+          "woe:state=7153326", 
+          "woe:state=7153327", 
+          "woe:state=7153328", 
+          "woe:state=7153329", 
+          "woe:state=7153319", 
+          "woe:landfeature=56058447", 
+          "woe:landfeature=56058446", 
+          "woe:landfeature=56058449", 
+          "woe:island=12473149"
+        ], 
+        "alias_UNK_V": [
+          "Franc\u00fazsko"
+        ], 
         "longitude": 1.718, 
         "ne:POP_EST": 64057792.0, 
         "alias_UNK_S": [
@@ -19505,27 +19545,19 @@
         "ne_longitude": 55.85501916556859, 
         "iso": "FR", 
         "sw_latitude": -21.370839131730165, 
-        "alias_HUN_S": [
-          "Franciaorszag"
-        ], 
-        "alias_FRE_V": [
-          "R\u00e9publique Fran\u00e7aise"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "France", 
-        "alias_FRE_S": [
-          "Gallia"
-        ], 
+        "ne:GDP_MD_EST": 2128000.0, 
+        "wikipedia:id": "5843419", 
         "ne:ne_10m_adm": "FRA"
       }, 
-      "type": "Feature", 
-      "id": 23424819, 
       "bbox": [
         -54.52475419779975, 
         2.053389187016037, 
         9.560016310269134, 
         51.14850617126186
-      ]
+      ], 
+      "id": 23424819
     }
   ], 
   "bbox": [

@@ -5033,9 +5033,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Democratic and Popular Republic of Algeria"
+        ], 
+        "alias_HUN_Q": [
+          "Alg\u00e9ria"
         ], 
         "alias_SWE_Q": [
           "Algeriet"
@@ -5048,25 +5052,24 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 37.093757629905554, 
-        "ne:NAME_SORT": "Algeria", 
+        "ne_longitude": 11.968860717365317, 
         "placetype": "country", 
         "ne:ne_10m_adm": "DZA", 
         "alias_KOR_Q": [
           "\uc54c\uc81c\ub9ac"
         ], 
         "ne:SUBUNIT": "Algeria", 
-        "ne:ISO_N3": 12.0, 
         "alias_ARA_V": [
           "Al-Djaza'ir"
         ], 
         "ne:ADM0_A3": "DZA", 
+        "ne:SOVEREIGNT": "Algeria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u53ca\u5229\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 232900.0, 
-        "alias_DAN_Q": [
-          "Algeriet"
+        "alias_GER_V": [
+          "Demokratische Volksrepublik Algerien"
         ], 
         "ne:NAME": "Algeria", 
         "ne:POSTAL": "DZ", 
@@ -5074,6 +5077,7 @@
           "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd"
         ], 
@@ -5095,18 +5099,12 @@
         "ne:ISO_A2": "DZ", 
         "date_indexed": "2010-12-02T17:07:16Z", 
         "ne:NAME_FORMA": "People's Democratic Republic of Algeria", 
-        "alias_CHI_V": [
-          "\u963f\u5c14\u53ca\u5229\u4e9a"
-        ], 
+        "fullname": "Algeria", 
         "ne:GU_A3": "DZA", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Algeria", 
         "ne:GEOUNIT": "Algeria", 
         "ne:LabelRank": 2, 
-        "alias_ENG_A": [
-          "DZ"
-        ], 
-        "wikipedia:id": "358", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -5116,49 +5114,101 @@
         "alias_CZE_Q": [
           "Al\u017e\u00edrsko"
         ], 
-        "alias_GER_V": [
-          "Demokratische Volksrepublik Algerien"
+        "alias_DAN_Q": [
+          "Algeriet"
         ], 
         "alias_GER_Q": [
           "Algerien"
         ], 
-        "fullname": "Algeria", 
+        "ne:ISO_N3": 12.0, 
         "lang": "ENG", 
         "ne:OID_": 80, 
         "name": "Algeria", 
         "alias_UNK_S": [
           "Alsir"
         ], 
+        "alias_POR_Q": [
+          "Arg\u00e9lia"
+        ], 
         "alias_UNK_Q": [
           "Arujeria"
         ], 
-        "alias_HUN_Q": [
-          "Alg\u00e9ria"
+        "alias_CHI_V": [
+          "\u963f\u5c14\u53ca\u5229\u4e9a"
         ], 
-        "ne_longitude": 11.968860717365317, 
+        "children": [
+          "woe:state=2344606", 
+          "woe:state=2344604", 
+          "woe:state=2344605", 
+          "woe:state=2344579", 
+          "woe:state=2344607", 
+          "woe:state=2344580", 
+          "woe:state=2344608", 
+          "woe:state=2344590", 
+          "woe:state=2344591", 
+          "woe:state=2344592", 
+          "woe:state=2344609", 
+          "woe:state=2344593", 
+          "woe:state=2344610", 
+          "woe:state=2344611", 
+          "woe:state=2344581", 
+          "woe:state=2344594", 
+          "woe:state=2344612", 
+          "woe:state=2344613", 
+          "woe:state=2344614", 
+          "woe:state=2344615", 
+          "woe:state=2344595", 
+          "woe:state=2344616", 
+          "woe:state=2344596", 
+          "woe:state=2344617", 
+          "woe:state=2344597", 
+          "woe:state=2344599", 
+          "woe:state=2344598", 
+          "woe:state=2344582", 
+          "woe:state=2344618", 
+          "woe:state=2344583", 
+          "woe:state=2344619", 
+          "woe:state=2344584", 
+          "woe:state=2344620", 
+          "woe:state=2344600", 
+          "woe:state=2344621", 
+          "woe:state=2344585", 
+          "woe:state=2344586", 
+          "woe:state=2344601", 
+          "woe:state=2344602", 
+          "woe:state=2344622", 
+          "woe:state=2344623", 
+          "woe:state=2344603", 
+          "woe:state=2344587", 
+          "woe:state=2344624", 
+          "woe:state=2344625", 
+          "woe:state=2344626", 
+          "woe:state=2344588", 
+          "woe:state=2344589"
+        ], 
+        "ne:NAME_SORT": "Algeria", 
         "longitude": 1.653, 
         "ne:POP_EST": 34178188.0, 
         "ne:TYPE": "Sovereign country", 
         "iso": "DZ", 
         "sw_latitude": 18.9755612188938, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Algeria", 
-        "alias_FRE_Q": [
-          "Alg\u00e9rie"
+        "alias_ENG_A": [
+          "DZ"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Arg\u00e9lia"
+        "ne:GDP_MD_EST": 232900.0, 
+        "wikipedia:id": "358", 
+        "alias_FRE_Q": [
+          "Alg\u00e9rie"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424740, 
       "bbox": [
         -8.684399786809053, 
         19.057364203360038, 
         11.999505649471613, 
         37.11838064223437
-      ]
+      ], 
+      "id": 23424740
     }
   ], 
   "bbox": [

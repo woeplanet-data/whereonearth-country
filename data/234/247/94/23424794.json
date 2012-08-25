@@ -1687,8 +1687,8 @@
         "alias_ENG_V": [
           "Republic of Cape Verde"
         ], 
-        "alias_HUN_Q": [
-          "Z\u00f6ld-Foki K\u00f6zt\u00e1rsas\u00e1g"
+        "alias_POR_Q": [
+          "Cabo Verde"
         ], 
         "alias_SWE_Q": [
           "Kap verde"
@@ -1701,11 +1701,12 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 17.19636749299731, 
-        "ne:GU_A3": "CPV", 
         "alias_RUM_Q": [
           "Republica Capului Verde"
         ], 
-        "ne:NAME_SORT": "Cape Verde", 
+        "alias_UNK_V": [
+          "Zelenortski otoki"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uae4c\ubf40\ubca0\ub974\ub370"
@@ -1718,7 +1719,9 @@
           "CV"
         ], 
         "ne:SUBUNIT": "Cape Verde", 
+        "ne:ISO_N3": 132.0, 
         "ne:ADM0_A3": "CPV", 
+        "ne:SOVEREIGNT": "Cape Verde", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7dad\u5fb7\u89d2"
@@ -1726,16 +1729,18 @@
         "alias_ITA_Q": [
           "Capo Verde"
         ], 
-        "alias_DAN_Q": [
-          "Kap Verde"
+        "alias_GER_V": [
+          "Republik Kap Verde"
         ], 
         "ne:NAME": "Cape Verde", 
         "ne:POSTAL": "CV", 
+        "alias_KOR_Q": [
+          "\uce74\ubcf4\ubca0\ub974\ub370"
+        ], 
         "alias_JPN_Q": [
           "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"
         ], 
         "ne:LEVEL": 2.0, 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30ab\u30fc\u30dc\u30f4\u30a7\u30eb\u30c7"
         ], 
@@ -1757,15 +1762,14 @@
         "ne:ISO_A2": "CV", 
         "date_indexed": "2010-12-02T12:16:16Z", 
         "ne:SOV_A3": "CPV", 
-        "fullname": "Cape Verde", 
-        "alias_KOR_Q": [
-          "\uce74\ubcf4\ubca0\ub974\ub370"
+        "alias_CHI_V": [
+          "\u7dad\u5fb7\u89d2"
         ], 
+        "ne:GU_A3": "CPV", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Cape Verde", 
         "ne:SU_A3": "CPV", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 1626.0, 
         "alias_SPA_V": [
           "Caboverde"
         ], 
@@ -1784,19 +1788,19 @@
         "alias_CZE_Q": [
           "Kapverdy"
         ], 
-        "alias_FRE_S": [
-          "Iles du Cap-Vert"
+        "alias_FRE_V": [
+          "Cap Vert"
         ], 
         "alias_FIN_Q": [
           "Kap Verde"
         ], 
-        "alias_GER_V": [
-          "Republik Kap Verde"
+        "alias_DAN_Q": [
+          "Kap Verde"
         ], 
         "alias_GER_Q": [
           "Kap Verde"
         ], 
-        "ne:ISO_N3": 132.0, 
+        "ne:GDP_MD_EST": 1626.0, 
         "lang": "ENG", 
         "ne:OID_": 107, 
         "name": "Cape Verde", 
@@ -1804,12 +1808,40 @@
         "alias_UNK_Q": [
           "Gr\u00e6nh\u00f6f\u00f0aeyjar"
         ], 
-        "alias_CHI_V": [
-          "\u7dad\u5fb7\u89d2"
+        "alias_HUN_Q": [
+          "Z\u00f6ld-Foki K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "alias_UNK_V": [
-          "Zelenortski otoki"
+        "children": [
+          "woe:island=12465447", 
+          "woe:island=12465443", 
+          "woe:island=12465427", 
+          "woe:island=12465442", 
+          "woe:island=12465444", 
+          "woe:state=2345121", 
+          "woe:state=2345122", 
+          "woe:state=2345124", 
+          "woe:state=56051566", 
+          "woe:state=20069964", 
+          "woe:state=56051556", 
+          "woe:state=2345125", 
+          "woe:state=56051567", 
+          "woe:state=56051563", 
+          "woe:state=2345126", 
+          "woe:state=2345127", 
+          "woe:state=2345128", 
+          "woe:state=56051565", 
+          "woe:state=56051561", 
+          "woe:state=56051562", 
+          "woe:state=56051564", 
+          "woe:state=56051560", 
+          "woe:state=56051558", 
+          "woe:state=56051557", 
+          "woe:state=2345130", 
+          "woe:state=2345131", 
+          "woe:state=2345129", 
+          "woe:historicalstate=2345123"
         ], 
+        "ne:NAME_SORT": "Cape Verde", 
         "longitude": -23.615, 
         "ne:POP_EST": 429474.0, 
         "alias_UNK_S": [
@@ -1818,16 +1850,14 @@
         "ne_longitude": -22.665846924231005, 
         "iso": "CV", 
         "sw_latitude": 14.8037745161771, 
-        "alias_FRE_V": [
-          "Cap Vert"
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "fullname": "Cape Verde", 
+        "alias_FRE_S": [
+          "Iles du Cap-Vert"
         ], 
-        "ne:SOVEREIGNT": "Cape Verde", 
         "alias_FRE_Q": [
           "Cap-Vert"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Cabo Verde"
         ]
       }, 
       "id": 23424794

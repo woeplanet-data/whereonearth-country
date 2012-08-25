@@ -4241,13 +4241,15 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
-        "alias_ENG_P": [
-          "Austria"
-        ], 
         "alias_ENG_V": [
           "Osutoria"
         ], 
+        "alias_HUN_Q": [
+          "Ausztria"
+        ], 
+        "longitude": 13.346, 
         "alias_SWE_Q": [
           "\u00d6sterrike"
         ], 
@@ -4262,18 +4264,18 @@
         "alias_RUM_Q": [
           "Austria"
         ], 
-        "alias_UNK_V": [
-          "Austr\u00eda"
-        ], 
+        "ne:NAME_SORT": "Austria", 
         "placetype": "country", 
-        "ne:TERR_": null, 
+        "alias_POL_Q": [
+          "Austria"
+        ], 
         "ne:ne_10m_adm": "AUT", 
         "alias_KOR_Q": [
           "\uc624\uc2a4\ud2b8\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Austria", 
-        "ne:ISO_N3": 40.0, 
         "ne:ADM0_A3": "AUT", 
+        "ne:SOVEREIGNT": "Austria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5967\u5730\u5229"
@@ -4281,17 +4283,18 @@
         "alias_ITA_Q": [
           "Austria"
         ], 
-        "alias_DAN_Q": [
-          "\u00d8strig"
+        "alias_GER_V": [
+          "Republik \u00d6sterreich"
         ], 
         "ne:NAME": "Austria", 
         "ne:POSTAL": "A", 
         "alias_JPN_Q": [
           "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2"
         ], 
-        "alias_POL_Q": [
+        "alias_ENG_P": [
           "Austria"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2\u5171\u548c\u56fd"
         ], 
@@ -4299,9 +4302,7 @@
         "alias_SPA_Q": [
           "Austria"
         ], 
-        "alias_FIN_Q": [
-          "It\u00e4valta"
-        ], 
+        "ne:TERR_": null, 
         "alias_FIN_S": [
           "Itavalta"
         ], 
@@ -4323,36 +4324,32 @@
         "ne:ISO_A2": "AT", 
         "date_indexed": "2010-12-02T16:35:40Z", 
         "ne:NAME_FORMA": "Republic of Austria", 
-        "alias_CHI_V": [
-          "\u5965\u5730\u5229"
-        ], 
+        "fullname": "\u00d6sterreich, Austria", 
         "ne:GU_A3": "AUT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Austria", 
         "ne:GEOUNIT": "Austria", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 329500.0, 
-        "alias_ENG_A": [
-          "AT"
-        ], 
-        "wikipedia:id": "26964606", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Oostenrijk"
+        ], 
+        "alias_POR_Q": [
+          "\u00c1ustria"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Aust.", 
         "alias_CZE_Q": [
           "Rakousko"
         ], 
-        "alias_DAN_S": [
-          "Osterig"
+        "alias_FIN_Q": [
+          "It\u00e4valta"
         ], 
-        "alias_GER_V": [
-          "Republik \u00d6sterreich"
+        "alias_DAN_Q": [
+          "\u00d8strig"
         ], 
-        "fullname": "\u00d6sterreich, Austria", 
+        "ne:ISO_N3": 40.0, 
         "alias_GER_S": [
           "Republik Oesterreich"
         ], 
@@ -4362,38 +4359,85 @@
         "alias_UNK_S": [
           "Austurriki"
         ], 
+        "ne:ISO_A3": "AUT", 
         "alias_UNK_Q": [
           "Austurr\u00edki"
         ], 
-        "alias_HUN_Q": [
-          "Ausztria"
+        "alias_CHI_V": [
+          "\u5965\u5730\u5229"
         ], 
-        "ne:NAME_SORT": "Austria", 
-        "longitude": 13.346, 
+        "children": [
+          "woe:state=2344708", 
+          "woe:state=2344709", 
+          "woe:state=2344710", 
+          "woe:state=2344711", 
+          "woe:state=2344712", 
+          "woe:state=2344713", 
+          "woe:state=2344714", 
+          "woe:state=2344715", 
+          "woe:state=2344716", 
+          "woe:landfeature=22023409", 
+          "woe:landfeature=22016169", 
+          "woe:landfeature=22016096", 
+          "woe:landfeature=28997477", 
+          "woe:landfeature=22016418", 
+          "woe:landfeature=22019153", 
+          "woe:landfeature=28997496", 
+          "woe:landfeature=28997499", 
+          "woe:landfeature=55863709", 
+          "woe:landfeature=22020176", 
+          "woe:landfeature=22023413", 
+          "woe:landfeature=22016420", 
+          "woe:drainage=28997828", 
+          "woe:drainage=28997859", 
+          "woe:drainage=28997863", 
+          "woe:drainage=28997877", 
+          "woe:drainage=28997943", 
+          "woe:drainage=26354185", 
+          "woe:drainage=28998190", 
+          "woe:drainage=28998194", 
+          "woe:drainage=28998223", 
+          "woe:drainage=28998226", 
+          "woe:drainage=28998233", 
+          "woe:drainage=28998275", 
+          "woe:drainage=26354184", 
+          "woe:drainage=28998351", 
+          "woe:drainage=28998455", 
+          "woe:drainage=28998545", 
+          "woe:drainage=28998547", 
+          "woe:drainage=28998634", 
+          "woe:drainage=28998751", 
+          "woe:drainage=28998780", 
+          "woe:drainage=28998923"
+        ], 
+        "alias_UNK_V": [
+          "Austr\u00eda"
+        ], 
+        "alias_DAN_S": [
+          "Osterig"
+        ], 
         "ne:POP_EST": 8210281.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 17.14833785014025, 
         "iso": "AT", 
         "sw_latitude": 46.37864308737653, 
-        "ne:ISO_A3": "AUT", 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Austria", 
-        "alias_FRE_Q": [
-          "Autriche"
+        "alias_ENG_A": [
+          "AT"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "\u00c1ustria"
+        "ne:GDP_MD_EST": 329500.0, 
+        "wikipedia:id": "26964606", 
+        "alias_FRE_Q": [
+          "Autriche"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424750, 
       "bbox": [
         9.479969516649021, 
         46.43181732846955, 
         16.979666782304037, 
         49.03907420510758
-      ]
+      ], 
+      "id": 23424750
     }
   ], 
   "bbox": [

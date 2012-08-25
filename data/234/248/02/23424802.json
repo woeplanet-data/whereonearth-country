@@ -7207,9 +7207,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Arab Republic of Egypt"
+        ], 
+        "alias_POR_Q": [
+          "Egito"
         ], 
         "alias_SWE_Q": [
           "Egypten"
@@ -7225,9 +7229,7 @@
         "alias_RUM_Q": [
           "Egipt"
         ], 
-        "alias_UNK_V": [
-          "\u00c6gypten"
-        ], 
+        "ne:NAME_SORT": "Egypt", 
         "placetype": "country", 
         "alias_POR_V": [
           "Egipto"
@@ -7237,8 +7239,8 @@
           "\uc774\uc9d1\ud2b8"
         ], 
         "ne:SUBUNIT": "Egypt", 
-        "ne:ISO_N3": 818.0, 
         "ne:ADM0_A3": "EGY", 
+        "ne:SOVEREIGNT": "Egypt", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u57c3\u53ca"
@@ -7246,18 +7248,19 @@
         "alias_ITA_Q": [
           "Egitto"
         ], 
-        "alias_DAN_Q": [
-          "Egypten"
+        "alias_GER_V": [
+          "Arabische Republik \u00c4gypten"
         ], 
         "ne:NAME": "Egypt", 
         "ne:POSTAL": "EG", 
-        "alias_DAN_V": [
-          "\u00c6gypten"
+        "alias_GER_Q": [
+          "\u00c4gypten"
         ], 
         "alias_JPN_Q": [
           "\u30a8\u30b8\u30d7\u30c8"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
         ], 
@@ -7279,16 +7282,12 @@
         "ne:ISO_A2": "EG", 
         "date_indexed": "2010-12-02T12:16:51Z", 
         "ne:NAME_FORMA": "Arab Republic of Egypt", 
+        "fullname": "Egypt", 
         "ne:GU_A3": "EGY", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Egypt", 
         "ne:SU_A3": "EGY", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 443700.0, 
-        "alias_ENG_A": [
-          "EG"
-        ], 
-        "wikipedia:id": "8087628", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -7298,13 +7297,13 @@
         "alias_FIN_Q": [
           "Egypti"
         ], 
-        "alias_GER_V": [
-          "Arabische Republik \u00c4gypten"
+        "alias_DAN_Q": [
+          "Egypten"
         ], 
-        "alias_GER_Q": [
-          "\u00c4gypten"
+        "alias_DAN_V": [
+          "\u00c6gypten"
         ], 
-        "fullname": "Egypt", 
+        "ne:ISO_N3": 818.0, 
         "alias_GER_S": [
           "Agypten"
         ], 
@@ -7320,31 +7319,64 @@
         "alias_HUN_Q": [
           "Egyiptom"
         ], 
-        "ne:NAME_SORT": "Egypt", 
+        "children": [
+          "woe:colloquial=55863407", 
+          "woe:state=2345223", 
+          "woe:state=2345224", 
+          "woe:state=2345225", 
+          "woe:state=2345226", 
+          "woe:state=2345227", 
+          "woe:state=2345228", 
+          "woe:state=2345229", 
+          "woe:state=2345230", 
+          "woe:state=2345231", 
+          "woe:state=2345232", 
+          "woe:state=2345233", 
+          "woe:state=2345234", 
+          "woe:state=56120896", 
+          "woe:state=2345235", 
+          "woe:state=2345237", 
+          "woe:state=2345236", 
+          "woe:state=2345238", 
+          "woe:state=2345239", 
+          "woe:state=2345240", 
+          "woe:state=2345241", 
+          "woe:state=2345242", 
+          "woe:state=56120897", 
+          "woe:state=2345247", 
+          "woe:state=2345243", 
+          "woe:state=56120898", 
+          "woe:state=2345244", 
+          "woe:state=2345245", 
+          "woe:state=2345248", 
+          "woe:state=2345246"
+        ], 
+        "alias_UNK_V": [
+          "\u00c6gypten"
+        ], 
         "longitude": 30.246, 
         "ne:POP_EST": 83082869.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 36.89958703583261, 
         "iso": "EG", 
         "sw_latitude": 21.99436920194175, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Egypt", 
-        "alias_FRE_Q": [
-          "\u00c9gypte"
+        "alias_ENG_A": [
+          "EG"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Egito"
+        "ne:GDP_MD_EST": 443700.0, 
+        "wikipedia:id": "8087628", 
+        "alias_FRE_Q": [
+          "\u00c9gypte"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424802, 
       "bbox": [
         24.70007, 
         22.0, 
         36.86623, 
         31.58568
-      ]
+      ], 
+      "id": 23424802
     }
   ], 
   "bbox": [

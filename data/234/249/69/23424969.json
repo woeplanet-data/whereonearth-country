@@ -14479,9 +14479,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. Turkey"
+        ], 
+        "alias_POR_Q": [
+          "Turquia"
         ], 
         "alias_SWE_Q": [
           "Turkiet"
@@ -14497,17 +14501,15 @@
         "alias_RUM_Q": [
           "Turcia"
         ], 
-        "alias_UNK_V": [
-          "Turkki"
-        ], 
+        "ne:NAME_SORT": "Turkey", 
         "placetype": "country", 
         "ne:ne_10m_adm": "TUR", 
         "alias_KOR_Q": [
           "\ud130\ud0a4"
         ], 
         "ne:SUBUNIT": "Turkey", 
-        "ne:ISO_N3": 792.0, 
         "ne:ADM0_A3": "TUR", 
+        "ne:SOVEREIGNT": "Turkey", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u571f\u8033\u5176"
@@ -14515,8 +14517,8 @@
         "alias_ITA_Q": [
           "Turchia"
         ], 
-        "alias_DAN_Q": [
-          "Tyrkiet"
+        "alias_GER_V": [
+          "Republik T\u00fcrkei"
         ], 
         "ne:NAME": "Turkey", 
         "ne:POSTAL": "TR", 
@@ -14524,6 +14526,7 @@
           "\u30c8\u30eb\u30b3"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30c8\u30eb\u30b3\u5171\u548c\u56fd"
         ], 
@@ -14547,16 +14550,12 @@
         "ne:ISO_A2": "TR", 
         "date_indexed": "2010-12-02T16:23:11Z", 
         "ne:NAME_FORMA": "Republic of Turkey", 
+        "fullname": "Turkey", 
         "ne:GU_A3": "TUR", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Turkey", 
         "ne:SU_A3": "TUR", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 902700.0, 
-        "alias_ENG_A": [
-          "TUR"
-        ], 
-        "wikipedia:id": "11125639", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -14569,13 +14568,13 @@
         "alias_FIN_Q": [
           "Turkin"
         ], 
-        "alias_GER_V": [
-          "Republik T\u00fcrkei"
+        "alias_DAN_Q": [
+          "Tyrkiet"
         ], 
         "alias_GER_Q": [
           "T\u00fcrkei"
         ], 
-        "fullname": "Turkey", 
+        "ne:ISO_N3": 792.0, 
         "alias_GER_S": [
           "Republik Turkei"
         ], 
@@ -14592,31 +14591,126 @@
         "alias_HUN_Q": [
           "T\u00f6r\u00f6korsz\u00e1g"
         ], 
-        "ne:NAME_SORT": "Turkey", 
+        "children": [
+          "woe:town=2312484", 
+          "woe:town=2344254", 
+          "woe:town=2344095", 
+          "woe:colloquial=29390978", 
+          "woe:colloquial=29390976", 
+          "woe:colloquial=29390973", 
+          "woe:colloquial=29390979", 
+          "woe:colloquial=29390975", 
+          "woe:colloquial=29390974", 
+          "woe:colloquial=29390977", 
+          "woe:colloquial=55966891", 
+          "woe:state=2347258", 
+          "woe:state=2347259", 
+          "woe:state=2347260", 
+          "woe:state=2347325", 
+          "woe:state=2347262", 
+          "woe:state=2347263", 
+          "woe:state=2347264", 
+          "woe:state=20070284", 
+          "woe:state=2347265", 
+          "woe:state=2347266", 
+          "woe:state=2347261", 
+          "woe:state=2347267", 
+          "woe:state=20070187", 
+          "woe:state=2347326", 
+          "woe:state=2347327", 
+          "woe:state=2347268", 
+          "woe:state=2347269", 
+          "woe:state=2347270", 
+          "woe:state=2347271", 
+          "woe:state=2347272", 
+          "woe:state=2347273", 
+          "woe:state=2347277", 
+          "woe:state=2347278", 
+          "woe:state=29390030", 
+          "woe:state=2347279", 
+          "woe:state=2347280", 
+          "woe:state=2347281", 
+          "woe:state=2347282", 
+          "woe:state=2347283", 
+          "woe:state=2347284", 
+          "woe:state=2347285", 
+          "woe:state=2347319", 
+          "woe:state=2347320", 
+          "woe:state=2347286", 
+          "woe:state=2347288", 
+          "woe:state=20070183", 
+          "woe:state=2347300", 
+          "woe:state=20070186", 
+          "woe:state=2347328", 
+          "woe:state=2347291", 
+          "woe:state=2347292", 
+          "woe:state=2347293", 
+          "woe:state=20070285", 
+          "woe:state=2347296", 
+          "woe:state=2347321", 
+          "woe:state=2347297", 
+          "woe:state=2347294", 
+          "woe:state=2347329", 
+          "woe:state=2347295", 
+          "woe:state=2347298", 
+          "woe:state=2347299", 
+          "woe:state=2347322", 
+          "woe:state=2347287", 
+          "woe:state=2347301", 
+          "woe:state=2347302", 
+          "woe:state=2347303", 
+          "woe:state=2347323", 
+          "woe:state=2347304", 
+          "woe:state=20070184", 
+          "woe:state=2347305", 
+          "woe:state=2347306", 
+          "woe:state=2347307", 
+          "woe:state=2347324", 
+          "woe:state=2347308", 
+          "woe:state=2347309", 
+          "woe:state=2347310", 
+          "woe:state=2347311", 
+          "woe:state=2347312", 
+          "woe:state=2347313", 
+          "woe:state=2347315", 
+          "woe:state=2347316", 
+          "woe:state=20070182", 
+          "woe:state=2347317", 
+          "woe:state=20070185", 
+          "woe:state=2347274", 
+          "woe:state=2347275", 
+          "woe:state=2347276", 
+          "woe:state=2347289", 
+          "woe:state=2347290", 
+          "woe:state=2347314", 
+          "woe:state=2347330"
+        ], 
+        "alias_UNK_V": [
+          "Turkki"
+        ], 
         "longitude": 35.432, 
         "ne:POP_EST": 76805524.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 44.8068563228706, 
         "iso": "TR", 
         "sw_latitude": 35.819778544121405, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Turkey", 
-        "alias_FRE_Q": [
-          "Turquie"
+        "alias_ENG_A": [
+          "TUR"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Turquia"
+        "ne:GDP_MD_EST": 902700.0, 
+        "wikipedia:id": "11125639", 
+        "alias_FRE_Q": [
+          "Turquie"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424969, 
       "bbox": [
         26.04335127127254, 
         35.82153473565367, 
         44.793989699082005, 
         42.141484890301314
-      ]
+      ], 
+      "id": 23424969
     }
   ], 
   "bbox": [

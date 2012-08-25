@@ -3437,9 +3437,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Hungary"
+        ], 
+        "alias_POR_Q": [
+          "Hungria"
         ], 
         "alias_SWE_Q": [
           "Ungern"
@@ -3455,17 +3459,101 @@
         "alias_RUM_Q": [
           "Ungaria"
         ], 
-        "alias_UNK_V": [
-          "Magyar Koztarsasag"
-        ], 
+        "ne:NAME_SORT": "Hungary", 
         "placetype": "country", 
+        "children": [
+          "woe:landfeature=56058426", 
+          "woe:landfeature=56058428", 
+          "woe:landfeature=56058429", 
+          "woe:zone=24873812", 
+          "woe:zone=24873813", 
+          "woe:zone=24873814", 
+          "woe:zone=24873816", 
+          "woe:zone=24873821", 
+          "woe:zone=24873823", 
+          "woe:zone=24873825", 
+          "woe:zone=24873827", 
+          "woe:zone=24873830", 
+          "woe:zone=24873831", 
+          "woe:zone=24873834", 
+          "woe:zone=24873837", 
+          "woe:zone=24873840", 
+          "woe:zone=24873842", 
+          "woe:zone=24873844", 
+          "woe:zone=24873845", 
+          "woe:zone=24873847", 
+          "woe:zone=24873849", 
+          "woe:zone=24873853", 
+          "woe:zone=24873858", 
+          "woe:zone=24873859", 
+          "woe:zone=24873860", 
+          "woe:zone=24873861", 
+          "woe:zone=24873862", 
+          "woe:zone=24873864", 
+          "woe:zone=24873865", 
+          "woe:colloquial=55847955", 
+          "woe:colloquial=55847952", 
+          "woe:colloquial=55847956", 
+          "woe:colloquial=55847957", 
+          "woe:colloquial=55847954", 
+          "woe:colloquial=55847953", 
+          "woe:colloquial=55847951", 
+          "woe:state=12577912", 
+          "woe:state=12577914", 
+          "woe:state=12577915", 
+          "woe:state=12577911", 
+          "woe:state=12577913", 
+          "woe:state=56043637", 
+          "woe:state=12577916", 
+          "woe:state=56043620", 
+          "woe:state=56043621", 
+          "woe:state=56043641", 
+          "woe:state=12577917", 
+          "woe:state=56043629", 
+          "woe:state=12577918", 
+          "woe:state=12577919", 
+          "woe:state=12577920", 
+          "woe:state=56043623", 
+          "woe:state=12577926", 
+          "woe:state=56043630", 
+          "woe:state=56043634", 
+          "woe:state=12577921", 
+          "woe:state=56043619", 
+          "woe:state=56043639", 
+          "woe:state=56043636", 
+          "woe:state=12577922", 
+          "woe:state=12577923", 
+          "woe:state=56043625", 
+          "woe:state=56043635", 
+          "woe:state=12577924", 
+          "woe:state=56043628", 
+          "woe:state=12577925", 
+          "woe:state=56043624", 
+          "woe:state=56043632", 
+          "woe:state=56043638", 
+          "woe:state=56043631", 
+          "woe:state=56043622", 
+          "woe:state=56043626", 
+          "woe:state=12577927", 
+          "woe:state=12577928", 
+          "woe:state=12577929", 
+          "woe:state=56043633", 
+          "woe:state=12577930", 
+          "woe:state=56043640", 
+          "woe:state=56043627", 
+          "woe:drainage=26354151", 
+          "woe:drainage=26354249", 
+          "woe:drainage=26354248", 
+          "woe:drainage=26354250", 
+          "woe:drainage=26354251"
+        ], 
         "ne:ne_10m_adm": "HUN", 
         "alias_KOR_Q": [
           "\ud5dd\uac00\ub9ac"
         ], 
         "ne:SUBUNIT": "Hungary", 
-        "ne:ISO_N3": 348.0, 
         "ne:ADM0_A3": "HUN", 
+        "ne:SOVEREIGNT": "Hungary", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5308\u7259\u5229"
@@ -3473,11 +3561,13 @@
         "alias_ITA_Q": [
           "Ungheria"
         ], 
-        "alias_DAN_Q": [
-          "Ungarn"
+        "alias_GER_V": [
+          "Republik Ungarn"
         ], 
         "ne:NAME": "Hungary", 
-        "ne:TERR_": null, 
+        "alias_FIN_Q": [
+          "Unkari"
+        ], 
         "alias_JPN_Q": [
           "\u30cf\u30f3\u30ac\u30ea\u30fc"
         ], 
@@ -3491,9 +3581,7 @@
         "alias_SPA_Q": [
           "Hungr\u00eda"
         ], 
-        "alias_FIN_Q": [
-          "Unkari"
-        ], 
+        "ne:TERR_": null, 
         "alias_SPA_S": [
           "Republica Hungria"
         ], 
@@ -3512,16 +3600,15 @@
         "ne:ISO_A2": "HU", 
         "date_indexed": "2010-12-02T09:56:22Z", 
         "ne:NAME_FORMA": "Republic of Hungary", 
+        "fullname": "Magyarorsz\u00e1g, Hungary", 
         "ne:GU_A3": "HUN", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Hungary", 
         "ne:SU_A3": "HUN", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 196600.0, 
         "alias_SPA_V": [
           "Republica Hungr\u00eda"
         ], 
-        "wikipedia:id": "13275", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -3532,19 +3619,22 @@
         "alias_CZE_Q": [
           "Ma\u010farsko"
         ], 
-        "alias_GER_V": [
-          "Republik Ungarn"
+        "alias_DAN_Q": [
+          "Ungarn"
         ], 
         "alias_GER_Q": [
           "Ungarn"
         ], 
-        "fullname": "Magyarorsz\u00e1g, Hungary", 
+        "ne:ISO_N3": 348.0, 
         "lang": "HUN", 
         "ne:OID_": 145, 
         "ne:GEOUNIT": "Hungary", 
         "name": "Magyarorsz\u00e1g", 
         "alias_UNK_S": [
           "Ouggaria"
+        ], 
+        "alias_HUN_S": [
+          "Magyarorszag"
         ], 
         "alias_UNK_Q": [
           "Ungverjaland"
@@ -3553,37 +3643,33 @@
         "alias_HUN_V": [
           "A Magyar K\u00f6zt\u00e1rsas\u00e1g"
         ], 
-        "ne:NAME_SORT": "Hungary", 
+        "alias_UNK_V": [
+          "Magyar Koztarsasag"
+        ], 
         "longitude": 19.505, 
         "ne:POP_EST": 9905596.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 22.87760054530571, 
         "iso": "HU", 
         "sw_latitude": 45.741343485678186, 
-        "alias_HUN_S": [
-          "Magyarorszag"
-        ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Hungary", 
-        "alias_FRE_Q": [
-          "Hongrie"
-        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 196600.0, 
         "alias_ENG_A": [
           "HU"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Hungria"
+        "wikipedia:id": "13275", 
+        "alias_FRE_Q": [
+          "Hongrie"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424844, 
       "bbox": [
         16.202298211337364, 
         45.759481106136136, 
         22.710531447040495, 
         48.623854071642384
-      ]
+      ], 
+      "id": 23424844
     }
   ], 
   "bbox": [

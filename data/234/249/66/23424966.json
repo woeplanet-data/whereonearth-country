@@ -407,6 +407,12 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:island=12466638", 
+          "woe:island=12466643", 
+          "woe:state=2347233", 
+          "woe:state=2347234"
+        ], 
         "alias_ITA_S": [
           "Sao Tome e Principe"
         ], 
@@ -441,8 +447,8 @@
         "ne:NAME_SORT": "Sao Tome and Principe", 
         "ne:POP_EST": 212679.0, 
         "ne:GDP_MD_EST": 276.5, 
-        "alias_ENG_A": [
-          "ST"
+        "alias_KOR_Q": [
+          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
         ], 
         "alias_POR_V": [
           "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
@@ -501,8 +507,8 @@
           "\uc0c1\ud1a0\uba54 \ud504\ub9b0\uc2a4\ud398"
         ], 
         "ne:ne_10m_adm": "STP", 
-        "alias_KOR_Q": [
-          "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
+        "alias_ENG_A": [
+          "ST"
         ], 
         "ne:SUBUNIT": "Sao Tome and Principe", 
         "alias_CHI_Q": [
@@ -511,8 +517,8 @@
         "alias_CHI_V": [
           "\u5723\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"
         ], 
-        "alias_SWE_S": [
-          "Sao Tome och Principe"
+        "alias_POL_Q": [
+          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
         ], 
         "sw_longitude": 6.462271769138937, 
         "ne:SOV_A3": "STP", 
@@ -541,8 +547,8 @@
         "alias_SWE_Q": [
           "Sao Tom\u00e9 och Principe"
         ], 
-        "alias_POL_Q": [
-          "Wyspy \u015awi\u0119tego Tomasza I Ksi\u0105\u017c\u0119ca"
+        "alias_SWE_S": [
+          "Sao Tome och Principe"
         ], 
         "alias_RUM_V": [
           "S\u00e3o Tom\u00e9 \u015fi Pr\u00edncipe"

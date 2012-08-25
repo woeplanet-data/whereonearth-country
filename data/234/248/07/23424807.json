@@ -1381,20 +1381,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424807, 
-      "bbox": [
-        -90.09555457229098, 
-        13.149016831917137, 
-        -87.7235029772294, 
-        14.424132798719114
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Salvadoran"
-        ], 
-        "alias_HUN_Q": [
-          "Salvador"
         ], 
         "alias_ENG_A": [
           "SV"
@@ -1407,7 +1396,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 14.445372619936975, 
-        "ne:NAME_SORT": "El Salvador", 
+        "alias_UNK_V": [
+          "Republika Salvador"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc5d8\uc0b4 \ubc14\ub3c4\ub974"
@@ -1417,12 +1408,29 @@
           "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
         ], 
         "ne:SUBUNIT": "El Salvador", 
+        "ne:ISO_N3": 222.0, 
         "ne:ADM0_A3": "SLV", 
-        "ne:SOVEREIGNT": "El Salvador", 
+        "children": [
+          "woe:state=2345292", 
+          "woe:state=2345293", 
+          "woe:state=2345294", 
+          "woe:state=2345295", 
+          "woe:state=2345296", 
+          "woe:state=2345297", 
+          "woe:state=2345298", 
+          "woe:state=2345299", 
+          "woe:state=2345300", 
+          "woe:state=2345301", 
+          "woe:state=2345303", 
+          "woe:state=2345302", 
+          "woe:state=2345304", 
+          "woe:state=2345305"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u85a9\u723e\u74e6\u591a"
         ], 
+        "ne:GDP_MD_EST": 43630.0, 
         "alias_ITA_V": [
           "Salvador"
         ], 
@@ -1447,7 +1455,9 @@
         "ne:ISO_A2": "SV", 
         "date_indexed": "2010-12-02T17:05:52Z", 
         "ne:NAME_FORMA": "Republic of El Salvador", 
-        "fullname": "El Salvador", 
+        "alias_CHI_V": [
+          "\u8428\u5c14\u74e6\u591a"
+        ], 
         "ne:GU_A3": "SLV", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "El Salvador", 
@@ -1462,29 +1472,35 @@
         "alias_GER_V": [
           "Republik El Salvador"
         ], 
-        "ne:ISO_N3": 222.0, 
+        "fullname": "El Salvador", 
         "ne:NAME": "El Salvador", 
         "lang": "ENG", 
         "name": "El Salvador", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u8428\u5c14\u74e6\u591a"
+        "alias_HUN_Q": [
+          "Salvador"
         ], 
-        "alias_UNK_V": [
-          "Republika Salvador"
-        ], 
+        "ne:NAME_SORT": "El Salvador", 
         "longitude": -88.919, 
         "ne:POP_EST": 7185218.0, 
         "ne_longitude": -87.7036083584729, 
         "iso": "SV", 
         "sw_latitude": 13.158448588541859, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 43630.0, 
+        "ne:SOVEREIGNT": "El Salvador", 
         "alias_FRE_Q": [
           "Salvador"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424807, 
+      "bbox": [
+        -90.09555457229098, 
+        13.149016831917137, 
+        -87.7235029772294, 
+        14.424132798719114
+      ]
     }
   ], 
   "bbox": [

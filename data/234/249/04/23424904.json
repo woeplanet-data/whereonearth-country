@@ -167,25 +167,25 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -18.964164326858835, 
-        "ne_longitude": -169.7818800463541, 
+        "ne:NAME_SORT": "Niue", 
         "placetype": "country", 
         "ne:ne_10m_adm": "NIU", 
         "alias_KOR_Q": [
           "\ub2c8\uc6b0\uc5d0"
         ], 
         "ne:SUBUNIT": "Niue", 
+        "ne:ISO_N3": 570.0, 
         "ne:ADM0_A3": "NIU", 
+        "ne:SOVEREIGNT": "New Zealand", 
         "ne:ScaleRank": 3, 
         "alias_CHI_Q": [
           "\u7ebd\u57c3"
         ], 
-        "ne:GDP_MD_EST": 10.01, 
         "ne:NAME": "Niue", 
         "ne:POSTAL": "NU", 
         "alias_JPN_Q": [
           "\u30cb\u30a6\u30a8"
         ], 
-        "fullname": "Niue", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": "Assoc. with N.Z.", 
         "sw_longitude": -169.94944087789324, 
@@ -210,18 +210,22 @@
           "Niu\u00e9"
         ], 
         "ne:ABBREV": "Niue", 
-        "ne:ISO_N3": 570.0, 
+        "ne:GDP_MD_EST": 10.01, 
         "lang": "ENG", 
         "name": "Niue", 
         "ne:TYPE": "Dependency", 
         "ne:SU_DIF": 0.0, 
-        "ne:NAME_SORT": "Niue", 
+        "children": [
+          "woe:town=1064260", 
+          "woe:island=12497005"
+        ], 
+        "ne_longitude": -169.7818800463541, 
         "longitude": -169.863, 
         "ne:POP_EST": 1398.0, 
         "iso": "NU", 
         "sw_latitude": -19.142861429811887, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "New Zealand", 
+        "fullname": "Niue", 
         "alias_FRE_S": [
           "Nioue"
         ], 

@@ -5973,14 +5973,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23425003, 
-      "bbox": [
-        21.887842644953874, 
-        -17.961228936436484, 
-        33.48568769708359, 
-        -8.238256524288218
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Northern Rhodesia"
@@ -5992,19 +5984,33 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -8.194124043277697, 
-        "ne:GU_A3": "ZMB", 
-        "ne:NAME_SORT": "Zambia", 
+        "alias_UNK_V": [
+          "Republika Zambija"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "ZMB", 
         "alias_KOR_Q": [
           "\uc7a0\ube44\uc544"
         ], 
         "ne:SUBUNIT": "Zambia", 
+        "ne:ISO_N3": 894.0, 
         "ne:ADM0_A3": "ZMB", 
-        "ne:SOVEREIGNT": "Zambia", 
+        "children": [
+          "woe:state=2347805", 
+          "woe:state=2347802", 
+          "woe:state=2347806", 
+          "woe:state=2347808", 
+          "woe:state=2347809", 
+          "woe:state=2347801", 
+          "woe:state=2347807", 
+          "woe:state=2347804", 
+          "woe:state=2347803", 
+          "woe:drainage=56190418"
+        ], 
         "alias_CHI_Q": [
           "\u5c1a\u6bd4\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 17500.0, 
         "ne:NAME": "Zambia", 
         "alias_CHI_V": [
           "\u5c1a\u6bd4\u4e9e"
@@ -6016,6 +6022,9 @@
           "\u30b6\u30f3\u30d3\u30a2\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Z\u00e2mbia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 21.979877563633778, 
         "ne:SOV_A3": "ZMB", 
@@ -6028,16 +6037,14 @@
         "ne:ISO_A2": "ZM", 
         "date_indexed": "2010-12-02T07:50:42Z", 
         "ne:NAME_FORMA": "Republic of Zambia", 
-        "fullname": "Zambia", 
-        "alias_ENG_A": [
-          "ZM"
-        ], 
+        "ne:GU_A3": "ZMB", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Zambia", 
         "ne:GEOUNIT": "Zambia", 
         "ne:LabelRank": 2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Zambia", 
         "alias_CZE_Q": [
           "Zambie"
@@ -6051,7 +6058,7 @@
         "alias_GER_Q": [
           "Sambia"
         ], 
-        "ne:ISO_N3": 894.0, 
+        "fullname": "Zambia", 
         "lang": "ENG", 
         "name": "Zambia", 
         "ne:TYPE": "Sovereign country", 
@@ -6059,24 +6066,29 @@
           "Samb\u00eda"
         ], 
         "ne:POSTAL": "ZM", 
-        "alias_UNK_V": [
-          "Republika Zambija"
-        ], 
+        "ne:NAME_SORT": "Zambia", 
         "longitude": 27.853, 
         "ne:POP_EST": 11862740.0, 
         "ne_longitude": 33.67420251456417, 
         "iso": "ZM", 
         "sw_latitude": -18.069231872196013, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 17500.0, 
+        "alias_ENG_A": [
+          "ZM"
+        ], 
+        "ne:SOVEREIGNT": "Zambia", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Zambie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Z\u00e2mbia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23425003, 
+      "bbox": [
+        21.887842644953874, 
+        -17.961228936436484, 
+        33.48568769708359, 
+        -8.238256524288218
+      ]
     }
   ], 
   "bbox": [

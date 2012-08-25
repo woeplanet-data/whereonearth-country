@@ -12283,6 +12283,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "United States of Venezuela"
@@ -12298,9 +12299,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 12.198739726283137, 
-        "alias_UNK_V": [
-          "Republika Venezuela"
-        ], 
+        "ne:NAME_SORT": "Venezuela", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ubca0\ub124\uc8fc\uc5d8\ub77c"
@@ -12310,13 +12309,12 @@
           "\ubca0\ub124\uc218\uc5d8\ub77c"
         ], 
         "ne:SUBUNIT": "Venezuela", 
-        "ne:ISO_N3": 862.0, 
         "ne:ADM0_A3": "VEN", 
+        "ne:SOVEREIGNT": "Venezuela", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u59d4\u5167\u745e\u62c9"
         ], 
-        "ne:GDP_MD_EST": 357400.0, 
         "ne:NAME": "Venezuela", 
         "ne:POSTAL": "VE", 
         "alias_JPN_Q": [
@@ -12339,20 +12337,22 @@
         "ne:ISO_A2": "VE", 
         "date_indexed": "2010-12-02T16:11:43Z", 
         "ne:NAME_FORMA": "Bolivarian Republic of Venezuela", 
+        "fullname": "Venezuela", 
         "ne:GU_A3": "VEN", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Venezuela", 
         "ne:GEOUNIT": "Venezuela", 
         "ne:LabelRank": 3, 
-        "wikipedia:id": "32374", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_FRE_V": [
+          "V\u00e9n\u00e9zu\u00e9la"
+        ], 
         "ne:ABBREV": "Ven.", 
         "alias_GER_V": [
           "Bolivarische Republik Venezuela"
         ], 
-        "fullname": "Venezuela", 
+        "ne:ISO_N3": 862.0, 
         "lang": "ENG", 
         "name": "Venezuela", 
         "alias_UNK_S": [
@@ -12361,27 +12361,58 @@
         "alias_UNK_Q": [
           "Venes\u00faela"
         ], 
-        "ne:NAME_SORT": "Venezuela", 
+        "children": [
+          "woe:island=12505744", 
+          "woe:island=12505887", 
+          "woe:island=12505880", 
+          "woe:state=2347677", 
+          "woe:state=2347678", 
+          "woe:state=2347679", 
+          "woe:state=2347680", 
+          "woe:state=2347681", 
+          "woe:state=2347682", 
+          "woe:state=2347683", 
+          "woe:state=2347684", 
+          "woe:state=2347685", 
+          "woe:state=2347700", 
+          "woe:state=2347686", 
+          "woe:state=2347687", 
+          "woe:state=2347688", 
+          "woe:state=2347689", 
+          "woe:state=2347691", 
+          "woe:state=2347692", 
+          "woe:state=2347690", 
+          "woe:state=2347693", 
+          "woe:state=2347694", 
+          "woe:state=2347695", 
+          "woe:state=2347696", 
+          "woe:state=2347697", 
+          "woe:state=20069993", 
+          "woe:state=2347698", 
+          "woe:state=2347699", 
+          "woe:drainage=26354196"
+        ], 
+        "alias_UNK_V": [
+          "Republika Venezuela"
+        ], 
         "longitude": -66.589, 
         "ne:POP_EST": 26814843.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": -59.81559484866045, 
         "iso": "VE", 
         "sw_latitude": 0.649315490443669, 
-        "alias_FRE_V": [
-          "V\u00e9n\u00e9zu\u00e9la"
-        ], 
-        "ne:SOVEREIGNT": "Venezuela", 
-        "ne:SU_DIF": 0.0
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 357400.0, 
+        "wikipedia:id": "32374"
       }, 
-      "type": "Feature", 
-      "id": 23424982, 
       "bbox": [
         -73.30495154488005, 
         0.724452215982012, 
         -59.758284878159195, 
         12.162307033736099
-      ]
+      ], 
+      "id": 23424982
     }
   ], 
   "bbox": [

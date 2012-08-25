@@ -43,8 +43,8 @@
         ], 
         "ne_latitude": -54.399, 
         "placetype": "country", 
-        "alias_ENG_A": [
-          "BV"
+        "alias_KOR_Q": [
+          "\ubd80\ubca0 \uc12c"
         ], 
         "alias_CHI_Q": [
           "\u5e03\u7ef4\u5c9b"
@@ -75,8 +75,8 @@
           "Bouvet\u00f8ya"
         ], 
         "date_indexed": "2010-12-02T18:21:30Z", 
-        "alias_KOR_Q": [
-          "\ubd80\ubca0 \uc12c"
+        "alias_ENG_A": [
+          "BV"
         ], 
         "alias_DAN_S": [
           "Bouvetoen"

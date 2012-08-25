@@ -4427,23 +4427,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424896, 
-      "bbox": [
-        -17.06342322434257, 
-        14.616834214735505, 
-        -4.923337368174231, 
-        27.395744126896005
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Mauritanian"
         ], 
         "alias_SWE_V": [
           "Maruretanien"
-        ], 
-        "alias_HUN_Q": [
-          "Maurit\u00e1nia"
         ], 
         "alias_SWE_Q": [
           "Mauretanien"
@@ -4456,7 +4445,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 27.285415751728877, 
-        "ne:NAME_SORT": "Mauritania", 
+        "alias_UNK_V": [
+          "Mavretanija"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ubaa8\ub9ac\ud0c0\ub2c8\uc544"
@@ -4466,20 +4457,33 @@
           "\ubaa8\ub9ac\ud0c0\ub2c8"
         ], 
         "ne:SUBUNIT": "Mauritania", 
+        "ne:ISO_N3": 478.0, 
         "ne:ADM0_A3": "MRT", 
-        "ne:SOVEREIGNT": "Mauritania", 
+        "children": [
+          "woe:state=2346247", 
+          "woe:state=2346243", 
+          "woe:state=2346245", 
+          "woe:state=2346248", 
+          "woe:state=2346244", 
+          "woe:state=2346250", 
+          "woe:state=2346241", 
+          "woe:state=2346242", 
+          "woe:state=2346252", 
+          "woe:state=24550716", 
+          "woe:state=2346249", 
+          "woe:state=2346251", 
+          "woe:state=2346246"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8305\u5229\u5854\u5c3c\u4e9e"
         ], 
-        "alias_GER_V": [
-          "Islamische Republik Mauretanien"
+        "ne:GDP_MD_EST": 6308.0, 
+        "alias_DAN_Q": [
+          "Mauretanien"
         ], 
         "ne:NAME": "Mauritania", 
         "ne:POSTAL": "MR", 
-        "alias_CZE_Q": [
-          "Maurit\u00e1nie"
-        ], 
         "alias_JPN_Q": [
           "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2"
         ], 
@@ -4488,6 +4492,9 @@
           "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Maurit\u00e2nia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": -17.081174886699245, 
         "ne:SOV_A3": "MRT", 
@@ -4500,12 +4507,20 @@
         "ne:ISO_A2": "MR", 
         "date_indexed": "2010-12-02T16:11:57Z", 
         "ne:NAME_FORMA": "Islamic Republic of Mauritania", 
-        "fullname": "Mauritania", 
+        "alias_CHI_V": [
+          "\u8305\u5229\u5854\u5c3c\u4e9e"
+        ], 
         "ne:GU_A3": "MRT", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Mauritania", 
         "ne:GEOUNIT": "Mauritania", 
+        "alias_DUT_V": [
+          "Mauretani\u00eb"
+        ], 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "MR"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -4515,16 +4530,16 @@
           "Mauretanie"
         ], 
         "ne:ABBREV": "Mrt.", 
-        "alias_DUT_V": [
-          "Mauretani\u00eb"
+        "alias_CZE_Q": [
+          "Maurit\u00e1nie"
         ], 
-        "alias_DAN_Q": [
-          "Mauretanien"
+        "alias_GER_V": [
+          "Islamische Republik Mauretanien"
         ], 
         "alias_GER_Q": [
           "Mauretanien"
         ], 
-        "ne:ISO_N3": 478.0, 
+        "fullname": "Mauritania", 
         "lang": "ENG", 
         "name": "Mauritania", 
         "alias_CZE_V": [
@@ -4534,30 +4549,30 @@
         "alias_UNK_Q": [
           "Islamska republika Mavretanija"
         ], 
-        "alias_CHI_V": [
-          "\u8305\u5229\u5854\u5c3c\u4e9e"
+        "alias_HUN_Q": [
+          "Maurit\u00e1nia"
         ], 
-        "alias_UNK_V": [
-          "Mavretanija"
-        ], 
+        "ne:NAME_SORT": "Mauritania", 
         "longitude": -10.951, 
         "ne:POP_EST": 3129486.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": -4.821613118894817, 
         "iso": "MR", 
         "sw_latitude": 14.734398905576114, 
-        "alias_ENG_A": [
-          "MR"
-        ], 
-        "ne:GDP_MD_EST": 6308.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Mauritania", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Mauritanie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Maurit\u00e2nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424896, 
+      "bbox": [
+        -17.06342322434257, 
+        14.616834214735505, 
+        -4.923337368174231, 
+        27.395744126896005
+      ]
     }
   ], 
   "bbox": [

@@ -49,8 +49,13 @@
         "alias_KOR_V": [
           "\ud1a0\ucf08\ub77c\uc6b0\uc81c\ub3c4"
         ], 
-        "alias_ENG_A": [
-          "TK"
+        "alias_KOR_Q": [
+          "\ud1a0\ucf08\ub77c\uc6b0"
+        ], 
+        "children": [
+          "woe:state=24549891", 
+          "woe:state=24549893", 
+          "woe:state=24549892"
         ], 
         "alias_CHI_Q": [
           "\u6258\u514b\u52de"
@@ -69,8 +74,8 @@
         "latitude": -9.383, 
         "woe:id": 23424963, 
         "date_indexed": "2010-12-02T08:53:23Z", 
-        "alias_KOR_Q": [
-          "\ud1a0\ucf08\ub77c\uc6b0"
+        "alias_ENG_A": [
+          "TK"
         ], 
         "alias_DUT_Q": [
           "Tokelau-Eilanden"

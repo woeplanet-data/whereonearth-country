@@ -2153,9 +2153,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. Albania"
+        ], 
+        "alias_HUN_Q": [
+          "Alb\u00e1nia"
         ], 
         "alias_SWE_Q": [
           "Albanien"
@@ -2171,17 +2175,15 @@
         "alias_RUM_Q": [
           "Albania"
         ], 
-        "alias_UNK_V": [
-          "Arubania"
-        ], 
+        "ne:NAME_SORT": "Albania", 
         "placetype": "country", 
         "ne:ne_10m_adm": "ALB", 
         "alias_KOR_Q": [
           "\uc54c\ubc14\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Albania", 
-        "ne:ISO_N3": 8.0, 
         "ne:ADM0_A3": "ALB", 
+        "ne:SOVEREIGNT": "Albania", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u723e\u5df4\u5c3c\u4e9e"
@@ -2189,8 +2191,8 @@
         "alias_ITA_Q": [
           "Albania"
         ], 
-        "alias_DAN_Q": [
-          "Albanien"
+        "alias_GER_V": [
+          "Republik Albanien"
         ], 
         "ne:NAME": "Albania", 
         "ne:POSTAL": "AL", 
@@ -2200,6 +2202,7 @@
         "alias_POL_Q": [
           "Albania"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a2\u30eb\u30d0\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -2221,19 +2224,12 @@
         "ne:ISO_A2": "AL", 
         "date_indexed": "2010-12-02T08:58:52Z", 
         "ne:NAME_FORMA": "Republic of Albania", 
-        "alias_CHI_V": [
-          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
-        ], 
+        "fullname": "Shqip\u00ebri, Albania", 
         "ne:GU_A3": "ALB", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Albania", 
         "ne:GEOUNIT": "Albania", 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 21810.0, 
-        "alias_ENG_A": [
-          "ALB"
-        ], 
-        "wikipedia:id": "738", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2247,50 +2243,73 @@
         "alias_FIN_Q": [
           "Albania"
         ], 
-        "alias_GER_V": [
-          "Republik Albanien"
+        "alias_DAN_Q": [
+          "Albanien"
         ], 
         "alias_GER_Q": [
           "Albanien"
         ], 
-        "fullname": "Shqip\u00ebri, Albania", 
+        "ne:ISO_N3": 8.0, 
         "lang": "UNK", 
         "ne:OID_": 79, 
         "name": "Shqip\u00ebri", 
         "alias_UNK_S": [
           "Shqiperi"
         ], 
+        "alias_POR_Q": [
+          "Alb\u00e2nia"
+        ], 
         "alias_UNK_Q": [
           "Alban\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Alb\u00e1nia"
+        "alias_CHI_V": [
+          "\u963f\u5c14\u5df4\u5c3c\u4e9a"
         ], 
-        "ne:NAME_SORT": "Albania", 
+        "children": [
+          "woe:state=29389554", 
+          "woe:state=29389555", 
+          "woe:state=29389556", 
+          "woe:state=29389557", 
+          "woe:state=29389558", 
+          "woe:state=29389559", 
+          "woe:state=29389560", 
+          "woe:state=29389561", 
+          "woe:state=29389562", 
+          "woe:state=29389563", 
+          "woe:state=29389564", 
+          "woe:state=29389565", 
+          "woe:historicalstate=20069962", 
+          "woe:drainage=26354256", 
+          "woe:drainage=26354255", 
+          "woe:drainage=26354253", 
+          "woe:drainage=26354254"
+        ], 
+        "alias_UNK_V": [
+          "Arubania"
+        ], 
         "longitude": 20.17, 
         "ne:POP_EST": 3639453.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 21.03667932123608, 
         "iso": "AL", 
         "sw_latitude": 39.63701324478362, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Albania", 
-        "alias_FRE_Q": [
-          "Albanie"
+        "alias_ENG_A": [
+          "ALB"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Alb\u00e2nia"
+        "ne:GDP_MD_EST": 21810.0, 
+        "wikipedia:id": "738", 
+        "alias_FRE_Q": [
+          "Albanie"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424742, 
       "bbox": [
         19.304486118250793, 
         39.62499766698397, 
         21.0200403174764, 
         42.68824738216557
-      ]
+      ], 
+      "id": 23424742
     }
   ], 
   "bbox": [

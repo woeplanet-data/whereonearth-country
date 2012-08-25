@@ -3567,6 +3567,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Kenya"
@@ -3583,9 +3584,7 @@
         ], 
         "ne_latitude": 5.49173309383697, 
         "ne:SUBUNIT": "Kenya", 
-        "alias_UNK_V": [
-          "Republika Kenija"
-        ], 
+        "ne:NAME_SORT": "Kenya", 
         "placetype": "country", 
         "alias_POR_V": [
           "Qu\u00eania"
@@ -3599,13 +3598,12 @@
         "alias_POR_S": [
           "Quenia"
         ], 
-        "ne:ISO_N3": 404.0, 
         "ne:ADM0_A3": "KEN", 
+        "ne:SOVEREIGNT": "Kenya", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u80af\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 61510.0, 
         "ne:NAME": "Kenya", 
         "alias_CHI_V": [
           "\u80af\u5c3c\u4e9a"
@@ -3635,12 +3633,12 @@
         "ne:ISO_A2": "KE", 
         "date_indexed": "2010-12-02T08:53:57Z", 
         "ne:NAME_FORMA": "Republic of Kenya", 
+        "fullname": "Kenya", 
         "ne:GU_A3": "KEN", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Kenya", 
         "ne:SU_A3": "KEN", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "188171", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -3659,7 +3657,7 @@
         "alias_GER_Q": [
           "Kenia"
         ], 
-        "fullname": "Kenya", 
+        "ne:ISO_N3": 404.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Kenya", 
         "name": "Kenya", 
@@ -3668,25 +3666,40 @@
           "Kenija"
         ], 
         "ne:POSTAL": "KE", 
-        "ne:NAME_SORT": "Kenya", 
+        "children": [
+          "woe:state=2345937", 
+          "woe:state=2345938", 
+          "woe:state=2345939", 
+          "woe:state=2345940", 
+          "woe:state=2345941", 
+          "woe:state=2345942", 
+          "woe:state=2345943", 
+          "woe:state=2345944", 
+          "woe:landfeature=55863409", 
+          "woe:landfeature=23701981", 
+          "woe:drainage=26354369"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kenija"
+        ], 
         "longitude": 37.904, 
         "ne:POP_EST": 39002772.0, 
         "ne_longitude": 41.88501916485586, 
         "iso": "KE", 
         "sw_latitude": -4.67780120848812, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Kenya", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 61510.0, 
+        "wikipedia:id": "188171", 
         "ne:ne_10m_adm": "KEN"
       }, 
-      "type": "Feature", 
-      "id": 23424863, 
       "bbox": [
         33.893568969666944, 
         -4.67677, 
         41.85508309264397, 
         5.506
-      ]
+      ], 
+      "id": 23424863
     }
   ], 
   "bbox": [

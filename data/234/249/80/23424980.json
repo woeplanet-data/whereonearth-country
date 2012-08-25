@@ -6621,9 +6621,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Uzbek"
+        ], 
+        "alias_HUN_Q": [
+          "\u00dczbegiszt\u00e1n"
         ], 
         "alias_KOR_Q": [
           "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"
@@ -6635,9 +6639,7 @@
         ], 
         "ne_latitude": 45.558718974175335, 
         "ne:SUBUNIT": "Uzbekistan", 
-        "alias_UNK_V": [
-          "Republika Uzbekistan"
-        ], 
+        "ne:NAME_SORT": "Uzbekistan", 
         "placetype": "country", 
         "alias_POR_V": [
           "Usbequist\u00e3o"
@@ -6649,15 +6651,14 @@
         "alias_POR_S": [
           "Usbequistao"
         ], 
-        "ne:ISO_N3": 860.0, 
         "ne:ADM0_A3": "UZB", 
+        "ne:SOVEREIGNT": "Uzbekistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u70cf\u8332\u5225\u514b"
         ], 
-        "ne:GDP_MD_EST": 71670.0, 
-        "alias_DAN_Q": [
-          "Usbekistan"
+        "alias_GER_V": [
+          "Republik Usbekistan"
         ], 
         "ne:NAME": "Uzbekistan", 
         "ne:POSTAL": "UZ", 
@@ -6688,8 +6689,9 @@
         "ne:ISO_A2": "UZ", 
         "date_indexed": "2010-12-02T18:18:54Z", 
         "ne:NAME_FORMA": "Republic of Uzbekistan", 
-        "alias_CHI_V": [
-          "\u70cf\u8332\u5225\u514b"
+        "fullname": "Uzbekistan", 
+        "alias_FRE_V": [
+          "Ouzbekistan"
         ], 
         "ne:GU_A3": "UZB", 
         "ne:MAP_COLOR": 4.0, 
@@ -6699,7 +6701,6 @@
         "alias_SPA_V": [
           "Uzbequist\u00e1n"
         ], 
-        "wikipedia:id": "31853", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -6709,50 +6710,67 @@
         "alias_CZE_Q": [
           "Uzbekist\u00e1n"
         ], 
-        "alias_GER_V": [
-          "Republik Usbekistan"
+        "alias_DAN_Q": [
+          "Usbekistan"
         ], 
         "alias_GER_Q": [
           "Usbekistan"
         ], 
-        "fullname": "Uzbekistan", 
+        "ne:ISO_N3": 860.0, 
         "lang": "ENG", 
         "ne:OID_": 258, 
         "name": "Uzbekistan", 
         "ne:TYPE": "Sovereign country", 
+        "alias_POR_Q": [
+          "Uzbequist\u00e3o"
+        ], 
         "alias_UNK_Q": [
           "Uzbekiston Respublikasi"
         ], 
-        "alias_HUN_Q": [
-          "\u00dczbegiszt\u00e1n"
+        "alias_CHI_V": [
+          "\u70cf\u8332\u5225\u514b"
         ], 
-        "ne:NAME_SORT": "Uzbekistan", 
+        "children": [
+          "woe:timezone=56043643", 
+          "woe:timezone=56043642", 
+          "woe:state=2347659", 
+          "woe:state=2347660", 
+          "woe:state=2347662", 
+          "woe:state=2347661", 
+          "woe:state=2347665", 
+          "woe:state=2347666", 
+          "woe:state=2347667", 
+          "woe:state=2347664", 
+          "woe:state=2347663", 
+          "woe:state=20070173", 
+          "woe:state=2347669", 
+          "woe:state=2347668", 
+          "woe:state=2347670", 
+          "woe:state=20070172"
+        ], 
+        "alias_UNK_V": [
+          "Republika Uzbekistan"
+        ], 
         "longitude": 64.564, 
         "ne:POP_EST": 27606007.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 73.148640584431, 
         "iso": "UZ", 
         "sw_latitude": 37.18514740002128, 
-        "alias_FRE_V": [
-          "Ouzbekistan"
-        ], 
-        "ne:SOVEREIGNT": "Uzbekistan", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 71670.0, 
+        "wikipedia:id": "31853", 
         "alias_FRE_Q": [
           "Ouzb\u00e9kistan"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Uzbequist\u00e3o"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424980, 
       "bbox": [
         55.928917270741096, 
         37.144994004864685, 
         73.05541710804917, 
         45.58680430763283
-      ]
+      ], 
+      "id": 23424980
     }
   ], 
   "bbox": [

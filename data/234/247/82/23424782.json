@@ -68005,6 +68005,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Chile"
@@ -68018,15 +68019,15 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -17.506578877659337, 
-        "ne:NAME_SORT": "Chile", 
+        "ne_longitude": -66.42010127799821, 
         "placetype": "country", 
         "ne:ne_10m_adm": "CHL", 
         "alias_ENG_A": [
           "CL"
         ], 
         "ne:SUBUNIT": "Chile", 
-        "ne:ISO_N3": 152.0, 
         "ne:ADM0_A3": "CHL", 
+        "ne:SOVEREIGNT": "Chile", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u667a\u5229"
@@ -68055,13 +68056,12 @@
         "ne:ISO_A2": "CL", 
         "date_indexed": "2010-12-02T12:15:39Z", 
         "ne:NAME_FORMA": "Republic of Chile", 
+        "fullname": "Chile", 
         "ne:GU_A3": "CHL", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Chile", 
         "ne:GEOUNIT": "Chile", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 244500.0, 
-        "wikipedia:id": "5489", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -68071,33 +68071,51 @@
         "alias_GER_V": [
           "Republik Chile"
         ], 
-        "fullname": "Chile", 
+        "ne:ISO_N3": 152.0, 
         "lang": "ENG", 
         "name": "Chile", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Chiri"
         ], 
-        "ne_longitude": -66.42010127799821, 
+        "children": [
+          "woe:timezone=28350790", 
+          "woe:state=2345019", 
+          "woe:state=2345020", 
+          "woe:state=2345021", 
+          "woe:state=56043702", 
+          "woe:state=2345022", 
+          "woe:state=2345023", 
+          "woe:state=2345024", 
+          "woe:state=2345025", 
+          "woe:state=2345026", 
+          "woe:state=56043703", 
+          "woe:state=2345027", 
+          "woe:state=2345028", 
+          "woe:state=2345029", 
+          "woe:state=2345030", 
+          "woe:state=2345018"
+        ], 
+        "ne:NAME_SORT": "Chile", 
         "longitude": -71.341, 
         "ne:POP_EST": 16601707.0, 
         "iso": "CL", 
         "sw_latitude": -55.91488047270987, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Chile", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 244500.0, 
+        "wikipedia:id": "5489", 
         "alias_FRE_Q": [
           "Chili"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424782, 
       "bbox": [
         -75.64439531116545, 
         -55.61183, 
         -66.95992, 
         -17.58001189541929
-      ]
+      ], 
+      "id": 23424782
     }
   ], 
   "bbox": [

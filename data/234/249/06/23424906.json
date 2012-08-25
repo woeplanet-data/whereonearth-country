@@ -4097,14 +4097,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424906, 
-      "bbox": [
-        0.295646396495215, 
-        11.660167141155966, 
-        15.903246697664315, 
-        23.471668402596435
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Nigerien"
@@ -4118,7 +4110,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 23.517351176349905, 
-        "ne:NAME_SORT": "Niger", 
+        "alias_UNK_V": [
+          "Republika Niger"
+        ], 
         "placetype": "country", 
         "alias_POR_Q": [
           "N\u00edger"
@@ -4127,12 +4121,23 @@
           "NE"
         ], 
         "ne:SUBUNIT": "Niger", 
+        "ne:ISO_N3": 562.0, 
         "ne:ADM0_A3": "NER", 
-        "ne:SOVEREIGNT": "Niger", 
+        "children": [
+          "woe:state=2346324", 
+          "woe:state=2346325", 
+          "woe:state=2346326", 
+          "woe:state=2346327", 
+          "woe:state=20069994", 
+          "woe:state=2346329", 
+          "woe:state=20069995", 
+          "woe:state=2346330"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5c3c\u65e5"
         ], 
+        "ne:GDP_MD_EST": 10040.0, 
         "ne:NAME": "Niger", 
         "alias_CHI_V": [
           "\u5c3c\u65e5"
@@ -4159,7 +4164,6 @@
         "ne:ISO_A2": "NE", 
         "date_indexed": "2010-12-02T17:43:23Z", 
         "ne:NAME_FORMA": "Republic of Niger", 
-        "fullname": "Niger", 
         "ne:GU_A3": "NER", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Niger", 
@@ -4171,24 +4175,30 @@
         "alias_GER_V": [
           "Republik Niger"
         ], 
-        "ne:ISO_N3": 562.0, 
+        "fullname": "Niger", 
         "lang": "ENG", 
         "name": "Niger", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "NE", 
-        "alias_UNK_V": [
-          "Republika Niger"
-        ], 
+        "ne:NAME_SORT": "Niger", 
         "longitude": 8.081, 
         "ne:POP_EST": 15306252.0, 
         "ne_longitude": 15.970321899055733, 
         "iso": "NE", 
         "sw_latitude": 11.695773010830848, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 10040.0, 
+        "ne:SOVEREIGNT": "Niger", 
         "ne:ne_10m_adm": "NER"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424906, 
+      "bbox": [
+        0.295646396495215, 
+        11.660167141155966, 
+        15.903246697664315, 
+        23.471668402596435
+      ]
     }
   ], 
   "bbox": [

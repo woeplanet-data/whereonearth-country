@@ -681,19 +681,22 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 7.733895975692562, 
-        "ne:NAME_SORT": "Palau", 
+        "alias_UNK_V": [
+          "Republika Palau"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "PLW", 
         "alias_KOR_Q": [
           "\ud314\ub77c\uc6b0"
         ], 
         "ne:SUBUNIT": "Palau", 
+        "ne:ISO_N3": 585.0, 
         "ne:ADM0_A3": "PLW", 
+        "ne:SOVEREIGNT": "Palau", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e1b\u7409"
         ], 
-        "ne:GDP_MD_EST": 164.0, 
         "alias_ITA_V": [
           "Isole Palau"
         ], 
@@ -724,7 +727,6 @@
         "ne:ISO_A2": "PW", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:SOV_A3": "PLW", 
-        "fullname": "Palau", 
         "ne:GU_A3": "PLW", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Palau", 
@@ -732,31 +734,48 @@
         "ne:LabelRank": 2, 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "Belau"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Palau", 
         "alias_GER_V": [
           "Republik Palau"
         ], 
-        "ne:ISO_N3": 585.0, 
+        "fullname": "Palau", 
         "ne:NAME": "Palau", 
         "lang": "ENG", 
         "name": "Palau", 
         "ne:TYPE": "Sovereign country", 
+        "ne:ISO_A3": "PLW", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "PW", 
-        "alias_UNK_V": [
-          "Republika Palau"
+        "children": [
+          "woe:island=12498905", 
+          "woe:state=24549821", 
+          "woe:state=24549819", 
+          "woe:state=24549824", 
+          "woe:state=24549812", 
+          "woe:state=24549826", 
+          "woe:state=24549822", 
+          "woe:state=24549818", 
+          "woe:state=24549814", 
+          "woe:state=24549813", 
+          "woe:state=24549816", 
+          "woe:state=24549820", 
+          "woe:state=24549827", 
+          "woe:state=24549817", 
+          "woe:state=24549815", 
+          "woe:state=24549823", 
+          "woe:state=24549825"
         ], 
+        "ne:NAME_SORT": "Palau", 
         "longitude": 134.564, 
         "ne:POP_EST": 20796.0, 
         "ne_longitude": 134.66354211457497, 
         "iso": "PW", 
         "sw_latitude": 2.949020080408545, 
-        "ne:ISO_A3": "PLW", 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Palau", 
+        "alias_FRE_V": [
+          "Belau"
+        ], 
+        "ne:GDP_MD_EST": 164.0, 
         "alias_FRE_Q": [
           "Palaos"
         ]

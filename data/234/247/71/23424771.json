@@ -3805,6 +3805,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. Bulgaria"
@@ -3820,17 +3821,15 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 44.22841257798578, 
-        "alias_UNK_V": [
-          "Burugaria"
-        ], 
+        "ne:NAME_SORT": "Bulgaria", 
         "placetype": "country", 
         "ne:ne_10m_adm": "BGR", 
         "alias_KOR_Q": [
           "\ubd88\uac00\ub9ac\uc544"
         ], 
         "ne:SUBUNIT": "Bulgaria", 
-        "ne:ISO_N3": 100.0, 
         "ne:ADM0_A3": "BGR", 
+        "ne:SOVEREIGNT": "Bulgaria", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u4fdd\u52a0\u5229\u4e9e"
@@ -3838,8 +3837,8 @@
         "alias_ITA_Q": [
           "Bulgarie"
         ], 
-        "alias_GER_V": [
-          "Republik Bulgarien"
+        "alias_DAN_Q": [
+          "Bulgarien"
         ], 
         "ne:NAME": "Bulgaria", 
         "ne:POSTAL": "BG", 
@@ -3847,10 +3846,14 @@
           "\u30d6\u30eb\u30ac\u30ea\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30d6\u30eb\u30ac\u30ea\u30a2\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Bulg\u00e1ria"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 22.34502323385388, 
         "ne:SOV_A3": "BGR", 
@@ -3863,16 +3866,12 @@
         "ne:ISO_A2": "BG", 
         "date_indexed": "2010-12-02T16:14:37Z", 
         "ne:NAME_FORMA": null, 
+        "fullname": "Bulgaria", 
         "ne:GU_A3": "BGR", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Bulgaria", 
         "ne:GEOUNIT": "Bulgaria", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 93750.0, 
-        "alias_ENG_A": [
-          "BGR"
-        ], 
-        "wikipedia:id": "3415", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_FRE_V": [
@@ -3882,13 +3881,16 @@
         "alias_CZE_Q": [
           "Bulharsko"
         ], 
-        "alias_DAN_Q": [
-          "Bulgarien"
+        "alias_FRE_S": [
+          "Republique Bulgarie"
+        ], 
+        "alias_GER_V": [
+          "Republik Bulgarien"
         ], 
         "alias_GER_Q": [
           "Bulgarien"
         ], 
-        "fullname": "Bulgaria", 
+        "ne:ISO_N3": 100.0, 
         "lang": "ENG", 
         "name": "Bulgaria", 
         "alias_DUT_Q": [
@@ -3901,7 +3903,40 @@
         "alias_HUN_Q": [
           "Bulg\u00e1ria"
         ], 
-        "ne:NAME_SORT": "Bulgaria", 
+        "children": [
+          "woe:state=20070060", 
+          "woe:state=20070075", 
+          "woe:state=20070050", 
+          "woe:state=20070062", 
+          "woe:state=20070073", 
+          "woe:state=20070053", 
+          "woe:state=20070059", 
+          "woe:state=20070064", 
+          "woe:state=20070056", 
+          "woe:state=20070066", 
+          "woe:state=20070058", 
+          "woe:state=20070065", 
+          "woe:state=20070068", 
+          "woe:state=20070071", 
+          "woe:state=20070069", 
+          "woe:state=20070052", 
+          "woe:state=20070070", 
+          "woe:state=20070049", 
+          "woe:state=20070067", 
+          "woe:state=20070061", 
+          "woe:state=20069794", 
+          "woe:state=20070054", 
+          "woe:state=20070072", 
+          "woe:state=20070051", 
+          "woe:state=20070063", 
+          "woe:state=20070055", 
+          "woe:state=20070057", 
+          "woe:state=20070074", 
+          "woe:drainage=26354258"
+        ], 
+        "alias_UNK_V": [
+          "Burugaria"
+        ], 
         "longitude": 25.483, 
         "ne:POP_EST": 7204687.0, 
         "alias_UNK_S": [
@@ -3910,27 +3945,23 @@
         "ne_longitude": 28.6040210366196, 
         "iso": "BG", 
         "sw_latitude": 41.23810414691846, 
-        "ne:GEOU_DIF": 0.0, 
+        "alias_ENG_A": [
+          "BGR"
+        ], 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Bulgaria", 
+        "ne:GDP_MD_EST": 93750.0, 
+        "wikipedia:id": "3415", 
         "alias_FRE_Q": [
           "Bulgarie"
-        ], 
-        "alias_FRE_S": [
-          "Republique Bulgarie"
-        ], 
-        "alias_POR_Q": [
-          "Bulg\u00e1ria"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424771, 
       "bbox": [
         22.380525750424592, 
         41.23448598893053, 
         28.558081495891997, 
         44.23492300066128
-      ]
+      ], 
+      "id": 23424771
     }
   ], 
   "bbox": [

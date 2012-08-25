@@ -4643,9 +4643,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of the Sudan"
+        ], 
+        "alias_HUN_Q": [
+          "Szud\u00e1n"
         ], 
         "alias_ENG_A": [
           "SD"
@@ -4657,9 +4661,7 @@
         ], 
         "ne_latitude": 22.226964823490377, 
         "ne:SUBUNIT": "Sudan", 
-        "alias_UNK_V": [
-          "Republika Sudan"
-        ], 
+        "ne:NAME_SORT": "Sudan", 
         "placetype": "country", 
         "ne:ne_10m_adm": "SDN", 
         "alias_KOR_Q": [
@@ -4668,16 +4670,15 @@
         "alias_POR_S": [
           "Sudao"
         ], 
-        "ne:ISO_N3": 729.0, 
         "alias_ARA_V": [
           "As-Sudan"
         ], 
         "ne:ADM0_A3": "SDN", 
+        "ne:SOVEREIGNT": "Sudan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8607\u4e39"
         ], 
-        "ne:GDP_MD_EST": 88080.0, 
         "ne:NAME": "Sudan", 
         "ne:POSTAL": "SD", 
         "alias_JPN_Q": [
@@ -4702,9 +4703,7 @@
         "ne:ISO_A2": "SD", 
         "date_indexed": "2010-12-02T08:50:55Z", 
         "ne:NAME_FORMA": "Republic of the Sudan", 
-        "alias_CHI_V": [
-          "\u82cf\u4e39"
-        ], 
+        "fullname": "Sudan", 
         "ne:GU_A3": "SDN", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Sudan", 
@@ -4722,38 +4721,69 @@
         "alias_GER_V": [
           "Republik Sudan"
         ], 
-        "fullname": "Sudan", 
+        "ne:ISO_N3": 729.0, 
         "lang": "ENG", 
         "name": "Sudan", 
         "ne:TYPE": "Sovereign country", 
-        "ne:SU_DIF": 0.0, 
-        "alias_HUN_Q": [
-          "Szud\u00e1n"
+        "alias_POR_Q": [
+          "Sud\u00e3o"
         ], 
-        "ne:NAME_SORT": "Sudan", 
+        "ne:SU_DIF": 0.0, 
+        "alias_CHI_V": [
+          "\u82cf\u4e39"
+        ], 
+        "children": [
+          "woe:colloquial=55805560", 
+          "woe:state=20069908", 
+          "woe:state=20069904", 
+          "woe:state=20069896", 
+          "woe:state=20069916", 
+          "woe:state=20069819", 
+          "woe:state=20069906", 
+          "woe:state=20069907", 
+          "woe:state=20069914", 
+          "woe:state=20069913", 
+          "woe:state=20069999", 
+          "woe:state=20069902", 
+          "woe:state=20069900", 
+          "woe:state=20069899", 
+          "woe:state=20069894", 
+          "woe:state=20069911", 
+          "woe:state=20069893", 
+          "woe:state=20069910", 
+          "woe:state=20069909", 
+          "woe:state=20069905", 
+          "woe:state=20069903", 
+          "woe:state=20069897", 
+          "woe:state=20069895", 
+          "woe:state=20069912", 
+          "woe:state=20069901", 
+          "woe:state=20069915", 
+          "woe:state=20069898", 
+          "woe:drainage=26354479"
+        ], 
+        "alias_UNK_V": [
+          "Republika Sudan"
+        ], 
         "longitude": 30.209, 
         "ne:POP_EST": 30894000.0, 
         "ne_longitude": 38.61565799960175, 
         "iso": "SD", 
         "sw_latitude": 8.681641744252843, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Sudan", 
+        "ne:GDP_MD_EST": 88080.0, 
+        "wikipedia:id": "27421", 
         "alias_FRE_Q": [
           "Soudan"
-        ], 
-        "wikipedia:id": "27421", 
-        "alias_POR_Q": [
-          "Sud\u00e3o"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424952, 
       "bbox": [
         21.93681, 
         8.619729712933065, 
         38.410089959473225, 
         22.0
-      ]
+      ], 
+      "id": 23424952
     }
   ], 
   "bbox": [

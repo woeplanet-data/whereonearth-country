@@ -1885,14 +1885,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424965, 
-      "bbox": [
-        -0.049784715159944, 
-        5.928837388528876, 
-        1.865240512712319, 
-        11.018681748900804
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Togolese"
@@ -1906,19 +1898,48 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 11.134980367333768, 
-        "ne_longitude": 1.782350708093873, 
+        "ne:NAME_SORT": "Togo", 
         "placetype": "country", 
         "ne:ne_10m_adm": "TGO", 
         "alias_ENG_A": [
           "TG"
         ], 
         "ne:SUBUNIT": "Togo", 
+        "ne:ISO_N3": 768.0, 
         "ne:ADM0_A3": "TGO", 
-        "ne:SOVEREIGNT": "Togo", 
+        "children": [
+          "woe:state=56048436", 
+          "woe:state=56048435", 
+          "woe:state=56048437", 
+          "woe:state=56048438", 
+          "woe:state=56048434", 
+          "woe:historicalstate=2347212", 
+          "woe:historicalstate=2347213", 
+          "woe:historicalstate=2347214", 
+          "woe:historicalstate=2347226", 
+          "woe:historicalstate=2347215", 
+          "woe:historicalstate=2347216", 
+          "woe:historicalstate=2347217", 
+          "woe:historicalstate=2347218", 
+          "woe:historicalstate=2347219", 
+          "woe:historicalstate=2347225", 
+          "woe:historicalstate=2347220", 
+          "woe:historicalstate=2347221", 
+          "woe:historicalstate=2347222", 
+          "woe:historicalstate=2347223", 
+          "woe:historicalstate=2347224", 
+          "woe:historicalstate=2347227", 
+          "woe:historicalstate=2347228", 
+          "woe:historicalstate=2347230", 
+          "woe:historicalstate=2347231", 
+          "woe:historicalstate=2347229", 
+          "woe:historicalstate=2347232"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u591a\u54e5"
         ], 
+        "ne:GDP_MD_EST": 5118.0, 
         "ne:NAME": "Togo", 
         "ne:POSTAL": "TG", 
         "alias_JPN_Q": [
@@ -1940,7 +1961,6 @@
         "ne:ISO_A2": "TG", 
         "sw_latitude": 6.100145569034893, 
         "ne:NAME_FORMA": "Togolese Republic", 
-        "fullname": "Togo", 
         "ne:GU_A3": "TGO", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Togo", 
@@ -1952,22 +1972,30 @@
         "alias_GER_V": [
           "Republik Togo"
         ], 
-        "ne:ISO_N3": 768.0, 
+        "fullname": "Togo", 
         "lang": "ENG", 
         "name": "Togo", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Togolese Republic"
         ], 
-        "ne:NAME_SORT": "Togo", 
+        "ne_longitude": 1.782350708093873, 
         "longitude": 0.83, 
         "ne:POP_EST": 6019877.0, 
         "iso": "TG", 
         "date_indexed": "2010-12-02T17:04:11Z", 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 5118.0, 
+        "ne:SOVEREIGNT": "Togo", 
         "ne:SU_DIF": 0.0
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424965, 
+      "bbox": [
+        -0.049784715159944, 
+        5.928837388528876, 
+        1.865240512712319, 
+        11.018681748900804
+      ]
     }
   ], 
   "bbox": [

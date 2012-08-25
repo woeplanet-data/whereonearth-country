@@ -2025,20 +2025,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424823, 
-      "bbox": [
-        39.955008579270924, 
-        41.06444468847411, 
-        46.63790815612058, 
-        43.553104153002316
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Georgian Soviet Socialist Republic"
-        ], 
-        "alias_HUN_Q": [
-          "Gr\u00fazia"
         ], 
         "alias_SWE_Q": [
           "Georgien"
@@ -2051,7 +2040,9 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 43.575842590752615, 
-        "ne:NAME_SORT": "Georgia", 
+        "alias_UNK_V": [
+          "Sakartvelo"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uadf8\ub8e8\uc9c0\uc544"
@@ -2061,12 +2052,79 @@
           "\uadf8\ub8e8\uc9c0\uc57c"
         ], 
         "ne:SUBUNIT": "Georgia", 
+        "ne:ISO_N3": 268.0, 
         "ne:ADM0_A3": "GEO", 
-        "ne:SOVEREIGNT": "Georgia", 
+        "children": [
+          "woe:state=20070395", 
+          "woe:state=20070401", 
+          "woe:state=20070347", 
+          "woe:state=20070400", 
+          "woe:state=20070364", 
+          "woe:state=20070352", 
+          "woe:state=20070348", 
+          "woe:state=20070374", 
+          "woe:state=20070380", 
+          "woe:state=20070350", 
+          "woe:state=20070388", 
+          "woe:state=20070356", 
+          "woe:state=20070349", 
+          "woe:state=20070384", 
+          "woe:state=20070397", 
+          "woe:state=20070377", 
+          "woe:state=20070371", 
+          "woe:state=20070353", 
+          "woe:state=20070363", 
+          "woe:state=20070408", 
+          "woe:state=20070402", 
+          "woe:state=20070403", 
+          "woe:state=20070369", 
+          "woe:state=20070365", 
+          "woe:state=20070366", 
+          "woe:state=20070385", 
+          "woe:state=20070367", 
+          "woe:state=20070406", 
+          "woe:state=20070392", 
+          "woe:state=20070368", 
+          "woe:state=20070404", 
+          "woe:state=20070370", 
+          "woe:state=20070378", 
+          "woe:state=20070382", 
+          "woe:state=20070373", 
+          "woe:state=20070396", 
+          "woe:state=20070394", 
+          "woe:state=20070360", 
+          "woe:state=20070351", 
+          "woe:state=20070379", 
+          "woe:state=20070376", 
+          "woe:state=20070405", 
+          "woe:state=20070362", 
+          "woe:state=20070372", 
+          "woe:state=20070407", 
+          "woe:state=20070383", 
+          "woe:state=20070359", 
+          "woe:state=20070393", 
+          "woe:state=20070399", 
+          "woe:state=20070357", 
+          "woe:state=20070389", 
+          "woe:state=20070398", 
+          "woe:state=20070354", 
+          "woe:state=20070390", 
+          "woe:state=20070381", 
+          "woe:state=20070358", 
+          "woe:state=20070375", 
+          "woe:state=20070387", 
+          "woe:state=20070355", 
+          "woe:state=20070361", 
+          "woe:state=20070391", 
+          "woe:state=20070386", 
+          "woe:state=20070409", 
+          "woe:state=20070410"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u55ac\u6cbb\u4e9e"
         ], 
+        "ne:GDP_MD_EST": 21510.0, 
         "ne:NAME": "Georgia", 
         "ne:POSTAL": "GE", 
         "alias_JPN_Q": [
@@ -2077,6 +2135,9 @@
           "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
         ], 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Ge\u00f3rgia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 39.985910278441736, 
         "ne:SOV_A3": "GEO", 
@@ -2089,12 +2150,17 @@
         "ne:ISO_A2": "GE", 
         "date_indexed": "2010-12-02T17:51:59Z", 
         "ne:NAME_FORMA": null, 
-        "fullname": "Georgia", 
+        "alias_CHI_V": [
+          "\u55ac\u6cbb\u4e9e"
+        ], 
         "ne:GU_A3": "GEO", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Georgia", 
         "ne:GEOUNIT": "Georgia", 
         "ne:LabelRank": 2, 
+        "alias_ENG_A": [
+          "GE"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2107,46 +2173,46 @@
         "alias_CZE_Q": [
           "Gruzie"
         ], 
-        "alias_FRE_S": [
-          "Georgie"
-        ], 
         "alias_DAN_Q": [
           "Georgien"
         ], 
         "alias_GER_Q": [
           "Georgien"
         ], 
-        "ne:ISO_N3": 268.0, 
+        "fullname": "Georgia", 
         "lang": "ENG", 
         "name": "Georgia", 
         "ne:TYPE": "Sovereign country", 
         "alias_UNK_Q": [
           "Gruzija"
         ], 
-        "alias_CHI_V": [
-          "\u55ac\u6cbb\u4e9e"
+        "alias_HUN_Q": [
+          "Gr\u00fazia"
         ], 
-        "alias_UNK_V": [
-          "Sakartvelo"
-        ], 
+        "ne:NAME_SORT": "Georgia", 
         "longitude": 43.366, 
         "ne:POP_EST": 4615807.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 46.69480310034879, 
         "iso": "GE", 
         "sw_latitude": 41.04411082000942, 
-        "alias_ENG_A": [
-          "GE"
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Georgia", 
+        "alias_FRE_S": [
+          "Georgie"
         ], 
-        "ne:GDP_MD_EST": 21510.0, 
         "alias_FRE_Q": [
           "G\u00e9orgie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Ge\u00f3rgia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424823, 
+      "bbox": [
+        39.955008579270924, 
+        41.06444468847411, 
+        46.63790815612058, 
+        43.553104153002316
+      ]
     }
   ], 
   "bbox": [

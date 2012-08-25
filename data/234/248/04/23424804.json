@@ -995,40 +995,33 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424804, 
-      "bbox": [
-        9.305613234096256, 
-        1.010119533691494, 
-        11.285078973036462, 
-        2.283866075037736
-      ], 
       "properties": {
+        "ne:TERR_": null, 
         "alias_ENG_V": [
           "Spanish Guinea"
         ], 
-        "alias_HUN_Q": [
-          "Egyenl\u00edt\u0151i-Guinea"
+        "alias_POR_Q": [
+          "Guin\u00e9 Equatorial"
         ], 
         "alias_SWE_Q": [
           "Ekvatorialguinea"
+        ], 
+        "alias_POL_Q": [
+          "Gwinea R\u00f3wnikowa"
         ], 
         "hierarchy": [
           "woe:country=23424804", 
           "woe:planet=1"
         ], 
-        "alias_POL_Q": [
-          "Gwinea R\u00f3wnikowa"
-        ], 
-        "alias_FIN_Q": [
-          "P\u00e4iv\u00e4ntasaajan Guinea"
-        ], 
         "ne_latitude": 3.772277323867272, 
         "ne:SUBUNIT": "Equatorial Guinea", 
+        "ne:GU_A3": "GNQ", 
         "alias_RUM_Q": [
           "Guineea Ecuatorial\u0103"
         ], 
-        "ne:NAME_SORT": "Equatorial Guinea", 
+        "alias_UNK_V": [
+          "P\u00e4iv\u00e4ntasaajan Guinea"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc801\ub3c4\uae30\ub2c8"
@@ -1040,8 +1033,19 @@
         "alias_POR_S": [
           "Guine Equatorial"
         ], 
+        "ne:ISO_N3": 226.0, 
         "ne:ADM0_A3": "GNQ", 
-        "ne:SOVEREIGNT": "Equatorial Guinea", 
+        "children": [
+          "woe:island=23425019", 
+          "woe:island=23425018", 
+          "woe:state=20069854", 
+          "woe:state=20069855", 
+          "woe:state=20069856", 
+          "woe:state=20069850", 
+          "woe:state=20069851", 
+          "woe:state=20069853", 
+          "woe:state=20069852"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8d64\u9053\u5e7e\u5167\u4e9e"
@@ -1049,21 +1053,19 @@
         "alias_ITA_Q": [
           "Guinea Equatoriale"
         ], 
-        "alias_GER_V": [
-          "Republik \u00c4quatorialguinea"
+        "alias_DAN_Q": [
+          "\u00c6kvatorialguinea"
         ], 
         "ne:NAME": "Eq. Guinea", 
         "ne:POSTAL": "GQ", 
-        "alias_KOR_Q": [
-          "\uc801\ub3c4 \uae30\ub2c8"
-        ], 
-        "alias_GER_Q": [
-          "\u00c4quatorialguinea"
+        "alias_DAN_V": [
+          "\u00c6kvatorial Guinea"
         ], 
         "alias_JPN_Q": [
           "\u8d64\u9053\u30ae\u30cb\u30a2"
         ], 
         "ne:LEVEL": 2.0, 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u8d64\u9053\u30ae\u30cb\u30a2\u5171\u548c\u56fd"
         ], 
@@ -1071,7 +1073,9 @@
         "alias_SPA_Q": [
           "Guinea Ecuatorial"
         ], 
-        "ne:TERR_": null, 
+        "alias_FIN_Q": [
+          "P\u00e4iv\u00e4ntasaajan Guinea"
+        ], 
         "alias_FIN_S": [
           "Paivantasaajan Guinea"
         ], 
@@ -1088,15 +1092,17 @@
         "ne:ISO_A2": "GQ", 
         "date_indexed": "2010-12-02T16:55:36Z", 
         "ne:NAME_FORMA": "Republic of Equatorial Guinea", 
-        "fullname": "Equatorial Guinea", 
-        "alias_FRE_V": [
-          "Guin\u00e9e \u00e9quatoriale"
+        "alias_CHI_V": [
+          "\u8d64\u9053\u51e0\u5185\u4e9a"
         ], 
-        "ne:GU_A3": "GNQ", 
+        "alias_KOR_Q": [
+          "\uc801\ub3c4 \uae30\ub2c8"
+        ], 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Equatorial Guinea", 
         "ne:GEOUNIT": "Equatorial Guinea", 
         "ne:LabelRank": 5, 
+        "ne:GDP_MD_EST": 22950.0, 
         "alias_SPA_V": [
           "Territorios Espa\u00f1oles del Golfo de Guinea"
         ], 
@@ -1109,19 +1115,16 @@
         "alias_CZE_Q": [
           "Rovn\u00edkov\u00e1 Guinea"
         ], 
-        "alias_FRE_S": [
-          "Guinee Equatoriale"
-        ], 
         "alias_DAN_S": [
           "AEkvatorial Guinea"
         ], 
-        "alias_DAN_Q": [
-          "\u00c6kvatorialguinea"
+        "alias_GER_V": [
+          "Republik \u00c4quatorialguinea"
         ], 
-        "alias_DAN_V": [
-          "\u00c6kvatorial Guinea"
+        "alias_GER_Q": [
+          "\u00c4quatorialguinea"
         ], 
-        "ne:ISO_N3": 226.0, 
+        "fullname": "Equatorial Guinea", 
         "alias_GER_S": [
           "Aequatorialguinea"
         ], 
@@ -1132,15 +1135,13 @@
         "alias_UNK_Q": [
           "Ekvatorialna Gvineja"
         ], 
-        "alias_CHI_V": [
-          "\u8d64\u9053\u51e0\u5185\u4e9a"
+        "alias_HUN_Q": [
+          "Egyenl\u00edt\u0151i-Guinea"
         ], 
         "alias_HUN_V": [
           "Egyenl\u00edt\u010fi Guinea"
         ], 
-        "alias_UNK_V": [
-          "P\u00e4iv\u00e4ntasaajan Guinea"
-        ], 
+        "ne:NAME_SORT": "Equatorial Guinea", 
         "longitude": 10.341, 
         "ne:POP_EST": 633441.0, 
         "alias_UNK_S": [
@@ -1149,16 +1150,26 @@
         "ne_longitude": 11.336341186721228, 
         "iso": "GQ", 
         "sw_latitude": -1.475826110688942, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 22950.0, 
-        "alias_FRE_Q": [
-          "Guin\u00e9e \u00c9quatoriale"
+        "alias_FRE_V": [
+          "Guin\u00e9e \u00e9quatoriale"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Guin\u00e9 Equatorial"
+        "ne:SOVEREIGNT": "Equatorial Guinea", 
+        "alias_FRE_S": [
+          "Guinee Equatoriale"
+        ], 
+        "alias_FRE_Q": [
+          "Guin\u00e9e \u00c9quatoriale"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424804, 
+      "bbox": [
+        9.305613234096256, 
+        1.010119533691494, 
+        11.285078973036462, 
+        2.283866075037736
+      ]
     }
   ], 
   "bbox": [

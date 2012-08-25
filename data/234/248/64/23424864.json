@@ -4751,20 +4751,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424864, 
-      "bbox": [
-        69.46488691597753, 
-        39.27946320246437, 
-        80.2599902688853, 
-        43.29833934180337
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Kyrgyzstani"
         ], 
-        "alias_HUN_Q": [
-          "Kirgiziszt\u00e1n"
+        "alias_POR_Q": [
+          "Quirguist\u00e3o"
         ], 
         "alias_SWE_Q": [
           "Kirgizistan"
@@ -4778,10 +4770,13 @@
         ], 
         "ne_latitude": 43.26170155843408, 
         "ne:SUBUNIT": "Kyrgyzstan", 
+        "ne:GU_A3": "KGZ", 
         "alias_RUM_Q": [
           "K\u00e2rg\u00e2zstan"
         ], 
-        "ne:NAME_SORT": "Kyrgyzstan", 
+        "alias_UNK_V": [
+          "Kirgisia"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud0a4\ub974\uae30\uc2a4"
@@ -4796,8 +4791,18 @@
         "alias_POR_S": [
           "Quirguizistao"
         ], 
+        "ne:ISO_N3": 417.0, 
         "ne:ADM0_A3": "KGZ", 
-        "ne:SOVEREIGNT": "Kyrgyzstan", 
+        "children": [
+          "woe:state=20070196", 
+          "woe:state=20070194", 
+          "woe:state=20070195", 
+          "woe:state=20070193", 
+          "woe:state=20070191", 
+          "woe:state=20070197", 
+          "woe:state=20070192", 
+          "woe:state=20070190"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5409\u723e\u5409\u65af"
@@ -4805,17 +4810,12 @@
         "alias_ITA_Q": [
           "Kirghizistan"
         ], 
-        "alias_GER_V": [
-          "Kirgistan"
+        "alias_DAN_Q": [
+          "Kirgisistan"
         ], 
         "ne:NAME": "Kyrgyzstan", 
         "ne:POSTAL": "KG", 
-        "alias_KOR_Q": [
-          "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
-        ], 
-        "alias_CZE_Q": [
-          "Kyrgyzst\u00e1n"
-        ], 
+        "provider": "geoplanet 7.6.0", 
         "alias_JPN_Q": [
           "\u30ad\u30eb\u30ae\u30b9"
         ], 
@@ -4848,17 +4848,25 @@
         "ne:ISO_A2": "KG", 
         "date_indexed": "2010-12-02T08:58:47Z", 
         "ne:NAME_FORMA": "Kyrgyz Republic", 
-        "fullname": "Kyrgyzstan", 
-        "ne:GU_A3": "KGZ", 
+        "alias_CHI_V": [
+          "\u5409\u723e\u5409\u65af"
+        ], 
+        "alias_KOR_Q": [
+          "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+        ], 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Kyrgyzstan", 
         "ne:SU_A3": "KGZ", 
+        "alias_DUT_V": [
+          "Kirgizstan"
+        ], 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 11610.0, 
         "alias_SPA_V": [
           "Kirgizist\u00e1n"
         ], 
         "ne:FeatureCla": "Adm-0 country", 
-        "provider": "geoplanet 7.6.0", 
+        "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Kirgizi\u00eb"
         ], 
@@ -4866,21 +4874,20 @@
           "Kirgizie"
         ], 
         "ne:ABBREV": "Kgz.", 
-        "alias_DUT_V": [
-          "Kirgizstan"
+        "alias_CZE_Q": [
+          "Kyrgyzst\u00e1n"
         ], 
         "alias_FIN_Q": [
           "Kirgisia"
         ], 
-        "alias_DAN_Q": [
-          "Kirgisistan"
+        "alias_GER_V": [
+          "Kirgistan"
         ], 
         "alias_GER_Q": [
           "Kirgisistan"
         ], 
-        "ne:ISO_N3": 417.0, 
+        "fullname": "Kyrgyzstan", 
         "lang": "ENG", 
-        "ne:ADM0_DIF": 0.0, 
         "ne:OID_": 163, 
         "ne:GEOUNIT": "Kyrgyzstan", 
         "name": "Kyrgyzstan", 
@@ -4888,27 +4895,30 @@
         "alias_UNK_Q": [
           "Kirgizistan"
         ], 
-        "alias_CHI_V": [
-          "\u5409\u723e\u5409\u65af"
+        "alias_HUN_Q": [
+          "Kirgiziszt\u00e1n"
         ], 
-        "alias_UNK_V": [
-          "Kirgisia"
-        ], 
+        "ne:NAME_SORT": "Kyrgyzstan", 
         "longitude": 74.78, 
         "ne:POP_EST": 5431747.0, 
         "ne_longitude": 80.25756066911839, 
         "iso": "KG", 
         "sw_latitude": 39.18923695909558, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 11610.0, 
+        "ne:SOVEREIGNT": "Kyrgyzstan", 
+        "ne:SU_DIF": 0.0, 
         "alias_FRE_Q": [
           "Kirghizistan"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Quirguist\u00e3o"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424864, 
+      "bbox": [
+        69.46488691597753, 
+        39.27946320246437, 
+        80.2599902688853, 
+        43.29833934180337
+      ]
     }
   ], 
   "bbox": [

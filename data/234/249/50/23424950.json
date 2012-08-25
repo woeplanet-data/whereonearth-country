@@ -11683,6 +11683,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Spanish State"
@@ -11701,9 +11702,7 @@
         "alias_RUM_Q": [
           "Spania"
         ], 
-        "alias_UNK_V": [
-          "Ispan\u00eda"
-        ], 
+        "ne:NAME_SORT": "Spain", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc5d0\uc2a4\ud30c\ub0d0"
@@ -11713,8 +11712,41 @@
           "\uc2a4\ud398\uc778"
         ], 
         "ne:SUBUNIT": "Spain", 
-        "ne:ISO_N3": 724.0, 
+        "children": [
+          "woe:landfeature=56058455", 
+          "woe:landfeature=55863640", 
+          "woe:zone=24874550", 
+          "woe:zone=24874568", 
+          "woe:zone=24874570", 
+          "woe:zone=24874583", 
+          "woe:colloquial=23511714", 
+          "woe:state=12578029", 
+          "woe:state=12578030", 
+          "woe:state=12578028", 
+          "woe:state=12578033", 
+          "woe:state=12578032", 
+          "woe:state=12578034", 
+          "woe:state=55862983", 
+          "woe:state=12578024", 
+          "woe:state=12578026", 
+          "woe:state=12578038", 
+          "woe:state=12578035", 
+          "woe:state=12578036", 
+          "woe:state=12578039", 
+          "woe:state=12578031", 
+          "woe:state=12578023", 
+          "woe:state=55862984", 
+          "woe:state=12578037", 
+          "woe:state=12578027", 
+          "woe:state=12578025", 
+          "woe:drainage=26354178", 
+          "woe:drainage=26354223", 
+          "woe:timezone=56043645", 
+          "woe:timezone=28350870", 
+          "woe:timezone=56043644"
+        ], 
         "ne:ADM0_A3": "ESP", 
+        "ne:SOVEREIGNT": "Spain", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u897f\u73ed\u7259"
@@ -11722,8 +11754,8 @@
         "alias_ITA_Q": [
           "Spagna"
         ], 
-        "alias_DAN_Q": [
-          "Spanien"
+        "alias_GER_V": [
+          "K\u00f6nigreich Spanien"
         ], 
         "ne:NAME": "Spain", 
         "ne:POSTAL": "E", 
@@ -11733,7 +11765,11 @@
         "alias_POL_Q": [
           "Hiszpania"
         ], 
+        "fullname": "Espa\u00f1a, Spain", 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Espanha"
+        ], 
         "ne:TERR_": null, 
         "alias_SPA_S": [
           "Espana"
@@ -11758,11 +11794,9 @@
         "ne:ADMIN": "Spain", 
         "ne:SU_A3": "ESP", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 1403000.0, 
         "alias_SPA_V": [
           "la Madre Patria"
         ], 
-        "wikipedia:id": "26667", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -11776,13 +11810,13 @@
         "alias_FIN_Q": [
           "Espanja"
         ], 
-        "alias_GER_V": [
-          "K\u00f6nigreich Spanien"
+        "alias_DAN_Q": [
+          "Spanien"
         ], 
         "alias_GER_Q": [
           "Spanien"
         ], 
-        "fullname": "Espa\u00f1a, Spain", 
+        "ne:ISO_N3": 724.0, 
         "alias_GER_S": [
           "Konigreich Spanien"
         ], 
@@ -11793,6 +11827,9 @@
         "alias_UNK_S": [
           "Ispania"
         ], 
+        "alias_HUN_S": [
+          "Spanjolorszag"
+        ], 
         "alias_UNK_Q": [
           "Espanya"
         ], 
@@ -11802,37 +11839,33 @@
         "alias_HUN_V": [
           "Spanjolorsz\u00e1g"
         ], 
-        "ne:NAME_SORT": "Spain", 
+        "alias_UNK_V": [
+          "Ispan\u00eda"
+        ], 
         "longitude": -2.989, 
         "ne:POP_EST": 40525002.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 4.3519096271352, 
         "iso": "ES", 
         "sw_latitude": 27.641983134451223, 
-        "alias_HUN_S": [
-          "Spanjolorszag"
-        ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Spain", 
-        "alias_FRE_Q": [
-          "Espagne"
-        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1403000.0, 
         "alias_ENG_A": [
           "ES"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Espanha"
+        "wikipedia:id": "26667", 
+        "alias_FRE_Q": [
+          "Espagne"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424950, 
       "bbox": [
         -9.392883673530648, 
         35.946850083961465, 
         3.039484083680549, 
         43.74833771420099
-      ]
+      ], 
+      "id": 23424950
     }
   ], 
   "bbox": [

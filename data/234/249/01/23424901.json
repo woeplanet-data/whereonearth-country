@@ -10219,9 +10219,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Malaysian"
+        ], 
+        "alias_HUN_Q": [
+          "Malajzia"
         ], 
         "ne:ScaleRank": 1, 
         "alias_POL_Q": [
@@ -10232,13 +10236,10 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 7.355624491812137, 
-        "ne:GU_A3": "MYS", 
         "alias_RUM_Q": [
           "Malaezia"
         ], 
-        "alias_UNK_V": [
-          "Mallae-i jia"
-        ], 
+        "ne:NAME_SORT": "Malaysia", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ub9d0\ub808\uc774\uc9c0\uc544"
@@ -10248,8 +10249,29 @@
           "MY"
         ], 
         "ne:SUBUNIT": "Malaysia", 
-        "ne:ISO_N3": 458.0, 
+        "children": [
+          "woe:colloquial=2346308", 
+          "woe:state=2346296", 
+          "woe:state=2346297", 
+          "woe:state=2346298", 
+          "woe:state=56014685", 
+          "woe:state=2346309", 
+          "woe:state=2346299", 
+          "woe:state=2346300", 
+          "woe:state=2346301", 
+          "woe:state=2346302", 
+          "woe:state=2346303", 
+          "woe:state=2346304", 
+          "woe:state=28350159", 
+          "woe:state=2346310", 
+          "woe:state=2346305", 
+          "woe:state=2346306", 
+          "woe:state=2346307", 
+          "woe:timezone=56043603", 
+          "woe:timezone=56043604"
+        ], 
         "ne:ADM0_A3": "MYS", 
+        "ne:SOVEREIGNT": "Malaysia", 
         "alias_CHI_Q": [
           "\u99ac\u4f86\u897f\u4e9e"
         ], 
@@ -10260,6 +10282,9 @@
           "Malaisia"
         ], 
         "ne:POSTAL": "MY", 
+        "alias_KOR_Q": [
+          "\ub9d0\ub808\uc774\uc2dc\uc544"
+        ], 
         "alias_JPN_Q": [
           "\u30de\u30ec\u30fc\u30b7\u30a2"
         ], 
@@ -10287,19 +10312,13 @@
         "ne:ISO_A2": "MY", 
         "date_indexed": "2010-12-02T18:04:56Z", 
         "ne:NAME_FORMA": null, 
-        "alias_CHI_V": [
-          "\u9a6c\u6765\u897f\u4e9a"
-        ], 
-        "alias_KOR_Q": [
-          "\ub9d0\ub808\uc774\uc2dc\uc544"
-        ], 
+        "fullname": "Malaysia", 
+        "ne:GU_A3": "MYS", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Malaysia", 
         "ne:SU_A3": "MYS", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 384300.0, 
         "provider": "geoplanet 7.6.0", 
-        "wikipedia:id": "3607937", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -10316,44 +10335,46 @@
           "Malesiasta"
         ], 
         "ne:GEOUNIT": "Malaysia", 
-        "fullname": "Malaysia", 
+        "ne:ISO_N3": 458.0, 
         "ne:NAME": "Malaysia", 
         "lang": "ENG", 
         "name": "Malaysia", 
         "ne:TYPE": "Sovereign country", 
+        "alias_POR_Q": [
+          "Mal\u00e1sia"
+        ], 
         "alias_UNK_Q": [
           "Malas\u00eda"
         ], 
-        "alias_HUN_Q": [
-          "Malajzia"
+        "alias_CHI_V": [
+          "\u9a6c\u6765\u897f\u4e9a"
         ], 
         "alias_HUN_V": [
           "Mal\u00e1jf\u00f6ld"
         ], 
-        "ne:NAME_SORT": "Malaysia", 
+        "alias_UNK_V": [
+          "Mallae-i jia"
+        ], 
         "longitude": 114.402, 
         "ne:POP_EST": 25715819.0, 
         "ne_longitude": 119.27838301596591, 
         "iso": "MY", 
         "sw_latitude": 0.851370340922841, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Malaysia", 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 384300.0, 
+        "wikipedia:id": "3607937", 
         "alias_FRE_Q": [
           "Malaisie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Mal\u00e1sia"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424901, 
       "bbox": [
         100.08575687052709, 
         0.773131415200993, 
         119.18190392463995, 
         6.928052883324568
-      ]
+      ], 
+      "id": 23424901
     }
   ], 
   "bbox": [

@@ -4679,14 +4679,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424841, 
-      "bbox": [
-        -89.35332597528281, 
-        12.984685777229004, 
-        -83.14721900097413, 
-        16.00540578863439
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Honduras"
@@ -4700,19 +4692,42 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 17.418421122323664, 
-        "ne:NAME_SORT": "Honduras", 
+        "alias_UNK_V": [
+          "Republika Honduras"
+        ], 
         "placetype": "country", 
         "ne:ne_10m_adm": "HND", 
         "alias_KOR_Q": [
           "\uc628\ub450\ub77c\uc2a4"
         ], 
         "ne:SUBUNIT": "Honduras", 
+        "ne:ISO_N3": 340.0, 
         "ne:ADM0_A3": "HND", 
-        "ne:SOVEREIGNT": "Honduras", 
+        "children": [
+          "woe:state=2345623", 
+          "woe:state=2345624", 
+          "woe:state=2345625", 
+          "woe:state=2345626", 
+          "woe:state=2345627", 
+          "woe:state=2345628", 
+          "woe:state=2345629", 
+          "woe:state=2345630", 
+          "woe:state=2345631", 
+          "woe:state=2345632", 
+          "woe:state=2345633", 
+          "woe:state=2345634", 
+          "woe:state=2345635", 
+          "woe:state=2345636", 
+          "woe:state=2345637", 
+          "woe:state=2345638", 
+          "woe:state=2345639", 
+          "woe:state=2345640"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5b8f\u90fd\u62c9\u65af"
         ], 
+        "ne:GDP_MD_EST": 33720.0, 
         "ne:NAME": "Honduras", 
         "alias_CHI_V": [
           "\u5b8f\u90fd\u62c9\u65af"
@@ -4738,7 +4753,6 @@
         "ne:ISO_A2": "HN", 
         "date_indexed": "2010-12-02T19:21:06Z", 
         "ne:NAME_FORMA": "Republic of Honduras", 
-        "fullname": "Honduras", 
         "ne:GU_A3": "HND", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Honduras", 
@@ -4751,7 +4765,7 @@
         "alias_GER_V": [
           "Republik Honduras"
         ], 
-        "ne:ISO_N3": 340.0, 
+        "fullname": "Honduras", 
         "lang": "ENG", 
         "name": "Honduras", 
         "ne:TYPE": "Sovereign country", 
@@ -4759,18 +4773,24 @@
           "Hond\u00faras"
         ], 
         "ne:POSTAL": "HN", 
-        "alias_UNK_V": [
-          "Republika Honduras"
-        ], 
+        "ne:NAME_SORT": "Honduras", 
         "longitude": -86.253, 
         "ne:POP_EST": 7792854.0, 
         "ne_longitude": -83.12959814515818, 
         "iso": "HN", 
         "sw_latitude": 12.979777324009945, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 33720.0, 
+        "ne:SOVEREIGNT": "Honduras", 
         "ne:SU_DIF": 0.0
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424841, 
+      "bbox": [
+        -89.35332597528281, 
+        12.984685777229004, 
+        -83.14721900097413, 
+        16.00540578863439
+      ]
     }
   ], 
   "bbox": [

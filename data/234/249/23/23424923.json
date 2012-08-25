@@ -5229,12 +5229,16 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_POL_V": [
           "Rzeczpospolita Polska"
         ], 
         "alias_ENG_V": [
           "Rep. Poland"
+        ], 
+        "alias_HUN_Q": [
+          "Lengyelorsz\u00e1g"
         ], 
         "alias_SWE_Q": [
           "Polen"
@@ -5250,9 +5254,7 @@
         "alias_RUM_Q": [
           "Polonia"
         ], 
-        "alias_UNK_V": [
-          "Polsko"
-        ], 
+        "ne:NAME_SORT": "Poland", 
         "placetype": "country", 
         "alias_POR_V": [
           "Pol\u00f4nia"
@@ -5262,8 +5264,8 @@
           "\ud3f4\ub780\ub4dc"
         ], 
         "ne:SUBUNIT": "Poland", 
-        "ne:ISO_N3": 616.0, 
         "ne:ADM0_A3": "POL", 
+        "ne:SOVEREIGNT": "Poland", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u6ce2\u862d"
@@ -5271,8 +5273,8 @@
         "alias_ITA_Q": [
           "Polonia"
         ], 
-        "alias_DAN_Q": [
-          "Polen"
+        "alias_GER_V": [
+          "Republik Polen"
         ], 
         "ne:NAME": "Poland", 
         "ne:POSTAL": "PL", 
@@ -5303,23 +5305,22 @@
         "ne:ISO_A2": "PL", 
         "date_indexed": "2010-12-02T12:12:45Z", 
         "ne:NAME_FORMA": "Republic of Poland", 
-        "alias_CHI_V": [
-          "\u6ce2\u5170"
-        ], 
+        "fullname": "Polska, Poland", 
         "ne:GU_A3": "POL", 
         "ne:MAP_COLOR": 2.0, 
         "ne:ADMIN": "Poland", 
         "ne:SU_A3": "POL", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 667900.0, 
         "alias_SPA_V": [
           "Republica de Polonia"
         ], 
-        "wikipedia:id": "22936", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Polen"
+        ], 
+        "alias_POR_Q": [
+          "Pol\u00f3nia"
         ], 
         "ne:ABBREV": "Pol.", 
         "alias_CZE_Q": [
@@ -5328,13 +5329,13 @@
         "alias_FIN_Q": [
           "Puola"
         ], 
-        "alias_GER_V": [
-          "Republik Polen"
+        "alias_DAN_Q": [
+          "Polen"
         ], 
         "alias_GER_Q": [
           "Polen"
         ], 
-        "fullname": "Polska, Poland", 
+        "ne:ISO_N3": 616.0, 
         "lang": "POL", 
         "ne:OID_": 208, 
         "ne:GEOUNIT": "Poland", 
@@ -5342,43 +5343,86 @@
         "alias_UNK_S": [
           "Polland"
         ], 
+        "alias_HUN_S": [
+          "Lengyelorszag"
+        ], 
         "alias_UNK_Q": [
           "P\u00f3lland"
         ], 
-        "alias_HUN_Q": [
-          "Lengyelorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u6ce2\u5170"
         ], 
-        "ne:NAME_SORT": "Poland", 
+        "children": [
+          "woe:state=12577935", 
+          "woe:state=12577936", 
+          "woe:state=12577938", 
+          "woe:state=12577939", 
+          "woe:state=12577941", 
+          "woe:state=12577940", 
+          "woe:state=12577942", 
+          "woe:state=12577943", 
+          "woe:state=12577944", 
+          "woe:state=12577945", 
+          "woe:state=12577946", 
+          "woe:state=12577947", 
+          "woe:state=12577948", 
+          "woe:state=12577949", 
+          "woe:state=12577950", 
+          "woe:state=12577937", 
+          "woe:landfeature=56058370", 
+          "woe:landfeature=56058375", 
+          "woe:landfeature=23702013", 
+          "woe:zone=24874432", 
+          "woe:zone=24874433", 
+          "woe:zone=24874434", 
+          "woe:zone=24874439", 
+          "woe:zone=24874440", 
+          "woe:zone=24874441", 
+          "woe:zone=24874443", 
+          "woe:zone=24874444", 
+          "woe:zone=24874445", 
+          "woe:zone=24874446", 
+          "woe:zone=24874453", 
+          "woe:zone=24874455", 
+          "woe:zone=24874456", 
+          "woe:zone=24874460", 
+          "woe:zone=24874461", 
+          "woe:zone=24874462", 
+          "woe:zone=24874463", 
+          "woe:zone=24874472", 
+          "woe:zone=24874476", 
+          "woe:zone=24874480", 
+          "woe:drainage=26354243", 
+          "woe:drainage=26354242", 
+          "woe:drainage=26354241"
+        ], 
+        "alias_UNK_V": [
+          "Polsko"
+        ], 
         "longitude": 19.134, 
         "ne:POP_EST": 38482919.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 24.14315637232059, 
         "iso": "PL", 
         "sw_latitude": 48.99401316392161, 
-        "alias_HUN_S": [
-          "Lengyelorszag"
-        ], 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Poland", 
-        "alias_FRE_Q": [
-          "Pologne"
-        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 667900.0, 
         "alias_ENG_A": [
           "POL"
         ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Pol\u00f3nia"
+        "wikipedia:id": "22936", 
+        "alias_FRE_Q": [
+          "Pologne"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424923, 
       "bbox": [
         14.074521111719491, 
         49.02739533140962, 
         24.029985792748903, 
         54.85153595643291
-      ]
+      ], 
+      "id": 23424923
     }
   ], 
   "bbox": [

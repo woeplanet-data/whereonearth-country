@@ -2221,9 +2221,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Slovak Republic"
+        ], 
+        "alias_POR_Q": [
+          "Eslov\u00e1quia"
         ], 
         "alias_SWE_Q": [
           "Slovakien"
@@ -2239,9 +2243,7 @@
         "alias_RUM_Q": [
           "Slovacia"
         ], 
-        "alias_UNK_V": [
-          "Slovak\u00eda"
-        ], 
+        "ne:NAME_SORT": "Slovakia", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc2ac\ub85c\ubca0\ub2c8\uc544"
@@ -2251,8 +2253,8 @@
           "\uc2ac\ub85c\ubc14\ud0a4\uc544"
         ], 
         "ne:SUBUNIT": "Slovakia", 
-        "ne:ISO_N3": 703.0, 
         "ne:ADM0_A3": "SVK", 
+        "ne:SOVEREIGNT": "Slovakia", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u6d1b\u4f10\u514b"
@@ -2260,8 +2262,8 @@
         "alias_ITA_Q": [
           "Slovacchia"
         ], 
-        "alias_DAN_Q": [
-          "Slovakiet"
+        "alias_GER_V": [
+          "Slowakische Republik"
         ], 
         "ne:NAME": "Slovakia", 
         "ne:POSTAL": "SK", 
@@ -2271,7 +2273,6 @@
         "alias_POL_Q": [
           "S\u0142owacja"
         ], 
-        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30d6\u30e9\u30c1\u30b9\u30e9\u30f4\u30a1"
         ], 
@@ -2293,16 +2294,13 @@
         "ne:ISO_A2": "SK", 
         "date_indexed": "2010-12-02T08:50:42Z", 
         "ne:NAME_FORMA": "Slovak Republic", 
+        "fullname": "Slovensk\u00e1, Slovakia", 
+        "lang": "UNK", 
         "ne:GU_A3": "SVK", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Slovakia", 
         "ne:GEOUNIT": "Slovakia", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 119500.0, 
-        "alias_ENG_A": [
-          "SK"
-        ], 
-        "wikipedia:id": "26830", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -2313,27 +2311,48 @@
         "alias_CZE_Q": [
           "Slovensko"
         ], 
+        "alias_FRE_V": [
+          "R\u00e9publique slovaque"
+        ], 
         "alias_FIN_Q": [
           "Slovakia"
         ], 
-        "alias_GER_V": [
-          "Slowakische Republik"
+        "alias_DAN_Q": [
+          "Slovakiet"
         ], 
         "alias_GER_Q": [
           "Slowakei"
         ], 
-        "fullname": "Slovensk\u00e1, Slovakia", 
-        "lang": "UNK", 
+        "ne:ISO_N3": 703.0, 
+        "alias_ENG_A": [
+          "SK"
+        ], 
         "ne:OID_": 227, 
         "name": "Slovensk\u00e1", 
         "ne:TYPE": "Sovereign country", 
+        "alias_HUN_S": [
+          "Szlovakia"
+        ], 
         "alias_UNK_Q": [
           "Eslov\u00e0quia"
         ], 
         "alias_HUN_Q": [
           "Szlov\u00e1kia"
         ], 
-        "ne:NAME_SORT": "Slovakia", 
+        "children": [
+          "woe:state=20070495", 
+          "woe:state=20070505", 
+          "woe:state=20070497", 
+          "woe:state=20070492", 
+          "woe:state=20070496", 
+          "woe:state=20070493", 
+          "woe:state=20070504", 
+          "woe:state=20070494", 
+          "woe:drainage=26354247"
+        ], 
+        "alias_UNK_V": [
+          "Slovak\u00eda"
+        ], 
         "longitude": 19.702, 
         "ne:POP_EST": 5463046.0, 
         "alias_UNK_S": [
@@ -2342,29 +2361,21 @@
         "ne_longitude": 22.539636678375757, 
         "iso": "SK", 
         "sw_latitude": 47.75000640933621, 
-        "alias_HUN_S": [
-          "Szlovakia"
-        ], 
-        "alias_FRE_V": [
-          "R\u00e9publique slovaque"
-        ], 
-        "ne:SOVEREIGNT": "Slovakia", 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 119500.0, 
+        "wikipedia:id": "26830", 
         "alias_FRE_Q": [
           "Slovaquie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Eslov\u00e1quia"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424877, 
       "bbox": [
         16.879982944413, 
         47.75842886005037, 
         22.558137648211755, 
         49.571574001659194
-      ]
+      ], 
+      "id": 23424877
     }
   ], 
   "bbox": [

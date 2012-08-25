@@ -58,6 +58,13 @@
         "alias_ENG_A": [
           "MQ"
         ], 
+        "children": [
+          "woe:island=12484383", 
+          "woe:state=24549745", 
+          "woe:state=24549744", 
+          "woe:state=24549746", 
+          "woe:state=24549747"
+        ], 
         "alias_ITA_Q": [
           "Martinica"
         ], 

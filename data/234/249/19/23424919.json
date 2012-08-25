@@ -9281,6 +9281,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Peru"
@@ -9294,9 +9295,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -0.029092712068547, 
-        "alias_UNK_V": [
-          "Republika Peru"
-        ], 
+        "ne:NAME_SORT": "Peru", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud398\ub974"
@@ -9306,8 +9305,8 @@
           "\ud398\ub8e8"
         ], 
         "ne:SUBUNIT": "Peru", 
-        "ne:ISO_N3": 604.0, 
         "ne:ADM0_A3": "PER", 
+        "ne:SOVEREIGNT": "Peru", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u79d8\u9b6f"
@@ -9341,48 +9340,79 @@
         "ne:ISO_A2": "PE", 
         "date_indexed": "2010-12-02T16:12:16Z", 
         "ne:NAME_FORMA": "Republic of Peru", 
+        "fullname": "Peru", 
         "ne:GU_A3": "PER", 
         "ne:MAP_COLOR": 11.0, 
         "ne:ADMIN": "Peru", 
         "ne:GEOUNIT": "Peru", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 247300.0, 
-        "wikipedia:id": "170691", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Peru", 
+        "alias_FRE_S": [
+          "Perou"
+        ], 
         "alias_GER_V": [
           "Republik Peru"
         ], 
-        "fullname": "Peru", 
+        "ne:ISO_N3": 604.0, 
         "lang": "ENG", 
         "name": "Peru", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
         "ne:POSTAL": "PE", 
-        "ne:NAME_SORT": "Peru", 
+        "children": [
+          "woe:state=2346468", 
+          "woe:state=2346469", 
+          "woe:state=2346470", 
+          "woe:state=2346471", 
+          "woe:state=2346472", 
+          "woe:state=2346473", 
+          "woe:state=2346475", 
+          "woe:state=2346476", 
+          "woe:state=2346477", 
+          "woe:state=2346478", 
+          "woe:state=2346479", 
+          "woe:state=2346480", 
+          "woe:state=2346481", 
+          "woe:state=2346482", 
+          "woe:state=28358302", 
+          "woe:state=2346483", 
+          "woe:state=2346484", 
+          "woe:state=2346485", 
+          "woe:state=2346486", 
+          "woe:state=2346487", 
+          "woe:state=2346474", 
+          "woe:state=2346488", 
+          "woe:state=2346489", 
+          "woe:state=2346490", 
+          "woe:state=2346491", 
+          "woe:state=2346492", 
+          "woe:drainage=55857714", 
+          "woe:drainage=26354475"
+        ], 
+        "alias_UNK_V": [
+          "Republika Peru"
+        ], 
         "longitude": -75.002, 
         "ne:POP_EST": 29546963.0, 
         "ne_longitude": -68.68425248274613, 
         "iso": "PE", 
         "sw_latitude": -18.344563903404477, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Peru", 
-        "alias_FRE_S": [
-          "Perou"
-        ], 
+        "ne:GDP_MD_EST": 247300.0, 
+        "wikipedia:id": "170691", 
         "alias_FRE_Q": [
           "P\u00e9rou"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424919, 
       "bbox": [
         -81.41094255239946, 
         -18.34797535570887, 
         -68.66507971868963, 
         -0.05720549886486
-      ]
+      ], 
+      "id": 23424919
     }
   ], 
   "bbox": [

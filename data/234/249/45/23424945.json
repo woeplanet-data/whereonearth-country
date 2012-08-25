@@ -1769,20 +1769,12 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424945, 
-      "bbox": [
-        13.698109978905478, 
-        45.45231639259323, 
-        16.564808383864857, 
-        46.85238597267696
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Slovenian"
         ], 
-        "alias_HUN_Q": [
-          "Szlov\u00e9nia"
+        "alias_POR_Q": [
+          "Eslov\u00e9nia"
         ], 
         "alias_SWE_Q": [
           "Slovenien"
@@ -1798,7 +1790,9 @@
         "alias_RUM_Q": [
           "Slovenia"
         ], 
-        "ne:NAME_SORT": "Slovenia", 
+        "alias_UNK_V": [
+          "Republika Slovenija"
+        ], 
         "placetype": "country", 
         "alias_POR_V": [
           "Eslov\u00eania"
@@ -1808,8 +1802,83 @@
           "\uc2ac\ub85c\ubca0\ub2c8\uc544"
         ], 
         "ne:SUBUNIT": "Slovenia", 
+        "ne:ISO_N3": 705.0, 
         "ne:ADM0_A3": "SVN", 
-        "ne:SOVEREIGNT": "Slovenia", 
+        "children": [
+          "woe:landfeature=23702012", 
+          "woe:state=55848341", 
+          "woe:state=55848342", 
+          "woe:state=55848343", 
+          "woe:state=55848344", 
+          "woe:state=55848345", 
+          "woe:state=55848346", 
+          "woe:state=55848347", 
+          "woe:state=55848348", 
+          "woe:state=55848349", 
+          "woe:state=55848350", 
+          "woe:state=55848351", 
+          "woe:state=55848352", 
+          "woe:state=55848353", 
+          "woe:state=55848354", 
+          "woe:state=55848355", 
+          "woe:state=55848356", 
+          "woe:state=55848357", 
+          "woe:state=55848358", 
+          "woe:state=55848359", 
+          "woe:state=55848360", 
+          "woe:state=55848361", 
+          "woe:state=55848362", 
+          "woe:state=55848363", 
+          "woe:state=55848364", 
+          "woe:state=55848365", 
+          "woe:state=55848366", 
+          "woe:state=55848367", 
+          "woe:state=55848368", 
+          "woe:state=55848369", 
+          "woe:state=55848370", 
+          "woe:state=55848371", 
+          "woe:state=55848372", 
+          "woe:state=55848373", 
+          "woe:state=55848374", 
+          "woe:state=55848375", 
+          "woe:state=55848376", 
+          "woe:state=55848377", 
+          "woe:state=55848378", 
+          "woe:state=55848379", 
+          "woe:state=55848380", 
+          "woe:state=55848381", 
+          "woe:state=55848382", 
+          "woe:state=55848383", 
+          "woe:state=55848384", 
+          "woe:state=55848385", 
+          "woe:state=55848386", 
+          "woe:state=55848387", 
+          "woe:state=55848388", 
+          "woe:state=55848389", 
+          "woe:state=55848390", 
+          "woe:state=55848391", 
+          "woe:state=55848392", 
+          "woe:state=55848393", 
+          "woe:state=55848394", 
+          "woe:state=55848395", 
+          "woe:state=55848396", 
+          "woe:state=55848397", 
+          "woe:state=55848398", 
+          "woe:historicalstate=23701293", 
+          "woe:historicalstate=23701294", 
+          "woe:historicalstate=23701295", 
+          "woe:historicalstate=23701296", 
+          "woe:historicalstate=23701297", 
+          "woe:historicalstate=23701298", 
+          "woe:historicalstate=23701299", 
+          "woe:historicalstate=23701300", 
+          "woe:zone=24874532", 
+          "woe:zone=24874533", 
+          "woe:zone=24874534", 
+          "woe:zone=24874535", 
+          "woe:zone=24874536", 
+          "woe:zone=24874537"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
@@ -1846,12 +1915,18 @@
         "ne:ISO_A2": "SI", 
         "date_indexed": "2010-12-02T09:58:07Z", 
         "ne:NAME_FORMA": "Republic of Slovenia", 
-        "fullname": "Slovenija, Slovenia", 
+        "alias_CHI_V": [
+          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
+        ], 
         "ne:GU_A3": "SVN", 
         "ne:MAP_COLOR": 12.0, 
         "ne:ADMIN": "Slovenia", 
         "ne:GEOUNIT": "Slovenia", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 59340.0, 
+        "alias_ENG_A": [
+          "SI"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -1865,9 +1940,6 @@
         "alias_CZE_Q": [
           "Slovinsko"
         ], 
-        "alias_FRE_S": [
-          "Slovenie"
-        ], 
         "alias_FIN_Q": [
           "Slovenia"
         ], 
@@ -1877,41 +1949,44 @@
         "alias_GER_Q": [
           "Slowenien"
         ], 
-        "ne:ISO_N3": 705.0, 
+        "fullname": "Slovenija, Slovenia", 
         "lang": "UNK", 
         "ne:OID_": 228, 
         "name": "Slovenija", 
         "ne:TYPE": "Sovereign country", 
-        "alias_UNK_Q": [
-          "Sl\u00f3ven\u00eda"
-        ], 
-        "alias_CHI_V": [
-          "\u65af\u6d1b\u7dad\u5c3c\u4e9e"
-        ], 
-        "alias_UNK_V": [
-          "Republika Slovenija"
-        ], 
-        "longitude": 14.955, 
-        "ne:POP_EST": 2005692.0, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne_longitude": 16.515301554668895, 
-        "iso": "SI", 
-        "sw_latitude": 45.423636780009105, 
         "alias_HUN_S": [
           "Szlovenia"
         ], 
-        "alias_ENG_A": [
-          "SI"
+        "alias_UNK_Q": [
+          "Sl\u00f3ven\u00eda"
         ], 
-        "ne:GDP_MD_EST": 59340.0, 
+        "alias_HUN_Q": [
+          "Szlov\u00e9nia"
+        ], 
+        "ne:NAME_SORT": "Slovenia", 
+        "longitude": 14.955, 
+        "ne:POP_EST": 2005692.0, 
+        "ne_longitude": 16.515301554668895, 
+        "iso": "SI", 
+        "sw_latitude": 45.423636780009105, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Slovenia", 
+        "alias_FRE_S": [
+          "Slovenie"
+        ], 
         "alias_FRE_Q": [
           "Slov\u00e9nie"
-        ], 
-        "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "Eslov\u00e9nia"
         ]
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424945, 
+      "bbox": [
+        13.698109978905478, 
+        45.45231639259323, 
+        16.564808383864857, 
+        46.85238597267696
+      ]
     }
   ], 
   "bbox": [

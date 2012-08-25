@@ -3171,14 +3171,6 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424889, 
-      "bbox": [
-        32.68816531752313, 
-        -16.801299737213093, 
-        35.77190473810836, 
-        -9.23059905358906
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Malawian"
@@ -3192,7 +3184,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -9.381235046687209, 
-        "ne_longitude": 35.90429894993582, 
+        "ne:NAME_SORT": "Malawi", 
         "placetype": "country", 
         "alias_POR_V": [
           "Malavi"
@@ -3204,12 +3196,48 @@
           "MW"
         ], 
         "ne:SUBUNIT": "Malawi", 
+        "ne:ISO_N3": 454.0, 
         "ne:ADM0_A3": "MWI", 
-        "ne:SOVEREIGNT": "Malawi", 
+        "children": [
+          "woe:state=56189817", 
+          "woe:state=20070143", 
+          "woe:state=20070146", 
+          "woe:state=20070142", 
+          "woe:state=20070124", 
+          "woe:state=20070135", 
+          "woe:state=20070132", 
+          "woe:state=56189818", 
+          "woe:state=20070125", 
+          "woe:state=20070128", 
+          "woe:state=56189821", 
+          "woe:state=20070134", 
+          "woe:state=20070138", 
+          "woe:state=20070136", 
+          "woe:state=20070131", 
+          "woe:state=20070141", 
+          "woe:state=20070139", 
+          "woe:state=20070127", 
+          "woe:state=56189820", 
+          "woe:state=20070147", 
+          "woe:state=20070129", 
+          "woe:state=20070145", 
+          "woe:state=20070137", 
+          "woe:state=20070130", 
+          "woe:state=56189819", 
+          "woe:state=20070126", 
+          "woe:state=20070133", 
+          "woe:state=20070144", 
+          "woe:state=20070140", 
+          "woe:drainage=56190422", 
+          "woe:drainage=56190423", 
+          "woe:drainage=56190432", 
+          "woe:drainage=26354370"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u99ac\u62c9\u5a01"
         ], 
+        "ne:GDP_MD_EST": 11810.0, 
         "ne:NAME": "Malawi", 
         "alias_CHI_V": [
           "\u9a6c\u62c9\u7ef4"
@@ -3236,7 +3264,6 @@
         "ne:ISO_A2": "MW", 
         "date_indexed": "2010-12-02T17:40:29Z", 
         "ne:NAME_FORMA": "Republic of Malawi", 
-        "fullname": "Malawi", 
         "ne:GU_A3": "MWI", 
         "ne:MAP_COLOR": 5.0, 
         "ne:ADMIN": "Malawi", 
@@ -3248,7 +3275,7 @@
         "alias_GER_Q": [
           "Republik Malawi"
         ], 
-        "ne:ISO_N3": 454.0, 
+        "fullname": "Malawi", 
         "lang": "ENG", 
         "name": "Malawi", 
         "ne:TYPE": "Sovereign country", 
@@ -3256,16 +3283,24 @@
           "Republika Malavi"
         ], 
         "ne:POSTAL": "MW", 
-        "ne:NAME_SORT": "Malawi", 
+        "ne_longitude": 35.90429894993582, 
         "longitude": 34.295, 
         "ne:POP_EST": 14268711.0, 
         "iso": "MW", 
         "sw_latitude": -17.13533538769444, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 11810.0, 
+        "ne:SOVEREIGNT": "Malawi", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "MWI"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424889, 
+      "bbox": [
+        32.68816531752313, 
+        -16.801299737213093, 
+        35.77190473810836, 
+        -9.23059905358906
+      ]
     }
   ], 
   "bbox": [

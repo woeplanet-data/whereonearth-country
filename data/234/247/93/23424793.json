@@ -10919,6 +10919,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Cuba"
@@ -10932,9 +10933,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 23.265557759817412, 
-        "alias_UNK_V": [
-          "Republika Kuba"
-        ], 
+        "ne:NAME_SORT": "Cuba", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud050\ubc14"
@@ -10944,15 +10943,14 @@
           "\ucfe0\ubc14"
         ], 
         "ne:SUBUNIT": "Cuba", 
-        "ne:ISO_N3": 192.0, 
         "ne:ADM0_A3": "CUB", 
+        "ne:SOVEREIGNT": "Cuba", 
         "alias_SWE_Q": [
           "Kuba"
         ], 
         "alias_CHI_Q": [
           "\u53e4\u5df4"
         ], 
-        "ne:GDP_MD_EST": 108200.0, 
         "ne:NAME": "Cuba", 
         "ne:POSTAL": "CU", 
         "alias_JPN_Q": [
@@ -10977,15 +10975,17 @@
         "ne:ISO_A2": "CU", 
         "date_indexed": "2010-12-02T08:58:58Z", 
         "ne:NAME_FORMA": "Republic of Cuba", 
+        "fullname": "Cuba", 
         "ne:GU_A3": "CUB", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Cuba", 
         "ne:SU_A3": "CUB", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "5042481", 
+        "alias_ENG_A": [
+          "CU"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Cuba", 
         "alias_CZE_Q": [
           "Kuba"
@@ -10999,7 +10999,7 @@
         "alias_GER_Q": [
           "Kuba"
         ], 
-        "fullname": "Cuba", 
+        "ne:ISO_N3": 192.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "Cuba", 
         "name": "Cuba", 
@@ -11010,26 +11010,46 @@
         "alias_HUN_Q": [
           "Kuba"
         ], 
-        "ne:NAME_SORT": "Cuba", 
+        "children": [
+          "woe:island=12483956", 
+          "woe:island=12483490", 
+          "woe:island=12483588", 
+          "woe:state=2345110", 
+          "woe:state=2345111", 
+          "woe:state=2345112", 
+          "woe:state=2345107", 
+          "woe:state=2345113", 
+          "woe:state=2345114", 
+          "woe:state=2345116", 
+          "woe:state=2345109", 
+          "woe:state=2345115", 
+          "woe:state=2345117", 
+          "woe:state=2345108", 
+          "woe:state=2345106", 
+          "woe:state=2345118", 
+          "woe:state=2345119", 
+          "woe:state=2345120"
+        ], 
+        "alias_UNK_V": [
+          "Republika Kuba"
+        ], 
         "longitude": -77.807, 
         "ne:POP_EST": 11451652.0, 
         "ne_longitude": -74.13213700380089, 
         "iso": "CU", 
         "sw_latitude": 19.827628072689933, 
-        "alias_ENG_A": [
-          "CU"
-        ], 
-        "ne:SOVEREIGNT": "Cuba", 
-        "ne:SU_DIF": 0.0
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 108200.0, 
+        "wikipedia:id": "5042481"
       }, 
-      "type": "Feature", 
-      "id": 23424793, 
       "bbox": [
         -84.97491105827311, 
         19.855480861891877, 
         -74.17802486845126, 
         23.188610744717707
-      ]
+      ], 
+      "id": 23424793
     }
   ], 
   "bbox": [

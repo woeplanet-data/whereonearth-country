@@ -6041,6 +6041,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Afuganisutan"
@@ -6060,7 +6061,7 @@
         "alias_RUM_Q": [
           "Afganistan"
         ], 
-        "ne:NAME_SORT": "Afghanistan", 
+        "ne_longitude": 74.89230676263242, 
         "placetype": "country", 
         "alias_POR_Q": [
           "Afeganist\u00e3o"
@@ -6071,13 +6072,12 @@
         "alias_POR_S": [
           "Afeganistao"
         ], 
-        "ne:ISO_N3": 4.0, 
         "ne:ADM0_A3": "AFG", 
+        "ne:SOVEREIGNT": "Afghanistan", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u5bcc\u6c57"
         ], 
-        "ne:GDP_MD_EST": 22270.0, 
         "ne:NAME": "Afghanistan", 
         "ne:POSTAL": "AF", 
         "alias_JPN_Q": [
@@ -6103,6 +6103,7 @@
         "ne:ISO_A2": "AF", 
         "date_indexed": "2010-12-02T18:03:37Z", 
         "ne:NAME_FORMA": "Islamic State of Afghanistan", 
+        "fullname": "Afghanistan", 
         "ne:GU_A3": "AFG", 
         "ne:MAP_COLOR": 7.0, 
         "ne:ADMIN": "Afghanistan", 
@@ -6120,7 +6121,7 @@
         "alias_GER_V": [
           "Islamischer Staat Afghanistan"
         ], 
-        "fullname": "Afghanistan", 
+        "ne:ISO_N3": 4.0, 
         "lang": "ENG", 
         "name": "Afghanistan", 
         "ne:TYPE": "Sovereign country", 
@@ -6128,24 +6129,59 @@
         "alias_HUN_Q": [
           "Afganiszt\u00e1n"
         ], 
-        "ne_longitude": 74.89230676263242, 
+        "children": [
+          "woe:state=2344549", 
+          "woe:state=2344550", 
+          "woe:state=2344551", 
+          "woe:state=2344575", 
+          "woe:state=2344552", 
+          "woe:state=56000466", 
+          "woe:state=2344553", 
+          "woe:state=2344554", 
+          "woe:state=2344555", 
+          "woe:state=2344556", 
+          "woe:state=2344557", 
+          "woe:state=2344558", 
+          "woe:state=2344576", 
+          "woe:state=2344559", 
+          "woe:state=2344569", 
+          "woe:state=2344560", 
+          "woe:state=24550741", 
+          "woe:state=2344561", 
+          "woe:state=2344570", 
+          "woe:state=2344562", 
+          "woe:state=2344563", 
+          "woe:state=2344564", 
+          "woe:state=2344565", 
+          "woe:state=24549937", 
+          "woe:state=2344566", 
+          "woe:state=2344567", 
+          "woe:state=2344574", 
+          "woe:state=56000467", 
+          "woe:state=2344568", 
+          "woe:state=2344577", 
+          "woe:state=2344578", 
+          "woe:state=2344571", 
+          "woe:state=2344572", 
+          "woe:state=2344573"
+        ], 
+        "ne:NAME_SORT": "Afghanistan", 
         "longitude": 67.679, 
         "ne:POP_EST": 28400000.0, 
         "iso": "AF", 
         "sw_latitude": 29.386605327043327, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Afghanistan", 
+        "ne:GDP_MD_EST": 22270.0, 
         "wikipedia:id": "737", 
         "ne:ne_10m_adm": "AFG"
       }, 
-      "type": "Feature", 
-      "id": 23424739, 
       "bbox": [
         60.52842980331158, 
         29.31857249604431, 
         75.15802778514092, 
         38.486281643216415
-      ]
+      ], 
+      "id": 23424739
     }
   ], 
   "bbox": [

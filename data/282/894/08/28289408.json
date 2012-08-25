@@ -620,9 +620,6 @@
         "alias_SWE_Q": [
           "Palestinska Ockuperade Omr\u00e5den"
         ], 
-        "alias_DAN_S": [
-          "Palaestinensiske Besatte Territorier"
-        ], 
         "alias_SWE_S": [
           "Palestinska Ockuperade Omraden"
         ], 
@@ -631,7 +628,7 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 32.54264007613196, 
-        "ne:NAME_SORT": "West Bank", 
+        "ne_longitude": 35.572536254636816, 
         "placetype": "country", 
         "alias_POR_Q": [
           "Palestina"
@@ -640,17 +637,20 @@
           "PS"
         ], 
         "ne:SUBUNIT": "West Bank", 
-        "ne:ISO_N3": 275.0, 
         "ne:ADM0_A3": "WEB", 
-        "ne:SOVEREIGNT": "Palestine", 
+        "children": [
+          "woe:state=23424838", 
+          "woe:state=23424988"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5df4\u52d2\u65af\u5766"
         ], 
+        "ne:GDP_MD_EST": 11950.0, 
         "ne:NAME": "West Bank", 
         "ne:POSTAL": "WB", 
-        "alias_GER_Q": [
-          "Pal\u00e4stina"
+        "alias_DAN_V": [
+          "Pal\u00e6stina"
         ], 
         "alias_JPN_Q": [
           "\u30d1\u30ec\u30b9\u30c1\u30ca\u5360\u9818\u5730"
@@ -681,6 +681,10 @@
         "ne:ISO_A2": "PS", 
         "date_indexed": "2010-12-02T12:08:30Z", 
         "ne:SOV_A3": "PSE", 
+        "fullname": "Palestinian Territories, Palestinian Occupied Territories", 
+        "alias_FIN_Q": [
+          "Palestiinasta"
+        ], 
         "ne:GU_A3": "WEB", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "West Bank", 
@@ -695,16 +699,16 @@
         "alias_DUT_V": [
           "Palestina"
         ], 
-        "alias_FIN_Q": [
-          "Palestiinasta"
+        "alias_DAN_S": [
+          "Palaestinensiske Besatte Territorier"
         ], 
         "alias_DAN_Q": [
           "Pal\u00e6stinensiske Besatte Territorier"
         ], 
-        "alias_DAN_V": [
-          "Pal\u00e6stina"
+        "alias_GER_Q": [
+          "Pal\u00e4stina"
         ], 
-        "fullname": "Palestinian Territories, Palestinian Occupied Territories", 
+        "ne:ISO_N3": 275.0, 
         "alias_GER_S": [
           "Palastina"
         ], 
@@ -712,16 +716,16 @@
         "ne:OID_": 24, 
         "name": "Palestinian Territories", 
         "ne:TYPE": "Country", 
+        "ne:ISO_A3": "PSE", 
         "ne:SU_DIF": 0.0, 
         "ne:SU_A3": "WEB", 
-        "ne_longitude": 35.572536254636816, 
+        "ne:NAME_SORT": "West Bank", 
         "longitude": 35.23, 
         "ne:POP_EST": 2514845.0, 
         "iso": "PS", 
         "sw_latitude": 31.344909566135755, 
-        "ne:ISO_A3": "PSE", 
         "ne:GEOU_DIF": 0.0, 
-        "ne:GDP_MD_EST": 11950.0, 
+        "ne:SOVEREIGNT": "Palestine", 
         "ne:ne_10m_adm": "WEB"
       }, 
       "id": 28289408

@@ -30063,9 +30063,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Rep. the Philippines"
+        ], 
+        "alias_HUN_Q": [
+          "F\u00fcl\u00f6p-Szigetek"
         ], 
         "alias_SWE_Q": [
           "Filippinerna"
@@ -30081,9 +30085,7 @@
         "alias_RUM_Q": [
           "Filipine"
         ], 
-        "alias_UNK_V": [
-          "Filippinene"
-        ], 
+        "ne:NAME_SORT": "Philippines", 
         "placetype": "country", 
         "alias_POR_Q": [
           "Filipinas"
@@ -30092,8 +30094,8 @@
           "\ud544\ub9ac\ud540"
         ], 
         "ne:SUBUNIT": "Philippines", 
-        "ne:ISO_N3": 608.0, 
         "ne:ADM0_A3": "PHL", 
+        "ne:SOVEREIGNT": "Philippines", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u83f2\u5f8b\u8cd3"
@@ -30101,13 +30103,13 @@
         "alias_ITA_Q": [
           "Filippine"
         ], 
-        "alias_DAN_Q": [
-          "Philippinerne"
+        "alias_GER_V": [
+          "Republik der Philippinen"
         ], 
         "ne:NAME": "Philippines", 
         "ne:POSTAL": "PH", 
-        "alias_GER_Q": [
-          "Philippinen"
+        "alias_CZE_Q": [
+          "Filip\u00edny"
         ], 
         "alias_JPN_Q": [
           "\u30d5\u30a3\u30ea\u30d4\u30f3"
@@ -30139,41 +30141,40 @@
         "ne:ISO_A2": "PH", 
         "date_indexed": "2010-12-02T09:56:58Z", 
         "ne:NAME_FORMA": "Republic of the Philippines", 
-        "alias_CHI_V": [
-          "\u83f2\u5f8b\u5bbe"
+        "fullname": "Philippines", 
+        "alias_FRE_V": [
+          "\u00celes Philippines"
         ], 
         "ne:GU_A3": "PHL", 
         "ne:MAP_COLOR": 8.0, 
         "ne:ADMIN": "Philippines", 
         "ne:SU_A3": "PHL", 
-        "alias_DUT_V": [
-          "Filippijnen"
+        "alias_DAN_V": [
+          "Filippinerne"
         ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 317500.0, 
-        "alias_ENG_A": [
-          "PH"
-        ], 
-        "wikipedia:id": "23440", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Filipijnen"
         ], 
         "ne:ABBREV": "Phil.", 
-        "alias_CZE_Q": [
-          "Filip\u00edny"
+        "alias_DUT_V": [
+          "Filippijnen"
+        ], 
+        "alias_FRE_S": [
+          "Iles Philippines"
         ], 
         "alias_FIN_Q": [
           "Filippiineill\u00e4"
         ], 
-        "alias_GER_V": [
-          "Republik der Philippinen"
+        "alias_DAN_Q": [
+          "Philippinerne"
         ], 
-        "alias_DAN_V": [
-          "Filippinerne"
+        "alias_GER_Q": [
+          "Philippinen"
         ], 
-        "fullname": "Philippines", 
+        "ne:ISO_N3": 608.0, 
         "lang": "ENG", 
         "ne:OID_": 207, 
         "ne:GEOUNIT": "Philippines", 
@@ -30182,34 +30183,66 @@
         "alias_UNK_Q": [
           "Filipini"
         ], 
-        "alias_HUN_Q": [
-          "F\u00fcl\u00f6p-Szigetek"
+        "alias_CHI_V": [
+          "\u83f2\u5f8b\u5bbe"
         ], 
-        "ne:NAME_SORT": "Philippines", 
+        "children": [
+          "woe:island=12500986", 
+          "woe:island=12501000", 
+          "woe:island=12501021", 
+          "woe:island=12501047", 
+          "woe:island=23706402", 
+          "woe:island=23706403", 
+          "woe:island=12501113", 
+          "woe:island=12501131", 
+          "woe:island=12501140", 
+          "woe:island=12501149", 
+          "woe:island=12501169", 
+          "woe:island=12501170", 
+          "woe:island=12501175", 
+          "woe:state=23424729", 
+          "woe:state=23424720", 
+          "woe:state=23424715", 
+          "woe:state=23424717", 
+          "woe:state=23424726", 
+          "woe:state=23424722", 
+          "woe:state=23424721", 
+          "woe:state=23424716", 
+          "woe:state=23424727", 
+          "woe:state=23424723", 
+          "woe:state=23424724", 
+          "woe:state=23424719", 
+          "woe:state=23424718", 
+          "woe:state=23424730", 
+          "woe:state=23424728", 
+          "woe:state=23424725", 
+          "woe:state=23424731", 
+          "woe:drainage=55812247"
+        ], 
+        "alias_UNK_V": [
+          "Filippinene"
+        ], 
         "longitude": 120.739, 
         "ne:POP_EST": 97976603.0, 
         "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 126.61809004800494, 
         "iso": "PH", 
         "sw_latitude": 4.655556742288979, 
-        "alias_FRE_V": [
-          "\u00celes Philippines"
+        "alias_ENG_A": [
+          "PH"
         ], 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Philippines", 
-        "alias_FRE_S": [
-          "Iles Philippines"
-        ], 
+        "ne:GDP_MD_EST": 317500.0, 
+        "wikipedia:id": "23440", 
         "ne:ne_10m_adm": "PHL"
       }, 
-      "type": "Feature", 
-      "id": 23424934, 
       "bbox": [
         117.17427453010069, 
         5.58100332277229, 
         126.53742394420064, 
         18.50522736253754
-      ]
+      ], 
+      "id": 23424934
     }
   ], 
   "bbox": [

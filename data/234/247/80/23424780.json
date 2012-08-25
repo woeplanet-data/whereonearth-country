@@ -11363,6 +11363,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
         "hierarchy": [
@@ -11370,6 +11371,25 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:timezone=28350708", 
+          "woe:timezone=28350713", 
+          "woe:state=2344977", 
+          "woe:state=2344984", 
+          "woe:state=2344978", 
+          "woe:state=2344979", 
+          "woe:state=2344980", 
+          "woe:state=2344981", 
+          "woe:state=2344982", 
+          "woe:state=20069831", 
+          "woe:state=20069830", 
+          "woe:state=2344985", 
+          "woe:state=20069829", 
+          "woe:drainage=56190424", 
+          "woe:drainage=56190429", 
+          "woe:drainage=56190439", 
+          "woe:drainage=56190440"
+        ], 
         "alias_ITA_Q": [
           "Repubblica Democratica del Congo"
         ], 
@@ -11404,8 +11424,8 @@
         "ne:NAME_SORT": "Congo (Kinshasa)", 
         "ne:POP_EST": 68692542.0, 
         "ne:GDP_MD_EST": 20640.0, 
-        "alias_KOR_Q": [
-          "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
+        "alias_ENG_A": [
+          "CD"
         ], 
         "alias_POR_V": [
           "Congo, Rep\u00fablica Democr\u00e1tica do"
@@ -11453,19 +11473,19 @@
           "\ucf69\uace0\ubbfc\uc8fc\uacf5\ud654\uad6d"
         ], 
         "ne:ne_10m_adm": "COD", 
-        "alias_ENG_A": [
-          "CD"
+        "alias_KOR_Q": [
+          "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
         ], 
         "ne:SUBUNIT": "Democratic Republic of the Congo", 
         "alias_CHI_Q": [
           "\u6c11\u4e3b\u525b\u679c"
         ], 
-        "ne:LEVEL": 2.0, 
+        "alias_POL_Q": [
+          "Demokratyczna Republika Konga"
+        ], 
         "sw_longitude": 12.210913126438186, 
         "ne:SOV_A3": "COD", 
-        "alias_RUM_V": [
-          "Zair"
-        ], 
+        "ne_latitude": 5.375280252984908, 
         "ne:OID_": 118, 
         "ne:ISO_A3": "COD", 
         "ne:ISO_A2": "CD", 
@@ -11495,10 +11515,10 @@
         "alias_SWE_Q": [
           "Kongo-Kinshasa"
         ], 
-        "alias_POL_Q": [
-          "Demokratyczna Republika Konga"
+        "ne:LEVEL": 2.0, 
+        "alias_RUM_V": [
+          "Zair"
         ], 
-        "ne_latitude": 5.375280252984908, 
         "alias_RUM_Q": [
           "Republica Democrat\u0103 Congo"
         ], 
@@ -11529,14 +11549,13 @@
         "lang": "ENG", 
         "ne:TYPE": "Sovereign country"
       }, 
-      "type": "Feature", 
-      "id": 23424780, 
       "bbox": [
         12.182336866920252, 
         -13.257226657771831, 
         31.174149204235817, 
         5.256087754737123
-      ]
+      ], 
+      "id": 23424780
     }
   ], 
   "bbox": [

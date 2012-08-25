@@ -3561,6 +3561,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "ne:ScaleRank": 1, 
         "hierarchy": [
@@ -3568,6 +3569,12 @@
           "woe:planet=1"
         ], 
         "placetype": "country", 
+        "children": [
+          "woe:historicalcounty=24551277", 
+          "woe:state=29389649", 
+          "woe:state=24549661", 
+          "woe:state=24549662"
+        ], 
         "alias_ITA_Q": [
           "Bosnia-Erzegovina"
         ], 
@@ -3596,8 +3603,8 @@
         "ne:NAME_SORT": "Bosnia and Herzegovina", 
         "ne:POP_EST": 4613414.0, 
         "ne:GDP_MD_EST": 29700.0, 
-        "alias_ENG_A": [
-          "BIH"
+        "alias_KOR_Q": [
+          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
         ], 
         "alias_POR_V": [
           "B\u00f3snia-Herzegovina"
@@ -3648,8 +3655,8 @@
           "\ubcf4\uc2a4\ub2c8\uc544\ud5e4\ub974\uccb4\uace0\ube44\ub098"
         ], 
         "ne:ne_10m_adm": "BIH", 
-        "alias_KOR_Q": [
-          "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+        "alias_ENG_A": [
+          "BIH"
         ], 
         "ne:SUBUNIT": "Bosnia and Herzegovina", 
         "alias_CHI_Q": [
@@ -3730,14 +3737,13 @@
         "lang": "UNK", 
         "ne:TYPE": "Sovereign country"
       }, 
-      "type": "Feature", 
-      "id": 23424761, 
       "bbox": [
         15.750026075918981, 
         42.65, 
         19.59976, 
         45.23377676043094
-      ]
+      ], 
+      "id": 23424761
     }
   ], 
   "bbox": [

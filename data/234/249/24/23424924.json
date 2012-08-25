@@ -7727,9 +7727,13 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of Panama"
+        ], 
+        "alias_HUN_Q": [
+          "Panamai K\u00f6zt\u00e1rsas\u00e1g"
         ], 
         "ne:ScaleRank": 1, 
         "alias_ENG_P": [
@@ -7743,26 +7747,23 @@
         "alias_RUM_Q": [
           "Panama"
         ], 
-        "alias_UNK_V": [
-          "Republika Panama"
-        ], 
+        "ne:NAME_SORT": "Panama", 
         "placetype": "country", 
         "ne:ne_10m_adm": "PAN", 
         "alias_KOR_Q": [
           "\ud30c\ub098\ub9c8"
         ], 
         "ne:SUBUNIT": "Panama", 
-        "ne:ISO_N3": 591.0, 
         "ne:ADM0_A3": "PAN", 
+        "ne:SOVEREIGNT": "Panama", 
         "alias_SWE_Q": [
           "Panama"
         ], 
         "alias_CHI_Q": [
           "\u5df4\u62ff\u99ac"
         ], 
-        "ne:GDP_MD_EST": 38830.0, 
-        "alias_DAN_Q": [
-          "Panama"
+        "alias_GER_V": [
+          "Republik Panama"
         ], 
         "ne:NAME": "Panama", 
         "ne:POSTAL": "PA", 
@@ -7793,9 +7794,7 @@
         "ne:ISO_A2": "PA", 
         "date_indexed": "2010-12-02T17:52:32Z", 
         "ne:NAME_FORMA": "Republic of Panama", 
-        "alias_CHI_V": [
-          "\u5df4\u62ff\u9a6c"
-        ], 
+        "fullname": "Panam\u00e1, Panama", 
         "ne:GU_A3": "PAN", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Panama", 
@@ -7804,7 +7803,6 @@
         "alias_SPA_V": [
           "Rep\u00fablica de Panam\u00e1"
         ], 
-        "wikipedia:id": "22997", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -7818,13 +7816,13 @@
         "alias_FIN_Q": [
           "Panama"
         ], 
-        "alias_GER_V": [
-          "Republik Panama"
+        "alias_DAN_Q": [
+          "Panama"
         ], 
         "alias_GER_Q": [
           "Panama"
         ], 
-        "fullname": "Panam\u00e1, Panama", 
+        "ne:ISO_N3": 591.0, 
         "lang": "SPA", 
         "ne:OID_": 203, 
         "name": "Panam\u00e1", 
@@ -7832,30 +7830,47 @@
         "alias_UNK_Q": [
           "Panama"
         ], 
-        "alias_HUN_Q": [
-          "Panamai K\u00f6zt\u00e1rsas\u00e1g"
+        "alias_CHI_V": [
+          "\u5df4\u62ff\u9a6c"
         ], 
-        "ne:NAME_SORT": "Panama", 
+        "children": [
+          "woe:island=12485252", 
+          "woe:state=2346551", 
+          "woe:state=2346552", 
+          "woe:state=2346553", 
+          "woe:state=2346554", 
+          "woe:state=2346555", 
+          "woe:state=28358286", 
+          "woe:state=2346556", 
+          "woe:state=2346559", 
+          "woe:state=2346557", 
+          "woe:state=28358287", 
+          "woe:state=2346558", 
+          "woe:state=2346560"
+        ], 
+        "alias_UNK_V": [
+          "Republika Panama"
+        ], 
         "longitude": -80.113, 
         "ne:POP_EST": 3360474.0, 
         "ne_longitude": -77.1632698166458, 
         "iso": "PA", 
         "sw_latitude": 7.205556132046553, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Panama", 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 38830.0, 
         "alias_ENG_A": [
           "PA"
         ], 
-        "ne:SU_DIF": 0.0
+        "wikipedia:id": "22997"
       }, 
-      "type": "Feature", 
-      "id": 23424924, 
       "bbox": [
         -82.96578304719736, 
         7.220541490096537, 
         -77.24256649444008, 
         9.611610012241528
-      ]
+      ], 
+      "id": 23424924
     }
   ], 
   "bbox": [

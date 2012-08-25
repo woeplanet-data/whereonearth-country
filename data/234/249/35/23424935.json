@@ -1179,6 +1179,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Puerto Rican"
@@ -1192,18 +1193,15 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 18.522539775065994, 
-        "ne:GU_A3": "PRI", 
-        "alias_UNK_V": [
-          "P\u00faerto-R\u00edco"
-        ], 
+        "ne:NAME_SORT": "Puerto Rico", 
         "placetype": "country", 
         "ne:ne_10m_adm": "PRI", 
         "alias_KOR_Q": [
           "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
         ], 
         "ne:SUBUNIT": "Puerto Rico", 
-        "ne:ISO_N3": 630.0, 
         "ne:ADM0_A3": "PRI", 
+        "ne:SOVEREIGNT": "United States of America", 
         "alias_CHI_Q": [
           "\u6ce2\u591a\u9ece\u5404\u81ea\u7531\u90a6"
         ], 
@@ -1218,7 +1216,11 @@
           "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Puerto Rico", 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "Porto Rico"
+        ], 
         "ne:TERR_": "Commonwealth of U.S.A.", 
         "sw_longitude": -67.93706294792528, 
         "ne:SOV_A3": "US1", 
@@ -1231,22 +1233,19 @@
         "ne:ISO_A2": "PR", 
         "date_indexed": "2010-12-02T17:42:25Z", 
         "ne:NAME_FORMA": "Commonwealth of Puerto Rico", 
-        "alias_ENG_A": [
-          "PR"
-        ], 
+        "ne:GU_A3": "PRI", 
         "ne:MAP_COLOR": 1.0, 
         "ne:ADMIN": "Puerto Rico", 
         "ne:GEOUNIT": "Puerto Rico", 
         "ne:LabelRank": 7, 
-        "ne:GDP_MD_EST": 70230.0, 
-        "wikipedia:id": "23041", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 1.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "P.R.", 
         "alias_CZE_Q": [
           "Portoriko"
         ], 
-        "fullname": "Puerto Rico", 
+        "ne:ISO_N3": 630.0, 
         "ne:NAME": "Puerto Rico", 
         "lang": "ENG", 
         "name": "Puerto Rico", 
@@ -1256,31 +1255,116 @@
         "alias_UNK_Q": [
           "Portoriko"
         ], 
-        "ne:NAME_SORT": "Puerto Rico", 
+        "children": [
+          "woe:island=12485257", 
+          "woe:island=12485256", 
+          "woe:island=12485254", 
+          "woe:state=2346789", 
+          "woe:state=2346841", 
+          "woe:state=2346842", 
+          "woe:state=2346858", 
+          "woe:state=2346790", 
+          "woe:state=2346811", 
+          "woe:state=2346828", 
+          "woe:state=2346838", 
+          "woe:state=2346852", 
+          "woe:state=2346791", 
+          "woe:state=2346859", 
+          "woe:state=2346849", 
+          "woe:state=2346855", 
+          "woe:state=2346846", 
+          "woe:state=20070566", 
+          "woe:state=2346854", 
+          "woe:state=2346813", 
+          "woe:state=2346792", 
+          "woe:state=2346820", 
+          "woe:state=2346793", 
+          "woe:state=2346794", 
+          "woe:state=2346795", 
+          "woe:state=2346857", 
+          "woe:state=2346862", 
+          "woe:state=2346821", 
+          "woe:state=2346861", 
+          "woe:state=2346819", 
+          "woe:state=20070567", 
+          "woe:state=2346829", 
+          "woe:state=2346835", 
+          "woe:state=2346814", 
+          "woe:state=2346856", 
+          "woe:state=2346836", 
+          "woe:state=2346847", 
+          "woe:state=2346850", 
+          "woe:state=2346824", 
+          "woe:state=2346840", 
+          "woe:state=2346796", 
+          "woe:state=2346832", 
+          "woe:state=2346797", 
+          "woe:state=2346837", 
+          "woe:state=2346798", 
+          "woe:state=2346843", 
+          "woe:state=2346799", 
+          "woe:state=2346816", 
+          "woe:state=2346818", 
+          "woe:state=2346851", 
+          "woe:state=2346800", 
+          "woe:state=2346826", 
+          "woe:state=2346848", 
+          "woe:state=2346801", 
+          "woe:state=2346802", 
+          "woe:state=2346823", 
+          "woe:state=2346860", 
+          "woe:state=2346803", 
+          "woe:state=2346827", 
+          "woe:state=2346834", 
+          "woe:state=2346833", 
+          "woe:state=2346844", 
+          "woe:state=2346839", 
+          "woe:state=2346817", 
+          "woe:state=2346804", 
+          "woe:state=2346830", 
+          "woe:state=2346805", 
+          "woe:state=2346815", 
+          "woe:state=2346806", 
+          "woe:state=2346845", 
+          "woe:state=2346831", 
+          "woe:state=2346807", 
+          "woe:state=2346812", 
+          "woe:state=2346853", 
+          "woe:state=2346808", 
+          "woe:state=2346863", 
+          "woe:state=2346864", 
+          "woe:state=2346822", 
+          "woe:state=2346809", 
+          "woe:state=2346825", 
+          "woe:state=2346810", 
+          "woe:landfeature=56058365"
+        ], 
+        "alias_UNK_V": [
+          "P\u00faerto-R\u00edco"
+        ], 
         "longitude": -66.429, 
         "ne:POP_EST": 3971020.0, 
         "ne:TYPE": "Dependency", 
         "ne_longitude": -65.24389400290951, 
         "iso": "PR", 
         "sw_latitude": 17.922731424887857, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "United States of America", 
-        "alias_FRE_Q": [
-          "Porto Rico"
+        "alias_ENG_A": [
+          "PR"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
+        "ne:GDP_MD_EST": 70230.0, 
+        "wikipedia:id": "23041", 
+        "alias_FRE_Q": [
           "Porto Rico"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424935, 
       "bbox": [
         -67.24242753769435, 
         17.946553453030077, 
         -65.59100379094295, 
         18.52060110114435
-      ]
+      ], 
+      "id": 23424935
     }
   ], 
   "bbox": [

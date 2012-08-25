@@ -4995,6 +4995,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Portuguese Republic"
@@ -5013,9 +5014,7 @@
         "alias_RUM_Q": [
           "Portugalia"
         ], 
-        "alias_UNK_V": [
-          "Portogal\u00eda"
-        ], 
+        "ne:NAME_SORT": "Portugal", 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ud3ec\ub974\ud2b8\uce7c"
@@ -5028,8 +5027,8 @@
           "\ud3ec\ub974\ud22c\uac08"
         ], 
         "ne:SUBUNIT": "Portugal", 
-        "ne:ISO_N3": 620.0, 
         "ne:ADM0_A3": "PRT", 
+        "ne:SOVEREIGNT": "Portugal", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u8461\u8404\u7259"
@@ -5061,13 +5060,12 @@
         "ne:ISO_A2": "PT", 
         "date_indexed": "2010-12-02T10:00:50Z", 
         "ne:NAME_FORMA": "Portuguese Republic", 
+        "fullname": "Portugal", 
         "ne:GU_A3": "PRT", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Portugal", 
         "ne:GEOUNIT": "Portugal", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 236500.0, 
-        "wikipedia:id": "23033", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Port.", 
@@ -5080,7 +5078,7 @@
         "alias_GER_V": [
           "Portugiesische Republik"
         ], 
-        "fullname": "Portugal", 
+        "ne:ISO_N3": 620.0, 
         "ne:NAME": "Portugal", 
         "lang": "POR", 
         "name": "Portugal", 
@@ -5093,7 +5091,45 @@
         "alias_HUN_Q": [
           "Portug\u00e1lia"
         ], 
-        "ne:NAME_SORT": "Portugal", 
+        "children": [
+          "woe:landfeature=56058355", 
+          "woe:landfeature=56058359", 
+          "woe:landfeature=56058363", 
+          "woe:landfeature=56058364", 
+          "woe:colloquial=23706483", 
+          "woe:colloquial=23706484", 
+          "woe:colloquial=23706487", 
+          "woe:colloquial=23706488", 
+          "woe:colloquial=23706486", 
+          "woe:colloquial=23706485", 
+          "woe:state=2346562", 
+          "woe:state=15021776", 
+          "woe:state=2346563", 
+          "woe:state=2346564", 
+          "woe:state=2346565", 
+          "woe:state=2346566", 
+          "woe:state=2346567", 
+          "woe:state=2346568", 
+          "woe:state=2346569", 
+          "woe:state=2346571", 
+          "woe:state=2346572", 
+          "woe:state=2346573", 
+          "woe:state=2346570", 
+          "woe:state=2346574", 
+          "woe:state=2346575", 
+          "woe:state=2346576", 
+          "woe:state=2346577", 
+          "woe:state=2346578", 
+          "woe:state=2346579", 
+          "woe:state=2346580", 
+          "woe:island=12478421", 
+          "woe:timezone=28350868", 
+          "woe:timezone=56043606", 
+          "woe:timezone=56043605"
+        ], 
+        "alias_UNK_V": [
+          "Portogal\u00eda"
+        ], 
         "longitude": -7.845, 
         "ne:POP_EST": 10707924.0, 
         "ne:TYPE": "Sovereign country", 
@@ -5101,17 +5137,17 @@
         "iso": "PT", 
         "sw_latitude": 30.02922760034626, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Portugal", 
-        "ne:SU_DIF": 0.0
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 236500.0, 
+        "wikipedia:id": "23033"
       }, 
-      "type": "Feature", 
-      "id": 23424925, 
       "bbox": [
         -9.526570603869715, 
         36.83826854099627, 
         -6.389087693700915, 
         42.28046865495034
-      ]
+      ], 
+      "id": 23424925
     }
   ], 
   "bbox": [

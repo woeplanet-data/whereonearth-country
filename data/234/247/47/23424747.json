@@ -17923,6 +17923,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Argentine Republic"
@@ -17938,22 +17939,19 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -21.7869377648081, 
-        "alias_UNK_V": [
-          "Argentinska Republika"
-        ], 
+        "ne:NAME_SORT": "Argentina", 
         "placetype": "country", 
         "ne:ne_10m_adm": "ARG", 
         "alias_KOR_Q": [
           "\uc544\ub974\ud5e8\ud2f0\ub098"
         ], 
         "ne:SUBUNIT": "Argentina", 
-        "ne:ISO_N3": 32.0, 
         "ne:ADM0_A3": "ARG", 
+        "ne:SOVEREIGNT": "Argentina", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u963f\u6839\u5ef7"
         ], 
-        "ne:GDP_MD_EST": 573900.0, 
         "ne:NAME": "Argentina", 
         "ne:POSTAL": "AR", 
         "alias_JPN_Q": [
@@ -17976,12 +17974,12 @@
         "ne:ISO_A2": "AR", 
         "date_indexed": "2010-12-02T17:41:29Z", 
         "ne:NAME_FORMA": "Argentine Republic", 
+        "fullname": "Argentina", 
         "ne:GU_A3": "ARG", 
         "ne:MAP_COLOR": 13.0, 
         "ne:ADMIN": "Argentina", 
         "ne:GEOUNIT": "Argentina", 
         "ne:LabelRank": 2, 
-        "wikipedia:id": "18951905", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
@@ -18000,7 +17998,7 @@
         "alias_GER_Q": [
           "Argentinien"
         ], 
-        "fullname": "Argentina", 
+        "ne:ISO_N3": 32.0, 
         "lang": "ENG", 
         "name": "Argentina", 
         "ne:TYPE": "Sovereign country", 
@@ -18010,27 +18008,72 @@
         "alias_HUN_Q": [
           "Argent\u00edna"
         ], 
-        "ne:NAME_SORT": "Argentina", 
+        "children": [
+          "woe:colloquial=23509541", 
+          "woe:state=2344675", 
+          "woe:state=2344676", 
+          "woe:state=2344677", 
+          "woe:state=2344678", 
+          "woe:state=2344681", 
+          "woe:state=2344680", 
+          "woe:state=2344679", 
+          "woe:state=2344682", 
+          "woe:state=2344683", 
+          "woe:state=2344684", 
+          "woe:state=2344685", 
+          "woe:state=2344686", 
+          "woe:state=2344687", 
+          "woe:state=2344688", 
+          "woe:state=2344689", 
+          "woe:state=2344690", 
+          "woe:state=2344691", 
+          "woe:state=2344692", 
+          "woe:state=2344693", 
+          "woe:state=2344694", 
+          "woe:state=2344695", 
+          "woe:state=2344696", 
+          "woe:state=2344697", 
+          "woe:state=2344698", 
+          "woe:timezone=56043551", 
+          "woe:timezone=56043540", 
+          "woe:timezone=56043541", 
+          "woe:timezone=56043542", 
+          "woe:timezone=56043543", 
+          "woe:timezone=56043544", 
+          "woe:timezone=56043545", 
+          "woe:timezone=56043546", 
+          "woe:timezone=56043547", 
+          "woe:timezone=56043548", 
+          "woe:timezone=56043549", 
+          "woe:timezone=56043550", 
+          "woe:drainage=26354183", 
+          "woe:drainage=26354152", 
+          "woe:drainage=26354448", 
+          "woe:drainage=26354182"
+        ], 
+        "alias_UNK_V": [
+          "Argentinska Republika"
+        ], 
         "longitude": -63.585, 
         "ne:POP_EST": 40913584.0, 
         "ne_longitude": -53.661551880133686, 
         "iso": "AR", 
         "sw_latitude": -55.05209075954144, 
         "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Argentina", 
         "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 573900.0, 
+        "wikipedia:id": "18951905", 
         "alias_FRE_Q": [
           "Argentine"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424747, 
       "bbox": [
         -73.41543575712004, 
         -55.25, 
         -53.62834896504873, 
         -21.832310479420684
-      ]
+      ], 
+      "id": 23424747
     }
   ], 
   "bbox": [

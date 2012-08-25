@@ -548,9 +548,6 @@
         "alias_ENG_V": [
           "Western Samoa"
         ], 
-        "alias_HUN_Q": [
-          "Szamoa"
-        ], 
         "alias_KOR_Q": [
           "\uc0ac\ubaa8\uc544"
         ], 
@@ -560,19 +557,20 @@
           "woe:planet=1"
         ], 
         "ne_latitude": -13.462898051136378, 
-        "ne_longitude": -171.4366627615134, 
+        "ne:NAME_SORT": "Samoa", 
         "placetype": "country", 
         "ne:ne_10m_adm": "WSM", 
         "alias_ENG_A": [
           "WS"
         ], 
         "ne:SUBUNIT": "Samoa", 
+        "ne:ISO_N3": 882.0, 
         "ne:ADM0_A3": "WSM", 
+        "ne:SOVEREIGNT": "Samoa", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u85a9\u6469\u4e9e"
         ], 
-        "ne:GDP_MD_EST": 1049.0, 
         "alias_ITA_V": [
           "Samoa Occidentali"
         ], 
@@ -598,24 +596,23 @@
         "ne:ISO_A2": "WS", 
         "date_indexed": "2010-12-02T16:50:25Z", 
         "ne:SOV_A3": "WSM", 
-        "fullname": "Samoa", 
+        "alias_CHI_V": [
+          "\u8428\u6469\u4e9a"
+        ], 
         "ne:GU_A3": "WSM", 
         "ne:MAP_COLOR": 6.0, 
         "ne:ADMIN": "Samoa", 
         "ne:SU_A3": "WSM", 
         "ne:LabelRank": 5, 
         "provider": "geoplanet 7.6.0", 
-        "wikipedia:id": "27238", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
-        "alias_FRE_V": [
-          "Samoa-Occidental"
-        ], 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "Samoa", 
         "alias_GER_V": [
           "Westsamoa"
         ], 
-        "ne:ISO_N3": 882.0, 
+        "fullname": "Samoa", 
         "ne:NAME": "Samoa", 
         "lang": "ENG", 
         "name": "Samoa", 
@@ -623,17 +620,35 @@
         "alias_UNK_Q": [
           "Samoa i Sisifo"
         ], 
-        "alias_CHI_V": [
-          "\u8428\u6469\u4e9a"
+        "alias_HUN_Q": [
+          "Szamoa"
         ], 
-        "ne:NAME_SORT": "Samoa", 
+        "children": [
+          "woe:island=12502699", 
+          "woe:island=12502700", 
+          "woe:state=20070340", 
+          "woe:state=20070341", 
+          "woe:state=20070345", 
+          "woe:state=20070338", 
+          "woe:state=20070344", 
+          "woe:state=20070337", 
+          "woe:state=20070343", 
+          "woe:state=20070342", 
+          "woe:state=20070339", 
+          "woe:state=20070346", 
+          "woe:state=20070336"
+        ], 
+        "ne_longitude": -171.4366627615134, 
         "longitude": -172.482, 
         "ne:POP_EST": 219998.0, 
         "iso": "WS", 
         "sw_latitude": -14.052836201748775, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Samoa", 
-        "ne:SU_DIF": 0.0
+        "alias_FRE_V": [
+          "Samoa-Occidental"
+        ], 
+        "ne:SU_DIF": 0.0, 
+        "ne:GDP_MD_EST": 1049.0, 
+        "wikipedia:id": "27238"
       }, 
       "id": 23424992
     }

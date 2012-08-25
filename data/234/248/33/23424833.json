@@ -24583,10 +24583,15 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Hellenic Republic"
         ], 
+        "alias_HUN_Q": [
+          "G\u00f6r\u00f6gorsz\u00e1g"
+        ], 
+        "longitude": 21.846, 
         "alias_SWE_Q": [
           "Grekland"
         ], 
@@ -24601,18 +24606,15 @@
         "alias_RUM_Q": [
           "Grecia"
         ], 
-        "alias_UNK_V": [
-          "Helenska republika"
-        ], 
+        "ne:NAME_SORT": "Greece", 
         "placetype": "country", 
-        "ne:TERR_": null, 
         "ne:ne_10m_adm": "GRC", 
         "alias_KOR_Q": [
           "\uadf8\ub9ac\uc2a4"
         ], 
         "ne:SUBUNIT": "Greece", 
-        "ne:ISO_N3": 300.0, 
         "ne:ADM0_A3": "GRC", 
+        "ne:SOVEREIGNT": "Greece", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5e0c\u81d8"
@@ -24620,8 +24622,8 @@
         "alias_ITA_Q": [
           "Grecia"
         ], 
-        "alias_DAN_Q": [
-          "Gr\u00e6kenland"
+        "alias_GER_V": [
+          "Hellenische Republik"
         ], 
         "ne:NAME": "Greece", 
         "ne:POSTAL": "GR", 
@@ -24638,9 +24640,7 @@
         "alias_SPA_Q": [
           "Grecia"
         ], 
-        "alias_FIN_Q": [
-          "Creece"
-        ], 
+        "ne:TERR_": null, 
         "sw_longitude": 19.62694624862931, 
         "ne:SOV_A3": "GRC", 
         "alias_FIN_V": [
@@ -24656,39 +24656,41 @@
         "ne:ISO_A2": "GR", 
         "date_indexed": "2010-12-02T16:52:21Z", 
         "ne:NAME_FORMA": "Hellenic Republic", 
-        "alias_CHI_V": [
-          "\u5e0c\u814a"
-        ], 
+        "fullname": "Ell\u00e1s, Greece", 
         "ne:GU_A3": "GRC", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "Greece", 
         "ne:SU_A3": "GRC", 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 343000.0, 
         "alias_SPA_V": [
           "Gr\u00e8cia"
         ], 
-        "wikipedia:id": "12108", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_DUT_Q": [
           "Griekenland"
+        ], 
+        "alias_POR_Q": [
+          "Gr\u00e9cia"
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Greece", 
         "alias_CZE_Q": [
           "\u0158ecko"
         ], 
-        "alias_DAN_S": [
-          "Graekenland"
+        "alias_FRE_S": [
+          "Grece"
         ], 
-        "alias_GER_V": [
-          "Hellenische Republik"
+        "alias_FIN_Q": [
+          "Creece"
+        ], 
+        "alias_DAN_Q": [
+          "Gr\u00e6kenland"
         ], 
         "alias_GER_Q": [
           "Griechenland"
         ], 
-        "fullname": "Ell\u00e1s, Greece", 
+        "ne:ISO_N3": 300.0, 
         "lang": "UNK", 
         "ne:OID_": 137, 
         "ne:GEOUNIT": "Greece", 
@@ -24696,46 +24698,75 @@
         "alias_UNK_S": [
           "Ellas"
         ], 
+        "alias_HUN_S": [
+          "Gorogorszag"
+        ], 
         "alias_UNK_Q": [
           "Grikkland"
         ], 
-        "alias_HUN_Q": [
-          "G\u00f6r\u00f6gorsz\u00e1g"
+        "alias_CHI_V": [
+          "\u5e0c\u814a"
         ], 
-        "ne:NAME_SORT": "Greece", 
-        "longitude": 21.846, 
+        "children": [
+          "woe:island=12474587", 
+          "woe:island=12474877", 
+          "woe:island=12475383", 
+          "woe:island=12474696", 
+          "woe:island=12474730", 
+          "woe:island=12474746", 
+          "woe:island=12474749", 
+          "woe:island=12474752", 
+          "woe:island=12475394", 
+          "woe:island=12474796", 
+          "woe:island=12474961", 
+          "woe:island=12475020", 
+          "woe:island=12475098", 
+          "woe:state=12577879", 
+          "woe:state=12577888", 
+          "woe:state=12577884", 
+          "woe:state=12577885", 
+          "woe:state=12577878", 
+          "woe:state=12577883", 
+          "woe:state=12577882", 
+          "woe:state=12577877", 
+          "woe:state=12577890", 
+          "woe:state=12577887", 
+          "woe:state=12577886", 
+          "woe:state=12577889", 
+          "woe:state=12577880", 
+          "woe:state=12577881", 
+          "woe:zone=24873649", 
+          "woe:zone=24873781"
+        ], 
+        "alias_UNK_V": [
+          "Helenska republika"
+        ], 
+        "alias_DAN_S": [
+          "Graekenland"
+        ], 
         "ne:POP_EST": 10737428.0, 
         "ne:TYPE": "Sovereign country", 
         "ne_longitude": 28.240322306296804, 
         "iso": "GR", 
         "sw_latitude": 34.814723612343826, 
-        "alias_HUN_S": [
-          "Gorogorszag"
-        ], 
         "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "Greece", 
-        "alias_FRE_Q": [
-          "Gr\u00e8ce"
-        ], 
+        "ne:GDP_MD_EST": 343000.0, 
         "alias_ENG_A": [
           "GR"
         ], 
-        "alias_FRE_S": [
-          "Grece"
-        ], 
-        "alias_POR_Q": [
-          "Gr\u00e9cia"
+        "wikipedia:id": "12108", 
+        "alias_FRE_Q": [
+          "Gr\u00e8ce"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424833, 
       "bbox": [
         20.15001590341052, 
         34.91998769788961, 
         26.604195590936285, 
         41.82690460872473
-      ]
+      ], 
+      "id": 23424833
     }
   ], 
   "bbox": [

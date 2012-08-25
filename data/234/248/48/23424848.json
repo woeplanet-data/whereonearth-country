@@ -31179,6 +31179,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Republic of India"
@@ -31194,24 +31195,21 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 35.49530621320055, 
-        "alias_UNK_V": [
-          "Republika Indija"
-        ], 
+        "ne:NAME_SORT": "India", 
         "placetype": "country", 
         "ne:ne_10m_adm": "IND", 
         "alias_KOR_Q": [
           "\uc778\ub3c4"
         ], 
         "ne:SUBUNIT": "India", 
-        "ne:ISO_N3": 356.0, 
         "ne:ADM0_A3": "IND", 
+        "ne:SOVEREIGNT": "India", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5370\u5ea6"
         ], 
-        "ne:GDP_MD_EST": 3297000.0, 
-        "alias_GER_V": [
-          "Republik Indien"
+        "alias_DAN_Q": [
+          "Indien"
         ], 
         "ne:NAME": "India", 
         "alias_FIN_Q": [
@@ -31221,7 +31219,11 @@
           "\u30a4\u30f3\u30c9"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "India", 
         "ne:FIPS_10_": 0.0, 
+        "alias_POR_Q": [
+          "\u00cdndia"
+        ], 
         "ne:TERR_": null, 
         "sw_longitude": 68.14382979327394, 
         "ne:SOV_A3": "IND", 
@@ -31241,23 +31243,20 @@
         "ne:ADMIN": "India", 
         "ne:SU_A3": "IND", 
         "ne:LabelRank": 2, 
-        "alias_ENG_A": [
-          "IN"
-        ], 
-        "wikipedia:id": "14533", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
+        "ne:GEOU_DIF": 0.0, 
         "ne:ABBREV": "India", 
         "alias_CZE_Q": [
           "Indie"
         ], 
-        "alias_DAN_Q": [
-          "Indien"
+        "alias_GER_V": [
+          "Republik Indien"
         ], 
         "alias_GER_Q": [
           "Indien"
         ], 
-        "ne:SOVEREIGNT": "India", 
+        "ne:ISO_N3": 356.0, 
         "lang": "ENG", 
         "ne:GEOUNIT": "India", 
         "name": "India", 
@@ -31266,30 +31265,75 @@
           "Indija"
         ], 
         "ne:POSTAL": "IND", 
-        "ne:NAME_SORT": "India", 
+        "children": [
+          "woe:island=12468195", 
+          "woe:state=2345739", 
+          "woe:state=2345740", 
+          "woe:state=2345763", 
+          "woe:state=2345741", 
+          "woe:state=2345742", 
+          "woe:state=20070456", 
+          "woe:state=20070464", 
+          "woe:state=20070457", 
+          "woe:state=20070460", 
+          "woe:state=20070458", 
+          "woe:state=2345764", 
+          "woe:state=2345743", 
+          "woe:state=2345744", 
+          "woe:state=2345745", 
+          "woe:state=2345746", 
+          "woe:state=20070463", 
+          "woe:state=2345753", 
+          "woe:state=2345747", 
+          "woe:state=2345748", 
+          "woe:state=2345749", 
+          "woe:state=2345750", 
+          "woe:state=2345751", 
+          "woe:state=2345752", 
+          "woe:state=20070461", 
+          "woe:state=2345754", 
+          "woe:state=2345755", 
+          "woe:state=20070459", 
+          "woe:state=2345756", 
+          "woe:state=2345757", 
+          "woe:state=2345762", 
+          "woe:state=2345758", 
+          "woe:state=2345759", 
+          "woe:state=2345760", 
+          "woe:state=20070462", 
+          "woe:state=2345761", 
+          "woe:drainage=26354154", 
+          "woe:drainage=26354138", 
+          "woe:drainage=26354366", 
+          "woe:drainage=26354365", 
+          "woe:drainage=26354367", 
+          "woe:drainage=26354368"
+        ], 
+        "alias_UNK_V": [
+          "Republika Indija"
+        ], 
         "longitude": 82.795, 
         "ne:POP_EST": 1166079217.0, 
         "ne_longitude": 97.36225305206142, 
         "iso": "IN", 
         "sw_latitude": 6.745403340618338, 
-        "ne:GEOU_DIF": 0.0, 
-        "fullname": "India", 
-        "alias_FRE_Q": [
-          "Inde"
+        "alias_ENG_A": [
+          "IN"
         ], 
         "ne:SU_DIF": 0.0, 
-        "alias_POR_Q": [
-          "\u00cdndia"
+        "ne:GDP_MD_EST": 3297000.0, 
+        "wikipedia:id": "14533", 
+        "alias_FRE_Q": [
+          "Inde"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424848, 
       "bbox": [
         68.1766451353734, 
         7.965534776232332, 
         97.40256147663614, 
         35.494009507787766
-      ]
+      ], 
+      "id": 23424848
     }
   ], 
   "bbox": [

@@ -949,6 +949,7 @@
           ]
         ]
       }, 
+      "type": "Feature", 
       "properties": {
         "alias_ENG_V": [
           "Jamaican"
@@ -964,15 +965,15 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 18.524916890932843, 
-        "ne:NAME_SORT": "Jamaica", 
+        "ne_longitude": -76.18725704009725, 
         "placetype": "country", 
         "ne:ne_10m_adm": "JAM", 
         "alias_KOR_Q": [
           "\uc790\uba54\uc774\uce74"
         ], 
         "ne:SUBUNIT": "Jamaica", 
-        "ne:ISO_N3": 388.0, 
         "ne:ADM0_A3": "JAM", 
+        "ne:SOVEREIGNT": "Jamaica", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u7259\u8cb7\u52a0"
@@ -984,13 +985,11 @@
         "alias_CHI_V": [
           "\u7259\u4e70\u52a0"
         ], 
-        "alias_CZE_Q": [
-          "Jamajka"
-        ], 
         "alias_JPN_Q": [
           "\u30b8\u30e3\u30de\u30a4\u30ab"
         ], 
         "ne:LEVEL": 2.0, 
+        "fullname": "Jamaica", 
         "ne:FIPS_10_": 0.0, 
         "ne:TERR_": null, 
         "sw_longitude": -78.37391943383196, 
@@ -1010,14 +1009,18 @@
         "ne:MAP_COLOR": 10.0, 
         "ne:ADMIN": "Jamaica", 
         "ne:SU_A3": "JAM", 
+        "alias_DUT_V": [
+          "Jama\u00efca"
+        ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 20910.0, 
-        "wikipedia:id": "15660", 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "ne:ABBREV": "Jam.", 
-        "alias_DUT_V": [
-          "Jama\u00efca"
+        "alias_CZE_Q": [
+          "Jamajka"
+        ], 
+        "alias_FRE_S": [
+          "Jamaique"
         ], 
         "alias_FIN_Q": [
           "Jamaika"
@@ -1026,7 +1029,7 @@
         "alias_GER_Q": [
           "Jamaika"
         ], 
-        "ne:SOVEREIGNT": "Jamaica", 
+        "ne:ISO_N3": 388.0, 
         "lang": "ENG", 
         "name": "Jamaica", 
         "ne:TYPE": "Sovereign country", 
@@ -1034,29 +1037,46 @@
           "Jama\u00edka"
         ], 
         "ne:POSTAL": "J", 
-        "ne_longitude": -76.18725704009725, 
+        "children": [
+          "woe:colloquial=56042290", 
+          "woe:colloquial=56042291", 
+          "woe:colloquial=56042292", 
+          "woe:state=2345912", 
+          "woe:state=2345913", 
+          "woe:state=2345925", 
+          "woe:state=2345914", 
+          "woe:state=2345915", 
+          "woe:state=2345916", 
+          "woe:state=2345917", 
+          "woe:state=2345918", 
+          "woe:state=2345919", 
+          "woe:state=2345920", 
+          "woe:state=2345921", 
+          "woe:state=2345922", 
+          "woe:state=2345923", 
+          "woe:state=2345924", 
+          "woe:island=12484335"
+        ], 
+        "ne:NAME_SORT": "Jamaica", 
         "longitude": -77.273, 
         "ne:POP_EST": 2825928.0, 
         "iso": "JM", 
         "sw_latitude": 17.70300323548517, 
         "ne:GEOU_DIF": 0.0, 
         "ne:SU_DIF": 0.0, 
-        "fullname": "Jamaica", 
-        "alias_FRE_S": [
-          "Jamaique"
-        ], 
+        "ne:GDP_MD_EST": 20910.0, 
+        "wikipedia:id": "15660", 
         "alias_FRE_Q": [
           "Jama\u00efque"
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424858, 
       "bbox": [
         -78.33771928578561, 
         17.70111623785982, 
         -76.19965857614164, 
         18.524218451404778
-      ]
+      ], 
+      "id": 23424858
     }
   ], 
   "bbox": [

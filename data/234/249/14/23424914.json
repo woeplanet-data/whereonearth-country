@@ -54,9 +54,7 @@
         "alias_RUM_Q": [
           "Antilele Olandeze"
         ], 
-        "alias_UNK_V": [
-          "Nederlandske Antiller"
-        ], 
+        "ne_longitude": -62.944, 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ub124\ub35c\ub780\ub4dc \uc5f4\ub3c4"
@@ -70,8 +68,18 @@
         "alias_ENG_A": [
           "AN"
         ], 
-        "alias_CZE_Q": [
-          "Nizozemsk\u00e9 Antily"
+        "children": [
+          "woe:island=12484681", 
+          "woe:island=12484678", 
+          "woe:island=28298977", 
+          "woe:island=15021536", 
+          "woe:island=12484679", 
+          "woe:island=12484680", 
+          "woe:state=24549811", 
+          "woe:state=24549810", 
+          "woe:state=24549808", 
+          "woe:state=24549809", 
+          "woe:state=23425000"
         ], 
         "alias_CHI_Q": [
           "\u8377\u5c6c\u5b89\u7684\u5217\u65af"
@@ -79,8 +87,8 @@
         "alias_ITA_Q": [
           "Antille Olandesi"
         ], 
-        "alias_GER_V": [
-          "Cura\u00e7ao"
+        "alias_DAN_Q": [
+          "Nederlandske Antiller"
         ], 
         "alias_ITA_V": [
           "Cura\u00e7ao"
@@ -88,8 +96,8 @@
         "alias_CHI_V": [
           "\u8377\u5c5e\u5b89\u7684\u5217\u65af"
         ], 
-        "alias_GER_Q": [
-          "Niederl\u00e4ndische Antillen"
+        "alias_DAN_V": [
+          "Cura\u00e7ao"
         ], 
         "alias_JPN_Q": [
           "\u30aa\u30e9\u30f3\u30c0\u9818\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6"
@@ -123,20 +131,23 @@
         "alias_KOR_Q": [
           "\ub124\ub35c\ub780\ub4dc\ub839 \uc548\ud2f8\ub808\uc2a4"
         ], 
+        "alias_DUT_V": [
+          "Cura\u00e7ao"
+        ], 
         "alias_SPA_V": [
           "Curazao"
         ], 
         "alias_DUT_Q": [
           "Nederlandse Antillen"
         ], 
-        "alias_DUT_V": [
+        "alias_CZE_Q": [
+          "Nizozemsk\u00e9 Antily"
+        ], 
+        "alias_GER_V": [
           "Cura\u00e7ao"
         ], 
-        "alias_DAN_Q": [
-          "Nederlandske Antiller"
-        ], 
-        "alias_DAN_V": [
-          "Cura\u00e7ao"
+        "alias_GER_Q": [
+          "Niederl\u00e4ndische Antillen"
         ], 
         "alias_GER_S": [
           "Niederlandische Antillen"
@@ -149,7 +160,9 @@
         "alias_HUN_Q": [
           "Holland Antill\u00e1k"
         ], 
-        "ne_longitude": -62.944, 
+        "alias_UNK_V": [
+          "Nederlandske Antiller"
+        ], 
         "longitude": -69.039, 
         "iso": "AN", 
         "sw_latitude": 11.973, 

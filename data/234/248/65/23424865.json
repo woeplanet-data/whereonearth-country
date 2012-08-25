@@ -6715,9 +6715,6 @@
         "alias_ENG_V": [
           "Northkorea"
         ], 
-        "alias_HUN_Q": [
-          "\u00c9szak-Korea"
-        ], 
         "alias_SWE_Q": [
           "Nordkorea"
         ], 
@@ -6729,11 +6726,12 @@
           "woe:planet=1"
         ], 
         "ne_latitude": 43.0102698771007, 
-        "ne:GU_A3": "PRK", 
         "alias_RUM_Q": [
           "Coreea de Nord"
         ], 
-        "ne:NAME_SORT": "Korea, North", 
+        "alias_UNK_V": [
+          "Choson MIK"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\uc870\uc120 \ubbfc\uc8fc\uc8fc\uc758 \uc778\ubbfc \uacf5\ud654\uad6d"
@@ -6748,7 +6746,24 @@
           "KP"
         ], 
         "ne:SUBUNIT": "North Korea", 
+        "children": [
+          "woe:state=2345950", 
+          "woe:state=2345958", 
+          "woe:state=2345951", 
+          "woe:state=2345953", 
+          "woe:state=2345952", 
+          "woe:state=20070116", 
+          "woe:state=2345954", 
+          "woe:state=24550715", 
+          "woe:state=20070114", 
+          "woe:state=2345955", 
+          "woe:state=2345957", 
+          "woe:state=20070115", 
+          "woe:state=2345956"
+        ], 
+        "ne:ISO_N3": 408.0, 
         "ne:ADM0_A3": "PRK", 
+        "ne:SOVEREIGNT": "North Korea", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u5317\u97d3"
@@ -6756,15 +6771,18 @@
         "alias_ITA_Q": [
           "Corea del Nord"
         ], 
-        "alias_DAN_Q": [
-          "Nordkorea"
+        "alias_GER_V": [
+          "Korea"
         ], 
         "alias_ITA_V": [
           "Corea, Repubblica Popolare Democratica"
         ], 
         "ne:POSTAL": "KP", 
-        "alias_DAN_V": [
-          "Den demokratiske folkerepublik Korea"
+        "alias_KOR_Q": [
+          "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"
+        ], 
+        "alias_CZE_Q": [
+          "Severn\u00ed Korea"
         ], 
         "alias_JPN_Q": [
           "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd"
@@ -6783,6 +6801,7 @@
         "ne:SU_A3": "PRK", 
         "provider": "geoplanet 7.6.0", 
         "latitude": 40.34, 
+        "iso": "KP", 
         "woe:id": 23424865, 
         "alias_NOR_Q": [
           "Nord-Korea"
@@ -6791,23 +6810,16 @@
         "ne:ISO_A2": "KP", 
         "date_indexed": "2010-12-02T10:22:43Z", 
         "ne:SOV_A3": "PRK", 
-        "fullname": "North Korea", 
-        "alias_FRE_V": [
-          "Cor\u00e9e (R\u00e9publique populaire d\u00e9mocratique de)"
+        "alias_CHI_V": [
+          "\u671d\u9c9c"
         ], 
-        "alias_KOR_Q": [
-          "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"
-        ], 
+        "ne:GU_A3": "PRK", 
         "ne:MAP_COLOR": 9.0, 
         "ne:ADMIN": "North Korea", 
         "alias_FIN_V": [
           "Pohjois-Korea"
         ], 
-        "alias_DUT_V": [
-          "Korea, Democratische Volksrepubliek"
-        ], 
         "ne:LabelRank": 2, 
-        "ne:GDP_MD_EST": 40000.0, 
         "alias_SPA_V": [
           "Corea, Rep\u00fablica Popular Democr\u00e1tica"
         ], 
@@ -6817,19 +6829,19 @@
           "Noord-Korea"
         ], 
         "ne:ABBREV": "N. Kor.", 
-        "alias_CZE_Q": [
-          "Severn\u00ed Korea"
+        "alias_DUT_V": [
+          "Korea, Democratische Volksrepubliek"
         ], 
         "alias_FIN_Q": [
           "Korean Demokraattinen Kansantasavalta"
         ], 
-        "alias_GER_V": [
-          "Korea"
-        ], 
-        "alias_GER_Q": [
+        "alias_DAN_Q": [
           "Nordkorea"
         ], 
-        "ne:ISO_N3": 408.0, 
+        "alias_DAN_V": [
+          "Den demokratiske folkerepublik Korea"
+        ], 
+        "ne:GDP_MD_EST": 40000.0, 
         "ne:NAME": "N. Korea", 
         "lang": "ENG", 
         "ne:OID_": 197, 
@@ -6837,22 +6849,25 @@
         "name": "North Korea", 
         "ne:TYPE": "Sovereign country", 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u671d\u9c9c"
+        "alias_HUN_Q": [
+          "\u00c9szak-Korea"
         ], 
+        "alias_GER_Q": [
+          "Nordkorea"
+        ], 
+        "ne:NAME_SORT": "Korea, North", 
+        "longitude": 127.495, 
+        "ne:POP_EST": 22665345.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne_longitude": 130.70047652195308, 
         "alias_HUN_V": [
           "Korea, \u00c9szak"
         ], 
-        "alias_UNK_V": [
-          "Choson MIK"
-        ], 
-        "longitude": 127.495, 
-        "ne:POP_EST": 22665345.0, 
-        "ne_longitude": 130.70047652195308, 
-        "iso": "KP", 
         "sw_latitude": 37.67542755137693, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "North Korea", 
+        "alias_FRE_V": [
+          "Cor\u00e9e (R\u00e9publique populaire d\u00e9mocratique de)"
+        ], 
+        "fullname": "North Korea", 
         "alias_FRE_S": [
           "Rep. Pop. Dem. de Coree"
         ], 

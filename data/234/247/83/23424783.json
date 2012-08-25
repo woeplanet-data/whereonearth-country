@@ -384,12 +384,14 @@
         "alias_ENG_V": [
           "Caymanislands"
         ], 
-        "alias_HUN_Q": [
-          "Kajm\u00e1n-Szigetek"
+        "alias_POR_Q": [
+          "Ilhas Cayman"
         ], 
-        "longitude": -81.262, 
         "alias_SWE_Q": [
           "Cayman\u00f6arna"
+        ], 
+        "alias_DAN_S": [
+          "caymanoerne"
         ], 
         "alias_SWE_S": [
           "Caymanoarna"
@@ -400,11 +402,12 @@
         ], 
         "ne_latitude": 19.760526225170324, 
         "ne:SUBUNIT": "Cayman Islands", 
-        "ne:GU_A3": "CYM", 
         "alias_RUM_Q": [
           "Insulele Cayman"
         ], 
-        "ne:NAME_SORT": "Cayman Islands", 
+        "alias_UNK_V": [
+          "Cayman\u00f8yene"
+        ], 
         "placetype": "country", 
         "alias_KOR_V": [
           "\ucf00\uc774\ub9cc \uad70\ub3c4"
@@ -419,7 +422,9 @@
         "alias_POR_S": [
           "Ilhas Caimao"
         ], 
+        "ne:ISO_N3": 136.0, 
         "ne:ADM0_A3": "CYM", 
+        "ne:SOVEREIGNT": "United Kingdom", 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u958b\u66fc\u7fa4\u5cf6"
@@ -427,19 +432,26 @@
         "alias_ITA_Q": [
           "Isole Cayman"
         ], 
-        "alias_DAN_Q": [
-          "cayman\u00f8erne"
+        "alias_GER_V": [
+          "Cayman-Inseln"
         ], 
         "alias_ITA_V": [
           "Cayman, isole"
         ], 
         "ne:POSTAL": "KY", 
+        "alias_KOR_Q": [
+          "\ucf00\uc774\ub9e8 \uc81c\ub3c4"
+        ], 
+        "alias_CZE_Q": [
+          "Kajmansk\u00e9 Ostrovy"
+        ], 
         "alias_JPN_Q": [
           "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6"
         ], 
         "alias_POL_Q": [
           "Kajmany"
         ], 
+        "ne:GEOU_DIF": 0.0, 
         "alias_JPN_V": [
           "\u30a4\u30ae\u30ea\u30b9\u9818\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6"
         ], 
@@ -467,21 +479,14 @@
         "ne:ISO_A2": "KY", 
         "date_indexed": "2010-12-02T10:22:43Z", 
         "ne:SOV_A3": "GB1", 
-        "fullname": "Cayman Islands", 
-        "alias_FRE_V": [
-          "Iles Ca\u00efmanes"
+        "alias_CHI_V": [
+          "\u5f00\u66fc\u7fa4\u5c9b"
         ], 
-        "alias_KOR_Q": [
-          "\ucf00\uc774\ub9e8 \uc81c\ub3c4"
-        ], 
+        "ne:GU_A3": "CYM", 
         "ne:MAP_COLOR": 3.0, 
         "ne:ADMIN": "Cayman Islands", 
         "ne:SU_A3": "CYM", 
-        "alias_DUT_V": [
-          "Caymaneilanden"
-        ], 
         "ne:LabelRank": 5, 
-        "ne:GDP_MD_EST": 1939.0, 
         "alias_SPA_V": [
           "Caim\u00e1n"
         ], 
@@ -492,34 +497,43 @@
         ], 
         "ne:LEVEL": 2.0, 
         "ne:ABBREV": "Cym. Is.", 
-        "alias_CZE_Q": [
-          "Kajmansk\u00e9 Ostrovy"
+        "alias_DUT_V": [
+          "Caymaneilanden"
         ], 
         "alias_FIN_Q": [
           "Caymansaaret"
         ], 
-        "alias_GER_V": [
-          "Cayman-Inseln"
+        "alias_DAN_Q": [
+          "cayman\u00f8erne"
         ], 
         "alias_GER_Q": [
           "Kaimaninseln"
         ], 
-        "ne:ISO_N3": 136.0, 
+        "ne:GDP_MD_EST": 1939.0, 
         "ne:NAME": "Cayman Is.", 
         "lang": "ENG", 
         "ne:OID_": 52, 
         "name": "Cayman Islands", 
         "ne:TYPE": "Dependency", 
         "ne:SU_DIF": 0.0, 
-        "alias_CHI_V": [
-          "\u5f00\u66fc\u7fa4\u5c9b"
+        "alias_HUN_Q": [
+          "Kajm\u00e1n-Szigetek"
         ], 
-        "alias_UNK_V": [
-          "Cayman\u00f8yene"
+        "children": [
+          "woe:island=12483315", 
+          "woe:island=12483307", 
+          "woe:state=56189776", 
+          "woe:state=56189777", 
+          "woe:state=56189779", 
+          "woe:state=56189778", 
+          "woe:state=56189781", 
+          "woe:state=56189780", 
+          "woe:historicalstate=24549663", 
+          "woe:historicalstate=24549665", 
+          "woe:historicalstate=24549664"
         ], 
-        "alias_DAN_S": [
-          "caymanoerne"
-        ], 
+        "ne:NAME_SORT": "Cayman Islands", 
+        "longitude": -81.262, 
         "ne:POP_EST": 49035.0, 
         "alias_UNK_S": [
           "Caymanoyene"
@@ -527,16 +541,15 @@
         "ne_longitude": -79.73073584065511, 
         "iso": "KY", 
         "sw_latitude": 19.26463918047601, 
-        "ne:GEOU_DIF": 0.0, 
-        "ne:SOVEREIGNT": "United Kingdom", 
-        "alias_FRE_Q": [
-          "\u00celes Ca\u00efmans"
+        "alias_FRE_V": [
+          "Iles Ca\u00efmanes"
         ], 
+        "fullname": "Cayman Islands", 
         "alias_FRE_S": [
           "Iles Cayman"
         ], 
-        "alias_POR_Q": [
-          "Ilhas Cayman"
+        "alias_FRE_Q": [
+          "\u00celes Ca\u00efmans"
         ]
       }, 
       "id": 23424783

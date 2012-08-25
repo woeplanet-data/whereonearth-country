@@ -9175,20 +9175,9 @@
           ]
         ]
       }, 
-      "type": "Feature", 
-      "id": 23424902, 
-      "bbox": [
-        30.17948123548183, 
-        -26.742191664336197, 
-        40.775475294768995, 
-        -10.317096042525698
-      ], 
       "properties": {
         "alias_ENG_V": [
           "Republic of Mozambique"
-        ], 
-        "alias_HUN_Q": [
-          "Mozambik"
         ], 
         "alias_SWE_Q": [
           "Mo\u00e7ambique"
@@ -9205,7 +9194,9 @@
         "alias_RUM_Q": [
           "Mozambic"
         ], 
-        "ne:NAME_SORT": "Mozambique", 
+        "alias_UNK_V": [
+          "Republika Mozambik"
+        ], 
         "placetype": "country", 
         "alias_POR_V": [
           "Rep\u00fablica de Mo\u00e7ambique"
@@ -9219,8 +9210,22 @@
         "alias_POR_S": [
           "Mocambique"
         ], 
+        "ne:ISO_N3": 508.0, 
         "ne:ADM0_A3": "MOZ", 
-        "ne:SOVEREIGNT": "Mozambique", 
+        "children": [
+          "woe:state=2346311", 
+          "woe:state=2346312", 
+          "woe:state=2346313", 
+          "woe:state=2346320", 
+          "woe:state=2346314", 
+          "woe:state=2346316", 
+          "woe:state=2346317", 
+          "woe:state=2346315", 
+          "woe:state=2346318", 
+          "woe:state=2346319", 
+          "woe:drainage=56190419", 
+          "woe:drainage=26354438"
+        ], 
         "ne:ScaleRank": 1, 
         "alias_CHI_Q": [
           "\u83ab\u4e09\u6bd4\u514b"
@@ -9254,12 +9259,18 @@
         "ne:ISO_A2": "MZ", 
         "date_indexed": "2010-12-02T07:50:33Z", 
         "ne:NAME_FORMA": "Republic of Mozambique", 
-        "fullname": "Mozambique", 
+        "alias_CHI_V": [
+          "\u83ab\u4e09\u6bd4\u514b"
+        ], 
         "ne:GU_A3": "MOZ", 
         "ne:MAP_COLOR": 4.0, 
         "ne:ADMIN": "Mozambique", 
         "ne:GEOUNIT": "Mozambique", 
         "ne:LabelRank": 2, 
+        "ne:GDP_MD_EST": 18940.0, 
+        "alias_ENG_A": [
+          "MZ"
+        ], 
         "ne:FeatureCla": "Adm-0 country", 
         "ne:ADM0_DIF": 0.0, 
         "alias_CZE_V": [
@@ -9279,7 +9290,7 @@
         "alias_GER_Q": [
           "Mosambik"
         ], 
-        "ne:ISO_N3": 508.0, 
+        "fullname": "Mozambique", 
         "lang": "ENG", 
         "ne:OID_": 189, 
         "name": "Mozambique", 
@@ -9287,25 +9298,28 @@
         "alias_UNK_Q": [
           "Mozambik"
         ], 
-        "alias_CHI_V": [
-          "\u83ab\u4e09\u6bd4\u514b"
+        "alias_HUN_Q": [
+          "Mozambik"
         ], 
-        "alias_UNK_V": [
-          "Republika Mozambik"
-        ], 
+        "ne:NAME_SORT": "Mozambique", 
         "longitude": 35.53, 
         "ne:POP_EST": 21669278.0, 
-        "ne:GEOU_DIF": 0.0, 
         "ne_longitude": 40.84859663882469, 
         "iso": "MZ", 
         "sw_latitude": -26.86027150496102, 
-        "alias_ENG_A": [
-          "MZ"
-        ], 
-        "ne:GDP_MD_EST": 18940.0, 
+        "ne:GEOU_DIF": 0.0, 
+        "ne:SOVEREIGNT": "Mozambique", 
         "ne:SU_DIF": 0.0, 
         "ne:ne_10m_adm": "MOZ"
-      }
+      }, 
+      "type": "Feature", 
+      "id": 23424902, 
+      "bbox": [
+        30.17948123548183, 
+        -26.742191664336197, 
+        40.775475294768995, 
+        -10.317096042525698
+      ]
     }
   ], 
   "bbox": [
