@@ -90,3 +90,5 @@ See also
 * [Geonames](http://www.geonames.org/)
 
 * [Wikipedia](http://www.wikipedia.org/)
+
+* [Show Me the GeoJSON](http://straup.github.com/showme-the-geojson/)
