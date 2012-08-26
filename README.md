@@ -43,7 +43,7 @@ languages (and specifically JavaScript), can be edited using any old text editor
 (or Github's own "edit this page" functionality) and allows for any number of
 custom key/value pairs using the GeoJSON _properties_ dictionary.
 
-The naming convention for records is the building's Where On Earth (WOE) ID
+The naming convention for records is the country's Where On Earth (WOE) ID
 followed by a ".json" extension. Records are stored in nested directories that
 correspond to their WOE ID. The top level directory would be the first three
 digits of a WOE ID, the second level directory would be the following three
@@ -73,6 +73,8 @@ To do
 
 Other WOE repositories
 --
+
+* [whereonearth-timezone](https://github.com/straup/whereonearth-timezone)
 
 * [whereonearth-state](https://github.com/straup/whereonearth-state)
 
